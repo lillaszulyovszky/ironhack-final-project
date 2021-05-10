@@ -1,0 +1,1994 @@
+[
+    {
+        "client_msg_id": "52015b65-6b47-476a-900f-af7586a07172",
+        "type": "message",
+        "text": "Does anyone know if it possible to group different columns in tableau for creating a combined scatter plot with several columns? What I want is to let Tableau know that, respectively, columns \"A\" and \"C\" and columns \"B\" and \"D\" are pairs within the scatter and should be accordingly grouped within the sheet.",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619439420.007400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4BJ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone know if it possible to group different columns in tableau for creating a combined scatter plot with several columns? What I want is to let Tableau know that, respectively, columns \"A\" and \"C\" and columns \"B\" and \"D\" are pairs within the scatter and should be accordingly grouped within the sheet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619439420.007400",
+        "reply_count": 13,
+        "reply_users_count": 2,
+        "latest_reply": "1619459257.017700",
+        "reply_users": [
+            "U01RRV4JX6Z",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619445313.007500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619445996.008600"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619446115.008800"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619446486.009000"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619447634.009200"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619447721.009400"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619451743.009600"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619451748.009800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619451867.010100"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619452027.011800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619452671.014300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619452681.014500"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619459257.017700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f9242857-20da-4fc0-ac25-5c11f0322ae5",
+        "type": "message",
+        "text": "<@U01RW140HBP>, do you have any idea?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619445313.007500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vl+QL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RW140HBP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", do you have any idea?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619439420.007400",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "8253aa19-3f1b-4c3c-b6c8-f64920b5c94e",
+        "type": "message",
+        "text": "<@U01RSRE0N3D> please can you rename this channel to lab help again for us",
+        "user": "U01RW140HBP",
+        "ts": "1619445739.007900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wr3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RSRE0N3D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please can you rename this channel to lab help again for us"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619445739.007900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1619445786.008300",
+        "reply_users": [
+            "U01RSRE0N3D",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1619445769.008100"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619445786.008300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1619445786.008300"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1619445762.008000",
+        "user": "U01RSRE0N3D",
+        "text": "<@U01RSRE0N3D> has renamed the channel from \"project-help\" to \"lab-help\"",
+        "old_name": "project-help",
+        "name": "lab-help"
+    },
+    {
+        "client_msg_id": "70ae7331-52f6-47b3-a482-e5ddd784f842",
+        "type": "message",
+        "text": "Done :))",
+        "user": "U01RSRE0N3D",
+        "ts": "1619445769.008100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9IF+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done :))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619445739.007900",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "fc22ab74-82a1-47b2-8d74-60efd9d4e2a7",
+        "type": "message",
+        "text": "cheers m’dears",
+        "user": "U01RW140HBP",
+        "ts": "1619445786.008300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xXH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cheers m’dears"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619445739.007900",
+        "parent_user_id": "U01RW140HBP",
+        "reactions": [
+            {
+                "name": "kosta",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "if i have understood, you might be able to use combined fields ? Here i have combined region and segment and grouped them in a scatter plot of sales and profit",
+        "files": [
+            {
+                "id": "F020R27KLAC",
+                "created": 1619445992,
+                "timestamp": 1619445992,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 174689,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020R27KLAC\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020R27KLAC\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R27KLAC-c15af37f69\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R27KLAC-c15af37f69\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R27KLAC-c15af37f69\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 231,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R27KLAC-c15af37f69\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 309,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R27KLAC-c15af37f69\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R27KLAC-c15af37f69\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 463,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R27KLAC-c15af37f69\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 514,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R27KLAC-c15af37f69\/image_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 617,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R27KLAC-c15af37f69\/image_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 658,
+                "original_w": 2038,
+                "original_h": 1310,
+                "thumb_tiny": "AwAeADDRK5BHrSLEFbOTT6KBWDFGKKKBiHigc0jdvrSr0oAWiiigAooooAQ0UGigD\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F020R27KLAC\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020R27KLAC-afcdfb844a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wi+Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if i have understood, you might be able to use combined fields ? Here i have combined region and segment and grouped them in a scatter plot of sales and profit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1619445996.008600",
+        "thread_ts": "1619439420.007400",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "597fb486-9a04-4d55-9ca8-d7e4a2795710",
+        "type": "message",
+        "text": "im not sure if i can envisage what you would eventually end up with once the pairs have been defined though… can you draw me a conceptual sketch and send it ?\n(in tableau there is always a way!)",
+        "user": "U01RW140HBP",
+        "ts": "1619446115.008800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XtI2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "im not sure if i can envisage what you would eventually end up with once the pairs have been defined though… can you draw me a conceptual sketch and send it ?\n(in tableau there is always a way!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619439420.007400",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "type": "message",
+        "text": "thanks, Sian! This is the scatter plot I already have, based on the red lines. I want the columns associated with blue lines to also enter this single scatter plot.  At the end of the day, I would have a really big scatter plot with lots of dots coming from many columns.",
+        "files": [
+            {
+                "id": "F020R3CPU0G",
+                "created": 1619446477,
+                "timestamp": 1619446477,
+                "name": "concept.png",
+                "title": "concept.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RRV4JX6Z",
+                "editable": false,
+                "size": 191712,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020R3CPU0G\/concept.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020R3CPU0G\/download\/concept.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R3CPU0G-afd32b4c0b\/concept_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R3CPU0G-afd32b4c0b\/concept_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R3CPU0G-afd32b4c0b\/concept_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R3CPU0G-afd32b4c0b\/concept_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R3CPU0G-afd32b4c0b\/concept_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R3CPU0G-afd32b4c0b\/concept_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R3CPU0G-afd32b4c0b\/concept_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R3CPU0G-afd32b4c0b\/concept_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020R3CPU0G-afd32b4c0b\/concept_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADDSpASe340n8VLQAjISeGIp2KWigBMUYpaKAGZBOaXIoVFUYVQB6UpVSpBAIPUUAJvX1FG8eo\/OmfZoP+eSflR9mhII8pefagB+8eo\/OjevqKj+y2\/\/ADxT8qX7LB\/zyT8qAP\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RRV4JX6Z\/F020R3CPU0G\/concept.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020R3CPU0G-4f8a9cb290",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "skR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks, Sian! This is the scatter plot I already have, based on the red lines. I want the columns associated with blue lines to also enter this single scatter plot.  At the end of the day, I would have a really big scatter plot with lots of dots coming from many columns."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RRV4JX6Z",
+        "display_as_bot": false,
+        "ts": "1619446486.009000",
+        "thread_ts": "1619439420.007400",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "ade1280f-bae6-48f1-aaf5-28bfb2229cfa",
+        "type": "message",
+        "text": "got it, its like a 4 dimension scatter plot… tableau is a little two dimensional for you! let me think on it",
+        "user": "U01RW140HBP",
+        "ts": "1619447634.009200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tih6j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "got it, its like a 4 dimension scatter plot… tableau is a little two dimensional for you! let me think on it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619439420.007400",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "53993a8b-754b-4e98-84d5-4ec0392e0947",
+        "type": "message",
+        "text": "Thanks! This is doable in excel, but it is tedious work. I could just build two gigantic columns with all the data, but it would be nice if any other type of aggregation were possible",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619447721.009400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yk=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! This is doable in excel, but it is tedious work. I could just build two gigantic columns with all the data, but it would be nice if any other type of aggregation were possible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619439420.007400",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "716c8a91-4cfd-4e43-a61c-dcc6a107c066",
+        "type": "message",
+        "text": "its very easy to combine multiple measures on one axis - using the measure values card, which activates when you drop an additional measure on the y axis",
+        "user": "U01RW140HBP",
+        "ts": "1619451743.009600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+U2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its very easy to combine multiple measures on one axis - using the measure values card, which activates when you drop an additional measure on the y axis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619439420.007400",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0201ULG8FM",
+                "created": 1619451745,
+                "timestamp": 1619451745,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 349760,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0201ULG8FM\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0201ULG8FM\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0201ULG8FM-4c75918850\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0201ULG8FM-4c75918850\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0201ULG8FM-4c75918850\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 186,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0201ULG8FM-4c75918850\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 248,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0201ULG8FM-4c75918850\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0201ULG8FM-4c75918850\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 372,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0201ULG8FM-4c75918850\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 413,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0201ULG8FM-4c75918850\/image_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 495,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0201ULG8FM-4c75918850\/image_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 528,
+                "original_w": 2376,
+                "original_h": 1226,
+                "thumb_tiny": "AwAYADDQ+bsVpQD3x+FNL4JGxj9BSq24E7SPrQICiE5I\/WnYA5wKqqXZ8s5HPQA1Zb\/Vt9KAHU3nNJGTtTP92nUDIDK2T+7zUkLs4O5duKSnp3oJV7jsUUUUFBikpaSgD\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F0201ULG8FM\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F0201ULG8FM-d2e0064baf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1619451748.009800",
+        "thread_ts": "1619439420.007400",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "108d962b-942f-4bef-a448-c1816350bd44",
+        "type": "message",
+        "text": "but combining fields on two opposing axes reaches the limit for tableau - combined axes is available for either x or y, but not both… as you can see from the screenshot i have 4 measures on the y axis, and i have two measures on the x axis but they are separate columns--- in the case you need to combine measures on both x and y, as pairs, you might want to try creating a ratio measure calculated field…",
+        "user": "U01RW140HBP",
+        "ts": "1619451867.010100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PHM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but combining fields on two opposing axes reaches the limit for tableau - combined axes is available for either x or y, but not both… as you can see from the screenshot i have 4 measures on the y axis, and i have two measures on the x axis but they are separate columns--- in the case you need to combine measures on both x and y, as pairs, you might want to try creating a ratio measure calculated field…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619439420.007400",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "daa2a240-e002-4343-8aa6-e18a9e1b5cc3",
+        "type": "message",
+        "text": "hm.. what was the solution for invoice amount column? I remember you mentioned it <@U01S7BM4N81> but forgot what was the outcome of the conversation",
+        "user": "U01SK96QF5E",
+        "ts": "1619451905.010900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+p3O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hm.. what was the solution for invoice amount column? I remember you mentioned it "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S7BM4N81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but forgot what was the outcome of the conversation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619451905.010900",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1619454186.017400",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01SK96QF5E"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619451932.011000"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1619451936.011200"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1619451959.011600"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619454186.017400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "109baed1-ddc9-4909-9c4b-f6392e3e7e2f",
+        "type": "message",
+        "text": "Just ignore :slightly_smiling_face: Should also be deleted from the repo markdown",
+        "user": "U01S7BM4N81",
+        "ts": "1619451932.011000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uP7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just ignore "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Should also be deleted from the repo markdown"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619451905.010900",
+        "parent_user_id": "U01SK96QF5E",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01SK96QF5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68ca0b64-e1b5-4478-8c03-fe5a21c919c8",
+        "type": "message",
+        "text": "ah ok nevermind, refreshed the page and the requirement disappeared :smile:",
+        "user": "U01SK96QF5E",
+        "ts": "1619451936.011200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dcIE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah ok nevermind, refreshed the page and the requirement disappeared "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619451905.010900",
+        "parent_user_id": "U01SK96QF5E",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4b64f0c5-dff3-4bd9-8e30-fd9d303fac3a",
+        "type": "message",
+        "text": "thx!",
+        "user": "U01SK96QF5E",
+        "ts": "1619451959.011600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w0AD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thx!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619451905.010900",
+        "parent_user_id": "U01SK96QF5E",
+        "reactions": [
+            {
+                "name": "handshake",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99e2f9ff-8962-44fb-9ca9-c5b46d1bffea",
+        "type": "message",
+        "text": "and of course, if you are going to include multiple measures in one axis, the scales should be in some way compatible.\nThe views in tableau are essentially 2 dimensional. for 3 or more actual dimensions - i can suggest plotly ! <https:\/\/medium.com\/@prasadostwal\/multi-dimension-plots-in-python-from-2d-to-6d-9a2bf7b8cc74>",
+        "user": "U01RW140HBP",
+        "ts": "1619452027.011800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1619453838.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Multi-dimension plots in Python — From 2D to 6D.",
+                "title_link": "https:\/\/medium.com\/@prasadostwal\/multi-dimension-plots-in-python-from-2d-to-6d-9a2bf7b8cc74",
+                "text": "Plot upto 6D figures in just few minutes using python and plotly.",
+                "fallback": "Medium: Multi-dimension plots in Python — From 2D to 6D.",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/1*HZjMfkYRjuVhpEdRc2iFug.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "4 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1559044057,
+                "from_url": "https:\/\/medium.com\/@prasadostwal\/multi-dimension-plots-in-python-from-2d-to-6d-9a2bf7b8cc74",
+                "image_width": 1186,
+                "image_height": 250,
+                "image_bytes": 135491,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@prasadostwal\/multi-dimension-plots-in-python-from-2d-to-6d-9a2bf7b8cc74"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zNx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and of course, if you are going to include multiple measures in one axis, the scales should be in some way compatible.\nThe views in tableau are essentially 2 dimensional. for 3 or more actual dimensions - i can suggest plotly ! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/@prasadostwal\/multi-dimension-plots-in-python-from-2d-to-6d-9a2bf7b8cc74"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619439420.007400",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "5a65b39c-20be-4f2f-b75e-abf0d04df92c",
+        "type": "message",
+        "text": "for the ‘Lod Recency Spread’ earlier I had this as a calculated field:\n\n```{FIXED [Customer ID]:\nDATEDIFF('week',  max([Order Date]), #2017-12-30#)}```\nBut then I get a bunch of numbers around 166, 162, 156, as the number of ‘weeks’ since they last made a purchase :thinking_face:\n\nIs it possible I’m counting some other unit of time?",
+        "user": "U01S7KCL3DF",
+        "ts": "1619452145.013500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kcL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for the ‘Lod Recency Spread’ earlier I had this as a calculated field:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "{FIXED [Customer ID]:\nDATEDIFF('week',  max([Order Date]), #2017-12-30#)}"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But then I get a bunch of numbers around 166, 162, 156, as the number of ‘weeks’ since they last made a purchase "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIs it possible I’m counting some other unit of time?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619452145.013500",
+        "reply_count": 14,
+        "reply_users_count": 3,
+        "latest_reply": "1619453888.017200",
+        "reply_users": [
+            "U01RN7BVD1C",
+            "U01S7KCL3DF",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619452216.013700"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619452228.013900"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619452457.014100"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619452903.014700"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619452911.014900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619452935.015100"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619453112.015400"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619453126.015600"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619453141.015800"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619453215.016000"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619453357.016300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619453739.016500"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619453840.016800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619453888.017200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "952c6163-cd68-439b-b905-8872f174d8ca",
+        "type": "message",
+        "text": "did you check your date format, if its the same as you wrote it there y-m-d",
+        "user": "U01RN7BVD1C",
+        "ts": "1619452216.013700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oqw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did you check your date format, if its the same as you wrote it there y-m-d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619452145.013500",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "161f6ac7-6140-4e96-985f-281d009a9bf5",
+        "type": "message",
+        "text": "maybe order date is d-m-y",
+        "user": "U01RN7BVD1C",
+        "ts": "1619452228.013900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ay9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "maybe order date is d-m-y"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619452145.013500",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "4e47459e-59a0-4682-b99c-8009962eafe9",
+        "type": "message",
+        "text": "hmmm perhaps….how can i just go back to an overview of the columns in this data set… anytime I click on ‘data source’ it offers me the chance to open different Excel files",
+        "user": "U01S7KCL3DF",
+        "ts": "1619452457.014100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DmNb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmmm perhaps….how can i just go back to an overview of the columns in this data set… anytime I click on ‘data source’ it offers me the chance to open different Excel files"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619452145.013500",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "fd32b571-c3f8-4405-b5c8-9c7e2a7c06a9",
+        "type": "message",
+        "text": "but the easier thing to consider Francisco is using in Tableau a combination of colour\/ hue, shape, size to present additional measures.",
+        "user": "U01RW140HBP",
+        "ts": "1619452671.014300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1619453852.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=KkDk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but the easier thing to consider Francisco is using in Tableau a combination of colour\/ hue, shape, size to present additional measures."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619439420.007400",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "type": "message",
+        "text": "eg this view includes 4 measures- 2 on the axes, one on colour and another on size",
+        "files": [
+            {
+                "id": "F0208008D0U",
+                "created": 1619452672,
+                "timestamp": 1619452672,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 356896,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0208008D0U\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0208008D0U\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0208008D0U-79535906cf\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0208008D0U-79535906cf\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0208008D0U-79535906cf\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 173,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0208008D0U-79535906cf\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 230,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0208008D0U-79535906cf\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0208008D0U-79535906cf\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 345,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0208008D0U-79535906cf\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 384,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0208008D0U-79535906cf\/image_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 460,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0208008D0U-79535906cf\/image_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 491,
+                "original_w": 2360,
+                "original_h": 1132,
+                "thumb_tiny": "AwAXADDSFLUYV95O7K+lOkYKvNACg0tQREk+1TigApu0EmnUlABTHjVjkk0+hqAEUKo4FOplPoAKSlpKAP\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F0208008D0U\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F0208008D0U-25d0998bbd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "szla",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "eg this view includes 4 measures- 2 on the axes, one on colour and another on size"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1619452681.014500",
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1619453873.000000"
+        },
+        "thread_ts": "1619439420.007400",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "type": "message",
+        "text": "top of your data pane on the left sam, theres an icon looking like this …",
+        "files": [
+            {
+                "id": "F02022553JP",
+                "created": 1619452898,
+                "timestamp": 1619452898,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 473,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F02022553JP\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F02022553JP\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02022553JP-5c02218365\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02022553JP-5c02218365\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02022553JP-5c02218365\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 62,
+                "thumb_360_h": 96,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02022553JP-5c02218365\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 62,
+                "original_h": 96,
+                "thumb_tiny": "AwAwAB\/T59aOfWiigA59aOfWiigBD1FNdypOBnjPf\/CnHqKZIhYkgDpjn\/8AVQACRsr8vX6\/4VJUIibKHC8fT\/CpqACiiigAooooA\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F02022553JP\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F02022553JP-fee43bbdd9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kSJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "top of your data pane on the left sam, theres an icon looking like this …"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1619452903.014700",
+        "thread_ts": "1619452145.013500",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1bf68804-1a8a-4d18-a19e-e007899ee51f",
+        "type": "message",
+        "text": "this allows you to preview the data.",
+        "user": "U01RW140HBP",
+        "ts": "1619452911.014900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VfPr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this allows you to preview the data."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619452145.013500",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "9602d0c7-d640-4129-b9fb-15c0bb6698aa",
+        "type": "message",
+        "text": "but the workbook i gave you is sample superstore, so im not sure how this would have worked",
+        "user": "U01RW140HBP",
+        "ts": "1619452935.015100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1619452958.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q8N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but the workbook i gave you is sample superstore, so im not sure how this would have worked"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619452145.013500",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "e3247c4f-7f76-44d8-b979-0285fb3ae74c",
+        "type": "message",
+        "text": "however if you had removed the customer name filter (i had filtered to mick, michaels, mikes and michelles ) you WOULD find some customers who hadnt ordered anything for 166 weeks - so im tempted to suggest you have simply ripped out the customer name filter and your logic is actually correct",
+        "user": "U01RW140HBP",
+        "ts": "1619453112.015400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5QsR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "however if you had removed the customer name filter (i had filtered to mick, michaels, mikes and michelles ) you WOULD find some customers who hadnt ordered anything for 166 weeks - so im tempted to suggest you have simply ripped out the customer name filter and your logic is actually correct"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619452145.013500",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01VCPMEZMK",
+                "created": 1619453124,
+                "timestamp": 1619453124,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 35293,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01VCPMEZMK\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01VCPMEZMK\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01VCPMEZMK-f5b7f5fd0a\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01VCPMEZMK-f5b7f5fd0a\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01VCPMEZMK-f5b7f5fd0a\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 243,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01VCPMEZMK-f5b7f5fd0a\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 324,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01VCPMEZMK-f5b7f5fd0a\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 546,
+                "original_h": 368,
+                "thumb_tiny": "AwAgADDRP3T06d6j4x\/yz\/KpD0P9KYCf7zf980AKm3tt3e1P5pik55LH\/gOKfigBH6c4\/GnCmtnHU\/gKcKAGnofpTNp9H\/76p55BH86Zs\/2V\/OgBRkHo34mn0wRjPKrj608AAYFACMOO\/wCeKcKawyOgP1pR19qAP\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F01VCPMEZMK\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01VCPMEZMK-fff952f30b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1619453126.015600",
+        "thread_ts": "1619452145.013500",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "54d489f6-d7b0-415d-af1d-7a1439b8e27e",
+        "type": "message",
+        "text": "are these the offending customers you have <@U01S7KCL3DF>",
+        "user": "U01RW140HBP",
+        "ts": "1619453141.015800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J=15",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are these the offending customers you have "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S7KCL3DF"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619452145.013500",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "4a616c52-efcd-4ac1-8b77-1fc17d15639a",
+        "type": "message",
+        "text": "ahhh yes that’s it! didnt filter the names. oops",
+        "user": "U01S7KCL3DF",
+        "ts": "1619453215.016000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+WnL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahhh yes that’s it! didnt filter the names. oops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619452145.013500",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "b6865cea-1e8c-4fd9-855a-5ba0243f5de5",
+        "type": "message",
+        "text": "this icon to see a data overview in kind of a spreadsheet view..… was there also a way to go back and see the data in the same view as when you first pull in a csv file? did that ever exist?",
+        "user": "U01S7KCL3DF",
+        "ts": "1619453357.016300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Hc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this icon to see a data overview in kind of a spreadsheet view..… was there also a way to go back and see the data in the same view as when you first pull in a csv file? did that ever exist?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619452145.013500",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "e8a2c627-0181-4bca-9bc5-220bd23a73e7",
+        "type": "message",
+        "text": "yes on the data source page you have the same option. not however in the workbook you downloaded for class today, because the data source was effectively zipped up inside that workbook and therefore not viewable. but rest assured, normally you have that button next to your data source, yes",
+        "user": "U01RW140HBP",
+        "ts": "1619453739.016500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xakW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes on the data source page you have the same option. not however in the workbook you downloaded for class today, because the data source was effectively zipped up inside that workbook and therefore not viewable. but rest assured, normally you have that button next to your data source, yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619452145.013500",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "1bc59962-37c0-432a-8e21-55934ef94e0e",
+        "type": "message",
+        "text": "aaahhh yes all makes sense. thanks for explainin! :sweat_smile:",
+        "user": "U01S7KCL3DF",
+        "ts": "1619453840.016800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "28Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aaahhh yes all makes sense. thanks for explainin! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619452145.013500",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "add9bba3-5c11-4348-9046-fac9166163f1",
+        "type": "message",
+        "text": "no prob",
+        "user": "U01RW140HBP",
+        "ts": "1619453888.017200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H\/um",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no prob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619452145.013500",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "c4174154-5593-4730-9e76-525c4c6fe856",
+        "type": "message",
+        "text": "very welcome :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1619454186.017400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IR4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "very welcome "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619451905.010900",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "7cef548f-b404-4962-87b3-9d7f4641c8d5",
+        "type": "message",
+        "text": "Thank you for your attention, Sian! I think i will keep on the python route for this particular problem. I tried it a bit with Tableau but it doesnt seem doable. What i'm trying to do is the following. I have estimated, using Python, Rassmusen-Hirschman forward and backward indicators for 44 countries and 56 sectors. I want to visualize if there is a visualizable relationship between the indicators and, respectively, exports and imports. Or in relation to GDO  I guess i will have to treat each sector as a category, like in the flower problem, and create large columns. Excel does what i want, but it is tedious work and the visualization resources are limited...",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619459257.017700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j34",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for your attention, Sian! I think i will keep on the python route for this particular problem. I tried it a bit with Tableau but it doesnt seem doable. What i'm trying to do is the following. I have estimated, using Python, Rassmusen-Hirschman forward and backward indicators for 44 countries and 56 sectors. I want to visualize if there is a visualizable relationship between the indicators and, respectively, exports and imports. Or in relation to GDO  I guess i will have to treat each sector as a category, like in the flower problem, and create large columns. Excel does what i want, but it is tedious work and the visualization resources are limited..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619439420.007400",
+        "parent_user_id": "U01RRV4JX6Z"
+    }
+]

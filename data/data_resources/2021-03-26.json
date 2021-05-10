@@ -1,0 +1,593 @@
+[
+    {
+        "client_msg_id": "93e55a79-7eda-4c00-ae18-3e1b4f0cd390",
+        "type": "message",
+        "text": "<@U01S7BM4N81>the datasets we are working with right now are for learning purposes but if you want to look more into the problems that's being dealt with in real world :slightly_smiling_face:",
+        "user": "U01RXCQHMHT",
+        "ts": "1616748147.001500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ukb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S7BM4N81"
+                            },
+                            {
+                                "type": "text",
+                                "text": "the datasets we are working with right now are for learning purposes but if you want to look more into the problems that's being dealt with in real world "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c7e5307-84d2-46ac-a8cf-d4b411fba4f8",
+        "type": "message",
+        "text": "<@U01S7BM4N81> look into this blog, it's so good <https:\/\/pbpython.com\/>",
+        "user": "U01RXCQHMHT",
+        "ts": "1616748609.001800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GZsR1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S7BM4N81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " look into this blog, it's so good "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pbpython.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RN7BVD1C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90f9bd5f-b432-4c02-ab02-b88878c41b1c",
+        "type": "message",
+        "text": "Amazin Tony, Thank you!",
+        "user": "U01S7BM4N81",
+        "ts": "1616748629.002000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m4Lu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazin Tony, Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8741e5a8-15d3-413f-8303-7bfe746f86e3",
+        "type": "message",
+        "text": "If you need extra additional resources to learn what we have gone through so far. You can check this website. There are videos and presentations :slightly_smiling_face:\n\n<https:\/\/www.py4e.com\/lessons>",
+        "user": "U01RXCQHMHT",
+        "ts": "1616749687.002900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G0UXU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you need extra additional resources to learn what we have gone through so far. You can check this website. There are videos and presentations "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.py4e.com\/lessons"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe198821-c9ba-4b8d-8556-74f7b9bac58b",
+        "type": "message",
+        "text": "<!channel> If someone wants to train Pandas and what they have learnt. Here are good lectures and exercises.\n\nIt's very well explained, and the exercises are good :)\n\n<https:\/\/github.com\/ine-rmotr-curriculum\/FreeCodeCamp-Pandas-Real-Life-Example>",
+        "user": "U01RXCQHMHT",
+        "ts": "1616750009.004600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RXCQHMHT",
+            "ts": "1616750034.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "ine-rmotr-curriculum\/FreeCodeCamp-Pandas-Real-Life-Example",
+                "title": "ine-rmotr-curriculum\/FreeCodeCamp-Pandas-Real-Life-Example",
+                "footer": "<https:\/\/github.com\/ine-rmotr-curriculum\/FreeCodeCamp-Pandas-Real-Life-Example|ine-rmotr-curriculum\/FreeCodeCamp-Pandas-Real-Life-Example>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1598885723,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "153",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B01RM0CJC4X",
+                "app_unfurl_url": "https:\/\/github.com\/ine-rmotr-curriculum\/FreeCodeCamp-Pandas-Real-Life-Example",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "anFBe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " If someone wants to train Pandas and what they have learnt. Here are good lectures and exercises.\n\nIt's very well explained, and the exercises are good :)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ine-rmotr-curriculum\/FreeCodeCamp-Pandas-Real-Life-Example"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01SD3CDH9P",
+                    "U01SK96QF5E",
+                    "U01RP2K1606"
+                ],
+                "count": 3
+            },
+            {
+                "name": "cattyping",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5c25978-c757-4109-a1a7-6f59aee363d1",
+        "type": "message",
+        "text": "To generate (Pseudo!-)random numbers, Numpy uses the \"Mersenne Twister\" :nerd_face:\n<https:\/\/en.wikipedia.org\/wiki\/Mersenne_Twister>",
+        "user": "U01SJKB2MG8",
+        "ts": "1616757211.005800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Mersenne Twister",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Mersenne_Twister",
+                "from_url": "https:\/\/en.wikipedia.org\/wiki\/Mersenne_Twister",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/",
+                "text": "The Mersenne Twister is a pseudorandom number generator (PRNG). It is by far the most widely used general-purpose PRNG. Its name derives from the fact that its period length is chosen to be a Mersenne prime.\nThe Mersenne Twister was developed in 1997 by Makoto Matsumoto (松本 眞) and Takuji Nishimura (西村 拓士). It was designed specifically to rectify most of the flaws found in older PRNGs.\nThe most commonly used version of the Mersenne Twister algorithm is based on the Mersenne prime 219937−1.  The standard implementation of that, MT19937, uses a 32-bit word length. There is another implementation (with five variants) that uses a 64-bit word length, MT19937-64; it generates a different sequence.",
+                "fallback": "wikipedia: Mersenne Twister",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/en.wikipedia.org\/wiki\/Mersenne_Twister"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f\/dta",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To generate (Pseudo!-)random numbers, Numpy uses the \"Mersenne Twister\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "nerd_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Mersenne_Twister"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616757211.005800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1616759141.006900",
+        "reply_users": [
+            "U01SJKB2MG8",
+            "U01S7BM4N81",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1616757769.006200"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1616758305.006700"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1616759141.006900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed6ef76c-b72e-4760-80c1-642c5de6721a",
+        "type": "message",
+        "text": "<@U01S7BM4N81> if you're deeper interested in that, I remember hearing quite a comprehensive explanation in one of the recent Lex Fridman Podcasts (#168 with <https:\/\/en.wikipedia.org\/wiki\/Silvio_Micali|Silvio Micali>), around 76:50 min :slightly_smiling_face:, also within the context of cryptography\n\n<https:\/\/open.spotify.com\/episode\/4MpKkdFR4jD33UX6xO2Lb3?si=IQVQIBTMRVGYMNxfCjfDvA|Spotify Link>, if you have spotify.",
+        "user": "U01SJKB2MG8",
+        "ts": "1616757769.006200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SJKB2MG8",
+            "ts": "1616757779.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "#168 – Silvio Micali: Cryptocurrency, Blockchain, Algorand, Bitcoin, and Ethereum",
+                "title_link": "https:\/\/open.spotify.com\/episode\/4MpKkdFR4jD33UX6xO2Lb3?si=IQVQIBTMRVGYMNxfCjfDvA",
+                "thumb_url": "https:\/\/i.scdn.co\/image\/d6c78f76d206edc5d03676f46ade9bb3e0b732f3",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: #168 – Silvio Micali: Cryptocurrency, Blockchain, Algorand, Bitcoin, and Ethereum",
+                "audio_html": "<iframe width=\"100%\" height=\"232\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: #168 – Silvio Micali: Cryptocurrency, Blockchain, Algorand, Bitcoin, and Ethereum\" src=\"https:\/\/open.spotify.com\/embed-podcast\/episode\/4MpKkdFR4jD33UX6xO2Lb3?si=IQVQIBTMRVGYMNxfCjfDvA\"><\/iframe>",
+                "audio_html_width": 600,
+                "audio_html_height": 232,
+                "from_url": "https:\/\/open.spotify.com\/episode\/4MpKkdFR4jD33UX6xO2Lb3?si=IQVQIBTMRVGYMNxfCjfDvA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 2,
+                "original_url": "https:\/\/open.spotify.com\/episode\/4MpKkdFR4jD33UX6xO2Lb3?si=IQVQIBTMRVGYMNxfCjfDvA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J0K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S7BM4N81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you're deeper interested in that, I remember hearing quite a comprehensive explanation in one of the recent Lex Fridman Podcasts (#168 with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Silvio_Micali",
+                                "text": "Silvio Micali"
+                            },
+                            {
+                                "type": "text",
+                                "text": "), around 76:50 min "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", also within the context of cryptography\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/episode\/4MpKkdFR4jD33UX6xO2Lb3?si=IQVQIBTMRVGYMNxfCjfDvA",
+                                "text": "Spotify Link"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", if you have spotify."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616757211.005800",
+        "parent_user_id": "U01SJKB2MG8",
+        "reactions": [
+            {
+                "name": "catjam",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7444d8b-48f3-455a-ac8a-569a667a5813",
+        "type": "message",
+        "text": "Can you read my mind?",
+        "user": "U01S7BM4N81",
+        "ts": "1616758305.006700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FbeLS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you read my mind?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616757211.005800",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "a4ee06a8-82fb-4a74-bbc0-de46b3f8dad9",
+        "type": "message",
+        "text": "sounds like a delicious ice cream",
+        "user": "U01S7KCL3DF",
+        "ts": "1616759141.006900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3bq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sounds like a delicious ice cream"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616757211.005800",
+        "parent_user_id": "U01SJKB2MG8",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U01SJKB2MG8",
+                    "U01S7BM4N81"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

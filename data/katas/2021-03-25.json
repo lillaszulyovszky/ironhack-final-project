@@ -1,0 +1,378 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689008.000200",
+        "user": "U01SJKB2MG8",
+        "text": "<@U01SJKB2MG8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689132.000400",
+        "user": "U01RW2X7S9Z",
+        "text": "<@U01RW2X7S9Z> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689132.000600",
+        "user": "U01SD3CDH9P",
+        "text": "<@U01SD3CDH9P> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689132.000800",
+        "user": "U01S0MFJ3HR",
+        "text": "<@U01S0MFJ3HR> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689133.001000",
+        "user": "U01S1CWGTU4",
+        "text": "<@U01S1CWGTU4> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689133.001200",
+        "user": "U01S0E0MRJ7",
+        "text": "<@U01S0E0MRJ7> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689133.001400",
+        "user": "U01S081EULS",
+        "text": "<@U01S081EULS> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689133.001600",
+        "user": "U01RRV4JX6Z",
+        "text": "<@U01RRV4JX6Z> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689134.001800",
+        "user": "U01RP2K1606",
+        "text": "<@U01RP2K1606> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689134.002000",
+        "user": "U01S0P26NKD",
+        "text": "<@U01S0P26NKD> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689134.002200",
+        "user": "U01S6LCPM0C",
+        "text": "<@U01S6LCPM0C> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689134.002400",
+        "user": "U01S79YDELR",
+        "text": "<@U01S79YDELR> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689135.002600",
+        "user": "U01RSRE0N3D",
+        "text": "<@U01RSRE0N3D> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689135.002800",
+        "user": "U01RW140HBP",
+        "text": "<@U01RW140HBP> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689144.003000",
+        "user": "U01SK96QF5E",
+        "text": "<@U01SK96QF5E> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689184.003200",
+        "user": "U01RKN0EGDV",
+        "text": "<@U01RKN0EGDV> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689184.003400",
+        "user": "U01RS9Y6UJH",
+        "text": "<@U01RS9Y6UJH> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689185.003600",
+        "user": "U01RV3K524T",
+        "text": "<@U01RV3K524T> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689185.003800",
+        "user": "U01RNEU3SNA",
+        "text": "<@U01RNEU3SNA> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689185.004000",
+        "user": "U01RN7BVD1C",
+        "text": "<@U01RN7BVD1C> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689185.004200",
+        "user": "U01S6L7HLUC",
+        "text": "<@U01S6L7HLUC> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689186.004400",
+        "user": "U01S7KCL3DF",
+        "text": "<@U01S7KCL3DF> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689186.004600",
+        "user": "U01S133DZ9A",
+        "text": "<@U01S133DZ9A> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689186.004800",
+        "user": "U01S7BM4N81",
+        "text": "<@U01S7BM4N81> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689186.005000",
+        "user": "U01RXCQHMHT",
+        "text": "<@U01RXCQHMHT> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616689244.005300",
+        "user": "U01S65G72SY",
+        "text": "<@U01S65G72SY> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616690983.005600",
+        "user": "U01RVSTNRRT",
+        "text": "<@U01RVSTNRRT> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "text": "<!channel>,\n4 possible Kata solutions for the <https:\/\/www.codewars.com\/kata\/53da3dbb4a5168369a0000fe\/solutions\/python|Odd or Even kata> today. Each have their advantages and disadvantages, for all of us, in terms of execution speed, readability and elegance. I would recommend reading them all and understanding them",
+        "files": [
+            {
+                "id": "F01S0E3MSET",
+                "created": 1616691728,
+                "timestamp": 1616691728,
+                "name": "kata_even_or_odd.py",
+                "title": "kata_even_or_odd.py",
+                "mimetype": "text\/plain",
+                "filetype": "python",
+                "pretty_type": "Python",
+                "user": "U01SJKB2MG8",
+                "editable": true,
+                "size": 817,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01S0E3MSET\/kata_even_or_odd.py?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01S0E3MSET\/download\/kata_even_or_odd.py?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SJKB2MG8\/F01S0E3MSET\/kata_even_or_odd.py",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01S0E3MSET-973f1e392c",
+                "edit_link": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SJKB2MG8\/F01S0E3MSET\/kata_even_or_odd.py\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M3M8N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n4 possible Kata solutions for the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codewars.com\/kata\/53da3dbb4a5168369a0000fe\/solutions\/python",
+                                "text": "Odd or Even kata"
+                            },
+                            {
+                                "type": "text",
+                                "text": " today. Each have their advantages and disadvantages, for all of us, in terms of execution speed, readability and elegance. I would recommend reading them all and understanding them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01SJKB2MG8",
+        "display_as_bot": false,
+        "ts": "1616691738.006400",
+        "client_msg_id": "3aed6a2b-4455-4f0d-8958-25a22aae564c",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S081EULS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac19f179-ff19-4a40-abda-7477def3c717",
+        "type": "message",
+        "text": "nice thanks Flo!",
+        "user": "U01RW140HBP",
+        "ts": "1616691885.007700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ePWV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice thanks Flo!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "200d88a0-59fd-4291-948a-863573ce06bf",
+        "type": "message",
+        "text": "Feel free to add you solution here if you want to discuss it!",
+        "user": "U01SJKB2MG8",
+        "ts": "1616691889.007900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SPQs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Feel free to add you solution here if you want to discuss it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1616692814.008100",
+        "user": "U01SJKB2MG8",
+        "text": "<@U01SJKB2MG8> set the channel topic: Have the list of Katas we did and the solutions here: <https:\/\/www.notion.so\/ironhack\/f04376c779aa462793d49e927acd2f9b?v=b1f5bff5716c4915be65ce410a9d1166>",
+        "topic": "Have the list of Katas we did and the solutions here: <https:\/\/www.notion.so\/ironhack\/f04376c779aa462793d49e927acd2f9b?v=b1f5bff5716c4915be65ce410a9d1166>"
+    }
+]

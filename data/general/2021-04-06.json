@@ -1,0 +1,1881 @@
+[
+    {
+        "client_msg_id": "c97dd039-3a1e-453d-8e1a-585c372c08e7",
+        "type": "message",
+        "text": "it is too crowded there, they told me to return today later.",
+        "user": "U01S79YDELR",
+        "ts": "1617693227.003200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u\/ADB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it is too crowded there, they told me to return today later."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617690588.001900",
+        "parent_user_id": "U01S79YDELR",
+        "reactions": [
+            {
+                "name": "disappointed",
+                "users": [
+                    "U01SK96QF5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60c1b294-50d2-42ad-a843-2398e0935a68",
+        "type": "message",
+        "text": "All recordings that I have are now online :grin:",
+        "user": "U01SJKB2MG8",
+        "ts": "1617694611.003600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SJKB2MG8",
+            "ts": "1617694622.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UoB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All recordings that I have are now online "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617435581.001400",
+        "parent_user_id": "U01S65G72SY",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S081EULS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6bb60a0-31b2-4ca9-b7f6-fc6a06685eba",
+        "type": "message",
+        "text": "i had some feedback from Hang on the stages of the career tasks and the deadlines :\n*Hang*  [09:17]\nHey @sian d, thanks for raising it! I gave them 2 deadlines.\n\n• Sunday, week 3 - Having applied all suggestions from Careerhack  stage 1 on their linkedin &amp; CV (without activating the optimisation tool, resumeworded)\n• Sunday, week 7 - Having optimised their linkedin &amp; CV WITH resumeworded to a score of at least 70\n[09:19] the reason why i split this is because they only have a 60 premium access to resumeworded, which I want them to activate in the 2nd half of their bootcamp.\n\nSo after the deadline week 3, I am doing a workshop in week 4 on wednesday evening to already give them an understanding what recruiters look out for. Weeks 4-7 are more for optimisation because that’s also when the bootcamp starts getting busier.\n[09:21] let me know if this is clear, I do understand that this staged process can be a bit confusing - will make it clearer for the next bootcamp.",
+        "user": "U01RW140HBP",
+        "ts": "1617696641.004600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EZec",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i had some feedback from Hang on the stages of the career tasks and the deadlines :\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hang",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  [09:17]\nHey @sian d, thanks for raising it! I gave them 2 deadlines.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sunday, week 3 - Having applied all suggestions from Careerhack  stage 1 on their linkedin & CV (without activating the optimisation tool, resumeworded)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sunday, week 7 - Having optimised their linkedin & CV WITH resumeworded to a score of at least 70"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[09:19] the reason why i split this is because they only have a 60 premium access to resumeworded, which I want them to activate in the 2nd half of their bootcamp.\n\nSo after the deadline week 3, I am doing a workshop in week 4 on wednesday evening to already give them an understanding what recruiters look out for. Weeks 4-7 are more for optimisation because that’s also when the bootcamp starts getting busier.\n[09:21] let me know if this is clear, I do understand that this staged process can be a bit confusing - will make it clearer for the next bootcamp."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617696641.004600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1617697827.005700",
+        "reply_users": [
+            "U01RN7BVD1C",
+            "U01SK96QF5E",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1617696703.005000"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1617696785.005500"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617697827.005700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RN7BVD1C",
+                    "U01RSRE0N3D",
+                    "U01S6L7HLUC",
+                    "U01SK96QF5E",
+                    "U01SD3CDH9P",
+                    "U01S0MFJ3HR"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e01d393e-d1bc-41fe-b7f4-9785061c5d79",
+        "type": "message",
+        "text": "thank you for sharing :slightly_smiling_face:",
+        "user": "U01RN7BVD1C",
+        "ts": "1617696703.005000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P+b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you for sharing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617696641.004600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "22B51E0D-7169-4B54-984A-6ECC2AEE37C6",
+        "type": "message",
+        "text": "Thanks! That’s very helpful!",
+        "user": "U01SK96QF5E",
+        "ts": "1617696785.005500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VFN7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! That’s very helpful!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617696641.004600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "92c00cf4-cca9-4d32-a848-190025f8f767",
+        "type": "message",
+        "text": "not sure if I can link to other workspaces, but the original thread is here :slightly_smiling_face:\n\n<https:\/\/ironhack.slack.com\/archives\/C01JUUMHPLK\/p1617695019026500>",
+        "user": "U01S7KCL3DF",
+        "ts": "1617697827.005700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9cGKE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not sure if I can link to other workspaces, but the original thread is here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ironhack.slack.com\/archives\/C01JUUMHPLK\/p1617695019026500"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617696641.004600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "7d12c6ba-27cb-4070-a864-e9c1b19e60dd",
+        "type": "message",
+        "text": "<!channel>,\n :microscope: *regarding the today's labs (after lecture\/lunch)*\nplease stick to these \"improved\" instructions (and not the ones you find under the github link):\n\n• *Lab | SQL Queries - Lesson 2.5*\n1. Select all the actors with the first name ‘Scarlett’.\n2. How many films (movies) are available for rent and how many films have been rented?\n3. What are the shortest and longest movie duration? Return the results as columns with the names  `max_duration` and `min_duration`.\n4. What's the average movie duration expressed in format (hours, minutes) Return the result as columns with the names `hours` and `minutes`?\n5. How many distinct (different) actors' last names are there?\n6. Since how many days has the company been operating (check the `DATEDIFF()` function)? Hint: rental table\n7. Show all rental information with additional columns `month` and `weekday`. (hint: `DATE_FORMAT()` ). Get 20 results.\n8. Add an additional column `day_type` with values _'weekend'_ and _'workday'_ depending on the rental day of the week.\n9. How many rentals were made in the last month of renting activity?\n.... stay tuned, improved instructions for the other labs will maybe follow",
+        "user": "U01SJKB2MG8",
+        "ts": "1617702128.009900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GMtaC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "microscope"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "regarding the today's labs (after lecture\/lunch)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nplease stick to these \"improved\" instructions (and not the ones you find under the github link):\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lab | SQL Queries - Lesson 2.5",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Select all the actors with the first name ‘Scarlett’."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How many films (movies) are available for rent and how many films have been rented?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What are the shortest and longest movie duration? Return the results as columns with the names  "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "max_duration",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "min_duration",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What's the average movie duration expressed in format (hours, minutes) Return the result as columns with the names "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "hours",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "minutes",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How many distinct (different) actors' last names are there?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Since how many days has the company been operating (check the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "DATEDIFF()",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " function)? Hint: rental table"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Show all rental information with additional columns "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "month",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "weekday",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". (hint: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "DATE_FORMAT()",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ). Get 20 results."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add an additional column "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "day_type",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " with values "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "'weekend'",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "'workday'",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " depending on the rental day of the week."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How many rentals were made in the last month of renting activity?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n.... stay tuned, improved instructions for the other labs will maybe follow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01SD3CDH9P",
+                    "U01RSRE0N3D",
+                    "U01RXCQHMHT",
+                    "U01RW2X7S9Z",
+                    "U01SK96QF5E"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49d1cab2-b69c-4405-8c18-baf7249538f7",
+        "type": "message",
+        "text": "<!channel>,\n:microscope: for *Lab | SQL Queries - Lesson 2.6*\nplease use these instructions\n\n1. Get the unique release years.\n2. Get all films with _ARMAGEDDON_ in the title.\n3. Get all films which title ends with _APOLLO_.\n4. Get 10 the longest films.\n5. How many films include *Behind the Scenes* content?\n6. Drop column `picture` from `staff`.\n7. A new person is hired to help Jon. Her name is TAMMY SANDERS, and she is a customer. Update the database accordingly.\n8. Add a rental for movie \"Academy Dinosaur\" by the customer \"Charlotte Hunter\" from employee Mike Hillyer at Store 1. You can use current date for the `rental_date` column in the `rental` table. *Hint*: Check the columns in the table rental and see what information you would need to add there. You can query those pieces of information in other tables. For eg., you would notice that you need `customer_id` information as well. To get that you can use the following query: \n```select customer_id from sakila.customer\nwhere first_name = 'CHARLOTTE' and last_name = 'HUNTER';```\nUse similar method to get `inventory_id`, `film_id`, and `staff_id`.\n\n9. *(Optional, you can skip this)* Delete non-active users, but first, create a _backup table_ `deleted_users` to store `customer_id`, `email`, and the `date` (use `CURDATE()` , <https:\/\/www.w3schools.com\/sql\/func_mysql_curdate.asp|link>) for the users that would be deleted. Follow these steps:\n    ◦ Check if there are any non-active users\n    ◦ Create a table _`backup table`_ as suggested\n    ◦ Insert the non active users in the table _`backup table`_\n    ◦ Delete the non active users from the table _`customer`_",
+        "user": "U01SJKB2MG8",
+        "ts": "1617704853.014000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SJKB2MG8",
+            "ts": "1617706744.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Asg\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "microscope"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Lab | SQL Queries - Lesson 2.6",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nplease use these instructions\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Get the unique release years."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Get all films with"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ARMAGEDDON",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " in the title."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Get all films which title ends with "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "APOLLO",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Get 10 the longest films."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How many films include "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Behind the Scenes",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " content?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Drop column "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "picture",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " from "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "staff",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A new person is hired to help Jon. Her name is TAMMY SANDERS, and she is a customer. Update the database accordingly."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add a rental for movie \"Academy Dinosaur\" by the customer \"Charlotte Hunter\" from employee Mike Hillyer at Store 1. You can use current date for the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "rental_date",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " column in the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "rental",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " table. "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Hint",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": Check the columns in the table rental and see what information you would need to add there. You can query those pieces of information in other tables. For eg., you would notice that you need "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "customer_id",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " information as well. To get that you can use the following query: "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "select customer_id from sakila.customer\nwhere first_name = 'CHARLOTTE' and last_name = 'HUNTER';"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Use similar method to get "
+                            },
+                            {
+                                "type": "text",
+                                "text": "inventory_id",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "film_id",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "staff_id",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\n9. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "(Optional, you can skip this)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Delete non-active users, but first, create a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "backup table",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "deleted_users",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to store "
+                            },
+                            {
+                                "type": "text",
+                                "text": "customer_id",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "email",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "date",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (use "
+                            },
+                            {
+                                "type": "text",
+                                "text": "CURDATE()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " , "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com\/sql\/func_mysql_curdate.asp",
+                                "text": "link"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") for the users that would be deleted. Follow these steps:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Check if there are any non-active users"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create a table "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "backup table",
+                                        "style": {
+                                            "italic": true,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " as suggested"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Insert the non active users in the table "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "backup table",
+                                        "style": {
+                                            "italic": true,
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Delete the non active users from the table "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "customer",
+                                        "style": {
+                                            "italic": true,
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617704853.014000",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1617724960.030600",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01SJKB2MG8",
+            "U01RW2X7S9Z"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617714060.027300"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1617717624.028500"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617721976.029000"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617724647.030200"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617724787.030400"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617724960.030600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e9639f14-c15a-49cd-9eaf-c6a5a84649f2",
+        "type": "message",
+        "text": "OOF! we covered a lot of ground this morning with SQL. :exploding_head:\n…………….I feel the labs this afternoon will give you space and time to try out all of those things we covered today at your own pace. Here are some extra resources I have checked out already, that you might want to bookmark\/ walk through;  to embed some of the practices from earlier, and in the case of DDL+ DML - to get some more context for how to use them and practice with, as we ran out of time today :\n• <https:\/\/www.mysqltutorial.org\/mysql-string-functions\/|most common string functions> and how they are used \n• regex in mysql using the keyword <https:\/\/www.geeksforgeeks.org\/mysql-regular-expressions-regexp\/|REGEXP>\n• <https:\/\/www.w3schools.com\/sql\/func_mysql_date_format.asp|dates and formatting of dates eg D%>\n• <https:\/\/www.mysqltutorial.org\/mysql-date\/|tutorial on dates with create, insert + date_add, date_sub, date_diff> \n• <https:\/\/www.sqltrainingonline.com\/how-to-filter-for-sql-null-or-empty-string\/|Nulls v empty> \n• using logic in queries : <https:\/\/learnsql.com\/blog\/using-case-add-logic-select\/|CASE STATEMENTS> and <https:\/\/www.w3resource.com\/mysql\/control-flow-functions\/if-function.php|IF () function> \n• DML commands : <https:\/\/www.w3schools.com\/sql\/sql_update.asp|UPDATE> and <https:\/\/www.w3schools.com\/sql\/sql_insert.asp|INSERT INTO>  \n• DDL commands: <https:\/\/www.w3schools.com\/sql\/sql_ref_table.asp|CREATE, ALTER, DROP> (use with caution!) ",
+        "user": "U01RW140HBP",
+        "ts": "1617707970.021700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1617708410.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kTP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OOF! we covered a lot of ground this morning with SQL. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n…………….I feel the labs this afternoon will give you space and time to try out all of those things we covered today at your own pace. Here are some extra resources I have checked out already, that you might want to bookmark\/ walk through;  to embed some of the practices from earlier, and in the case of DDL+ DML - to get some more context for how to use them and practice with, as we ran out of time today :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.mysqltutorial.org\/mysql-string-functions\/",
+                                        "text": "most common string functions"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and how they are used "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "regex in mysql using the keyword "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.geeksforgeeks.org\/mysql-regular-expressions-regexp\/",
+                                        "text": "REGEXP"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.w3schools.com\/sql\/func_mysql_date_format.asp",
+                                        "text": "dates and formatting of dates eg D%"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.mysqltutorial.org\/mysql-date\/",
+                                        "text": "tutorial on dates with create, insert + date_add, date_sub, date_diff"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.sqltrainingonline.com\/how-to-filter-for-sql-null-or-empty-string\/",
+                                        "text": "Nulls v empty"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "using logic in queries : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/learnsql.com\/blog\/using-case-add-logic-select\/",
+                                        "text": "CASE STATEMENTS"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.w3resource.com\/mysql\/control-flow-functions\/if-function.php",
+                                        "text": "IF () function"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "DML commands : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.w3schools.com\/sql\/sql_update.asp",
+                                        "text": "UPDATE"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.w3schools.com\/sql\/sql_insert.asp",
+                                        "text": "INSERT INTO"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "  "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "DDL commands: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.w3schools.com\/sql\/sql_ref_table.asp",
+                                        "text": "CREATE, ALTER, DROP"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (use with caution!) "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617707970.021700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1617711280.026900",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617710618.026500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617711280.026900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01SD3CDH9P",
+                    "U01RN7BVD1C",
+                    "U01SK96QF5E",
+                    "U01S79YDELR",
+                    "U01RP2K1606"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12dd0ce8-61eb-41ad-958f-0eb5a68582f1",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U01RS9Y6UJH",
+        "ts": "1617710394.026200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AVz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14b1e56b-5089-417e-b311-f36a0ee31343",
+        "type": "message",
+        "text": "the exercises we looked at are all here right?\n\n<https:\/\/github.com\/ironhack-edu\/dataV3_2.05_activities>",
+        "user": "U01S7KCL3DF",
+        "ts": "1617710618.026500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "ironhack-edu\/dataV3_2.05_activities",
+                "title": "ironhack-edu\/dataV3_2.05_activities",
+                "footer": "<https:\/\/github.com\/ironhack-edu\/dataV3_2.05_activities|ironhack-edu\/dataV3_2.05_activities>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1601481105,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Last updated",
+                        "value": "2 months ago",
+                        "short": true
+                    },
+                    {
+                        "title": "Forks",
+                        "value": "26",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B01RM0CJC4X",
+                "app_unfurl_url": "https:\/\/github.com\/ironhack-edu\/dataV3_2.05_activities",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z7Zhq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the exercises we looked at are all here right?\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ironhack-edu\/dataV3_2.05_activities"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617707970.021700",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "fe7997af-aab6-4425-b883-57582c7d1d50",
+        "type": "message",
+        "text": "correct! we did not attempt ex 4",
+        "user": "U01RW140HBP",
+        "ts": "1617711280.026900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "etfIn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "correct! we did not attempt ex 4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617707970.021700",
+        "parent_user_id": "U01RW140HBP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f60df0e2-2aa6-4efe-bd15-6aa465b31b57",
+        "type": "message",
+        "text": "Shall we drop Tammy from customers? Or just add her to staff?\nShe can be both, technically speaking",
+        "user": "U01S7BM4N81",
+        "ts": "1617714060.027300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xA7U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shall we drop Tammy from customers? Or just add her to staff?\nShe can be both, technically speaking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617704853.014000",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "4cb4f7be-80e0-4761-998d-b3bb48c6c92e",
+        "type": "message",
+        "text": "Reminder <!here>: Yoga starts in 3 mins!",
+        "user": "U01RSRE0N3D",
+        "ts": "1617717443.028400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OjuV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reminder "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Yoga starts in 3 mins!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82d2f81d-2590-44ce-9d38-f6ae47074024",
+        "type": "message",
+        "text": "how would you proceed in real life? :slightly_smiling_face: (i think you already answered yourself :grin:)",
+        "user": "U01SJKB2MG8",
+        "ts": "1617717624.028500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SJKB2MG8",
+            "ts": "1617717647.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HOft",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how would you proceed in real life? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (i think you already answered yourself "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617704853.014000",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "045c4aa2-ec30-497a-9146-cd82d76e8103",
+        "type": "message",
+        "text": "Yes, I did, and proceeded :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1617721976.029000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SOYb3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I did, and proceeded "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617704853.014000",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "0c221bd6-c89f-4510-81e5-bf19c04c72d6",
+        "type": "message",
+        "text": "Anyone deleted the non active users? i think have to enable safe mode",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617724647.030200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1QD=y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone deleted the non active users? i think have to enable safe mode"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617704853.014000",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01TLG2BM8C",
+                "created": 1617724785,
+                "timestamp": 1617724785,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 3457,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TLG2BM8C\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TLG2BM8C\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TLG2BM8C-4aada6a8e4\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TLG2BM8C-4aada6a8e4\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TLG2BM8C-4aada6a8e4\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 16,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TLG2BM8C-4aada6a8e4\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 22,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TLG2BM8C-4aada6a8e4\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 614,
+                "original_h": 28,
+                "thumb_tiny": "AwACADDQpKWkoAOxoo7GigAFFA60UAf\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F01TLG2BM8C\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TLG2BM8C-518057424e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RW2X7S9Z",
+        "display_as_bot": false,
+        "ts": "1617724787.030400",
+        "thread_ts": "1617704853.014000",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "fa9e8d35-6236-43de-9561-04fbb10d9875",
+        "type": "message",
+        "text": "I did not dare to delete anything",
+        "user": "U01S7BM4N81",
+        "ts": "1617724960.030600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hgu0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did not dare to delete anything"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617704853.014000",
+        "parent_user_id": "U01SJKB2MG8"
+    }
+]

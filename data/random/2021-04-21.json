@@ -1,0 +1,396 @@
+[
+    {
+        "client_msg_id": "0f5d4252-b29f-43c9-ad72-76f06ea9168d",
+        "type": "message",
+        "text": "oh nooo! What happened?",
+        "user": "U01SJKB2MG8",
+        "ts": "1618988711.001900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A\/OU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh nooo! What happened?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618987376.000100",
+        "parent_user_id": "U01RKN0EGDV"
+    },
+    {
+        "client_msg_id": "3780855d-6116-40f8-96db-944396f011c2",
+        "type": "message",
+        "text": "sometimes happens that the screen stays black and I have to open it like that and change the memory modules... idk but after 1h40min now it works again! :success-kid:",
+        "user": "U01RKN0EGDV",
+        "ts": "1618990270.002100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aEAX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sometimes happens that the screen stays black and I have to open it like that and change the memory modules... idk but after 1h40min now it works again! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "success-kid"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618987376.000100",
+        "parent_user_id": "U01RKN0EGDV",
+        "reactions": [
+            {
+                "name": "success-kid",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "584961e2-ba20-455e-abbf-c0ae008d0fc8",
+        "type": "message",
+        "text": "i think the problem is the battery... but the thing is that the computer is just 3 years old.. i don't want to buy a new one",
+        "user": "U01RKN0EGDV",
+        "ts": "1618990338.002300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RKN0EGDV",
+            "ts": "1618990388.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BWU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think the problem is the battery... but the thing is that the computer is just 3 years old.. i don't want to buy a new one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618987376.000100",
+        "parent_user_id": "U01RKN0EGDV"
+    },
+    {
+        "client_msg_id": "9728d35a-bccb-471b-9916-ea0c7c516b17",
+        "type": "message",
+        "text": "the moment when you wonder if hanging around for the stock options on a start up might have been worth it - yes this was the bank i started and looks like its doing just fine without my data skills lol <https:\/\/www.telegraph.co.uk\/technology\/2021\/03\/22\/oaknorth-profits-surge-776m-despite-pandemic\/>",
+        "user": "U01RW140HBP",
+        "ts": "1619000053.003200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1619000080.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "The Telegraph",
+                "title": "OakNorth profits surge to £77.6m despite pandemic",
+                "title_link": "https:\/\/www.telegraph.co.uk\/technology\/2021\/03\/22\/oaknorth-profits-surge-776m-despite-pandemic\/",
+                "text": "The SoftBank-backed challenger bank issued more than £1bn in loans last year",
+                "fallback": "The Telegraph: OakNorth profits surge to £77.6m despite pandemic",
+                "image_url": "https:\/\/www.telegraph.co.uk\/content\/dam\/technology\/2019\/04\/05\/TELEMMGLPICT000193175215_trans_NvBQzQNjv4BqypDu90kZXMl1ahZ6bcqgraBvRyfxRsjEl6dpTf96co4.jpeg?impolicy=logo-overlay",
+                "from_url": "https:\/\/www.telegraph.co.uk\/technology\/2021\/03\/22\/oaknorth-profits-surge-776m-despite-pandemic\/",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 79706,
+                "service_icon": "https:\/\/www.telegraph.co.uk\/etc\/designs\/telegraph\/core\/clientlibs\/core\/icons\/favicon-152x152.png",
+                "id": 1,
+                "original_url": "https:\/\/www.telegraph.co.uk\/technology\/2021\/03\/22\/oaknorth-profits-surge-776m-despite-pandemic\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GQx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the moment when you wonder if hanging around for the stock options on a start up might have been worth it - yes this was the bank i started and looks like its doing just fine without my data skills lol "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.telegraph.co.uk\/technology\/2021\/03\/22\/oaknorth-profits-surge-776m-despite-pandemic\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619000053.003200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1619002807.003500",
+        "reply_users": [
+            "U01S7BM4N81"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619002807.003500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01S081EULS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "551a7f25-9a5f-4ec5-adc4-efc98f64073e",
+        "type": "message",
+        "text": "Oh, I know that feeling…",
+        "user": "U01S7BM4N81",
+        "ts": "1619002807.003500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2PV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, I know that feeling…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619000053.003200",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "61a19d8c-e876-4adc-83f9-c1319ee083b4",
+        "type": "message",
+        "text": "this is a thing i didnt know we could all get discounts on <https:\/\/www.myunidays.com\/GB\/en-GB\/category\/all-technology>",
+        "user": "U01RW140HBP",
+        "ts": "1619007531.003900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Technology student discount - April 2021",
+                "title_link": "https:\/\/www.myunidays.com\/GB\/en-GB\/category\/all-technology",
+                "text": "Get FREE, instant access to student discount. Join us today, and start saving with big retailers like ASOS, Topshop, Missguided, Bed Bath &amp; Beyond, Urban Outfitters and LOADS more…",
+                "fallback": "Technology student discount - April 2021",
+                "from_url": "https:\/\/www.myunidays.com\/GB\/en-GB\/category\/all-technology",
+                "service_icon": "https:\/\/images.unidays.world\/i\/favicons\/set-a\/apple-touch-icon-57x57.png",
+                "service_name": "myunidays.com",
+                "id": 1,
+                "original_url": "https:\/\/www.myunidays.com\/GB\/en-GB\/category\/all-technology"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPME",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is a thing i didnt know we could all get discounts on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.myunidays.com\/GB\/en-GB\/category\/all-technology"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619007531.003900",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1619435746.010300",
+        "reply_users": [
+            "U01SK96QF5E",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1619433344.009900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619435727.010100"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619435746.010300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RXCQHMHT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98aa0ea8-b5d2-4e08-af28-423f92cd87d5",
+        "type": "message",
+        "text": "ill just leave this here <https:\/\/blog.zoom.us\/filters-reactions-lighting-features-zoom-meetings-2\/>",
+        "user": "U01RW140HBP",
+        "ts": "1619014977.004200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C0Ar",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ill just leave this here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.zoom.us\/filters-reactions-lighting-features-zoom-meetings-2\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

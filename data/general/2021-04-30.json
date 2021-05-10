@@ -1,0 +1,554 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F020WT0RMQR",
+                "created": 1619773494,
+                "timestamp": 1619773494,
+                "name": "machine.csv",
+                "title": "machine.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U01RW140HBP",
+                "editable": true,
+                "size": 132,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020WT0RMQR\/machine.csv?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020WT0RMQR\/download\/machine.csv?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F020WT0RMQR\/machine.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020WT0RMQR-19521671d9",
+                "edit_link": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F020WT0RMQR\/machine.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1619773504.011600"
+    },
+    {
+        "client_msg_id": "28a64306-c028-4161-90e3-d234331097f3",
+        "type": "message",
+        "text": "Not sure which is the best channel for job stuff? But I saw this article on the hiring process for Data Analytics at GetYourGuide. Maybe the tips apply more generally to job applications :slightly_smiling_face:. Plus Triston is a hella nice guy\n\n<https:\/\/inside.getyourguide.com\/blog\/2021\/4\/7\/s2e2-an-inside-look-at-the-data-analytics-hiring-process>",
+        "user": "U01S7KCL3DF",
+        "ts": "1619775499.013200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Inside GetYourGuide",
+                "title": "An inside look at the data analytics hiring process  — Inside GetYourGuide",
+                "title_link": "https:\/\/inside.getyourguide.com\/blog\/2021\/4\/7\/s2e2-an-inside-look-at-the-data-analytics-hiring-process",
+                "text": "Triston Cossette, director of analytics, and Steve Rose, senior tech recruiter, walk us through the interview process for data analyst roles and drop hints on how to ace the interview.",
+                "fallback": "Inside GetYourGuide: An inside look at the data analytics hiring process  — Inside GetYourGuide",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/576cefc7d1758e1810e959e7\/576cf17b99a7b15e868eaa0a\/603424656408fb20f621379f\/1617799220598\/1221_GetYourGuide_Talented_Podcast_BlogHeader.png?format=1500w",
+                "from_url": "https:\/\/inside.getyourguide.com\/blog\/2021\/4\/7\/s2e2-an-inside-look-at-the-data-analytics-hiring-process",
+                "thumb_width": 1418,
+                "thumb_height": 741,
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/576cefc7d1758e1810e959e7\/1529325558654-E0LWQXMG5XISW808D7R5\/ke17ZwdGBToddI8pDm48kFVLZvLBdE-d1IyYFxRbMCl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UdDLBpj3RKe1ZLvDPquLok_Q_VblHpENL9EPavlGSF31OpYghpI-Ha_TwZsqqmJXng\/favicon.ico?format=100w",
+                "id": 1,
+                "original_url": "https:\/\/inside.getyourguide.com\/blog\/2021\/4\/7\/s2e2-an-inside-look-at-the-data-analytics-hiring-process"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wh5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure which is the best channel for job stuff? But I saw this article on the hiring process for Data Analytics at GetYourGuide. Maybe the tips apply more generally to job applications "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Plus Triston is a hella nice guy\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/inside.getyourguide.com\/blog\/2021\/4\/7\/s2e2-an-inside-look-at-the-data-analytics-hiring-process"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619775499.013200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1619778142.014000",
+        "reply_users": [
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619778142.014000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S65G72SY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "This is the visualization from Gretl <@U01RW140HBP>",
+        "files": [
+            {
+                "id": "F020BKU11SA",
+                "created": 1619776541,
+                "timestamp": 1619776541,
+                "name": "visualization.png",
+                "title": "visualization.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RRV4JX6Z",
+                "editable": false,
+                "size": 152822,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020BKU11SA\/visualization.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020BKU11SA\/download\/visualization.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020BKU11SA-5c24c7a95d\/visualization_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020BKU11SA-5c24c7a95d\/visualization_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020BKU11SA-5c24c7a95d\/visualization_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 165,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020BKU11SA-5c24c7a95d\/visualization_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 221,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020BKU11SA-5c24c7a95d\/visualization_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020BKU11SA-5c24c7a95d\/visualization_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 331,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020BKU11SA-5c24c7a95d\/visualization_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 368,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020BKU11SA-5c24c7a95d\/visualization_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 441,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020BKU11SA-5c24c7a95d\/visualization_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 471,
+                "original_w": 1817,
+                "original_h": 835,
+                "thumb_tiny": "AwAWADDSAAHSlNAooATBz1pOhNOpuMmgA\/Ol7UbaO1ACbqN3pSUgoAdupQaZTh0oAXNBPFJRQB\/\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RRV4JX6Z\/F020BKU11SA\/visualization.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020BKU11SA-c604ec7369",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oJt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the visualization from Gretl "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RW140HBP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RRV4JX6Z",
+        "display_as_bot": false,
+        "ts": "1619776557.013700"
+    },
+    {
+        "client_msg_id": "83e01036-fa29-4a53-a9ba-057d012d2fe4",
+        "type": "message",
+        "text": "and they’re hiring for an Associate Data Analyst\n\n<https:\/\/careers.getyourguide.com\/positions\/engineering\/associate-data-analyst-business-analytics\/berlin\/>",
+        "user": "U01S7KCL3DF",
+        "ts": "1619778142.014000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Careers @ GetYourGuide",
+                "title": "Job view - Careers @ GetYourGuide",
+                "title_link": "https:\/\/careers.getyourguide.com\/positions\/engineering\/associate-data-analyst-business-analytics\/berlin\/",
+                "text": "Send your application today and join our team changing the travel industry.",
+                "fallback": "Careers @ GetYourGuide: Job view - Careers @ GetYourGuide",
+                "thumb_url": "https:\/\/s29897.pcdn.co\/wp-content\/uploads\/2019\/03\/140_Greenhouse-LinkedIn-image_v3.jpg",
+                "from_url": "https:\/\/careers.getyourguide.com\/positions\/engineering\/associate-data-analyst-business-analytics\/berlin\/",
+                "thumb_width": 1116,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/s29897.pcdn.co\/wp-content\/uploads\/2019\/03\/cropped-favicon-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/careers.getyourguide.com\/positions\/engineering\/associate-data-analyst-business-analytics\/berlin\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bkpE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and they’re hiring for an Associate Data Analyst\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careers.getyourguide.com\/positions\/engineering\/associate-data-analyst-business-analytics\/berlin\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619775499.013200",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "6852dc50-d4b9-473c-85f7-75629af7229a",
+        "type": "message",
+        "text": "@ sian, are you going to post the lab you worked on this morning so we can follow through what you did again?",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619779459.015400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0OI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@ sian, are you going to post the lab you worked on this morning so we can follow through what you did again?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "765c219a-586a-4093-81ad-55141b0c071c",
+        "type": "message",
+        "text": "yep its on the lab in notion from yesterday",
+        "user": "U01RW140HBP",
+        "ts": "1619779481.015700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dEq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep its on the lab in notion from yesterday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23ab3ebd-9ab8-4d85-8b44-c825cacdc6d8",
+        "type": "message",
+        "text": "ok thx",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619779508.016000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dzE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok thx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79bcfbd3-6efc-423c-b9ba-fdd491191a46",
+        "type": "message",
+        "text": "<https:\/\/www.notion.so\/ironhack\/Berlin-data-classroom-5f8f3ff27075492b8b457677368fda2d?p=75a97c9775564aed8f83eccdefee56ff> ' lab walkthrough in class’",
+        "user": "U01RW140HBP",
+        "ts": "1619779516.016200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "T tests and p values",
+                "title_link": "https:\/\/www.notion.so\/ironhack\/Berlin-data-classroom-5f8f3ff27075492b8b457677368fda2d?p=75a97c9775564aed8f83eccdefee56ff",
+                "text": "useful resources (and the notebook) are in lecture notes :sunglasses:",
+                "fallback": "ironhack on Notion: T tests and p values",
+                "from_url": "https:\/\/www.notion.so\/ironhack\/Berlin-data-classroom-5f8f3ff27075492b8b457677368fda2d?p=75a97c9775564aed8f83eccdefee56ff",
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/ironhack\/Berlin-data-classroom-5f8f3ff27075492b8b457677368fda2d?p=75a97c9775564aed8f83eccdefee56ff"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rwk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/ironhack\/Berlin-data-classroom-5f8f3ff27075492b8b457677368fda2d?p=75a97c9775564aed8f83eccdefee56ff"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ' lab walkthrough in class’"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!channel> as i can see you are all engrossed in nested dictionaries with <@U01SJKB2MG8>!\nat your next break, please complete the weekly survey (if you havent already)\n Happy May Day to you all, from this mad little island of Morris dancing, see you Monday morning!",
+        "files": [
+            {
+                "id": "F020RESU64U",
+                "created": 1619792728,
+                "timestamp": 1619792728,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 287202,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020RESU64U\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020RESU64U\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020RESU64U-af8dee277d\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020RESU64U-af8dee277d\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020RESU64U-af8dee277d\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020RESU64U-af8dee277d\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020RESU64U-af8dee277d\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 480,
+                "original_h": 300,
+                "thumb_tiny": "AwAeADCwLUelPW3XP0oW4WmPcnzsKAQBn3rJK5o20SeUoPC5HqDQIUYZHSqs0zSRLkAE8cdzmplm2gptIKjhic59arlRN2NMaiTa20c4HPf0pxth6VBNL5gRtvzg5bHTIq55ydzSasNNmMsh\/iY1NG4Zck4bdwag24pRkDA71SZNywWAU4zjPHPFNLYKjcck4zUJOVC46d6C7E54pgStJhW2nAFQb29f1pcnaRxg4pNoobA\/\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F020RESU64U\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020RESU64U-1c76ce469c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nTwK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as i can see you are all engrossed in nested dictionaries with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\nat your next break, please complete the weekly survey (if you havent already)\n Happy May Day to you all, from this mad little island of Morris dancing, see you Monday morning!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1619792748.018800",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RXCQHMHT",
+                    "U01RKN0EGDV",
+                    "U01S7BM4N81",
+                    "U01S0E0MRJ7",
+                    "U01S081EULS",
+                    "U01S0P26NKD"
+                ],
+                "count": 6
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01S7BM4N81",
+                    "U01S081EULS",
+                    "U01RP2K1606",
+                    "U01RN7BVD1C"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S133DZ9A"
+                ],
+                "count": 1
+            },
+            {
+                "name": "giphy",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

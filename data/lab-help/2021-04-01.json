@@ -1,0 +1,2125 @@
+[
+    {
+        "client_msg_id": "fa743388-237c-4f34-be0e-8d50189241f8",
+        "type": "message",
+        "text": "when i upload a tableau file to tableau public, are all worksheets there? I can only see one sheet, but down below it says there's  7 worksheets :thinking_face:",
+        "user": "U01S7KCL3DF",
+        "ts": "1617260547.006300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vik",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when i upload a tableau file to tableau public, are all worksheets there? I can only see one sheet, but down below it says there's  7 worksheets "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617260547.006300",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1617260728.006900",
+        "reply_users": [
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617260648.006500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617260713.006700"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617260728.006900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "you may need to set the option on the published workbook - display sheets as tabs\na la",
+        "files": [
+            {
+                "id": "F01T7B51VE0",
+                "created": 1617260646,
+                "timestamp": 1617260646,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 85192,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T7B51VE0\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T7B51VE0\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7B51VE0-c7fb0a24fd\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7B51VE0-c7fb0a24fd\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7B51VE0-c7fb0a24fd\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 162,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7B51VE0-c7fb0a24fd\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 216,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7B51VE0-c7fb0a24fd\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7B51VE0-c7fb0a24fd\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 324,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7B51VE0-c7fb0a24fd\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 360,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7B51VE0-c7fb0a24fd\/image_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 432,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7B51VE0-c7fb0a24fd\/image_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 461,
+                "original_w": 1734,
+                "original_h": 780,
+                "thumb_tiny": "AwAVADDTpOKX8aT8aADiloooAKKKKACiiigAooooAZsb++adg+tLRQB\/\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F01T7B51VE0\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01T7B51VE0-1ab1c7134d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cuh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you may need to set the option on the published workbook - display sheets as tabs\na la"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1617260648.006500",
+        "thread_ts": "1617260547.006300",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6471a72d-5681-4a3c-8627-be414d7326c1",
+        "type": "message",
+        "text": "when you are logged into your tableau profile, select the workbook. underneath the preview and next to the workbook name you have an Edit details toggle",
+        "user": "U01RW140HBP",
+        "ts": "1617260713.006700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WAlH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when you are logged into your tableau profile, select the workbook. underneath the preview and next to the workbook name you have an Edit details toggle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617260547.006300",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01SK96QF5E",
+                    "U01S7KCL3DF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5515e52-a9ec-4e8f-97ec-b99f055a9834",
+        "type": "message",
+        "text": "if you cant find it let me know and ill show you during the lecture",
+        "user": "U01RW140HBP",
+        "ts": "1617260728.006900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kxF7y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you cant find it let me know and ill show you during the lecture"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617260547.006300",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "5bd29efb-57d1-4bab-9f0d-54d966da6399",
+        "type": "message",
+        "text": "not being able to use the data is a slightly bigger problem! I will refer you to a TA - but in general thats a good question to reach out for help on during the lab time",
+        "user": "U01RW140HBP",
+        "ts": "1617260767.007100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cr=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not being able to use the data is a slightly bigger problem! I will refer you to a TA - but in general thats a good question to reach out for help on during the lab time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617209011.003900",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "0998a770-2374-419a-80f8-43e50a0dc1be",
+        "type": "message",
+        "text": "for anyone struggling with the csv formatting\/delimiters of the laureate dataset - i wondered if that was because i first downloaded the csv to my mac, then uploaded it to github…. so I am giving you the original data sources of this data set (you will need it again today) and for the Stories lab dataset. Both are from dataworld, you will need to register to download the data yourself (it is free)\n• laureate.csv is the nobel_prize_by_winner.csv from <https:\/\/data.world\/sya\/nobel-prize-winners>\n• harvested_crops_summary.csv is from <https:\/\/data.world\/makeovermonday\/2021w11>\n",
+        "user": "U01RW140HBP",
+        "ts": "1617262096.011200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "data.world",
+                "title": "Nobel Prize Winners - dataset by sya",
+                "title_link": "https:\/\/data.world\/sya\/nobel-prize-winners",
+                "text": "Nobel Prize Laureates from 1901-2016",
+                "fallback": "data.world: Nobel Prize Winners - dataset by sya",
+                "thumb_url": "http:\/\/i.imgur.com\/qw5o54v.png?1",
+                "from_url": "https:\/\/data.world\/sya\/nobel-prize-winners",
+                "thumb_width": 500,
+                "thumb_height": 367,
+                "service_icon": "https:\/\/data.world\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/data.world\/sya\/nobel-prize-winners"
+            },
+            {
+                "service_name": "data.world",
+                "title": "2021\/W11: What is the World's Biggest Cash Crop? - dataset by makeovermonday",
+                "title_link": "https:\/\/data.world\/makeovermonday\/2021w11",
+                "text": "From 1961-2019, which crops per region were most harvested, produced the most yield, and produced the most quantity?",
+                "fallback": "data.world: 2021\/W11: What is the World's Biggest Cash Crop? - dataset by makeovermonday",
+                "thumb_url": "https:\/\/infobeautiful4.s3.amazonaws.com\/2014\/11\/2552_IIB_Cash-Crops.png",
+                "from_url": "https:\/\/data.world\/makeovermonday\/2021w11",
+                "thumb_width": 2552,
+                "thumb_height": 4668,
+                "service_icon": "https:\/\/data.world\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/data.world\/makeovermonday\/2021w11"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AHtRU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for anyone struggling with the csv formatting\/delimiters of the laureate dataset - i wondered if that was because i first downloaded the csv to my mac, then uploaded it to github…. so I am giving you the original data sources of this data set (you will need it again today) and for the Stories lab dataset. Both are from dataworld, you will need to register to download the data yourself (it is free)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "laureate.csv is the nobel_prize_by_winner.csv from "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/data.world\/sya\/nobel-prize-winners"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "harvested_crops_summary.csv is from "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/data.world\/makeovermonday\/2021w11"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617262096.011200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617264779.012400",
+        "reply_users": [
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617264779.012400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b06de8e5-af21-466c-9083-c3cbe0edf5ae",
+        "type": "message",
+        "text": "<@U01RS9Y6UJH>",
+        "user": "U01RW140HBP",
+        "ts": "1617264779.012400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5OXaW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RS9Y6UJH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617262096.011200",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "type": "message",
+        "text": "If tableau is also running awfully slow on your machine, turning off (Deselect) the 'Enable Accelerated Graphics' function (in HELP-&gt;SETTINGS AND PERFORMANCE)",
+        "files": [
+            {
+                "id": "F01SV1WTVBQ",
+                "created": 1617274171,
+                "timestamp": 1617274171,
+                "name": "Bildschirmfoto 2021-04-01 um 12.49.06.png",
+                "title": "Bildschirmfoto 2021-04-01 um 12.49.06.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7BM4N81",
+                "editable": false,
+                "size": 102367,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SV1WTVBQ\/bildschirmfoto_2021-04-01_um_12.49.06.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SV1WTVBQ\/download\/bildschirmfoto_2021-04-01_um_12.49.06.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SV1WTVBQ-fa8f28e371\/bildschirmfoto_2021-04-01_um_12.49.06_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SV1WTVBQ-fa8f28e371\/bildschirmfoto_2021-04-01_um_12.49.06_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SV1WTVBQ-fa8f28e371\/bildschirmfoto_2021-04-01_um_12.49.06_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 140,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SV1WTVBQ-fa8f28e371\/bildschirmfoto_2021-04-01_um_12.49.06_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 186,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SV1WTVBQ-fa8f28e371\/bildschirmfoto_2021-04-01_um_12.49.06_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SV1WTVBQ-fa8f28e371\/bildschirmfoto_2021-04-01_um_12.49.06_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 279,
+                "original_w": 769,
+                "original_h": 298,
+                "thumb_tiny": "AwASADCXfjoKN\/uabvHotLuH+zQKyEmlZImYHkVU+2y4xx+dWztYYIU57Uzyl\/uD8qAsisLuTqWb8610AZFYjkgHiqIiXP8Aq1\/KrqfdAxQOxg0UtFAElv8A60VeqjB\/rRV+tYbES3EPajc2ep\/Og9qTvVkH\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7BM4N81\/F01SV1WTVBQ\/bildschirmfoto_2021-04-01_um_12.49.06.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01SV1WTVBQ-0b4f01b51f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UhOc\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If tableau is also running awfully slow on your machine, turning off (Deselect) the 'Enable Accelerated Graphics' function (in HELP->SETTINGS AND PERFORMANCE)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S7BM4N81",
+        "display_as_bot": false,
+        "ts": "1617274218.013400",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17019330-0f9f-4326-a077-8bbb425549d0",
+        "type": "message",
+        "text": "here is my example story on the crop yields for this afternoons lab - its not super in depth, but the idea is to attempt some root cause analysis - i spotted what looked like a comparative trend, drilled into it, and then suggested an explanation … <https:\/\/public.tableau.com\/profile\/sianedavies#!\/vizhome\/solutiontemplate-stories\/header>",
+        "user": "U01RW140HBP",
+        "ts": "1617275036.014600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JOOM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here is my example story on the crop yields for this afternoons lab - its not super in depth, but the idea is to attempt some root cause analysis - i spotted what looked like a comparative trend, drilled into it, and then suggested an explanation … "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/profile\/sianedavies#!\/vizhome\/solutiontemplate-stories\/header"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617275036.014600",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1617694189.000100",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617344828.000300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617347669.001200"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617348605.001800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617350209.002000"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617350237.002300"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617694189.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01SK96QF5E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5883923f-fae7-4604-acc3-08228f6f3891",
+        "type": "message",
+        "text": "hey I'm just trying to read a csv file on python with pandas (apparently doing nothing wrong) and gives me this error, someone knows what does mean? and how to solve it?\n```ParserError: Error tokenizing data. C error: Expected 1 fields in line 7, saw 2```\n",
+        "user": "U01RKN0EGDV",
+        "ts": "1617280149.016200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FEb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey I'm just trying to read a csv file on python with pandas (apparently doing nothing wrong) and gives me this error, someone knows what does mean? and how to solve it?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ParserError: Error tokenizing data. C error: Expected 1 fields in line 7, saw 2"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617280149.016200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1617280666.017000",
+        "reply_users": [
+            "U01RW140HBP",
+            "U01RKN0EGDV"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617280404.016300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617280498.016600"
+            },
+            {
+                "user": "U01RKN0EGDV",
+                "ts": "1617280666.017000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4f01d084-df82-4ae5-9415-ac42673d3192",
+        "type": "message",
+        "text": "the problem will be the separators in the file. in this case not consistently a comma i guess. best thing to do - open the file with a generic text editor and see what the separator is - then embed that in the read_csv () eg read_csv(filename,sep=‘;’)\nor you can try this\n```data = pd.read_csv('file1.csv', error_bad_lines=False)```\nit will skip any lines which dont match the expected pattern though, you might end up with zero data",
+        "user": "U01RW140HBP",
+        "ts": "1617280404.016300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1617280439.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1xU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the problem will be the separators in the file. in this case not consistently a comma i guess. best thing to do - open the file with a generic text editor and see what the separator is - then embed that in the read_csv () eg read_csv(filename,sep=‘;’)\nor you can try this\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "data = pd.read_csv('file1.csv', error_bad_lines=False)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it will skip any lines which dont match the expected pattern though, you might end up with zero data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617280149.016200",
+        "parent_user_id": "U01RKN0EGDV"
+    },
+    {
+        "client_msg_id": "d39cc475-2d11-46ff-875b-4f1edac6713a",
+        "type": "message",
+        "text": "can hear your frustration - “apparently doing nothing wrong” :hugging_face:",
+        "user": "U01RW140HBP",
+        "ts": "1617280498.016600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PSI\/S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can hear your frustration - “apparently doing nothing wrong” "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617280149.016200",
+        "parent_user_id": "U01RKN0EGDV",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U01RKN0EGDV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "140a73d8-d46b-4629-ae86-54bb623c5ad4",
+        "type": "message",
+        "text": "fixed :sob: thanks",
+        "user": "U01RKN0EGDV",
+        "ts": "1617280666.017000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zh3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fixed "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617280149.016200",
+        "parent_user_id": "U01RKN0EGDV"
+    },
+    {
+        "client_msg_id": "945f8d5e-04b0-4bc0-9b0f-1a607da48be6",
+        "type": "message",
+        "text": "I'm having a lots of problems with the file laureate.csv :sweat: I want to convert the Year column to Date (to be able to apply the Range of Dates filter) but when I do it all the years disappear except 1990",
+        "user": "U01RKN0EGDV",
+        "ts": "1617283746.019300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xi=83",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm having a lots of problems with the file laureate.csv "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I want to convert the Year column to Date (to be able to apply the Range of Dates filter) but when I do it all the years disappear except 1990"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617283746.019300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617283800.019400",
+        "reply_users": [
+            "U01RSRE0N3D"
+        ],
+        "replies": [
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1617283800.019400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617283800.019400"
+    },
+    {
+        "client_msg_id": "ad2f805b-590e-4367-ba7e-5ef7d75261c7",
+        "type": "message",
+        "text": "on it",
+        "user": "U01RSRE0N3D",
+        "ts": "1617283800.019400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617283746.019300",
+        "parent_user_id": "U01RKN0EGDV"
+    },
+    {
+        "client_msg_id": "a6ccb28a-be0a-4f33-8675-10a384025c75",
+        "type": "message",
+        "text": "Hi guys!  Do you know if it is possible to publish on Tableau Public the entire Workbook instead of single sheet? :thinking_face:",
+        "user": "U01S081EULS",
+        "ts": "1617288820.023100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S081EULS",
+            "ts": "1617288916.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k4Wcc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi guys!  Do you know if it is possible to publish on Tableau Public the entire Workbook instead of single sheet? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617288820.023100",
+        "reply_count": 11,
+        "reply_users_count": 6,
+        "latest_reply": "1617347336.001000",
+        "reply_users": [
+            "U01SD3CDH9P",
+            "U01RNEU3SNA",
+            "U01RP2K1606",
+            "U01S081EULS",
+            "U01S7BM4N81",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1617288840.023300"
+            },
+            {
+                "user": "U01RNEU3SNA",
+                "ts": "1617289159.024800"
+            },
+            {
+                "user": "U01RP2K1606",
+                "ts": "1617289231.025100"
+            },
+            {
+                "user": "U01S081EULS",
+                "ts": "1617289717.025900"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617289738.026100"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617289761.026300"
+            },
+            {
+                "user": "U01S081EULS",
+                "ts": "1617290034.026700"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617290062.026900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617290678.027100"
+            },
+            {
+                "user": "U01S081EULS",
+                "ts": "1617291517.028000"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617347336.001000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "781deaa1-fab9-4bb8-a691-110cda6ea5d1",
+        "type": "message",
+        "text": "I have the same issue!",
+        "user": "U01SD3CDH9P",
+        "ts": "1617288840.023300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LAR9V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have the same issue!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617288820.023100",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "6a859d14-304b-43ca-b6d7-bd27a4d06804",
+        "type": "message",
+        "text": "it publishes the entire workbook, at the bottom you'll be able to see or explore other sheets from the same work book you have published.",
+        "user": "U01RNEU3SNA",
+        "ts": "1617289159.024800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ddcfccb1de00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-01\/1944455459184_ddcfccb1de00850a76e1_72.jpg",
+            "first_name": "peter.geo",
+            "real_name": "peter.geo DAFT MAR2020",
+            "display_name": "Peter George",
+            "team": "T01RBRV5F7H",
+            "name": "petergeorge649",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7A4o+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it publishes the entire workbook, at the bottom you'll be able to see or explore other sheets from the same work book you have published."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617288820.023100",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "f481cfbd-82c1-4771-ae00-e8264bd88c71",
+        "type": "message",
+        "text": "if you use windows, make sure 'Show workbook sheets as tabs'  is selected under Other Settings (under Edit settings)",
+        "user": "U01RP2K1606",
+        "ts": "1617289231.025100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "cf57933e3b00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880079302355_cf57933e3b00451b4617_72.png",
+            "first_name": "",
+            "real_name": "Jalal Karimov",
+            "display_name": "Jalal Karimov",
+            "team": "T01RBRV5F7H",
+            "name": "jalalkrmv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2BhMj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you use windows, make sure 'Show workbook sheets as tabs'  is selected under Other Settings (under Edit settings)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617288820.023100",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "405156c7-f07f-4a5e-be49-38cef2c143bb",
+        "type": "message",
+        "text": "Thank you guys! What about Mac users?",
+        "user": "U01S081EULS",
+        "ts": "1617289717.025900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dJA\/X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you guys! What about Mac users?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617288820.023100",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "f7340831-fcad-43e2-b3d3-977a8add5433",
+        "type": "message",
+        "text": "Same for mac users :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1617289738.026100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q1X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same for mac users "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617288820.023100",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "9999f315-137b-40c4-9307-bac094e0e577",
+        "type": "message",
+        "text": "I can switch sheets on public at the top of the workbook",
+        "user": "U01S7BM4N81",
+        "ts": "1617289761.026300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hFjiR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can switch sheets on public at the top of the workbook"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617288820.023100",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "627db6ee-d430-4bdb-a631-c5bba59f1e8e",
+        "type": "message",
+        "text": "I am saving the challenges in separate views, is it a problem?",
+        "user": "U01S79YDELR",
+        "ts": "1617289771.026600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eX+uj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am saving the challenges in separate views, is it a problem?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617289771.026600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1617290834.027800",
+        "reply_users": [
+            "U01RW140HBP",
+            "U01S79YDELR"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617290714.027400"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617290727.027600"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617290834.027800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8fd229ce-4077-49d8-8931-1684f5da1839",
+        "type": "message",
+        "text": "sorry guys, where do I find these settings?",
+        "user": "U01S081EULS",
+        "ts": "1617290034.026700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ua",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry guys, where do I find these settings?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617288820.023100",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "f7eddb99-1bb1-42dd-871c-cdd3553ec49c",
+        "type": "message",
+        "text": "When I first saved somethin, a dialogue box appeared",
+        "user": "U01S7BM4N81",
+        "ts": "1617290062.026900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k9j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When I first saved somethin, a dialogue box appeared"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617288820.023100",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "6ce490ac-0ef2-4143-aef1-d3975e743082",
+        "type": "message",
+        "text": "you publish the whole workbook by default <@U01S081EULS>… you just need to ensure the sheets are viewable as tabs. on tableau public this a configuration to the workbook after publishing",
+        "user": "U01RW140HBP",
+        "ts": "1617290678.027100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1617290698.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y4l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you publish the whole workbook by default "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S081EULS"
+                            },
+                            {
+                                "type": "text",
+                                "text": "… you just need to ensure the sheets are viewable as tabs. on tableau public this a configuration to the workbook after publishing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617288820.023100",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "383fdbec-b81f-422c-a4b6-4ffdb7914a64",
+        "type": "message",
+        "text": "not a problem",
+        "user": "U01RW140HBP",
+        "ts": "1617290714.027400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1++",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not a problem"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617289771.026600",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "0719099a-93d9-4566-a9ed-5680e6d29c94",
+        "type": "message",
+        "text": "but you should publish one workbook per lab",
+        "user": "U01RW140HBP",
+        "ts": "1617290727.027600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iHeAf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but you should publish one workbook per lab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617289771.026600",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "c318facf-0aa3-490d-bd7f-f6a6911e8177",
+        "type": "message",
+        "text": "ok :slightly_smiling_face:",
+        "user": "U01S79YDELR",
+        "ts": "1617290834.027800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RLpH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617289771.026600",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "580ba000-edfb-42ff-a4db-58ecf56ac53c",
+        "type": "message",
+        "text": "Now I got it!! Thank you very much all",
+        "user": "U01S081EULS",
+        "ts": "1617291517.028000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S081EULS",
+            "ts": "1617291532.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DHpoF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Now I got it!! Thank you very much all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617288820.023100",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "83840ba0-56ca-4b62-b2b5-a6eba82f591b",
+        "type": "message",
+        "text": "for 'born city' is it normal that Tableau can't figure out the position of about 367 places? or did I filter it wrong?",
+        "user": "U01S7KCL3DF",
+        "ts": "1617291590.028900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "97WN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for 'born city' is it normal that Tableau can't figure out the position of about 367 places? or did I filter it wrong?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617291590.028900",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1617355500.004500",
+        "reply_users": [
+            "U01RKN0EGDV",
+            "U01S79YDELR",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RKN0EGDV",
+                "ts": "1617293383.029000"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617298024.029200"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617348163.001400"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617355500.004500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "31ee5a80-dfbf-4ae0-ac60-f10a3fae1f0d",
+        "type": "message",
+        "text": "similar problem, and also when I filter by Russia only shows 2 points (but the data source shows that around 10 people died in Rusia) :thinking_face:",
+        "user": "U01RKN0EGDV",
+        "ts": "1617293383.029000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SUm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "similar problem, and also when I filter by Russia only shows 2 points (but the data source shows that around 10 people died in Rusia) "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617291590.028900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "1ba1d9cc-bda6-4496-bc74-8282ea180eb2",
+        "type": "message",
+        "text": "it shows me only 1 person that has born and died in Russia",
+        "user": "U01S79YDELR",
+        "ts": "1617298024.029200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q8GN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it shows me only 1 person that has born and died in Russia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617291590.028900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "54d674da-5bd8-4f3f-8c4b-00af8859270a",
+        "type": "message",
+        "text": "Regarding MYSQL Workbench installation for Mac: Version 8.0.22 works on Big Sur 11.2. (last release 8.0.23 was not working for me)\nI also had to to change System Preference -&gt; Security and Privacy --&gt; General --&gt; Open Anyway\nJust in case you face the same issue :slightly_smiling_face:",
+        "user": "U01S081EULS",
+        "ts": "1617312591.032400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uv+HQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Regarding MYSQL Workbench installation for Mac: Version 8.0.22 works on Big Sur 11.2. (last release 8.0.23 was not working for me)\nI also had to to change System Preference -> Security and Privacy --> General --> Open Anyway\nJust in case you face the same issue "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "reply_count": 15,
+        "reply_users_count": 7,
+        "latest_reply": "1617362308.011100",
+        "reply_users": [
+            "U01RN7BVD1C",
+            "U01S081EULS",
+            "U01S133DZ9A",
+            "U01RRV4JX6Z",
+            "U01S7BM4N81",
+            "U01SD3CDH9P",
+            "U01SK96QF5E"
+        ],
+        "replies": [
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1617344664.000100"
+            },
+            {
+                "user": "U01S081EULS",
+                "ts": "1617345376.000500"
+            },
+            {
+                "user": "U01S081EULS",
+                "ts": "1617345416.000700"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1617348550.001600"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1617350603.002500"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1617350692.002800"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617350710.003000"
+            },
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1617350725.003300"
+            },
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1617350730.003500"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1617350748.003900"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617350769.004100"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617350783.004300"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1617360119.007100"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1617360368.007500"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1617362308.011100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S65G72SY",
+                    "U01RRV4JX6Z",
+                    "U01SK96QF5E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e06f47b7-1380-48f0-ad6e-8ea0237fc6e5",
+        "type": "message",
+        "text": "Did you manage to connect to a data base on mysql workbench? This is were i struggled :disappointed:",
+        "user": "U01RN7BVD1C",
+        "ts": "1617344664.000100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cgHg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did you manage to connect to a data base on mysql workbench? This is were i struggled "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "b90ca0d7-760c-41d3-b70a-57fe2fd4b409",
+        "type": "message",
+        "text": "Hi <@U01RW140HBP> I wanted to tackle the crops questions last night...does the numerical field 'value' represent yield? Or do we need to work it out by the amount of the crop produced divided by the size of land ? (does 'ha' mean hectares)?",
+        "user": "U01S7KCL3DF",
+        "ts": "1617344828.000300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5rr2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RW140HBP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I wanted to tackle the crops questions last night...does the numerical field 'value' represent yield? Or do we need to work it out by the amount of the crop produced divided by the size of land ? (does 'ha' mean hectares)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617275036.014600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "5badfea7-f438-44e8-9677-117446bc7ee3",
+        "type": "message",
+        "text": "Not yet :confused:",
+        "user": "U01S081EULS",
+        "ts": "1617345376.000500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SNV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not yet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "9b5faffa-eff4-4fd8-b07f-4d4bf72ac986",
+        "type": "message",
+        "text": "Are you doing that from the terminal?",
+        "user": "U01S081EULS",
+        "ts": "1617345416.000700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ut6za",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you doing that from the terminal?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS"
+    }
+]

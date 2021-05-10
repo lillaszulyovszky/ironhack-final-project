@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "2ca65276-0d67-4de3-8984-dd49fca3bc68",
+        "type": "message",
+        "text": "smoke and mirrors baby, smoke and mirrors",
+        "user": "U01RW140HBP",
+        "ts": "1620284581.005000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BgxH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "smoke and mirrors baby, smoke and mirrors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620235500.003300",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "f1739054-675e-426b-9d4f-7d074804fb81",
+        "type": "message",
+        "text": "My model recommends electronic music when i enter rock songs but they’re great :smile:",
+        "user": "U01S7BM4N81",
+        "ts": "1620314518.006200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p9m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My model recommends electronic music when i enter rock songs but they’re great "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620314518.006200",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1620385160.001100",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01S7BM4N81"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620383505.000100"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620383516.000400"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620383955.000700"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620385068.000900"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620385160.001100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

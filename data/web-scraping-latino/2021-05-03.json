@@ -1,0 +1,1014 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620031976.000200",
+        "user": "U01SD3CDH9P",
+        "text": "<@U01SD3CDH9P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620031985.000400",
+        "user": "U01S081EULS",
+        "text": "<@U01S081EULS> has joined the channel",
+        "inviter": "U01SD3CDH9P"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620031986.000600",
+        "user": "U01S1CWGTU4",
+        "text": "<@U01S1CWGTU4> has joined the channel",
+        "inviter": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "d6ddc0ad-0786-4591-8896-5354000acc31",
+        "type": "message",
+        "text": "hahahhahhahhaaha",
+        "user": "U01S1CWGTU4",
+        "ts": "1620032105.000800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mlm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hahahhahhahhaaha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1eca51a3-0c56-410a-9c9e-b01262eb2594",
+        "type": "message",
+        "text": "guys I am creating a repo on github",
+        "user": "U01SD3CDH9P",
+        "ts": "1620032454.001100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0GW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "guys I am creating a repo on github"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04d1df8a-bc0f-4b7b-a495-045ffa02e291",
+        "type": "message",
+        "text": "can u share the email pls?",
+        "user": "U01SD3CDH9P",
+        "ts": "1620032462.001400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w1Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can u share the email pls?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb60c3bd-9376-42d5-8673-358b98a732ec",
+        "type": "message",
+        "text": "<mailto:antonio.datahack@gmail.com|antonio.datahack@gmail.com>",
+        "user": "U01S1CWGTU4",
+        "ts": "1620032503.001800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H\/ZMw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:antonio.datahack@gmail.com",
+                                "text": "antonio.datahack@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7f40102-e5e1-45e2-906d-0a3c1a880b71",
+        "type": "message",
+        "text": "grazie :ok_hand:",
+        "user": "U01SD3CDH9P",
+        "ts": "1620032530.002100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y2U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "grazie "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f75da313-d87a-4d5e-9ccb-5545f7733d00",
+        "type": "message",
+        "text": ":ok_hand:",
+        "user": "U01S1CWGTU4",
+        "ts": "1620032542.002300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S\/k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "080beabf-42c5-4a98-86b6-13d8db70db51",
+        "type": "message",
+        "text": "<mailto:Giuliani.frc@gmail.com|Giuliani.frc@gmail.com>",
+        "user": "U01S081EULS",
+        "ts": "1620034889.002700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qcqn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:Giuliani.frc@gmail.com",
+                                "text": "Giuliani.frc@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7cb2934-a7ca-4d96-9855-f02e7593c193",
+        "type": "message",
+        "text": "Grazie!",
+        "user": "U01S081EULS",
+        "ts": "1620034892.002900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+JE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Grazie!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13a53540-5071-46fe-9293-a94e6fe8b094",
+        "type": "message",
+        "text": "He is nice but very boring",
+        "user": "U01SD3CDH9P",
+        "ts": "1620034978.004000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H4cG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He is nice but very boring"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c58b2cb-defb-403f-b02f-296fbfa35687",
+        "type": "message",
+        "text": "also siand turned off the camera",
+        "user": "U01SD3CDH9P",
+        "ts": "1620034991.004400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eQT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also siand turned off the camera"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c84fd8ba-269c-48bc-89a4-3e944d03d8e8",
+        "type": "message",
+        "text": "ahahah",
+        "user": "U01S081EULS",
+        "ts": "1620035030.005200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DtTl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44ba2651-3e1d-4190-ad49-d82f60743efc",
+        "type": "message",
+        "text": "I am scared about this slack channels",
+        "user": "U01SD3CDH9P",
+        "ts": "1620035091.006800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lbPIR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am scared about this slack channels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74ef6a7c-4265-498a-871b-7f8c7891b986",
+        "type": "message",
+        "text": "<@U01S081EULS> L'email va bene? non la trovo su git",
+        "user": "U01SD3CDH9P",
+        "ts": "1620035144.008000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xpm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S081EULS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " L'email va bene? non la trovo su git"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf8bfe99-a5ec-4a2a-99df-11f7d714adf8",
+        "type": "message",
+        "text": "el email de tu github tenes q mandar",
+        "user": "U01S1CWGTU4",
+        "ts": "1620035168.008400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sRZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el email de tu github tenes q mandar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7fd391c9-2e9b-4fbc-bd81-fcda7368aa36",
+        "type": "message",
+        "text": "prova a darmi l'username",
+        "user": "U01SD3CDH9P",
+        "ts": "1620035173.008600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JPw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "prova a darmi l'username"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d13092b-6275-4c0c-bfca-b2455d0bdd23",
+        "type": "message",
+        "text": "Federico Gi.",
+        "user": "U01S081EULS",
+        "ts": "1620035183.008900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tltj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Federico Gi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d3aa1f74-59e0-4ad0-8bc2-423580f98378",
+        "type": "message",
+        "text": "L’email dovrebber andare",
+        "user": "U01S081EULS",
+        "ts": "1620035191.009200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A+Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L’email dovrebber andare"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08ef8526-d85c-42db-9f77-e86f9654bc45",
+        "type": "message",
+        "text": "<https:\/\/github.com\/FedericoGi>",
+        "user": "U01S081EULS",
+        "ts": "1620035198.009400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "Federico Gi.",
+                "title": "Federico Gi.",
+                "footer": "<https:\/\/github.com\/FedericoGi|@FedericoGi>",
+                "id": 1,
+                "thumb_height": 426,
+                "thumb_width": 426,
+                "thumb_url": "https:\/\/avatars.githubusercontent.com\/u\/81168952?v=4",
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1616419198,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Repositories",
+                        "value": "9",
+                        "short": true
+                    }
+                ],
+                "bot_id": "B01RM0CJC4X",
+                "app_unfurl_url": "https:\/\/github.com\/FedericoGi",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5o=fe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/FedericoGi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ced2a211-8225-405e-b86b-c9d7b93a898b",
+        "type": "message",
+        "text": "Done!",
+        "user": "U01SD3CDH9P",
+        "ts": "1620035236.009800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eo9yV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56a7e88c-ccd1-4371-bb74-2c7a8ae9616f",
+        "type": "message",
+        "text": "Grazie!",
+        "user": "U01S081EULS",
+        "ts": "1620035246.010000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mrf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Grazie!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e492aba3-9350-4ced-99c9-f9070e731b35",
+        "type": "message",
+        "text": "<@U01S1CWGTU4>  Que has hecho Isabel last week?",
+        "user": "U01S081EULS",
+        "ts": "1620035276.010400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RslJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S1CWGTU4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Que has hecho Isabel last week?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e804509-2e78-4865-89e2-ff01d03c0d91",
+        "type": "message",
+        "text": "ahhhh si mejor hacerlo privado",
+        "user": "U01S081EULS",
+        "ts": "1620035612.011100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bcH9Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahhhh si mejor hacerlo privado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d78d3d3f-7eed-4f03-8378-390e52edbf3d",
+        "type": "message",
+        "text": "yes",
+        "user": "U01S1CWGTU4",
+        "ts": "1620037340.011500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oq5jV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620037368.011700",
+        "user": "U01SD3CDH9P",
+        "text": "<@U01SD3CDH9P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1620037454.011800",
+        "user": "U01SD3CDH9P",
+        "text": "<@U01SD3CDH9P> archived the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620037939.000200",
+        "user": "U01S1CWGTU4",
+        "text": "<@U01S1CWGTU4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_unarchive",
+        "ts": "1620037939.000300",
+        "user": "U01S1CWGTU4",
+        "text": "<@U01S1CWGTU4> un-archived the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620037987.000700",
+        "user": "U01S081EULS",
+        "text": "<@U01S081EULS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1620038037.001100",
+        "user": "U01S081EULS",
+        "text": "<@U01S081EULS> archived the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620038136.001300",
+        "user": "U01S081EULS",
+        "text": "<@U01S081EULS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_unarchive",
+        "ts": "1620038136.001400",
+        "user": "U01S081EULS",
+        "text": "<@U01S081EULS> un-archived the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620038240.001900",
+        "user": "U01SD3CDH9P",
+        "text": "<@U01SD3CDH9P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1620038437.002100",
+        "user": "U01S1CWGTU4",
+        "text": "<@U01S1CWGTU4> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1620039396.002400",
+        "user": "U01SD3CDH9P",
+        "text": "<@U01SD3CDH9P> archived the channel"
+    }
+]

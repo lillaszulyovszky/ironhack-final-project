@@ -1,0 +1,123 @@
+[
+    {
+        "client_msg_id": "c737b426-8ac8-42a7-9c0d-8daa1804bcf0",
+        "type": "message",
+        "text": "<@U01SJKB2MG8>, that may be something for you:<https:\/\/www.suhrkamp.de\/buecher\/die_kunst_der_zukunft-hanno_rauterberg_12775.html|https:\/\/www.suhrkamp.de\/buecher\/die_kunst_der_zukunft-hanno_rauterberg_12775.html>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620495684.025200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Die Kunst der Zukunft: Über den Traum von der kreativen Maschine von Hanno Rauterberg - Suhrkamp Insel Bücher Buchdetail",
+                "title_link": "https:\/\/www.suhrkamp.de\/buecher\/die_kunst_der_zukunft-hanno_rauterberg_12775.html",
+                "text": "Die Kunst der Zukunft: Über den Traum von der kreativen Maschine, Computer erobern die Kunst: Sie malen wie Rembrandt, komponieren wie Bach, sie schreiben Romane und Gedichte. Geht es nach den Digitalkonzernen, ist das erst der Anfang. Künstliche Kreativi",
+                "fallback": "Die Kunst der Zukunft: Über den Traum von der kreativen Maschine von Hanno Rauterberg - Suhrkamp Insel Bücher Buchdetail",
+                "from_url": "https:\/\/www.suhrkamp.de\/buecher\/die_kunst_der_zukunft-hanno_rauterberg_12775.html",
+                "service_icon": "https:\/\/www.suhrkamp.de\/favicon.ico",
+                "service_name": "suhrkamp.de",
+                "id": 1,
+                "original_url": "https:\/\/www.suhrkamp.de\/buecher\/die_kunst_der_zukunft-hanno_rauterberg_12775.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+nt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", that may be something for you:"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.suhrkamp.de\/buecher\/die_kunst_der_zukunft-hanno_rauterberg_12775.html",
+                                "text": "https:\/\/www.suhrkamp.de\/buecher\/die_kunst_der_zukunft-hanno_rauterberg_12775.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0aa8adf6-1058-40be-9c4b-f927d8c47631",
+        "type": "message",
+        "text": "Think this is a cool book for data analysts that pursue a \"reflexive turn\": <https:\/\/www.theguardian.com\/books\/2018\/jun\/30\/new-dark-age-by-james-bridle-review-technology-and-the-end-of-the-future|https:\/\/www.theguardian.com\/books\/2018\/jun\/30\/new-dark-age-by-james-bridle-review-technology-and-the-end-of-the-future>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620495995.025700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "the Guardian",
+                "title": "New Dark Age by James Bridle review – technology and the end of the future",
+                "title_link": "https:\/\/www.theguardian.com\/books\/2018\/jun\/30\/new-dark-age-by-james-bridle-review-technology-and-the-end-of-the-future",
+                "text": "The consequences of the technological revolution may be even more frightening than we thought",
+                "fallback": "the Guardian: New Dark Age by James Bridle review – technology and the end of the future",
+                "image_url": "https:\/\/i.guim.co.uk\/img\/media\/eb848c825fb48143cc0101dba12ab5684a0f9936\/0_900_2000_1200\/master\/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e6ed0a8b15e57092e824516866adc68",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1530340203,
+                "from_url": "https:\/\/www.theguardian.com\/books\/2018\/jun\/30\/new-dark-age-by-james-bridle-review-technology-and-the-end-of-the-future",
+                "image_bytes": 178585,
+                "service_icon": "https:\/\/static.guim.co.uk\/images\/favicon-32x32.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.theguardian.com\/books\/2018\/jun\/30\/new-dark-age-by-james-bridle-review-technology-and-the-end-of-the-future"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=aZqM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Think this is a cool book for data analysts that pursue a \"reflexive turn\": "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.theguardian.com\/books\/2018\/jun\/30\/new-dark-age-by-james-bridle-review-technology-and-the-end-of-the-future",
+                                "text": "https:\/\/www.theguardian.com\/books\/2018\/jun\/30\/new-dark-age-by-james-bridle-review-technology-and-the-end-of-the-future"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

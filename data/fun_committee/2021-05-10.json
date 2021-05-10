@@ -1,0 +1,448 @@
+[
+    {
+        "type": "message",
+        "text": "i’m aware it’s not even midday yet…..but\n\nRadlers tonight\/tomorrow? Friedrichshain? The canals of Kreuzberg? :beer_parrot:",
+        "files": [
+            {
+                "id": "F02235T7LE4",
+                "created": 1620640635,
+                "timestamp": 1620640635,
+                "name": "Screenshot 2021-05-10 at 11.57.03.png",
+                "title": "Screenshot 2021-05-10 at 11.57.03.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7KCL3DF",
+                "editable": false,
+                "size": 26816,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F02235T7LE4\/screenshot_2021-05-10_at_11.57.03.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F02235T7LE4\/download\/screenshot_2021-05-10_at_11.57.03.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02235T7LE4-117c52695b\/screenshot_2021-05-10_at_11.57.03_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02235T7LE4-117c52695b\/screenshot_2021-05-10_at_11.57.03_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02235T7LE4-117c52695b\/screenshot_2021-05-10_at_11.57.03_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 292,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02235T7LE4-117c52695b\/screenshot_2021-05-10_at_11.57.03_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 389,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02235T7LE4-117c52695b\/screenshot_2021-05-10_at_11.57.03_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 486,
+                "original_h": 394,
+                "thumb_tiny": "AwAmADDToNFFACYoxSErmnUrAJijFBxnmlosAUGiimAwnB7U8U3nuBThQA0tg9qdSc98UtIAooopgFFFFABRRRQB\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7KCL3DF\/F02235T7LE4\/screenshot_2021-05-10_at_11.57.03.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F02235T7LE4-f4371edba3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bhe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i’m aware it’s not even midday yet…..but\n\nRadlers tonight\/tomorrow? Friedrichshain? The canals of Kreuzberg? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beer_parrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S7KCL3DF",
+        "display_as_bot": false,
+        "ts": "1620640671.000700",
+        "thread_ts": "1620640671.000700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1620644561.003100",
+        "reply_users": [
+            "U01S65G72SY"
+        ],
+        "replies": [
+            {
+                "user": "U01S65G72SY",
+                "ts": "1620644561.003100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1407f9bd-e166-4ce4-9406-427ee1c41c8c",
+        "type": "message",
+        "text": "holy cow thats some nice weather",
+        "user": "U01RW140HBP",
+        "ts": "1620640700.001200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5c\/z2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "holy cow thats some nice weather"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "it was so nice yesterday the lake spontaneously burst into flames :this-is-fine-fire:  :firefighter:",
+        "files": [
+            {
+                "id": "F020YJKNWFR",
+                "created": 1620640791,
+                "timestamp": 1620640791,
+                "name": "WhatsApp Image 2021-05-10 at 11.15.26.jpeg",
+                "title": "WhatsApp Image 2021-05-10 at 11.15.26.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01S7KCL3DF",
+                "editable": false,
+                "size": 182892,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020YJKNWFR\/whatsapp_image_2021-05-10_at_11.15.26.jpeg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020YJKNWFR\/download\/whatsapp_image_2021-05-10_at_11.15.26.jpeg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YJKNWFR-240ca352da\/whatsapp_image_2021-05-10_at_11.15.26_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YJKNWFR-240ca352da\/whatsapp_image_2021-05-10_at_11.15.26_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YJKNWFR-240ca352da\/whatsapp_image_2021-05-10_at_11.15.26_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YJKNWFR-240ca352da\/whatsapp_image_2021-05-10_at_11.15.26_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YJKNWFR-240ca352da\/whatsapp_image_2021-05-10_at_11.15.26_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YJKNWFR-240ca352da\/whatsapp_image_2021-05-10_at_11.15.26_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YJKNWFR-240ca352da\/whatsapp_image_2021-05-10_at_11.15.26_800.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YJKNWFR-240ca352da\/whatsapp_image_2021-05-10_at_11.15.26_960.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YJKNWFR-240ca352da\/whatsapp_image_2021-05-10_at_11.15.26_1024.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 1200,
+                "original_h": 1600,
+                "thumb_tiny": "AwAwACR4paQCnAVqZiinUgFLigQlFLijFAxm5M43Cnjb\/eH51TC56CjOGwVOPpUXKsXsD1FLtFUCwC5wcZxSqQSPk4x6Gi4WL+yjZVUBSPuD8RS4X+4tFwsM2KP\/ANVLuVSATyaAc8d6QjOCCM\/SszQUsMgEAn3oLe\/5U09OnIpwII9qYBge9GF96XaDzk0bB60Af\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7KCL3DF\/F020YJKNWFR\/whatsapp_image_2021-05-10_at_11.15.26.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020YJKNWFR-387fa4bf31",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xl1v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it was so nice yesterday the lake spontaneously burst into flames "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "this-is-fine-fire"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "firefighter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S7KCL3DF",
+        "display_as_bot": false,
+        "ts": "1620640809.001600",
+        "reactions": [
+            {
+                "name": "sunny",
+                "users": [
+                    "U01RW140HBP",
+                    "U01RSRE0N3D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56e0e125-c6e4-4f28-a7be-e46147deb143",
+        "type": "message",
+        "text": "For the sake of completeness :joy: <https:\/\/www.youtube.com\/watch?v=L7fLvmi1hFs>",
+        "user": "U01SJKB2MG8",
+        "ts": "1620641524.002100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Every conversation for the next 3 months #shorts",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=L7fLvmi1hFs",
+                "author_name": "Nick Smith",
+                "author_link": "https:\/\/www.youtube.com\/c\/NickSmithStuff",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/L7fLvmi1hFs\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Every conversation for the next 3 months #shorts",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/L7fLvmi1hFs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=L7fLvmi1hFs",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=L7fLvmi1hFs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4UV98",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the sake of completeness "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=L7fLvmi1hFs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620641524.002100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1620642335.002500",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620642306.002300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620642335.002500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01RN7BVD1C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5dc53401-afc0-4401-99c8-f743f9968109",
+        "type": "message",
+        "text": ":smile: it’s happening already",
+        "user": "U01S7BM4N81",
+        "ts": "1620642306.002300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MxSG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it’s happening already"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620641524.002100",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "02b6af88-fe02-4771-af1c-3c98f29ad79a",
+        "type": "message",
+        "text": "oh i have been living this since january",
+        "user": "U01RW140HBP",
+        "ts": "1620642335.002500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yti",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh i have been living this since january"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620641524.002100",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "2f255da3-6b85-4491-b905-1b072e1c0d5a",
+        "type": "message",
+        "text": "tomorrow i’d be in!",
+        "user": "U01S65G72SY",
+        "ts": "1620644561.003100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0WLmB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tomorrow i’d be in!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620640671.000700",
+        "parent_user_id": "U01S7KCL3DF"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "71571ec2-6116-4d6c-ba7a-1c20ca72e051",
+        "type": "message",
+        "text": "*<https:\/\/ironhack.zoom.us\/rec\/play\/dPWiPC2vhDoWVRXPSePruuFAJ2KcTnor3A6nh9cyw0ofyl55nFI9AzpZ8OiXsqQlTcr0D41eItovVuP0.TJTCraiZYQKPuRNX?autoplay=true&amp;startTime=1611767896000|Time Management workshop>*",
+        "user": "U01RSRE0N3D",
+        "ts": "1618581121.000400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+6s+q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ironhack.zoom.us\/rec\/play\/dPWiPC2vhDoWVRXPSePruuFAJ2KcTnor3A6nh9cyw0ofyl55nFI9AzpZ8OiXsqQlTcr0D41eItovVuP0.TJTCraiZYQKPuRNX?autoplay=true&startTime=1611767896000",
+                                "text": "Time Management workshop",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR",
+                    "U01RXCQHMHT",
+                    "U01RW140HBP",
+                    "U01S7BM4N81"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

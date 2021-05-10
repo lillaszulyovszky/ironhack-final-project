@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "EC40C1ED-D086-48AD-9111-E873EEE25098",
+        "type": "message",
+        "text": "let’s kick this channel off with a few mood boosters: <https:\/\/open.spotify.com\/playlist\/5iqMm1LbEqfkVv10shvelQ?si=L3WB8erfS_GNjVlviWhEyA|https:\/\/open.spotify.com\/playlist\/5iqMm1LbEqfkVv10shvelQ?si=L3WB8erfS_GNjVlviWhEyA>",
+        "user": "U01SK96QF5E",
+        "ts": "1616604568.001700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Into my soul",
+                "title_link": "https:\/\/open.spotify.com\/playlist\/5iqMm1LbEqfkVv10shvelQ?si=L3WB8erfS_GNjVlviWhEyA",
+                "thumb_url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2730f87a60900f0b0d58dcb3d0aab67616d0000b273ac770505217db2383621502aab67616d0000b273e4800c920780ac18d4ab6730ab67616d0000b273f022f99fe759ce4c573bdb0e",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: Into my soul",
+                "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Into my soul\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/5iqMm1LbEqfkVv10shvelQ?si=L3WB8erfS_GNjVlviWhEyA\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/playlist\/5iqMm1LbEqfkVv10shvelQ?si=L3WB8erfS_GNjVlviWhEyA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/playlist\/5iqMm1LbEqfkVv10shvelQ?si=L3WB8erfS_GNjVlviWhEyA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4nK\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let’s kick this channel off with a few mood boosters: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/playlist\/5iqMm1LbEqfkVv10shvelQ?si=L3WB8erfS_GNjVlviWhEyA",
+                                "text": "https:\/\/open.spotify.com\/playlist\/5iqMm1LbEqfkVv10shvelQ?si=L3WB8erfS_GNjVlviWhEyA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616604568.001700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1616673138.004200",
+        "reply_users": [
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1616673138.004200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RN7BVD1C",
+                    "U01S7KCL3DF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "surprised_owl",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01RS9Y6UJH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

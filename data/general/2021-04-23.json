@@ -1,0 +1,2813 @@
+[
+    {
+        "client_msg_id": "14f8197c-8f1a-43de-94fa-11f05b5d4111",
+        "type": "message",
+        "text": "ok thanks",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619161305.011100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K+UzQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619160266.010600",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "009206b9-7706-458f-bb83-c49a6a68e6cf",
+        "type": "message",
+        "text": "Can we also share the git hub repos here of all groups? Would love to have a look at what you all did in detail :heart:",
+        "user": "U01RN7BVD1C",
+        "ts": "1619165354.012200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GI0wc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we also share the git hub repos here of all groups? Would love to have a look at what you all did in detail "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619165354.012200",
+        "reply_count": 8,
+        "reply_users_count": 8,
+        "latest_reply": "1619167459.015500",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01S0P26NKD",
+            "U01RN7BVD1C",
+            "U01S0MFJ3HR",
+            "U01SD3CDH9P",
+            "U01RS9Y6UJH",
+            "U01RW2X7S9Z",
+            "U01S65G72SY"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619165375.012400"
+            },
+            {
+                "user": "U01S0P26NKD",
+                "ts": "1619165395.012800"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619165411.013000"
+            },
+            {
+                "user": "U01S0MFJ3HR",
+                "ts": "1619165643.013500"
+            },
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1619165943.014200"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1619166784.014700"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619167412.015100"
+            },
+            {
+                "user": "U01S65G72SY",
+                "ts": "1619167459.015500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01S0P26NKD",
+                    "U01S7BM4N81"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01RW140HBP",
+                    "U01S081EULS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a30cf3a4-cf58-468f-9b89-2e22b8daa131",
+        "type": "message",
+        "text": "Yes great idea :slightly_smiling_face:\n<https:\/\/github.com\/Caparisun\/Linear_Regression_Project>",
+        "user": "U01S7BM4N81",
+        "ts": "1619165375.012400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "Caparisun\/Linear_Regression_Project",
+                "text": "Using machine learning to predict real estate prices",
+                "title": "Caparisun\/Linear_Regression_Project",
+                "footer": "<https:\/\/github.com\/Caparisun\/Linear_Regression_Project|Caparisun\/Linear_Regression_Project>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1618578316,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "1",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B01RM0CJC4X",
+                "app_unfurl_url": "https:\/\/github.com\/Caparisun\/Linear_Regression_Project",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4yl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes great idea "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Caparisun\/Linear_Regression_Project"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619165354.012200",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "1de1c9a1-7584-4a13-a83a-8c4194819b9d",
+        "type": "message",
+        "text": "me too. Great idea Phine",
+        "user": "U01S0P26NKD",
+        "ts": "1619165395.012800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7b30129d02b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b30129d02bcacd7eef985bfd5432c73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Jennipher Kasemire",
+            "display_name": "Jennipher Kasemire",
+            "team": "T01RBRV5F7H",
+            "name": "jennipherkasemire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4sK0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me too. Great idea Phine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619165354.012200",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "9c321fce-8a7e-4d34-8946-f1dd6399214b",
+        "type": "message",
+        "text": "ours is here: <https:\/\/github.com\/lillaszulyovszky\/ironhack-case-study-classification>",
+        "user": "U01RN7BVD1C",
+        "ts": "1619165411.013000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "lillaszulyovszky\/ironhack-case-study-classification",
+                "title": "lillaszulyovszky\/ironhack-case-study-classification",
+                "footer": "<https:\/\/github.com\/lillaszulyovszky\/ironhack-case-study-classification|lillaszulyovszky\/ironhack-case-study-classification>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1618814025,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "13 hours ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B01RM0CJC4X",
+                "app_unfurl_url": "https:\/\/github.com\/lillaszulyovszky\/ironhack-case-study-classification",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MzL6E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ours is here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/lillaszulyovszky\/ironhack-case-study-classification"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619165354.012200",
+        "parent_user_id": "U01RN7BVD1C",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03bcc839-1c1f-4c4f-a20c-ac33655846a3",
+        "type": "message",
+        "text": "Our Repo for you: <https:\/\/github.com\/AnjaFechner\/bellatrix-lestrange.git>",
+        "user": "U01S0MFJ3HR",
+        "ts": "1619165643.013500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "16aa576b8645",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1903189544593_16aa576b864568c61af7_72.jpg",
+            "first_name": "",
+            "real_name": "Anja Fechner",
+            "display_name": "Anja Fechner",
+            "team": "T01RBRV5F7H",
+            "name": "anja.fechner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GUL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our Repo for you: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/AnjaFechner\/bellatrix-lestrange.git"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619165354.012200",
+        "parent_user_id": "U01RN7BVD1C",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef907df7-9a7f-43a8-b037-f1c9ae36aa7d",
+        "type": "message",
+        "text": "<https:\/\/github.com\/Tognolia\/Voldemort-Project>",
+        "user": "U01SD3CDH9P",
+        "ts": "1619165943.014200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "Tognolia\/Voldemort-Project",
+                "title": "Tognolia\/Voldemort-Project",
+                "footer": "<https:\/\/github.com\/Tognolia\/Voldemort-Project|Tognolia\/Voldemort-Project>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1618587877,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "26 minutes ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B01RM0CJC4X",
+                "app_unfurl_url": "https:\/\/github.com\/Tognolia\/Voldemort-Project",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iK2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Tognolia\/Voldemort-Project"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619165354.012200",
+        "parent_user_id": "U01RN7BVD1C",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c905b429-79b3-40cf-a517-e4806f15b58f",
+        "type": "message",
+        "text": "the Nymphadora Tonks ‘group’ aka me <https:\/\/github.com\/NeilCorteen\/RegressionAnalysis>",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619166784.014700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "NeilCorteen\/RegressionAnalysis",
+                "text": "Scenario: build a machine learning model to predict the selling prices of houses",
+                "title": "NeilCorteen\/RegressionAnalysis",
+                "footer": "<https:\/\/github.com\/NeilCorteen\/RegressionAnalysis|NeilCorteen\/RegressionAnalysis>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1618825124,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "2",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B01RM0CJC4X",
+                "app_unfurl_url": "https:\/\/github.com\/NeilCorteen\/RegressionAnalysis",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CgR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the Nymphadora Tonks ‘group’ aka me "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/NeilCorteen\/RegressionAnalysis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619165354.012200",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "a2638641-f078-4bf5-bafa-91b083f47b08",
+        "type": "message",
+        "text": "<https:\/\/github.com\/Alex-Skp\/Case-Study-Regression>",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619167412.015100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "Alex-Skp\/Case-Study-Regression",
+                "text": "Mid bootcamp project for Ironhack",
+                "title": "Alex-Skp\/Case-Study-Regression",
+                "footer": "<https:\/\/github.com\/Alex-Skp\/Case-Study-Regression|Alex-Skp\/Case-Study-Regression>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1618646461,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "19 hours ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B01RM0CJC4X",
+                "app_unfurl_url": "https:\/\/github.com\/Alex-Skp\/Case-Study-Regression",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=y4RX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Alex-Skp\/Case-Study-Regression"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619165354.012200",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "30e3c91b-73bc-4058-a7e6-dc3854b2b0c4",
+        "type": "message",
+        "text": "<https:\/\/github.com\/samcana\/project_house>",
+        "user": "U01S65G72SY",
+        "ts": "1619167459.015500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "samcana\/project_house",
+                "text": "Mid-Bootcamp Project on Real Estate",
+                "title": "samcana\/project_house",
+                "footer": "<https:\/\/github.com\/samcana\/project_house|samcana\/project_house>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1618823457,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "Jupyter Notebook",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "14 hours ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B01RM0CJC4X",
+                "app_unfurl_url": "https:\/\/github.com\/samcana\/project_house",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9sbSS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/samcana\/project_house"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619165354.012200",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "b0e22ff5-66f8-4bc6-9bbb-f1ae46490cec",
+        "type": "message",
+        "text": "Is somebody interested in meeting up for beers\/coffe\/vodka -mate at victoriapark after the presentations are done? Lily potter is going there!",
+        "user": "U01SD3CDH9P",
+        "ts": "1619173517.017600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dfc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is somebody interested in meeting up for beers\/coffe\/vodka -mate at victoriapark after the presentations are done? Lily potter is going there!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "reply_count": 41,
+        "reply_users_count": 16,
+        "latest_reply": "1619253066.033600",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01RXCQHMHT",
+            "U01RS9Y6UJH",
+            "U01RKN0EGDV",
+            "U01SD3CDH9P",
+            "U01S133DZ9A",
+            "U01RW2X7S9Z",
+            "U01S1CWGTU4",
+            "U01S0E0MRJ7",
+            "U01RN7BVD1C",
+            "U01S081EULS",
+            "U01S65G72SY",
+            "U01RRV4JX6Z",
+            "U01RV3K524T",
+            "U01S0P26NKD",
+            "U01S79YDELR"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619173599.017900"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1619173758.018400"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1619173837.018600"
+            },
+            {
+                "user": "U01RKN0EGDV",
+                "ts": "1619173913.018900"
+            },
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1619174257.019600"
+            },
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1619174281.020100"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1619174550.022800"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1619174729.023000"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1619174891.023200"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1619175163.023400"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1619175178.023600"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619176629.023800"
+            },
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1619176642.024000"
+            },
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1619176660.024200"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619176691.024400"
+            },
+            {
+                "user": "U01RKN0EGDV",
+                "ts": "1619176717.024600"
+            },
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1619176792.024800"
+            },
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1619176854.025000"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1619176866.025200"
+            },
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1619176879.025400"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1619176893.025600"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1619176897.025800"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1619176903.026000"
+            },
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1619176930.026200"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1619177151.028600"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1619177176.028800"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1619177178.029000"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1619177252.029200"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1619178334.029400"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619178402.029600"
+            },
+            {
+                "user": "U01S081EULS",
+                "ts": "1619179096.030000"
+            },
+            {
+                "user": "U01S65G72SY",
+                "ts": "1619180993.030400"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1619181238.030600"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619181371.030900"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619181777.031100"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619182171.031900"
+            },
+            {
+                "user": "U01S65G72SY",
+                "ts": "1619184169.032300"
+            },
+            {
+                "user": "U01S65G72SY",
+                "ts": "1619184211.032900"
+            },
+            {
+                "user": "U01RV3K524T",
+                "ts": "1619190837.033100"
+            },
+            {
+                "user": "U01S0P26NKD",
+                "ts": "1619247576.033400"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1619253066.033600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "boludo",
+                "users": [
+                    "U01S1CWGTU4",
+                    "U01RXCQHMHT",
+                    "U01RKN0EGDV",
+                    "U01S7KCL3DF",
+                    "U01RSRE0N3D"
+                ],
+                "count": 5
+            },
+            {
+                "name": "cocktail",
+                "users": [
+                    "U01RW140HBP",
+                    "U01RXCQHMHT"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15795099-8e1d-44a7-9e70-55d1c30981fa",
+        "type": "message",
+        "text": "1pm vodka? Make mine a double",
+        "user": "U01S7KCL3DF",
+        "ts": "1619173599.017900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2dS04",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1pm vodka? Make mine a double"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P",
+        "reactions": [
+            {
+                "name": "face_with_cowboy_hat",
+                "users": [
+                    "U01S0E0MRJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2a2476f3-a350-4a09-b443-a5a197387c69",
+        "type": "message",
+        "text": "I am only drinking Arizona Watermelon",
+        "user": "U01RXCQHMHT",
+        "ts": "1619173758.018400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2\/wBb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am only drinking Arizona Watermelon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "39fae7ca-c372-4f94-897c-1b1e64501903",
+        "type": "message",
+        "text": "sure, Id love to join the Lily potters",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619173837.018600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lNt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure, Id love to join the Lily potters"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "b4147ba6-31f1-4172-80fa-d2de8cedee46",
+        "type": "message",
+        "text": "YEEEEEY:dancing_dog:",
+        "user": "U01RKN0EGDV",
+        "ts": "1619173913.018900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Aos",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YEEEEEY"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dancing_dog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "ab090478-93cd-4eec-a77a-6daaf87defb1",
+        "type": "message",
+        "text": "vamos!!",
+        "user": "U01SD3CDH9P",
+        "ts": "1619174257.019600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KyR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vamos!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "d6b8c800-bbce-4caa-9812-931312777b20",
+        "type": "message",
+        "text": "let's meet right after the pressie? what do u think?",
+        "user": "U01SD3CDH9P",
+        "ts": "1619174281.020100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oz8Jn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let's meet right after the pressie? what do u think?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "0c89d284-1492-4b1f-9f3b-fcab1dda6334",
+        "type": "message",
+        "text": "Quick tableau tip for all groups  <!channel> - test the tableau public link (today) for your dashboard, once its published - on a couple of different browsers \/ screen sizes - i am doing a spot check and i have seen at least two tableau dashboards that are quite squashed…easy solution, change the screen sizing to automatic and then publish",
+        "user": "U01RW140HBP",
+        "ts": "1619174396.022100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1GZf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quick tableau tip for all groups  "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - test the tableau public link (today) for your dashboard, once its published - on a couple of different browsers \/ screen sizes - i am doing a spot check and i have seen at least two tableau dashboards that are quite squashed…easy solution, change the screen sizing to automatic and then publish"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04780475-87cc-4fe1-93e8-329e0d417817",
+        "type": "message",
+        "text": "last night tableau public was down for maintenance… i suddenly became very scared",
+        "user": "U01S7KCL3DF",
+        "ts": "1619174430.022600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wG7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "last night tableau public was down for maintenance… i suddenly became very scared"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b405250-bf30-464e-851c-c2fbcab70778",
+        "type": "message",
+        "text": "hasta pronto",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619174550.022800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n5bmU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hasta pronto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "611fd1e8-28b4-40ed-8798-1a6e81b72f06",
+        "type": "message",
+        "text": "for me just say where n when Im in Friedrichshain",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619174729.023000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zn6Vd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for me just say where n when Im in Friedrichshain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "37297df7-22df-43b5-bd69-04c0966c90a8",
+        "type": "message",
+        "text": "Yes. - :+1:",
+        "user": "U01S133DZ9A",
+        "ts": "1619174891.023200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ca7CL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes. - "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "3848f77f-b8ac-4fbd-bbb8-4810ebf7a83d",
+        "type": "message",
+        "text": "I will need a bit of time to get there",
+        "user": "U01S133DZ9A",
+        "ts": "1619175163.023400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NrCR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will need a bit of time to get there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "804227fa-dd07-4b19-b590-501df23bf271",
+        "type": "message",
+        "text": "More like 2 from my side",
+        "user": "U01S133DZ9A",
+        "ts": "1619175178.023600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Y5IR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "More like 2 from my side"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "7dcdaea4-5490-4dfb-825b-531ef2b961c3",
+        "type": "message",
+        "text": "yall goin there now?",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619176629.023800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e89O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yall goin there now?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "3db94815-30c2-4cef-9321-ea7af19fb988",
+        "type": "message",
+        "text": "I can be there at 2",
+        "user": "U01SD3CDH9P",
+        "ts": "1619176642.024000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "92+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can be there at 2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "142c2c32-1a31-4ccd-8936-ccc50748a947",
+        "type": "message",
+        "text": "is it too early?",
+        "user": "U01SD3CDH9P",
+        "ts": "1619176660.024200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HhE6w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is it too early?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "dc6b1a81-15bc-4ab9-83d7-79604e8dc757",
+        "type": "message",
+        "text": "i can hop by then but cant stay long, will just say hi!",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619176691.024400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K2qFK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i can hop by then but cant stay long, will just say hi!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "f95eeab4-0d54-4553-b638-3aa5d53b66ed",
+        "type": "message",
+        "text": "for me 2 is too early, but i'll just be late hahah",
+        "user": "U01RKN0EGDV",
+        "ts": "1619176717.024600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+L9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for me 2 is too early, but i'll just be late hahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "363d8eaa-0524-43e4-bf9c-104f7d378627",
+        "type": "message",
+        "text": "2:30 I will be there",
+        "user": "U01S1CWGTU4",
+        "ts": "1619176792.024800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w1CH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2:30 I will be there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "b05951e3-8fe5-4cd0-bfa7-9e3b2c126ad0",
+        "type": "message",
+        "text": "perfect",
+        "user": "U01SD3CDH9P",
+        "ts": "1619176854.025000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mt+y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "perfect"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "95a3812f-5878-441f-9d9a-d8b8af5cb28b",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U01S133DZ9A",
+        "ts": "1619176866.025200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lKR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "7e95a061-b128-4183-a3dc-49901c54fcda",
+        "type": "message",
+        "text": "see you there at 2,15\/30\/45",
+        "user": "U01SD3CDH9P",
+        "ts": "1619176879.025400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c5Vb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "see you there at 2,15\/30\/45"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U01RKN0EGDV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c8802970-60c9-47be-b324-5033ab7c0ee9",
+        "type": "message",
+        "text": "§:30 sounds good. - whereabouts in the park?",
+        "user": "U01S133DZ9A",
+        "ts": "1619176893.025600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eIb6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "§:30 sounds good. - whereabouts in the park?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "aa4de47d-4c60-4d56-9738-0afcb37b4c77",
+        "type": "message",
+        "text": "cool … but where exactly?",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619176897.025800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mRv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool … but where exactly?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "1f13570f-e302-4f00-9d3a-832f056dbcab",
+        "type": "message",
+        "text": "<@U01RW2X7S9Z>",
+        "user": "U01RXCQHMHT",
+        "ts": "1619176903.026000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NfGzW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RW2X7S9Z"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "597b199d-5d3b-4438-9900-8ac569f76736",
+        "type": "message",
+        "text": "Viktoriapark, at the top of the hill?",
+        "user": "U01SD3CDH9P",
+        "ts": "1619176930.026200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cG8I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Viktoriapark, at the top of the hill?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "2f7aaf0b-653c-485c-82f9-1bad7b9f999e",
+        "type": "message",
+        "text": "The drawing game planned for this afternoon is being postponed people",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619177023.027700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0tES",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The drawing game planned for this afternoon is being postponed people"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01RKN0EGDV",
+                    "U01S0P26NKD",
+                    "U01S7KCL3DF",
+                    "U01S081EULS"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49710f7e-b328-4b3a-929b-07d86d5b4274",
+        "type": "message",
+        "text": "There is a thread for those in Berlin who want to meet up this afternoon",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619177059.028400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tuI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is a thread for those in Berlin who want to meet up this afternoon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "687fea12-64bd-423a-8e2a-c32fdca60beb",
+        "type": "message",
+        "text": "ha ha ok, I have to remember how to get there, so 2.30 onwards, Victoria park, top of the hill (thats at the top of the waterfall right?)",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619177151.028600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ievHY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ha ha ok, I have to remember how to get there, so 2.30 onwards, Victoria park, top of the hill (thats at the top of the waterfall right?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "a09d8023-05f5-4868-9445-88859ef45cfb",
+        "type": "message",
+        "text": "BYO. bring your own beer, or melon juice",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619177176.028800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "INSQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BYO. bring your own beer, or melon juice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "2dc0610a-e407-4ac8-ab0d-09c23b8b3797",
+        "type": "message",
+        "text": "Cool - top of the hill by the big monument",
+        "user": "U01S133DZ9A",
+        "ts": "1619177178.029000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HIVfC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool - top of the hill by the big monument"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "da8b2ff8-f826-4747-92d2-d88afb65c028",
+        "type": "message",
+        "text": "so considerate of you, Neil :heart:",
+        "user": "U01RXCQHMHT",
+        "ts": "1619177252.029200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VGNp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so considerate of you, Neil "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "b15b0776-45e3-4352-afda-e4289f383833",
+        "type": "message",
+        "text": "i might pop by bit later too. lemme know if u change loc",
+        "user": "U01S0E0MRJ7",
+        "ts": "1619178334.029400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lu=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i might pop by bit later too. lemme know if u change loc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "a4790e82-850c-4cac-85b5-5a50013c20b0",
+        "type": "message",
+        "text": "will also try to catch you there for a bit",
+        "user": "U01RN7BVD1C",
+        "ts": "1619178402.029600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "92H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "will also try to catch you there for a bit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "5e65b5a2-22e0-41c3-9c4e-e66b526c3107",
+        "type": "message",
+        "text": "I am not in Berlin guys! I’ll be happy to meet you when back",
+        "user": "U01S081EULS",
+        "ts": "1619179096.030000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2yAAq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am not in Berlin guys! I’ll be happy to meet you when back"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "C9517BFE-D083-48A1-B5B4-64C728E2F5C3",
+        "type": "message",
+        "text": "Will try to join ",
+        "user": "U01S65G72SY",
+        "ts": "1619180993.030400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AHCB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will try to join "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Would love to see you. I don't know for myself how long I will stay :)",
+        "user": "U01RXCQHMHT",
+        "ts": "1619181238.030600",
+        "thread_ts": "1619173517.017600",
+        "root": {
+            "client_msg_id": "b0e22ff5-66f8-4bc6-9bbb-f1ae46490cec",
+            "type": "message",
+            "text": "Is somebody interested in meeting up for beers\/coffe\/vodka -mate at victoriapark after the presentations are done? Lily potter is going there!",
+            "user": "U01SD3CDH9P",
+            "ts": "1619173517.017600",
+            "team": "T01RBRV5F7H",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Dfc",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Is somebody interested in meeting up for beers\/coffe\/vodka -mate at victoriapark after the presentations are done? Lily potter is going there!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1619173517.017600",
+            "reply_count": 41,
+            "reply_users_count": 16,
+            "latest_reply": "1619253066.033600",
+            "reply_users": [
+                "U01S7KCL3DF",
+                "U01RXCQHMHT",
+                "U01RS9Y6UJH",
+                "U01RKN0EGDV",
+                "U01SD3CDH9P",
+                "U01S133DZ9A",
+                "U01RW2X7S9Z",
+                "U01S1CWGTU4",
+                "U01S0E0MRJ7",
+                "U01RN7BVD1C",
+                "U01S081EULS",
+                "U01S65G72SY",
+                "U01RRV4JX6Z",
+                "U01RV3K524T",
+                "U01S0P26NKD",
+                "U01S79YDELR"
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hODOj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would love to see you. I don't know for myself how long I will stay :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "320f2c9c-4a95-42ed-9dae-4b24332f2bde"
+    },
+    {
+        "client_msg_id": "d6c1effd-5bb1-47c5-b689-945b598a1cdd",
+        "type": "message",
+        "text": "Today I can't come. But would love to meet you in person! :)",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619181371.030900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PlW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Today I can't come. But would love to meet you in person! :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "40a7bb1c-58c4-499d-a606-74c0ce6f29c5",
+        "type": "message",
+        "text": "I'll be there in about.... 30 minutes :beer_parrot:",
+        "user": "U01S7KCL3DF",
+        "ts": "1619181777.031100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tm2V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll be there in about.... 30 minutes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beer_parrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "4C0135C4-F311-4C35-A668-3C06AB2E8F3B",
+        "type": "message",
+        "text": "Where exactly are you? On the lawn or steps?",
+        "user": "U01RN7BVD1C",
+        "ts": "1619182171.031900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=2rY3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where exactly are you? On the lawn or steps?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "20D17EA6-D472-4D3A-9A7A-26F10F64676E",
+        "type": "message",
+        "text": "We are on the lawn ",
+        "user": "U01S65G72SY",
+        "ts": "1619184169.032300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VWNs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are on the lawn "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "685A68B8-8363-47C9-9631-9CBF0A7D507E",
+        "type": "message",
+        "text": "Near where the steps go up to the monument ",
+        "user": "U01S65G72SY",
+        "ts": "1619184211.032900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wXvZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Near where the steps go up to the monument "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "e66163ed-4e9a-4aae-9a91-c521a104de93",
+        "type": "message",
+        "text": "Awwww I missed this....would love to meet you all",
+        "user": "U01RV3K524T",
+        "ts": "1619190837.033100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "96eac43da464",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875837396901_96eac43da4641e00e5fe_72.jpg",
+            "first_name": "Olubunmi",
+            "real_name": "Olubunmi Haastrup",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "habimcrown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CsT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awwww I missed this....would love to meet you all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01S1CWGTU4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f487447a-7636-4c04-9866-8d1d8d6a5d14",
+        "type": "message",
+        "text": "Next time for sure. I will meet up.",
+        "user": "U01S0P26NKD",
+        "ts": "1619247576.033400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7b30129d02b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b30129d02bcacd7eef985bfd5432c73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Jennipher Kasemire",
+            "display_name": "Jennipher Kasemire",
+            "team": "T01RBRV5F7H",
+            "name": "jennipherkasemire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fptg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Next time for sure. I will meet up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    }
+]

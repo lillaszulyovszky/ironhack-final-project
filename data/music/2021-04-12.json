@@ -1,0 +1,191 @@
+[
+    {
+        "client_msg_id": "8699f7b0-c667-460b-8744-9fd09d2d19d1",
+        "type": "message",
+        "text": "I find myself coding to electronic tunes quite often :slightly_smiling_face:\n\n<https:\/\/open.spotify.com\/track\/3n9JcswaEPwVz6TkRgEnBp?si=d855d184a2a64370>\n\nShare yours! :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1618244604.001900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Les Grandes Marches",
+                "title_link": "https:\/\/open.spotify.com\/track\/3n9JcswaEPwVz6TkRgEnBp?si=d855d184a2a64370",
+                "thumb_url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02a3724493e953610be3141c9d",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: Les Grandes Marches",
+                "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Les Grandes Marches\" src=\"https:\/\/open.spotify.com\/embed\/track\/3n9JcswaEPwVz6TkRgEnBp?si=d855d184a2a64370\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/track\/3n9JcswaEPwVz6TkRgEnBp?si=d855d184a2a64370",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/track\/3n9JcswaEPwVz6TkRgEnBp?si=d855d184a2a64370"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iqs6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I find myself coding to electronic tunes quite often "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/track\/3n9JcswaEPwVz6TkRgEnBp?si=d855d184a2a64370"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nShare yours! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99a3c082-dbab-492e-98b8-f1bbe1e81c51",
+        "type": "message",
+        "text": "Need some new music to code to",
+        "user": "U01S7BM4N81",
+        "ts": "1618244613.002300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lGy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Need some new music to code to"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23f00318-d96f-422d-bfd4-edfd76fbcb16",
+        "type": "message",
+        "text": "<https:\/\/open.spotify.com\/playlist\/37i9dQZF1DX7k3T9O9bscd?si=9e3a7a44d2b14e7c>",
+        "user": "U01RW2X7S9Z",
+        "ts": "1618296887.002600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Neo-Psychedelic Rock",
+                "title_link": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1DX7k3T9O9bscd?si=9e3a7a44d2b14e7c",
+                "thumb_url": "https:\/\/i.scdn.co\/image\/ab67706f00000003a881bd415c7af8f65c5e2473",
+                "thumb_width": 640,
+                "thumb_height": 640,
+                "fallback": "Spotify Audio: Neo-Psychedelic Rock",
+                "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Neo-Psychedelic Rock\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/37i9dQZF1DX7k3T9O9bscd?si=9e3a7a44d2b14e7c\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1DX7k3T9O9bscd?si=9e3a7a44d2b14e7c",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1DX7k3T9O9bscd?si=9e3a7a44d2b14e7c"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+B8j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1DX7k3T9O9bscd?si=9e3a7a44d2b14e7c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01RXCQHMHT",
+                    "U01S7BM4N81"
+                ],
+                "count": 2
+            },
+            {
+                "name": "headphones",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

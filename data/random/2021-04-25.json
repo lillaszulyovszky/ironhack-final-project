@@ -1,0 +1,384 @@
+[
+    {
+        "client_msg_id": "f4468a3c-9c41-446e-be79-52206afca4c9",
+        "type": "message",
+        "text": "Along this path.. Zugang Park am Heidekampgraben\n<https:\/\/maps.app.goo.gl\/obR2coSVhuHcvhai6|https:\/\/maps.app.goo.gl\/obR2coSVhuHcvhai6>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619334668.005800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Zugang Park am Heidekampgraben · 12057, Kiefholzstraße, 12057 Berlin, Germany",
+                "title_link": "https:\/\/maps.app.goo.gl\/obR2coSVhuHcvhai6",
+                "text": "★★★★☆ · Park",
+                "fallback": "Zugang Park am Heidekampgraben · 12057, Kiefholzstraße, 12057 Berlin, Germany",
+                "thumb_url": "https:\/\/lh5.googleusercontent.com\/p\/AF1QipOYOkcuibPUU0Sq6v0DLrv348fGfOwDs3imTo4t",
+                "from_url": "https:\/\/maps.app.goo.gl\/obR2coSVhuHcvhai6",
+                "thumb_width": 341,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/www.google.com\/favicon.ico",
+                "service_name": "google.com",
+                "id": 1,
+                "original_url": "https:\/\/maps.app.goo.gl\/obR2coSVhuHcvhai6"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tbe9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Along this path.. Zugang Park am Heidekampgraben\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/maps.app.goo.gl\/obR2coSVhuHcvhai6",
+                                "text": "https:\/\/maps.app.goo.gl\/obR2coSVhuHcvhai6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619296094.005000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "a5c00739-568c-4833-bf30-ac84ff308e11",
+        "type": "message",
+        "text": "To create a token to use git from my terminal , what must I select in the item 7  of the tutorial? <https:\/\/docs.github.com\/en\/github\/authenticating-to-github\/creating-a-personal-access-token>   <@U01RSRE0N3D> <@U01SJKB2MG8>",
+        "user": "U01S79YDELR",
+        "ts": "1619345826.007200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1619345875.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pWU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To create a token to use git from my terminal , what must I select in the item 7  of the tutorial? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.github.com\/en\/github\/authenticating-to-github\/creating-a-personal-access-token"
+                            },
+                            {
+                                "type": "text",
+                                "text": "   "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RSRE0N3D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619345826.007200",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1619455061.011200",
+        "reply_users": [
+            "U01S79YDELR",
+            "U01SJKB2MG8",
+            "U01S7BM4N81"
+        ],
+        "replies": [
+            {
+                "user": "U01S79YDELR",
+                "ts": "1619411119.008200"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1619422763.009400"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1619423297.009600"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1619446560.010600"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619454410.010900"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1619455061.011200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1619455061.011200"
+    },
+    {
+        "client_msg_id": "11597786-a59e-4c3c-b838-d70cdea35c1d",
+        "type": "message",
+        "text": "Nice! My flatmates have a schrebergarten down there. Will ask them if they have encountered neighbors with excessively large front teeth",
+        "user": "U01SJKB2MG8",
+        "ts": "1619346039.007500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oqZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice! My flatmates have a schrebergarten down there. Will ask them if they have encountered neighbors with excessively large front teeth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619296094.005000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/m.facebook.com\/photo.php?fbid=312400693587122&amp;id=100044515806176&amp;set=a.292520225575169&amp;source=48|https:\/\/m.facebook.com\/photo.php?fbid=312400693587122&amp;id=100044515806176&amp;set=a.292520225575169&amp;source=48>",
+        "files": [
+            {
+                "id": "F020NQM8ZJL",
+                "created": 1619382092,
+                "timestamp": 1619382092,
+                "name": "177972809_312400696920455_2741348242169905363_n.jpg",
+                "title": "177972809_312400696920455_2741348242169905363_n.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01RRV4JX6Z",
+                "editable": false,
+                "size": 131500,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020NQM8ZJL\/177972809_312400696920455_2741348242169905363_n.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020NQM8ZJL\/download\/177972809_312400696920455_2741348242169905363_n.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020NQM8ZJL-87d4d54263\/177972809_312400696920455_2741348242169905363_n_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020NQM8ZJL-87d4d54263\/177972809_312400696920455_2741348242169905363_n_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020NQM8ZJL-87d4d54263\/177972809_312400696920455_2741348242169905363_n_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 309,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020NQM8ZJL-87d4d54263\/177972809_312400696920455_2741348242169905363_n_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 412,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020NQM8ZJL-87d4d54263\/177972809_312400696920455_2741348242169905363_n_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020NQM8ZJL-87d4d54263\/177972809_312400696920455_2741348242169905363_n_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 618,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020NQM8ZJL-87d4d54263\/177972809_312400696920455_2741348242169905363_n_800.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 933,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020NQM8ZJL-87d4d54263\/177972809_312400696920455_2741348242169905363_n_960.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 823,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020NQM8ZJL-87d4d54263\/177972809_312400696920455_2741348242169905363_n_1024.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 878,
+                "thumb_1024_h": 1024,
+                "original_w": 1477,
+                "original_h": 1722,
+                "thumb_tiny": "AwAwACm+0iq20g5+lKrZXJ\/SmSMBIoKqenJFKrHaABnJP86AJM0mRnFIGOcEY+lQeW5cyADJHXJoGWaKRTkA+1LQAhUE5IBP0pgBIXBweefxqSojs3HKj86BDgCH5bPB7UiqxQHeQMdMUmU4O0f99UZXA+Uf99UASJ9xfoKWmKIyRtxkehp9ABURPzHnA+v\/ANapai53d+voaEAZ5IJ\/X\/61Jk\/n7\/8A1qcoJx1GPqKNhx1\/U0wHJ0zTqRQQOaWkB\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RRV4JX6Z\/F020NQM8ZJL\/177972809_312400696920455_2741348242169905363_n.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020NQM8ZJL-3d0269bbc3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C=gD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/m.facebook.com\/photo.php?fbid=312400693587122&id=100044515806176&set=a.292520225575169&source=48",
+                                "text": "https:\/\/m.facebook.com\/photo.php?fbid=312400693587122&id=100044515806176&set=a.292520225575169&source=48"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RRV4JX6Z",
+        "display_as_bot": false,
+        "ts": "1619382113.007700",
+        "client_msg_id": "dbef3e73-0cb1-4b08-840b-a208889d5643"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F020C3SDYC9",
+                "created": 1619411114,
+                "timestamp": 1619411114,
+                "name": "Screenshot 2021-04-26 at 06.25.11.png",
+                "title": "Screenshot 2021-04-26 at 06.25.11.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S79YDELR",
+                "editable": false,
+                "size": 491820,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020C3SDYC9\/screenshot_2021-04-26_at_06.25.11.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020C3SDYC9\/download\/screenshot_2021-04-26_at_06.25.11.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020C3SDYC9-b43e40b31c\/screenshot_2021-04-26_at_06.25.11_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020C3SDYC9-b43e40b31c\/screenshot_2021-04-26_at_06.25.11_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020C3SDYC9-b43e40b31c\/screenshot_2021-04-26_at_06.25.11_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 281,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020C3SDYC9-b43e40b31c\/screenshot_2021-04-26_at_06.25.11_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 375,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020C3SDYC9-b43e40b31c\/screenshot_2021-04-26_at_06.25.11_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020C3SDYC9-b43e40b31c\/screenshot_2021-04-26_at_06.25.11_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 562,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020C3SDYC9-b43e40b31c\/screenshot_2021-04-26_at_06.25.11_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1024,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020C3SDYC9-b43e40b31c\/screenshot_2021-04-26_at_06.25.11_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 750,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020C3SDYC9-b43e40b31c\/screenshot_2021-04-26_at_06.25.11_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 800,
+                "thumb_1024_h": 1024,
+                "original_w": 1192,
+                "original_h": 1526,
+                "thumb_tiny": "AwAwACXRxyfmo2n+9Q360vagBuP9ql2n+9RTqAI5AMimYp8nUUygCVqXqKRv88Uv8NACUoFJ36fpTqAI5OoplPk6imUASnr0zS9BSHrwDSnpQAgx6U6m4paAGSdRTKkcZxim7TQB\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S79YDELR\/F020C3SDYC9\/screenshot_2021-04-26_at_06.25.11.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020C3SDYC9-5da0e3a656",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01S79YDELR",
+        "display_as_bot": false,
+        "ts": "1619411119.008200",
+        "thread_ts": "1619345826.007200",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "b4a317e3-aaf8-4470-9323-5a80d4f459ff",
+        "type": "message",
+        "text": "What animal is this?",
+        "user": "U01S79YDELR",
+        "ts": "1619416356.008400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "syF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What animal is this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619294273.004900",
+        "parent_user_id": "U01SJKB2MG8"
+    }
+]

@@ -1,0 +1,2697 @@
+[
+    {
+        "client_msg_id": "2499b16c-75df-4fd1-aa9d-86ee341b36cb",
+        "type": "message",
+        "text": "great!",
+        "user": "U01RW140HBP",
+        "ts": "1617347336.001000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y6cM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617288820.023100",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "17173da1-fd33-4560-bf82-58a708a99b38",
+        "type": "message",
+        "text": "ha does mean hectares!\nvalue is a generic data point  - depending on the other filters used (ie what unit, element, crop) , you will either see yield in hg\/ha, production amount in tonnes or area harvested in hectares\nyou shouldn’t have to do any calculations, although there is a way to turn hg\/ha into something more contextual… hg means a hundred grammes, which is somewhat ludicrous",
+        "user": "U01RW140HBP",
+        "ts": "1617347669.001200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mDz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ha does mean hectares!\nvalue is a generic data point  - depending on the other filters used (ie what unit, element, crop) , you will either see yield in hg\/ha, production amount in tonnes or area harvested in hectares\nyou shouldn’t have to do any calculations, although there is a way to turn hg\/ha into something more contextual… hg means a hundred grammes, which is somewhat ludicrous"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617275036.014600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "739b5c2b-4d23-4cbe-90d6-2ce52ae21c99",
+        "type": "message",
+        "text": "check the country - it could have been ussr ? and needs to be remapped",
+        "user": "U01RW140HBP",
+        "ts": "1617348163.001400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yvrF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "check the country - it could have been ussr ? and needs to be remapped"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617291590.028900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "7d792a3b-680b-45d8-99c6-e9e0862f28d0",
+        "type": "message",
+        "text": "I tried following the tutorial sian posted, but this didnt really helped. Maybe we can try in lab time today together with someone who has a clue about it :smile:",
+        "user": "U01RN7BVD1C",
+        "ts": "1617348550.001600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NzE8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I tried following the tutorial sian posted, but this didnt really helped. Maybe we can try in lab time today together with someone who has a clue about it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RRV4JX6Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14a5ab63-ce05-4e6a-ac2b-1d5ce99643ef",
+        "type": "message",
+        "text": "ooohhh value is like a dynamic field that changes? ok will take a look",
+        "user": "U01S7KCL3DF",
+        "ts": "1617348605.001800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4WMh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ooohhh value is like a dynamic field that changes? ok will take a look"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617275036.014600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "a0442711-205c-4184-98aa-3441da434454",
+        "type": "message",
+        "text": "yes exactly — apply the filters unit and element and you will see the value makes more sense - have a look at the data preview as at a row level i think this is slightly clearer",
+        "user": "U01RW140HBP",
+        "ts": "1617350209.002000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sd6G7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes exactly — apply the filters unit and element and you will see the value makes more sense - have a look at the data preview as at a row level i think this is slightly clearer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617275036.014600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "doh",
+        "user": "U01S7KCL3DF",
+        "ts": "1617350237.002300",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "540",
+                "image_url": "https:\/\/media4.giphy.com\/media\/xT5LMzIK1AdZJ4cYW4\/giphy.gif?cid=6104955ef7300a3145cea21c6f39fc5a5d90d1219e21ed6c&rid=giphy.gif&ct=g",
+                "alt_text": "doh",
+                "title": {
+                    "type": "plain_text",
+                    "text": "doh",
+                    "emoji": true
+                },
+                "fallback": "480x366px image",
+                "image_width": 480,
+                "image_height": 366,
+                "image_bytes": 425197,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "7hp",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617275036.014600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "5590006a-d0bf-4133-9165-c8d9023d40ea",
+        "type": "message",
+        "text": "Following -",
+        "user": "U01S133DZ9A",
+        "ts": "1617350603.002500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uuv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Following -"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "e582d30f-8a19-472f-8e45-d415b0d95f45",
+        "type": "message",
+        "text": "Yeah, I trouble here too",
+        "user": "U01RRV4JX6Z",
+        "ts": "1617350692.002800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BTW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, I trouble here too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "caee5be3-2ac3-48e5-9796-69bd46119071",
+        "type": "message",
+        "text": "If you're using mac, it was quite easy to do it via MYSQL workbench. I executed the terminal lines, and suddenly the database appeared in the workbench. We can take a look at it in a breakout room",
+        "user": "U01S7BM4N81",
+        "ts": "1617350710.003000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9r6s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you're using mac, it was quite easy to do it via MYSQL workbench. I executed the terminal lines, and suddenly the database appeared in the workbench. We can take a look at it in a breakout room"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RN7BVD1C",
+                    "U01RRV4JX6Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ab3ccca-9c8d-415c-90f6-8034f38acf85",
+        "type": "message",
+        "text": "yes, please",
+        "user": "U01SD3CDH9P",
+        "ts": "1617350725.003300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ux+o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "5cec6d05-ae6c-497d-a200-149b2e848a39",
+        "type": "message",
+        "text": "I would love it!",
+        "user": "U01SD3CDH9P",
+        "ts": "1617350730.003500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G=jT\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would love it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "1390f8dd-9548-4fed-b1c6-ef7690779166",
+        "type": "message",
+        "text": "Yes please Thamo",
+        "user": "U01RN7BVD1C",
+        "ts": "1617350748.003900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cwk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes please Thamo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "249f3755-401f-4a5c-9250-4da45d7bac74",
+        "type": "message",
+        "text": "Also, I came to the realization, that 8.023 was not working properly, no matter what I did. So I deleted an installed 8.021 and that is working",
+        "user": "U01S7BM4N81",
+        "ts": "1617350769.004100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yXvi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, I came to the realization, that 8.023 was not working properly, no matter what I did. So I deleted an installed 8.021 and that is working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "31163829-caea-4897-b868-790a9590301c",
+        "type": "message",
+        "text": "so maybe you want to do that first and see if that helps? :s",
+        "user": "U01S7BM4N81",
+        "ts": "1617350783.004300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+BIUt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so maybe you want to do that first and see if that helps? :s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "a2dac15a-d5bf-4f94-9f33-9ef729c4ed82",
+        "type": "message",
+        "text": "ok",
+        "user": "U01S79YDELR",
+        "ts": "1617355500.004500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0MO6r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617291590.028900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "2bc7b6b3-99ff-4d68-adb2-6f12cc10f539",
+        "type": "message",
+        "text": "whats the command to install sklearn on my machine again? :grin:",
+        "user": "U01S7KCL3DF",
+        "ts": "1617355644.005000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ml6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "whats the command to install sklearn on my machine again? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd25ed9b-5f38-423c-b3ad-eae9b746e71f",
+        "type": "message",
+        "text": "conda install -c conda-forge scikit-learn",
+        "user": "U01S1CWGTU4",
+        "ts": "1617355672.005200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7mvm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "conda install -c conda-forge scikit-learn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01S7KCL3DF",
+                    "U01RXCQHMHT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S133DZ9A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a66e1353-fa4d-482f-98c8-1a832ebaccc7",
+        "type": "message",
+        "text": "Whats the easiest way to set up SQL on Windows? - anyone done it easily?",
+        "user": "U01S133DZ9A",
+        "ts": "1617357460.006600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lge3s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Whats the easiest way to set up SQL on Windows? - anyone done it easily?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617357460.006600",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1617364772.011500",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01RRV4JX6Z",
+            "U01S133DZ9A"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617357879.006700"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617358039.006900"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1617360155.007300"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1617364772.011500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01TV4WT1SL",
+                "created": 1617357876,
+                "timestamp": 1617357876,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 319768,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TV4WT1SL\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TV4WT1SL\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TV4WT1SL-5bc51cfa6d\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TV4WT1SL-5bc51cfa6d\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TV4WT1SL-5bc51cfa6d\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 337,
+                "thumb_360_h": 332,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TV4WT1SL-5bc51cfa6d\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 337,
+                "original_h": 332,
+                "thumb_tiny": "AwAvADBiMqk7lDcUvnR+Y37sYwOPTmq2antohIMt61F7Glri+bGSD5XQ5xTWnTcv7vAHUcc1beFAvyjBqpMgcZHDUlIOXQnWRWhDKo9OtRuO+MZFQ2mN4DHgnFWrjr+FDbvYEilmp7ctnapwaUxWyZUk7h70x8p88ZyB3oeo0rFtlJUBmPXnFNZEVSRyTUQczLw2F704\/IhJYmosWVlGxgfQ1auDk5HpVJpOD9aPtDk\/McjGAKuzZndItGHzJWB4FMmCQxbAcsTTluAJP3nyjHUUxjas2WJ5HXn3\/wDrUKLByRBHIynKmnNI7nDnj2qRRbeZyx2446+v+FSKsPmkZJXHH581ViUyuwBBJGPSmrHgFj+FWysBHfOP1qKZRlvL+72zQF7n\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F01TV4WT1SL\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TV4WT1SL-4e29d3f842",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RW2X7S9Z",
+        "display_as_bot": false,
+        "ts": "1617357879.006700",
+        "thread_ts": "1617357460.006600",
+        "parent_user_id": "U01S133DZ9A"
+    },
+    {
+        "client_msg_id": "1ff79bf3-2b8b-491b-bd24-4039d88035f6",
+        "type": "message",
+        "text": "i think in the page there is the executable file and just go through the steps, i cant remember how i did it before but i remember reinstalling twice at least. once because i forgot the server password and couldnt recover it, so remember it or write it down!",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617358039.006900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LFyEG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think in the page there is the executable file and just go through the steps, i cant remember how i did it before but i remember reinstalling twice at least. once because i forgot the server password and couldnt recover it, so remember it or write it down!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617357460.006600",
+        "parent_user_id": "U01S133DZ9A",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S133DZ9A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09154ee1-389d-4221-b5e5-fb2b1b9d4dc0",
+        "type": "message",
+        "text": "It worked here :slightly_smiling_face:",
+        "user": "U01RRV4JX6Z",
+        "ts": "1617360119.007100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cxm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It worked here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "35e74407-a943-4c24-bf0b-e567f8939914",
+        "type": "message",
+        "text": "Does anyone watch Snowpiercer?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1617360155.007300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ntl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone watch Snowpiercer?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617357460.006600",
+        "parent_user_id": "U01S133DZ9A"
+    },
+    {
+        "client_msg_id": "d3dd5cda-b16c-4461-8dde-033d9ed78d6a",
+        "type": "message",
+        "text": "Everything via the client",
+        "user": "U01RRV4JX6Z",
+        "ts": "1617360368.007500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9PEx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Everything via the client"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "21214135-b448-4266-81bb-a46c1ef8b5e9",
+        "type": "message",
+        "text": "if you want to plot the least squares line - that was a question from class i forgot to return to, sorry ! this is a nice article to have a look at\n<https:\/\/www.ritchieng.com\/machine-learning-evaluate-linear-regression-model\/>\nit also explains some of the things I was talking about today in different ways and uses a case study that is easy to follow:\n• Let’s pretend you work for the company that manufactures and markets a widget\n• The company might ask you the following: On the basis of this data, how should we spend our advertising money in the future?\n• This general question might lead you to more specific questions:\n    a. Is there a relationship between ads and sales?\n    b. How strong is that relationship?\n    c. Which ad types contribute to sales?\n    d. What is the effect of each ad type of sales?\n    e. *Given ad spending in a particular market, can sales be predicted?*",
+        "user": "U01RW140HBP",
+        "ts": "1617360743.008900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ritchieng.github.io",
+                "title": "Evaluating a Linear Regression Model",
+                "title_link": "https:\/\/www.ritchieng.com\/machine-learning-evaluate-linear-regression-model\/",
+                "text": "I am Ritchie Ng, a machine learning engineer specializing in deep learning and computer vision. Check out my code guides and keep ritching for the skies!",
+                "fallback": "ritchieng.github.io: Evaluating a Linear Regression Model",
+                "from_url": "https:\/\/www.ritchieng.com\/machine-learning-evaluate-linear-regression-model\/",
+                "service_icon": "http:\/\/res.cloudinary.com\/ritchieng\/image\/upload\/v1468818827\/ritchieng.com\/favicon_p13h5n.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.ritchieng.com\/machine-learning-evaluate-linear-regression-model\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kzbk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you want to plot the least squares line - that was a question from class i forgot to return to, sorry ! this is a nice article to have a look at\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ritchieng.com\/machine-learning-evaluate-linear-regression-model\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nit also explains some of the things I was talking about today in different ways and uses a case study that is easy to follow:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Let’s pretend you work for the company that manufactures and markets a widget"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The company might ask you the following: On the basis of this data, how should we spend our advertising money in the future?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "This general question might lead you to more specific questions:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Is there a relationship between ads and sales?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How strong is that relationship?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Which ad types contribute to sales?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What is the effect of each ad type of sales?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Given ad spending in a particular market, can sales be predicted?",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf66ad8f-8fc9-4a18-a0e8-ce1e399574c2",
+        "type": "message",
+        "text": "<@U01S133DZ9A> thought this might be useful for you <https:\/\/stackabuse.com\/linear-regression-in-python-with-scikit-learn\/>\nthere is only one variable X in this case, the no of hours studied, but you can better see how the model is evaluated by how closely it predicts y, the % score achieved - where we are fairly sure of a linear relationship (the more i study, the better i do in a test)",
+        "user": "U01RW140HBP",
+        "ts": "1617361248.009300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1617361350.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Stack Abuse",
+                "title": "Linear Regression in Python with Scikit-Learn",
+                "title_link": "https:\/\/stackabuse.com\/linear-regression-in-python-with-scikit-learn\/",
+                "text": "There are two types of supervised machine learning algorithms: Regression and classification. The former predicts continuous value outputs while the latter predicts discrete outputs. For instance, predicting the price of a house in dollars is a regression problem whereas predicting whether a tumor is malignant or benign is a classification problem. In this article we will briefly study what linear regression is and how it can be implemented using the Python Scikit-Learn library, which is one of",
+                "fallback": "Stack Abuse: Linear Regression in Python with Scikit-Learn",
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Scott Robinson",
+                        "short": true
+                    },
+                    {
+                        "title": "Filed under",
+                        "value": "python, scikit-learn, machine learning, algorithms",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/stackabuse.com\/linear-regression-in-python-with-scikit-learn\/",
+                "service_icon": "https:\/\/stackabuse.com\/assets\/images\/apple-touch-icon.png?v=607c1e10fd",
+                "id": 1,
+                "original_url": "https:\/\/stackabuse.com\/linear-regression-in-python-with-scikit-learn\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X2Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S133DZ9A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thought this might be useful for you "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackabuse.com\/linear-regression-in-python-with-scikit-learn\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthere is only one variable X in this case, the no of hours studied, but you can better see how the model is evaluated by how closely it predicts y, the % score achieved - where we are fairly sure of a linear relationship (the more i study, the better i do in a test)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S133DZ9A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1bf37d99-7bc7-4aea-90f7-98e6a5ceed06",
+        "type": "message",
+        "text": "and this is a nice short read for anyone  - visualising the training data set regression vs the test  data set regression\n<https:\/\/becominghuman.ai\/implementing-and-visualizing-linear-regression-in-python-with-scikit-learn-a073768dc688>\nagain its just one X feature but all we are doing is extending that to Xn",
+        "user": "U01RW140HBP",
+        "ts": "1617361494.010700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1617361523.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Implementing and Visualizing Linear Regression in Python with SciKit Learn",
+                "title_link": "https:\/\/becominghuman.ai\/implementing-and-visualizing-linear-regression-in-python-with-scikit-learn-a073768dc688",
+                "text": "Ladies and gentlemen, fasten your seatbelts, lean back and take a deep breath, for we are going to go on a bumpy ride!",
+                "fallback": "Medium: Implementing and Visualizing Linear Regression in Python with SciKit Learn",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/0*s9oMkOwISmMrJXrC",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "4 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1566588864,
+                "from_url": "https:\/\/becominghuman.ai\/implementing-and-visualizing-linear-regression-in-python-with-scikit-learn-a073768dc688",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 351169,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/becominghuman.ai\/implementing-and-visualizing-linear-regression-in-python-with-scikit-learn-a073768dc688"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N8D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and this is a nice short read for anyone  - visualising the training data set regression vs the test  data set regression\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/becominghuman.ai\/implementing-and-visualizing-linear-regression-in-python-with-scikit-learn-a073768dc688"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nagain its just one X feature but all we are doing is extending that to Xn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d28a605-7249-40d0-9a7f-c532198d41fd",
+        "type": "message",
+        "text": "hmm what if terminal doesn’t execute..",
+        "user": "U01SK96QF5E",
+        "ts": "1617362308.011100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JLHD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmm what if terminal doesn’t execute.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617312591.032400",
+        "parent_user_id": "U01S081EULS"
+    },
+    {
+        "client_msg_id": "4b6b5e3f-556a-47e2-abd7-f263a9b95819",
+        "type": "message",
+        "text": "Thanks alex",
+        "user": "U01S133DZ9A",
+        "ts": "1617364772.011500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yZ1x+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks alex"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617357460.006600",
+        "parent_user_id": "U01S133DZ9A"
+    },
+    {
+        "client_msg_id": "54f3f5a0-0d70-401b-b572-0b7ff106c367",
+        "type": "message",
+        "text": "I anybody setting up Mysql now?  its complicated like do we need the virtual machine Droplet like on the instructions, this takes you to a link for payment which seems dodgy. Im guessing there are quite a few struggling with this, maybe we could have a breakout room with a TA?",
+        "user": "U01RS9Y6UJH",
+        "ts": "1617367171.015000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S=q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I anybody setting up Mysql now?  its complicated like do we need the virtual machine Droplet like on the instructions, this takes you to a link for payment which seems dodgy. Im guessing there are quite a few struggling with this, maybe we could have a breakout room with a TA?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617367171.015000",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1617368308.016100",
+        "reply_users": [
+            "U01RN7BVD1C",
+            "U01RS9Y6UJH",
+            "U01SK96QF5E",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1617367225.015100"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1617367289.015300"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1617367718.015500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617368124.015900"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1617368308.016100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "eb1e9700-25de-4e65-a39f-da81e30743c1",
+        "type": "message",
+        "text": "I would need to do this, but am working on the other lab. maybe we can schedule a time with the TAs in a BR?",
+        "user": "U01RN7BVD1C",
+        "ts": "1617367225.015100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uQUn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would need to do this, but am working on the other lab. maybe we can schedule a time with the TAs in a BR?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617367171.015000",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "c73889e5-8982-43af-98d0-a1b6e8187a8b",
+        "type": "message",
+        "text": "fine with me",
+        "user": "U01RS9Y6UJH",
+        "ts": "1617367289.015300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AKmL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fine with me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617367171.015000",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "6d6b914c-94f2-42e1-b544-e1eac1b9ad05",
+        "type": "message",
+        "text": "also need some help. mysql is up and running but terminal doesn’itseem to like it",
+        "user": "U01SK96QF5E",
+        "ts": "1617367718.015500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SK96QF5E",
+            "ts": "1617367730.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T2rAn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also need some help. mysql is up and running but terminal doesn’itseem to like it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617367171.015000",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "441e3cd2-7ba1-4877-8290-bd83db1fe63b",
+        "type": "message",
+        "text": "you certainly dont need a VM <@U01RS9Y6UJH>… you should have installed MySQL and a client like mysqlworkbench during the pre work (have a look back at the pre work steps for that) , in which case the setup steps today are to download the database dump file and connect to it via your sqlclient",
+        "user": "U01RW140HBP",
+        "ts": "1617368124.015900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zA+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you certainly dont need a VM "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RS9Y6UJH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "… you should have installed MySQL and a client like mysqlworkbench during the pre work (have a look back at the pre work steps for that) , in which case the setup steps today are to download the database dump file and connect to it via your sqlclient"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617367171.015000",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "0a8238ce-e9e0-44b7-aa71-3309a6efa96a",
+        "type": "message",
+        "text": "ok great, thanks, I have installed MySQL, so I just need the set up steps",
+        "user": "U01RS9Y6UJH",
+        "ts": "1617368308.016100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Yg2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok great, thanks, I have installed MySQL, so I just need the set up steps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617367171.015000",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "c361bd13-2bd2-46b9-bf7e-3c5f66b90219",
+        "type": "message",
+        "text": "One quick series of steps to try with MySQL and the dump file…\n• open your MySQL client and create a new connection, to your local mysql instance - with your uname and password, port 3306\n• once the sql dump file is downloaded, do a right click and open with your mysql client \n• run the query - this creates a bank database and populates it with the data\n• if you get data on the screen when you run *select * from bank.account* you are good to go :tada:",
+        "user": "U01RW140HBP",
+        "ts": "1617368497.017700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1617368739.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7x\/F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One quick series of steps to try with MySQL and the dump file…\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "open your MySQL client and create a new connection, to your local mysql instance - with your uname and password, port 3306"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "once the sql dump file is downloaded, do a right click and open with your mysql client "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "run the query - this creates a bank database and populates it with the data"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "if you get data on the screen when you run "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "select * from bank.account ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "you are good to go "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "tada"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617368497.017700",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1617371445.019500",
+        "reply_users": [
+            "U01RN7BVD1C",
+            "U01S7BM4N81",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1617369761.018000"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617370996.018800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617371435.019300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617371445.019500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U01S0E0MRJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Is this how its supposed to look like?",
+        "files": [
+            {
+                "id": "F01T2HZGKRB",
+                "created": 1617369752,
+                "timestamp": 1617369752,
+                "name": "Screenshot 2021-04-02 at 15.22.16.png",
+                "title": "Screenshot 2021-04-02 at 15.22.16.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RN7BVD1C",
+                "editable": false,
+                "size": 102721,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T2HZGKRB\/screenshot_2021-04-02_at_15.22.16.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T2HZGKRB\/download\/screenshot_2021-04-02_at_15.22.16.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T2HZGKRB-90a782617d\/screenshot_2021-04-02_at_15.22.16_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T2HZGKRB-90a782617d\/screenshot_2021-04-02_at_15.22.16_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T2HZGKRB-90a782617d\/screenshot_2021-04-02_at_15.22.16_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 335,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T2HZGKRB-90a782617d\/screenshot_2021-04-02_at_15.22.16_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 447,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T2HZGKRB-90a782617d\/screenshot_2021-04-02_at_15.22.16_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 588,
+                "original_h": 632,
+                "thumb_tiny": "AwAwACy\/5YHak8tfSpaKAI9i+lHlrUlFAEflrQY1qSigCPB\/CkJI6089DTZOooAMjj396Ug9qav8NSUARS7licg4IUnNZ5uZieHOK0p\/9RJ\/umssUAau7timnJPajPHehiPT9KAABhjpxS5f2oVhjnNO3LQAxtzKVOMEYqAWie\/51OSN3Snbl7DFAH\/\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RN7BVD1C\/F01T2HZGKRB\/screenshot_2021-04-02_at_15.22.16.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01T2HZGKRB-dcc8e9eedf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2UC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is this how its supposed to look like?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RN7BVD1C",
+        "display_as_bot": false,
+        "ts": "1617369761.018000",
+        "thread_ts": "1617368497.017700",
+        "parent_user_id": "U01RW140HBP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7BM4N81",
+                    "U01RW140HBP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e098888-2c66-4113-a3a3-1f3825cf5655",
+        "type": "message",
+        "text": "sooo...dropping columns :laughing:.... i accidentally deleted all my rows of data....is that due to the axis I used whilst trying a .drop()?\n\n```<http:\/\/numerical_predict.info|numerical_predict.info>()\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nIndex: 6 entries, customer lifetime value to Month\nData columns (total 6 columns):\n #   Column                   Non-Null Count  Dtype  \n---  ------                   --------------  -----  \n 0   customer lifetime value  6 non-null      float64\n 1   income                   6 non-null      float64\n 2   monthly premium auto     6 non-null      float64\n 3   number of policies       6 non-null      float64\n 4   total claim amount       6 non-null      float64\n 5   Month                    6 non-null      float64\ndtypes: float64(6)\nmemory usage: 508.0+ bytes```",
+        "user": "U01S7KCL3DF",
+        "ts": "1617370968.018600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7KCL3DF",
+            "ts": "1617370998.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DPS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sooo...dropping columns "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".... i accidentally deleted all my rows of data....is that due to the axis I used whilst trying a .drop()?\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "numerical_predict.info()\n<class 'pandas.core.frame.DataFrame'>\nIndex: 6 entries, customer lifetime value to Month\nData columns (total 6 columns):\n #   Column                   Non-Null Count  Dtype  \n---  ------                   --------------  -----  \n 0   customer lifetime value  6 non-null      float64\n 1   income                   6 non-null      float64\n 2   monthly premium auto     6 non-null      float64\n 3   number of policies       6 non-null      float64\n 4   total claim amount       6 non-null      float64\n 5   Month                    6 non-null      float64\ndtypes: float64(6)\nmemory usage: 508.0+ bytes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617370968.018600",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1617380165.022100",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01S79YDELR"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617371934.020300"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617372447.020600"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617373246.021000"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617380078.021900"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617380165.022100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8aa50395-15dd-45a2-8cfd-a8612f9984cd",
+        "type": "message",
+        "text": "I'd say yes",
+        "user": "U01S7BM4N81",
+        "ts": "1617370996.018800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G7H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd say yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617368497.017700",
+        "parent_user_id": "U01RW140HBP",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U01RN7BVD1C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f97c6efc-3814-4ab3-8c2c-289590461475",
+        "type": "message",
+        "text": "yes indeedy",
+        "user": "U01RW140HBP",
+        "ts": "1617371435.019300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "keaw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes indeedy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617368497.017700",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "79312e40-1342-493e-9dc6-c13f12e563bc",
+        "type": "message",
+        "text": "you see some data :slightly_smiling_face: win !",
+        "user": "U01RW140HBP",
+        "ts": "1617371445.019500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I5Wk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you see some data "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " win !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617368497.017700",
+        "parent_user_id": "U01RW140HBP",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U01RN7BVD1C",
+                    "U01S0E0MRJ7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb86b1f8-2eaa-4c06-b3c3-87150ec7144f",
+        "type": "message",
+        "text": "Hi, people. Could you use MinMaxScaler on ‘Effective_To_Date’?",
+        "user": "U01S79YDELR",
+        "ts": "1617371718.020100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gbK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, people. Could you use MinMaxScaler on ‘Effective_To_Date’?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617371718.020100",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1617392448.023100",
+        "reply_users": [
+            "U01RW140HBP",
+            "U01RKN0EGDV",
+            "U01S79YDELR"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617372490.020800"
+            },
+            {
+                "user": "U01RKN0EGDV",
+                "ts": "1617388233.022300"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617392448.023100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7418dad9-fdcd-4349-907e-9220c177006e",
+        "type": "message",
+        "text": "<@U01S79YDELR> me trata com carinho :crying_cat_face:",
+        "user": "U01S7KCL3DF",
+        "ts": "1617371934.020300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3gZJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S79YDELR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " me trata com carinho "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crying_cat_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617370968.018600",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "606a385a-f84f-4f93-913c-30e4be0e07e3",
+        "type": "message",
+        "text": "Fica triste não, só brincadeira. Conseguiu resolver? Did you managed to solve?",
+        "user": "U01S79YDELR",
+        "ts": "1617372447.020600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZZ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fica triste não, só brincadeira. Conseguiu resolver? Did you managed to solve?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617370968.018600",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "39f66ddf-2d55-4767-a74e-b46e06b17742",
+        "type": "message",
+        "text": "do it :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1617372490.020800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ttq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617371718.020100",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "87007293-37d8-4621-9cf6-fd5f753203e0",
+        "type": "message",
+        "text": "i just ignored it and created a new dataframe....seems easier",
+        "user": "U01S7KCL3DF",
+        "ts": "1617373246.021000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7KCL3DF",
+            "ts": "1617373264.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eu7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i just ignored it and created a new dataframe....seems easier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617370968.018600",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "31cb72fd-3fef-4d80-bac3-9a36f7fa09ae",
+        "type": "message",
+        "text": "Good solution . :slightly_smiling_face:",
+        "user": "U01S79YDELR",
+        "ts": "1617380078.021900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yefDQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good solution . "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617370968.018600",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "5c39007a-240e-41cc-8d30-02dc578d389b",
+        "type": "message",
+        "text": "Quem nunca? who has never done this? I already did.",
+        "user": "U01S79YDELR",
+        "ts": "1617380165.022100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GreR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quem nunca? who has never done this? I already did."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617370968.018600",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "43d58b30-4e73-4465-828d-7d8d0191bc09",
+        "type": "message",
+        "text": "how can we apply it to a single column?",
+        "user": "U01RKN0EGDV",
+        "ts": "1617388233.022300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qgn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how can we apply it to a single column?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617371718.020100",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "type": "message",
+        "text": "How can I add label in both marks?",
+        "files": [
+            {
+                "id": "F01T6SL1F9R",
+                "created": 1617392134,
+                "timestamp": 1617392134,
+                "name": "Screenshot 2021-04-02 at 21.35.31.png",
+                "title": "Screenshot 2021-04-02 at 21.35.31.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S79YDELR",
+                "editable": false,
+                "size": 448350,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T6SL1F9R\/screenshot_2021-04-02_at_21.35.31.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T6SL1F9R\/download\/screenshot_2021-04-02_at_21.35.31.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T6SL1F9R-845daa9608\/screenshot_2021-04-02_at_21.35.31_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T6SL1F9R-845daa9608\/screenshot_2021-04-02_at_21.35.31_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T6SL1F9R-845daa9608\/screenshot_2021-04-02_at_21.35.31_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 349,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T6SL1F9R-845daa9608\/screenshot_2021-04-02_at_21.35.31_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 465,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T6SL1F9R-845daa9608\/screenshot_2021-04-02_at_21.35.31_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T6SL1F9R-845daa9608\/screenshot_2021-04-02_at_21.35.31_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 698,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T6SL1F9R-845daa9608\/screenshot_2021-04-02_at_21.35.31_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 775,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T6SL1F9R-845daa9608\/screenshot_2021-04-02_at_21.35.31_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 930,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T6SL1F9R-845daa9608\/screenshot_2021-04-02_at_21.35.31_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 992,
+                "original_w": 1606,
+                "original_h": 1556,
+                "thumb_tiny": "AwAuADDRxQQKAcGmyp5gAzigB3GOKRwdvHWmRw7H3bs\/hU1AtyFQ4IyePqKlxS0UAlYbkbuaViMc9KTgNQ6hlwe9AwUg9CDTgc1FHEEYkE\/jUh6UALRTcHPNKRxxQAhOD1pe1BUE0GgAo4xiijFACHJ6EUoz3o20YNAH\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S79YDELR\/F01T6SL1F9R\/screenshot_2021-04-02_at_21.35.31.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01T6SL1F9R-1d0f925e6a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8dw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How can I add label in both marks?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S79YDELR",
+        "display_as_bot": false,
+        "ts": "1617392183.023000"
+    },
+    {
+        "client_msg_id": "e213d2b9-a87a-46c9-8560-9deddf2fbe57",
+        "type": "message",
+        "text": "we have to convert Series (column) to DataFrame.",
+        "user": "U01S79YDELR",
+        "ts": "1617392448.023100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1617392649.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WTBy7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we have to convert Series (column) to DataFrame."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617371718.020100",
+        "parent_user_id": "U01S79YDELR",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01RKN0EGDV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

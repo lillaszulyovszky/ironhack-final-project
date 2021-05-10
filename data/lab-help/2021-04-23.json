@@ -1,0 +1,782 @@
+[
+    {
+        "client_msg_id": "b6005b41-9246-4934-a5bc-4d521a5d64bd",
+        "type": "message",
+        "text": "Does anyone know if it is possible to create a for loop based on a 'loc' search? I want to filter only a certain year, than execute the process, and then do it all over again...",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619166143.001900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "39XGU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone know if it is possible to create a for loop based on a 'loc' search? I want to filter only a certain year, than execute the process, and then do it all over again..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "reply_count": 16,
+        "reply_users_count": 2,
+        "latest_reply": "1619184209.005100",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01RRV4JX6Z"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619166690.002000"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619166712.002200"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619166753.002400"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619166828.002600"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619166856.002800"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619167566.003000"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619167575.003200"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619167769.003400"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619167773.003600"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619167778.003800"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619167844.004000"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619167908.004200"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619167921.004400"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619168457.004600"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619168492.004900"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619184209.005100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "823b2ea2-61cb-4a94-901a-1d4f5dd608ab",
+        "type": "message",
+        "text": "yea you can do a for loop on the range(length(Dataframe)",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619166690.002000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RDTqJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea you can do a for loop on the range(length(Dataframe)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "209e005a-dfba-4811-8c41-83af1b611731",
+        "type": "message",
+        "text": "if you go dataframe.loc[row,]",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619166712.002200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mToZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you go dataframe.loc[row,]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "46e6750f-2773-417d-afea-457822e382f7",
+        "type": "message",
+        "text": "so\nfor row in range(len(df)):\n    df[row,]",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619166753.002400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+9om",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so\nfor row in range(len(df)):\n    df[row,]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "3de478b7-07c3-4a10-aa90-cb5a08e6945b",
+        "type": "message",
+        "text": "after the comma you can add a column index or the column name, but leave empty for the whole row",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619166828.002600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bz7=a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "after the comma you can add a column index or the column name, but leave empty for the whole row"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "e2c505f7-5ac3-49b1-a342-3aac8339bf1b",
+        "type": "message",
+        "text": "and you might have an error of missing index, so try .iloc if that is the case",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619166856.002800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z4gxZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and you might have an error of missing index, so try .iloc if that is the case"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "fc11234b-71ea-4606-be99-23d0f98acb05",
+        "type": "message",
+        "text": "Thanks, Alex! So i figure it is doable. The other concern is what to do with the output...",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619167566.003000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JLUo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Alex! So i figure it is doable. The other concern is what to do with the output..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "5eab052b-380d-40bc-b09a-336e583d15d9",
+        "type": "message",
+        "text": "I will have to think about it",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619167575.003200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kQhDz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will have to think about it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "786437bf-f1d5-4a75-9b78-f2d5ee07a4ae",
+        "type": "message",
+        "text": "what are you trying to do",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619167769.003400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/20i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what are you trying to do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "2b425896-6b25-4cdd-95c9-5509b3ab717e",
+        "type": "message",
+        "text": "?",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619167773.003600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R7e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "70c88478-2d7c-4423-96a1-33fe2ac7185b",
+        "type": "message",
+        "text": "create a new column?",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619167778.003800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UIK2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "create a new column?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "e2ce3e11-c3ab-45b9-bdbf-602257530833",
+        "type": "message",
+        "text": "I was working with new dfs, but adding new columns to the original one could be a good idea",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619167844.004000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Fr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was working with new dfs, but adding new columns to the original one could be a good idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "80f353b2-faf7-4cf0-b1ee-06004cbe94ad",
+        "type": "message",
+        "text": "well if you want a new dataframe, you'd have to make a list with what you want and put it between pd.DataFrame(yourlist,columnnames), got to check the syntax",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619167908.004200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KcFw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "well if you want a new dataframe, you'd have to make a list with what you want and put it between pd.DataFrame(yourlist,columnnames), got to check the syntax"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "24c93d15-5da3-4f42-83ee-4408fed1590c",
+        "type": "message",
+        "text": "or pd.Series() if it's one dimensional",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619167921.004400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZHO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or pd.Series() if it's one dimensional"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "2f8355ae-8126-4ff1-a60a-c437a453ec96",
+        "type": "message",
+        "text": "There are 15 years in the series. I think I will have to calculate each year with one column, create a dataframe for each, and then join all of them together",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619168457.004600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RRV4JX6Z",
+            "ts": "1619168472.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZEV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are 15 years in the series. I think I will have to calculate each year with one column, create a dataframe for each, and then join all of them together"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "efecd7ed-77b1-4541-b650-e691fd07d70c",
+        "type": "message",
+        "text": "Because i will have to do it 40 times, for 40 countries",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619168492.004900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UCu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because i will have to do it 40 times, for 40 countries"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "13edb89e-4a10-4553-83fa-78af95cd86f5",
+        "type": "message",
+        "text": "This is how I solved it... for now... <https:\/\/github.com\/ebelingbarros\/Rasmussen_Hirschman_Indexes\/blob\/main\/Getting%20data.ipynb>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619184209.005100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[ebelingbarros\/Rasmussen_Hirschman_Indexes] Getting data.ipynb",
+                "text": "```\n{\n \"cells\": [\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 33,\n   \"metadata\": {},\n   \"outputs\": [],\n   \"source\": [\n    \"import pandas as pd\\n\",\n    \"import numpy as np\\n\",\n    \"from sklearn import preprocessing\\n\",\n    \"from numpy.linalg import inv\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 34,\n   \"metadata\": {},\n   \"outputs\": [],\n   \"source\": [\n    \"data = pd.read_csv('Brazil.csv', low_memory=False)\\n\",\n    \"data['Year'] = pd.to_datetime(data['Year'], format='%Y')\"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"metadata\": {},\n   \"source\": [\n    \"***\\n\",\n    \"### 2000\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 35,\n   \"metadata\": {},\n   \"outputs\": [],\n   \"source\": [\n    \"data1 = pd.DataFrame(data, columns = ['Year','Code', 'Origin','A01', 'A02', 'A03', 'B', 'C10-C12', 'C13-C15', 'C16', 'C17', 'C18', 'C19', 'C20', 'C21', 'C22', 'C23', 'C24', 'C25', 'C26', 'C27', 'C28', 'C29', 'C30', 'C31_C32', 'C33', 'D35', 'E36', 'E37-E39', 'F', 'G45', 'G46', 'G47', 'H49', 'H50', 'H51', 'H52', 'H53', 'I', 'J58', 'J59_J60', 'J61', 'J62_J63', 'K64', 'K65', 'K66', 'L68', 'M69_M70', 'M71', 'M72', 'M73', 'M74_M75', 'N', 'O84', 'P85', 'Q', 'R_S', 'T', 'U'\\n\",\n    \"])\\n\",\n    \"data2 = data1.loc[(data1['Year'] == '2000-01-01') &amp; (data1['Origin'] == 'Domestic')]\\n\",\n    \"data3 = data2.drop(['Year', 'Code', 'Origin'], axis=1)\\n\",\n    \"data3 = data3.apply(pd.to_numeric, errors='coerce')\\n\",\n    \"flow_tbl = data3.to_numpy()\\n\",\n    \"mx_A = np.linalg.inv(np.identity(56) - flow_tbl)\\n\",\n    \"novo = pd.DataFrame(data=mx_A)\\n\",\n    \"a = novo.values.sum()\\n\",\n    \"total_avg = a\/(56**2)\\n\",\n    \"soma_colunas = np.sum(mx_A,axis=1).tolist()\\n\",\n    \"para_tras = pd.DataFrame(data=soma_colunas, columns=[\\\"values\\\"])\\n\",\n    \"para_tras.insert(1, \\\"codes\\\", ['A01', 'A02', 'A03', 'B', 'C10-C12', 'C13-C15', 'C16', 'C17', 'C18', 'C19', 'C20', 'C21', 'C22', 'C23', 'C24', 'C25', 'C26', 'C27', 'C28', 'C29', 'C30', 'C31_C32', 'C33', 'D35', 'E36', 'E37-E39', 'F', 'G45', 'G46', 'G47', 'H49', 'H50', 'H51', 'H52', 'H53', 'I', 'J58', 'J59_J60', 'J61', 'J62_J63', 'K64', 'K65', 'K66', 'L68', 'M69_M70', 'M71', 'M72', 'M73', 'M74_M75', 'N', 'O84', 'P85', 'Q', 'R_S', 'T', 'U'])\\n\",\n    \"para_tras = para_tras.set_index('codes')\\n\",\n    \"para_tras['2000']=(para_tras['values']\/56)\/total_avg\\n\",\n    \"para_tras = para_tras.drop(['values'], axis=1)\\n\",\n    \"soma_linhas = np.sum(mx_A,axis=0).tolist()\\n\",\n    \"para_frente = pd.DataFrame(data=soma_linhas, columns=[\\\"values\\\"])\\n\",\n    \"para_frente.insert(1, \\\"codes\\\", ['A01', 'A02', 'A03', 'B', 'C10-C12', 'C13-C15', 'C16', 'C17', 'C18', 'C19', 'C20', 'C21', 'C22', 'C23', 'C24', 'C25', 'C26', 'C27', 'C28', 'C29', 'C30', 'C31_C32', 'C33', 'D35', 'E36', 'E37-E39', 'F', 'G45', 'G46', 'G47', 'H49', 'H50', 'H51', 'H52', 'H53', 'I', 'J58', 'J59_J60', 'J61', 'J62_J63', 'K64', 'K65', 'K66', 'L68', 'M69_M70', 'M71', 'M72', 'M73', 'M74_M75', 'N', 'O84', 'P85', 'Q', 'R_S', 'T', 'U'])\\n\",\n    \"para_frente = para_frente.set_index('codes')\\n\",\n    \"para_frente['2000']=(para_frente['values']\/56)\/total_avg\\n\",\n    \"para_frente = para_frente.drop(['values'], axis=1)\\n\",\n    \"\\n\",\n    \"\\n\"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"metadata\": {},\n   \"source\": [\n    \"***\\n\",\n    \"### 2001\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 36,\n   \"metadata\": {},\n   \"outputs\": [],\n   \"source\": [\n    \"data1_1 = pd.DataFrame(data, columns = ['Year','Code', 'Origin','A01', 'A02', 'A03', 'B', 'C10-C12', 'C13-C15', 'C16', 'C17', 'C18', 'C19', 'C20', 'C21', 'C22', 'C23', 'C24', 'C25', 'C26', 'C27', 'C28', 'C29', 'C30', 'C31_C32', 'C33', 'D35', 'E36', 'E37-E39', 'F', 'G45', 'G46', 'G47', 'H49', 'H50', 'H51', 'H52', 'H53', 'I', 'J58', 'J59_J60', 'J61', 'J62_J63', 'K64', 'K65', 'K66', 'L68', 'M69_M70', 'M71', 'M72', 'M73', 'M74_M75', 'N', 'O84', 'P85', 'Q', 'R_S', 'T', 'U'\\n\",\n    \"])\\n\",\n    \"data2_1 = data1_1.loc[(data1_1['Year'] == '2001-01-01') &amp; (data1_1['Origin'] == 'Domestic')]\\n\",\n    \"data3_1 = data2_1.drop(['Year', 'Code', 'Origin'], axis=1)\\n\",\n    \"data3_1 = data3_1.apply(pd.to_numeric, errors='coerce')\\n\",\n    \"flow_tbl_1 = data3_1.to_numpy()\\n\",\n    \"mx_A_1 = np.linalg.inv(np.identity(56) - flow_tbl_1)\\n\",\n    \"novo_1 = pd.DataFrame(data=mx_A_1)\\n\",\n    \"a_1 = novo_1.values.sum()\\n\",\n    \"total_avg_1 = a_1\/(56**2)\\n\",\n    \"soma_colunas_1 = np.sum(mx_A_1,axis=1).tolist()\\n\",\n    \"para_tras_1 = pd.DataFrame(data=soma_colunas_1, columns=[\\\"values\\\"])\\n\",\n    \"para_tras_1.insert(1, \\\"codes\\\", ['A01', 'A02', 'A03', 'B', 'C10-C12', 'C13-C15', 'C16', 'C17', 'C18', 'C19', 'C20', 'C21', 'C22', 'C23', 'C24', 'C25', 'C26', 'C27', 'C28', 'C29', 'C30', 'C31_C32', 'C33', 'D35', 'E36', 'E37-E39', 'F', 'G45', 'G46', 'G47', 'H49', 'H50', 'H51', 'H52', 'H53', 'I', 'J58', 'J59_J60', 'J61', 'J62_J63', 'K64', 'K65', 'K66', 'L68', 'M69_M70', 'M71', 'M72', 'M73', 'M74_M75', 'N', 'O84', 'P85', 'Q', 'R_S', 'T', 'U'])\\n\",\n    \"para_tras_1 = para_tras_1.set_index('codes')\\n\",\n    \"para_tras_1['2001']=(para_tras_1['values']\/56)\/total_avg_1\\n\",\n    \"para_tras_1 = para_tras_1.drop(['values'], axis=1)\\n\",\n    \"soma_linhas_1 = np.sum(mx_A_1,axis=0).tolist()\\n\",\n    \"para_frente_1 = pd.DataFrame(data=soma_linhas_1, columns=[\\\"values\\\"])\\n\",\n    \"para_frente_1.insert(1, \\\"codes\\\", ['A01', 'A02', 'A03', 'B', 'C10-C12', 'C13-C15', 'C16', 'C17', 'C18', 'C19', 'C20', 'C21', 'C22', 'C23', 'C24', 'C25', 'C26', 'C27', 'C28', 'C29', 'C30', 'C31_C32', 'C33', 'D35', 'E36', 'E37-E39', 'F', 'G45', 'G46', 'G47', 'H49', 'H50', 'H51', 'H52', 'H53', 'I', 'J58', 'J59_J60', 'J61', 'J62_J63', 'K64', 'K65', 'K66', 'L68', 'M69_M70', 'M71', 'M72', 'M73', 'M74_M75', 'N', 'O84', 'P85', 'Q', 'R_S', 'T', 'U'])\\n\",\n    \"para_frente_1 = para_frente_1.set_index('codes')\\n\",\n    \"para_frente_1['2001']=(para_frente_1['values']\/56)\/total_avg_1\\n\",\n    \"para_frente_1 = para_frente_1.drop(['values'], axis=1)\"\n   ]\n  },\n  {\n   \"cell_type\": \"markdown\",\n   \"metadata\": {},\n   \"source\": [\n    \"***\\n\",\n    \"### 2002\"\n   ]\n  },\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 37,\n   \"metadata\": {},\n   \"outputs\": [],\n   \"source\": [\n    \"data1_2 = pd.DataFrame(data, columns = ['Year','Code', 'Origin','A01', 'A02', 'A03', 'B', 'C10-C12', 'C13-C15', 'C16', 'C17', 'C18', 'C19', 'C20', 'C21', 'C22', 'C23', 'C24', 'C25', 'C26', 'C27', 'C28', 'C29', 'C30', 'C31_C32', 'C33', 'D35', 'E36', 'E37-E39', 'F', 'G45', 'G46', 'G47', 'H49', 'H50', 'H51', 'H52', 'H53', 'I', 'J58', 'J59_J60', 'J61', 'J62_J63', 'K64', 'K65', 'K66', 'L68', 'M69_M70', 'M71', 'M72', 'M73', 'M74_M75', 'N', 'O84', 'P85', 'Q', 'R_S', 'T', 'U'\\n\",\n    \"])\\n\",\n    \"data2_2 = data1_2.loc[(data1_2['Year'] == '2002-01-01') &amp; (data1_2['Origin'] == 'Domestic')]\\n\",\n    \"data3_2 = data2_2.drop(['Year', 'Code', 'Origin'], axis=1)\\n\",\n    \"data3_2 = data3_2.apply(pd.to_numeric, errors='coerce')\\n\",\n    \"flow_tbl_2 = data3_2.to_numpy()\\n\",\n    \"mx_A_2 = np.linalg.inv(np.identity(56) - flow_tbl_2)\\n\",\n    \"novo_2 = pd.DataFrame(data=mx_A_2)\\n\",\n    \"a_2 = novo_2.values.sum()\\n\",\n    \"total_avg_2 = a_2\/(56**2)\\n\",\n    \"soma_colunas_2 = np.sum(mx_A_2,axis=1).tolist()\\n\",\n    \"para_tras_2 = pd.DataFrame(data=soma_colunas_2, columns=[\\\"values\\\"])\\n\",\n    \"para_tras_2.insert(1, \\\"codes\\\", ['A01', 'A02', 'A03', 'B', 'C10-C12', 'C13-C15', 'C16', 'C17', 'C18', 'C19', 'C20', 'C21', 'C22', 'C23', 'C24', 'C25', 'C26', 'C27', 'C28', 'C29', 'C30', 'C31_C32', 'C33', 'D35', 'E36', 'E37-E39', 'F', 'G45', 'G46', 'G47', 'H49', 'H50', 'H51', 'H52', 'H53', 'I', 'J58', 'J59_J60', 'J61', 'J62_J63', 'K64', 'K65', 'K66', 'L68', 'M69_M70', 'M71', 'M72', 'M73', 'M74_M75', 'N', 'O84', 'P85', 'Q', 'R_S', 'T', 'U'])\\n\",\n    \"para_tras_2 = para_tras_2.set_index('codes')\\n\",\n    \"para_tras_2['2002']=(para_tras_2['values']\/56)\/total_avg_2\\n\",\n    \"para_tras_2 = para_tras_2.drop(['values'], axis=1)\\n\",\n    \"soma_linhas_2 = np.sum(mx_A_2,axis=0).tolist()\\n\",\n    \"para_frente_2 = pd.DataFrame(data=soma_linhas_2, columns=[\\\"values\\\"])\\n\",\n    \"para_frente_2.insert(1, \\\"codes\\\"…",
+                "title": "Getting data.ipynb",
+                "footer": "<https:\/\/github.com\/ebelingbarros\/Rasmussen_Hirschman_Indexes|ebelingbarros\/Rasmussen_Hirschman_Indexes>",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/ebelingbarros\/Rasmussen_Hirschman_Indexes\/blob\/main\/Getting%20data.ipynb",
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "B01RM0CJC4X",
+                "app_unfurl_url": "https:\/\/github.com\/ebelingbarros\/Rasmussen_Hirschman_Indexes\/blob\/main\/Getting%20data.ipynb",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K=uSS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is how I solved it... for now... "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ebelingbarros\/Rasmussen_Hirschman_Indexes\/blob\/main\/Getting%20data.ipynb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619166143.001900",
+        "parent_user_id": "U01RRV4JX6Z"
+    }
+]

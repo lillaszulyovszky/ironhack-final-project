@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "3d4e6b69-bf6c-4c44-9b3f-73d06a942f56",
+        "type": "message",
+        "text": "i’ve been going back over the Kaggles chapters on Pandas that were posted here a little while back\n\non <https:\/\/www.kaggle.com\/residentmario\/summary-functions-and-maps|Summary Functions and Maps> there’s this part\n\n```map() is the first, and slightly simpler one. For example, suppose that we wanted to remean the scores the wines received to 0. We can do this as follows:```\nBut what does *remean* refer to? Some kind of scaling of each value as it compares to the mean of the whole column?",
+        "user": "U01S7KCL3DF",
+        "ts": "1619985650.001600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Summary Functions and Maps",
+                "title_link": "https:\/\/www.kaggle.com\/residentmario\/summary-functions-and-maps",
+                "text": "Explore and run machine learning code with Kaggle Notebooks | Using data from multiple data sources",
+                "fallback": "Summary Functions and Maps",
+                "thumb_url": "https:\/\/storage.googleapis.com\/kaggle-avatars\/thumbnails\/753574-kg.png",
+                "from_url": "https:\/\/www.kaggle.com\/residentmario\/summary-functions-and-maps",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "service_name": "kaggle.com",
+                "id": 1,
+                "original_url": "https:\/\/www.kaggle.com\/residentmario\/summary-functions-and-maps"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RQUub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i’ve been going back over the Kaggles chapters on Pandas that were posted here a little while back\n\non "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kaggle.com\/residentmario\/summary-functions-and-maps",
+                                "text": "Summary Functions and Maps"
+                            },
+                            {
+                                "type": "text",
+                                "text": " there’s this part\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "map() is the first, and slightly simpler one. For example, suppose that we wanted to remean the scores the wines received to 0. We can do this as follows:"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nBut what does "
+                            },
+                            {
+                                "type": "text",
+                                "text": "remean",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " refer to? Some kind of scaling of each value as it compares to the mean of the whole column?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619985650.001600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1620399652.000700",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01RSRE0N3D"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620398926.000100"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1620399652.000700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620398926.000099"
+    }
+]

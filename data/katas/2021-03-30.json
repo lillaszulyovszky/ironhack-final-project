@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "545b7e05-5e81-49cf-8688-71d7f4e63109",
+        "type": "message",
+        "text": "<https:\/\/www.codewars.com\/users\/ProfGeller>",
+        "user": "U01S6LCPM0C",
+        "ts": "1617093173.014200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "gef13325ef15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ef13325ef1599f9a41dadef061142601.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jerrit Steinebach",
+            "display_name": "Jerrit Steinebach",
+            "team": "T01RBRV5F7H",
+            "name": "jerrit.steinebach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Codewars",
+                "title": "ProfGeller | Codewars",
+                "title_link": "https:\/\/www.codewars.com\/users\/ProfGeller",
+                "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.",
+                "fallback": "Codewars: ProfGeller | Codewars",
+                "from_url": "https:\/\/www.codewars.com\/users\/ProfGeller",
+                "thumb_url": "https:\/\/www.codewars.com\/assets\/logos\/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.codewars.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.codewars.com\/users\/ProfGeller"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0N7G4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codewars.com\/users\/ProfGeller"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617019904.004300",
+        "parent_user_id": "U01SJKB2MG8"
+    }
+]

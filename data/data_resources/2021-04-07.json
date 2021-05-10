@@ -1,0 +1,332 @@
+[
+    {
+        "client_msg_id": "f8fa8cee-76fb-4447-a260-d26f34a03aab",
+        "type": "message",
+        "text": "This is a pretty good resource on SQL. He explains first how you would do it in Excel and then does an analogy on Microsoft SQL Server.\n\nThe link is a playlist.\n\n<https:\/\/www.youtube.com\/watch?v=7MPHzInVQLE&amp;list=PLTJTBoU5HOCSrExoOVTjDG33lFpDvmz2w&amp;index=2>",
+        "user": "U01RXCQHMHT",
+        "ts": "1617782924.001000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RXCQHMHT",
+            "ts": "1617782992.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Introduction to SQL Programming for Excel Users - SQL Server in Azure",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=7MPHzInVQLE&amp;index=2",
+                "author_name": "David Langer",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCRhUp6SYaJ7zme4Bjwt28DQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/7MPHzInVQLE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Introduction to SQL Programming for Excel Users - SQL Server in Azure",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/7MPHzInVQLE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=7MPHzInVQLE&amp;index=2",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=7MPHzInVQLE&amp;list=PLTJTBoU5HOCSrExoOVTjDG33lFpDvmz2w&amp;index=2"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jwj1Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a pretty good resource on SQL. He explains first how you would do it in Excel and then does an analogy on Microsoft SQL Server.\n\nThe link is a playlist.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=7MPHzInVQLE&list=PLTJTBoU5HOCSrExoOVTjDG33lFpDvmz2w&index=2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617782924.001000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617793349.001900",
+        "reply_users": [
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617793349.001900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fcf62260-ecd3-443a-9ad4-afafb5cff164",
+        "type": "message",
+        "text": "I think this is a good tutorial on window functions. But again it is not MySQL.\n\n<https:\/\/www.youtube.com\/watch?v=5cDlm2d3Cfc>",
+        "user": "U01RXCQHMHT",
+        "ts": "1617792432.001700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Introduction to SQL Programming for Excel Users Part 9 - Basic Windows",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=5cDlm2d3Cfc",
+                "author_name": "David Langer",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCRhUp6SYaJ7zme4Bjwt28DQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/5cDlm2d3Cfc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Introduction to SQL Programming for Excel Users Part 9 - Basic Windows",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/5cDlm2d3Cfc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=5cDlm2d3Cfc",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=5cDlm2d3Cfc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=roJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think this is a good tutorial on window functions. But again it is not MySQL.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=5cDlm2d3Cfc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "249de1b1-1c7b-479c-9ccd-cda0a11dd09b",
+        "type": "message",
+        "text": "that's precisely what I expect an SQL programmer to look like",
+        "user": "U01S7KCL3DF",
+        "ts": "1617793349.001900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xy2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that's precisely what I expect an SQL programmer to look like"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617782924.001000",
+        "parent_user_id": "U01RXCQHMHT"
+    },
+    {
+        "client_msg_id": "6f47fcd7-2cfb-4dae-bb20-3dbe892dfd28",
+        "type": "message",
+        "text": "SQL Window functions cheat sheet (did Sian share that already in lecture? only had the audio on at that time :slightly_smiling_face:)\n<https:\/\/learnsql.com\/blog\/sql-window-functions-cheat-sheet\/>",
+        "user": "U01SJKB2MG8",
+        "ts": "1617810155.002700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "LearnSQL.com",
+                "title": "SQL Window Functions Cheat Sheet",
+                "title_link": "https:\/\/learnsql.com\/blog\/sql-window-functions-cheat-sheet\/",
+                "text": "This 2-page SQL Window Functions Cheat Sheet covers the syntax of window functions and a list of window functions. Download it in PDF or PNG format.",
+                "fallback": "LearnSQL.com: SQL Window Functions Cheat Sheet",
+                "image_url": "https:\/\/learnsql.com\/blog\/sql-window-functions-cheat-sheet\/Window_Functions_Cheat_Sheet_page_1.png",
+                "image_width": 354,
+                "image_height": 250,
+                "ts": 1588168800,
+                "from_url": "https:\/\/learnsql.com\/blog\/sql-window-functions-cheat-sheet\/",
+                "image_bytes": 948511,
+                "id": 1,
+                "original_url": "https:\/\/learnsql.com\/blog\/sql-window-functions-cheat-sheet\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SZ21f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SQL Window functions cheat sheet (did Sian share that already in lecture? only had the audio on at that time "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learnsql.com\/blog\/sql-window-functions-cheat-sheet\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617810155.002700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617810234.002900",
+        "reply_users": [
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617810234.002900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR",
+                    "U01S133DZ9A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0398046c-352b-4017-acc4-5b0ed11990e0",
+        "type": "message",
+        "text": "yes i did :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1617810234.002900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=sp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes i did "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617810155.002700",
+        "parent_user_id": "U01SJKB2MG8",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U01SJKB2MG8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

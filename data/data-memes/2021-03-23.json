@@ -1,0 +1,581 @@
+[
+    {
+        "client_msg_id": "26d81d62-1bce-47fc-bbd8-86582f3e5a0b",
+        "type": "message",
+        "text": "<https:\/\/lifehacker.com\/your-vaccination-card-will-score-you-free-krispy-kreme-1846515136>\n\nfirst day and I already started thinking like a data analyst\n\n\"ok let's crunch some numbers.... 1 free donut per branch per day, how many are in easy driving distance....hmmm how many donuts could we score in 2021\" :thinking_face:",
+        "user": "U01S7KCL3DF",
+        "ts": "1616497850.000900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Lifehacker",
+                "title": "Your Vaccination Card Will Score You Free Krispy Kreme Doughnuts All Year",
+                "title_link": "https:\/\/lifehacker.com\/your-vaccination-card-will-score-you-free-krispy-kreme-1846515136",
+                "text": "In case “not getting a deadly virus” isn’t enough of a reason to offer up your arm for a couple of doses of the vaccine, Krispy Kreme wants to give you a little extra encouragement—in the form of free doughnuts all year.",
+                "fallback": "Lifehacker: Your Vaccination Card Will Score You Free Krispy Kreme Doughnuts All Year",
+                "image_url": "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200\/policnbzidfezfpvfywf.jpg",
+                "from_url": "https:\/\/lifehacker.com\/your-vaccination-card-will-score-you-free-krispy-kreme-1846515136",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 77482,
+                "service_icon": "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/c_fill,f_auto,fl_progressive,g_center,h_200,q_80,w_200\/u0939doeuioaqhspkjyc.png",
+                "id": 1,
+                "original_url": "https:\/\/lifehacker.com\/your-vaccination-card-will-score-you-free-krispy-kreme-1846515136"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jn9KJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lifehacker.com\/your-vaccination-card-will-score-you-free-krispy-kreme-1846515136"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nfirst day and I already started thinking like a data analyst\n\n\"ok let's crunch some numbers.... 1 free donut per branch per day, how many are in easy driving distance....hmmm how many donuts could we score in 2021\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616497850.000900",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1616508678.002800",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01S7KCL3DF",
+            "U01RW140HBP",
+            "U01SK96QF5E"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1616497894.001100"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1616497905.001300"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1616497979.001500"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1616498032.001900"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1616498111.002100"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1616498119.002300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1616501100.002600"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1616508678.002800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "59ddfe30-e25e-4b00-a151-c00179db1c0e",
+        "type": "message",
+        "text": "Cost is most likely higher than return so lets not do this :smile:",
+        "user": "U01S7BM4N81",
+        "ts": "1616497894.001100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sI9Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cost is most likely higher than return so lets not do this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616497850.000900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "950ebfa8-5ae7-4910-be60-91fea19ebd7f",
+        "type": "message",
+        "text": "or maybe pick a state, look at the rate of vaccination and figure out how many they'll dish out per month",
+        "user": "U01S7KCL3DF",
+        "ts": "1616497905.001300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G127q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or maybe pick a state, look at the rate of vaccination and figure out how many they'll dish out per month"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616497850.000900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "type": "message",
+        "text": "<@U01S7BM4N81> we can walk around Manhattan,,,, no transport costs. so the ROI is pure donuts",
+        "files": [
+            {
+                "id": "F01SHHUPKH7",
+                "created": 1616497957,
+                "timestamp": 1616497957,
+                "name": "WhatsApp Image 2021-03-22 at 19.50.07.jpeg",
+                "title": "WhatsApp Image 2021-03-22 at 19.50.07.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01S7KCL3DF",
+                "editable": false,
+                "size": 77309,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SHHUPKH7\/whatsapp_image_2021-03-22_at_19.50.07.jpeg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SHHUPKH7\/download\/whatsapp_image_2021-03-22_at_19.50.07.jpeg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SHHUPKH7-9f99049c5d\/whatsapp_image_2021-03-22_at_19.50.07_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SHHUPKH7-9f99049c5d\/whatsapp_image_2021-03-22_at_19.50.07_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SHHUPKH7-9f99049c5d\/whatsapp_image_2021-03-22_at_19.50.07_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SHHUPKH7-9f99049c5d\/whatsapp_image_2021-03-22_at_19.50.07_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SHHUPKH7-9f99049c5d\/whatsapp_image_2021-03-22_at_19.50.07_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SHHUPKH7-9f99049c5d\/whatsapp_image_2021-03-22_at_19.50.07_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SHHUPKH7-9f99049c5d\/whatsapp_image_2021-03-22_at_19.50.07_800.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 370,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SHHUPKH7-9f99049c5d\/whatsapp_image_2021-03-22_at_19.50.07_960.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 443,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SHHUPKH7-9f99049c5d\/whatsapp_image_2021-03-22_at_19.50.07_1024.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "original_w": 473,
+                "original_h": 1024,
+                "thumb_tiny": "AwAwABbR6HjH507I9aZzQTg80AOGM5H86Wmde5pce5\/OgBueowaXgdT+tITgjFKVB5NIBfpRzSYFGB\/k0wCjPPelx1pBtJ+9n8aAFopdtG33oA\/\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7KCL3DF\/F01SHHUPKH7\/whatsapp_image_2021-03-22_at_19.50.07.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01SHHUPKH7-9b16751601",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RVqup",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S7BM4N81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we can walk around Manhattan,,,, no transport costs. so the ROI is pure donuts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S7KCL3DF",
+        "display_as_bot": false,
+        "ts": "1616497979.001500",
+        "thread_ts": "1616497850.000900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "f685bfd0-1c0f-4796-9797-9083b520e504",
+        "type": "message",
+        "text": "When time spent = 0 then yes, but as an economist, you have to include opoertunity cost of doing something else, and that would most likely be negative, except for when you sell the donuts for a net win afteerwards :smile:",
+        "user": "U01S7BM4N81",
+        "ts": "1616498032.001900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y=D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When time spent = 0 then yes, but as an economist, you have to include opoertunity cost of doing something else, and that would most likely be negative, except for when you sell the donuts for a net win afteerwards "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616497850.000900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "c76cfd0b-042a-418c-abb2-6f2e2f948ac7",
+        "type": "message",
+        "text": "you're under the assumption that I have something better to do with my time....which is generous :catjam:",
+        "user": "U01S7KCL3DF",
+        "ts": "1616498111.002100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rDVAC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you're under the assumption that I have something better to do with my time....which is generous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "catjam"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616497850.000900",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "handshake",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0022f040-6526-4a88-bc3b-72132a7bc2db",
+        "type": "message",
+        "text": ":catjam:",
+        "user": "U01S7BM4N81",
+        "ts": "1616498119.002300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jFjK6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "catjam"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616497850.000900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "1346cfb8-850f-452a-a07f-983b795c2fa1",
+        "type": "message",
+        "text": "donuts! i want donuts :doughnut:",
+        "user": "U01RW140HBP",
+        "ts": "1616501100.002600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eVa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "donuts! i want donuts "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "doughnut"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616497850.000900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "f8f2b8f7-25e1-4844-bbc8-7a5ee38c5c59",
+        "type": "message",
+        "text": "this made me realise there is no krispy branch in Budapest :pensive:",
+        "user": "U01SK96QF5E",
+        "ts": "1616508678.002800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l0vCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this made me realise there is no krispy branch in Budapest "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pensive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616497850.000900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01S6KCP5SP",
+                "created": 1616518378,
+                "timestamp": 1616518378,
+                "name": "photo_2021-02-16_21-09-07.jpg",
+                "title": "photo_2021-02-16_21-09-07.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01SJKB2MG8",
+                "editable": false,
+                "size": 88323,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01S6KCP5SP\/photo_2021-02-16_21-09-07.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01S6KCP5SP\/download\/photo_2021-02-16_21-09-07.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S6KCP5SP-3f8c9c8a50\/photo_2021-02-16_21-09-07_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S6KCP5SP-3f8c9c8a50\/photo_2021-02-16_21-09-07_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S6KCP5SP-3f8c9c8a50\/photo_2021-02-16_21-09-07_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 329,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S6KCP5SP-3f8c9c8a50\/photo_2021-02-16_21-09-07_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 439,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S6KCP5SP-3f8c9c8a50\/photo_2021-02-16_21-09-07_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S6KCP5SP-3f8c9c8a50\/photo_2021-02-16_21-09-07_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 659,
+                "thumb_720_h": 720,
+                "original_w": 700,
+                "original_h": 765,
+                "thumb_tiny": "AwAwACtqTcAYqQSjvVc8L93j1pgByD2+tKw7lnz\/AJumRUnmD14qkW5I9e9PAITqKLDLBkBqMkZ61F2GDTWPzHr+VAgU71yGA9iaMf7Sf99VrfLjoPypoKEZAUj6UwMsJzksuB708H5vvL+daPy+g\/KmSMqoSAue31oAosAOhXHXrUJfJ6ir8Eu8ESAZGT07UomhIyAPyoApvcP5Sxk4wO1PikLKIRnrVYk8ZGSeakgLqdy7dx45NIZOkzGYHdz05pDwWwO9RxqS2WK4J9ehp8yEqSrDb9aAGSHCZDZxxmmpKFUAmmkgLjPBqL8aYj\/\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SJKB2MG8\/F01S6KCP5SP\/photo_2021-02-16_21-09-07.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01S6KCP5SP-0a3bf01537",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01SJKB2MG8",
+        "display_as_bot": false,
+        "ts": "1616518381.003000",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U01SK96QF5E",
+                    "U01S7BM4N81",
+                    "U01S1CWGTU4",
+                    "U01RSRE0N3D",
+                    "U01RP2K1606"
+                ],
+                "count": 5
+            },
+            {
+                "name": "catjam",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cattyping",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

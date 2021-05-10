@@ -1,0 +1,228 @@
+[
+    {
+        "client_msg_id": "9f63df4b-1bf9-4815-925e-d9d44177e5a9",
+        "type": "message",
+        "text": "speaking of fun in the sun... if anyone fancies a post-bootcamp stroll tomorrow (wednesday) in Prenzlauer Berg or Friedrichshain, feel free to reach out :sunglasses:  :icecream:",
+        "user": "U01S7KCL3DF",
+        "ts": "1617118627.010100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xyzw6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "speaking of fun in the sun... if anyone fancies a post-bootcamp stroll tomorrow (wednesday) in Prenzlauer Berg or Friedrichshain, feel free to reach out "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "icecream"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617118627.010100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617119626.010900",
+        "reply_users": [
+            "U01RSRE0N3D"
+        ],
+        "replies": [
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1617119626.010900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617119626.010900",
+        "reactions": [
+            {
+                "name": "pizza",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "doughnut",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc1f79ae-f251-414f-bf49-7563d6863c15",
+        "type": "message",
+        "text": "what about weekends?",
+        "user": "U01RXCQHMHT",
+        "ts": "1617118658.010500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J=7B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what about weekends?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617118658.010500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617118796.010600",
+        "reply_users": [
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617118796.010600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "639ae5c6-8f17-4dca-a098-215331798e56",
+        "type": "message",
+        "text": "also good for strollin' :walking:",
+        "user": "U01S7KCL3DF",
+        "ts": "1617118796.010600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t=f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also good for strollin' "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "walking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617118658.010500",
+        "parent_user_id": "U01RXCQHMHT"
+    },
+    {
+        "client_msg_id": "01cfca36-8c45-42f0-a47c-e59bdc6ba33b",
+        "type": "message",
+        "text": "will miss this week, but I am free next week! :)",
+        "user": "U01RSRE0N3D",
+        "ts": "1617119626.010900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C8HWK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "will miss this week, but I am free next week! :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617118627.010100",
+        "parent_user_id": "U01S7KCL3DF"
+    }
+]

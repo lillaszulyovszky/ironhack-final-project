@@ -1,0 +1,760 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01TZBGU0P4",
+                "created": 1618218648,
+                "timestamp": 1618218648,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 352357,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TZBGU0P4\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TZBGU0P4\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TZBGU0P4-1610266307\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TZBGU0P4-1610266307\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TZBGU0P4-1610266307\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TZBGU0P4-1610266307\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TZBGU0P4-1610266307\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TZBGU0P4-1610266307\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TZBGU0P4-1610266307\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "original_w": 800,
+                "original_h": 450,
+                "thumb_tiny": "AwAbADCNbaIIAyFm\/vbsUCGDzfLMWDjOdxqztFHlqxJPORigRC2nxschio9BzR\/Zqf8APRvyqR\/MXKiRSCOCxwRUsbBUVSwJA9aAK39mx\/8APRvypf7Mj\/56N+Qq5mlzSAofagD2x9aDeqOi5P1rPPFJTGWWmMj5YipvNjIC4UKO\/cVQooA0vMReFnNKJkwf3\/5g1mUUAf\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F01TZBGU0P4\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TZBGU0P4-9dfeb6c0ec",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RW2X7S9Z",
+        "display_as_bot": false,
+        "ts": "1618218651.002300",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S0MFJ3HR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b95c743-c384-4401-92ab-177e03f2ee96",
+        "type": "message",
+        "text": "Can't wait to apply ML in the field? Me neither!\n<https:\/\/www.youtube.com\/watch?v=3zhuGdWZ5qo>",
+        "user": "U01SJKB2MG8",
+        "ts": "1618220515.003100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Tunak Tunak Tun - Boston Dynamics Edition",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=3zhuGdWZ5qo",
+                "author_name": "Anuj Gupta",
+                "author_link": "https:\/\/www.youtube.com\/user\/anuj12199",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/3zhuGdWZ5qo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Tunak Tunak Tun - Boston Dynamics Edition",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/3zhuGdWZ5qo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=3zhuGdWZ5qo",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=3zhuGdWZ5qo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "srT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can't wait to apply ML in the field? Me neither!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=3zhuGdWZ5qo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618220515.003100",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1618228552.005000",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01RSRE0N3D",
+            "U01S7KCL3DF",
+            "U01RW140HBP",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1618220617.003300"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1618221923.003500"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1618221965.003800"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1618222199.004000"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1618223248.004200"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1618225448.004700"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1618228552.005000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618228552.005000"
+    },
+    {
+        "client_msg_id": "f2ae28a6-638d-4466-8005-7f1a9c007c30",
+        "type": "message",
+        "text": "seeing this video is really hard to believe that those are 100k robots dancing around a playground haha",
+        "user": "U01RW2X7S9Z",
+        "ts": "1618220617.003300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7vXk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "seeing this video is really hard to believe that those are 100k robots dancing around a playground haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618220515.003100",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "c7089484-168b-48a8-8045-24ba9fdee495",
+        "type": "message",
+        "text": "have you seen <https:\/\/youtu.be\/tqsy9Wtr1qE|this one>?",
+        "user": "U01RSRE0N3D",
+        "ts": "1618221923.003500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Teaching a Robot Dog to Pee Beer",
+                "title_link": "https:\/\/youtu.be\/tqsy9Wtr1qE",
+                "author_name": "Michael Reeves",
+                "author_link": "https:\/\/www.youtube.com\/c\/MichaelReeves",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/tqsy9Wtr1qE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Teaching a Robot Dog to Pee Beer",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/tqsy9Wtr1qE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/tqsy9Wtr1qE",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/tqsy9Wtr1qE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VsGWs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "have you seen "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/tqsy9Wtr1qE",
+                                "text": "this one"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618220515.003100",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "26f15d3d-b99b-4892-8dd3-87fc027af446",
+        "type": "message",
+        "text": "Fun fact: he used Python to program it :think-about-it:",
+        "user": "U01RSRE0N3D",
+        "ts": "1618221965.003800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yf4pm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fun fact: he used Python to program it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "think-about-it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618220515.003100",
+        "parent_user_id": "U01SJKB2MG8",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9efb7e14-127c-426d-84b9-fb429138c157",
+        "type": "message",
+        "text": "welp, there's my final project decided :beer_parrot:",
+        "user": "U01S7KCL3DF",
+        "ts": "1618222199.004000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GbbQ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welp, there's my final project decided "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beer_parrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618220515.003100",
+        "parent_user_id": "U01SJKB2MG8",
+        "reactions": [
+            {
+                "name": "zany_face",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1821d353-0352-4f5b-abee-3068347f0b9c",
+        "type": "message",
+        "text": "calling ironhack: excuse me can i borrow one of those robot dogs? i was thinking to make my project about training him to pee beer in my cup",
+        "user": "U01RW2X7S9Z",
+        "ts": "1618223248.004200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BLs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "calling ironhack: excuse me can i borrow one of those robot dogs? i was thinking to make my project about training him to pee beer in my cup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618220515.003100",
+        "parent_user_id": "U01SJKB2MG8",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "973ddf04-162b-4121-b12a-8254f9afec1f",
+        "type": "message",
+        "text": "lets start where most things do… the penis :joy:",
+        "user": "U01RW140HBP",
+        "ts": "1618225448.004700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L3\/e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lets start where most things do… the penis "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618220515.003100",
+        "parent_user_id": "U01SJKB2MG8",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a4ac0502-1931-4f50-95b9-ff7a782568f5",
+        "type": "message",
+        "text": "would already be an mvp with regards to the task!",
+        "user": "U01SJKB2MG8",
+        "ts": "1618228552.005000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wJe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would already be an mvp with regards to the task!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618220515.003100",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01TT8MEKPG",
+                "created": 1618231017,
+                "timestamp": 1618231017,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 1216331,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TT8MEKPG\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TT8MEKPG\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TT8MEKPG-1ff4b6822d\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TT8MEKPG-1ff4b6822d\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TT8MEKPG-1ff4b6822d\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 317,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TT8MEKPG-1ff4b6822d\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 422,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TT8MEKPG-1ff4b6822d\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TT8MEKPG-1ff4b6822d\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 634,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TT8MEKPG-1ff4b6822d\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 909,
+                "original_w": 800,
+                "original_h": 909,
+                "thumb_tiny": "AwAwACrOKYNOEYNPcfN07U5EyeeKAGiEH1p62obpmpC6R7RkZPXPpVhXGMjkGgCm9oEUnJ4qZbKIqCS3I9adMw8s\/SpkP7tfoKAM15wxztxxio92T1oKYNOEYNACZU9SacJdvQ5FOEIPrT1tQ3TNAEfnlhhh+IqVbwBQMHgUj2gRScnipVsoioJLcj1oAruPm6dqciZPPFMecMc7ccYpgfnmgC3vSNlGRz1zVhXGMjkGsskE5z+lPWXauBQBdmb92fpUyH92v0FZvnlhhh+VSreAKBg8CgD\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F01TT8MEKPG\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TT8MEKPG-09d5736e1a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RW2X7S9Z",
+        "display_as_bot": false,
+        "ts": "1618231022.005200",
+        "thread_ts": "1618231022.005200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1618233075.006300",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01RW2X7S9Z"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1618231490.005700"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1618233069.005900"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1618233075.006300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01S0MFJ3HR",
+                    "U01S7BM4N81",
+                    "U01RSRE0N3D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "646898f6-12bd-4cd2-8c7a-f3a1c613098b",
+        "type": "message",
+        "text": "where do you find all those memes? :smile:",
+        "user": "U01S7BM4N81",
+        "ts": "1618231490.005700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pSNza",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "where do you find all those memes? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618231022.005200",
+        "parent_user_id": "U01RW2X7S9Z"
+    },
+    {
+        "client_msg_id": "55167f68-61be-41ff-8d3c-48c6947052b5",
+        "type": "message",
+        "text": "the intranet",
+        "user": "U01RW2X7S9Z",
+        "ts": "1618233069.005900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tXFC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the intranet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618231022.005200",
+        "parent_user_id": "U01RW2X7S9Z"
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "multipass",
+        "user": "U01RW2X7S9Z",
+        "ts": "1618233075.006300",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "AvUNr",
+                "image_url": "https:\/\/media2.giphy.com\/media\/uIGHPjEfdc0Ni\/giphy.gif?cid=6104955e08dfb9db407d4c5b4bb697d62eede385f8e182c2&rid=giphy.gif&ct=g",
+                "alt_text": "multipass",
+                "title": {
+                    "type": "plain_text",
+                    "text": "multipass",
+                    "emoji": true
+                },
+                "fallback": "500x228px image",
+                "image_width": 500,
+                "image_height": 228,
+                "image_bytes": 974120,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "t3IX+",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618231022.005200",
+        "parent_user_id": "U01RW2X7S9Z"
+    }
+]

@@ -1,0 +1,416 @@
+[
+    {
+        "type": "message",
+        "text": "What did you guys do for Easter? :eyes: I went to pet the dreamy, fluffy Alpacas at an Alpaca Farm an hour drive from Budapest:heart_eyes:",
+        "files": [
+            {
+                "id": "F01TFKQ9ZPE",
+                "created": 1617613752,
+                "timestamp": 1617613752,
+                "name": "Image from iOS.mp4",
+                "title": "Image from iOS",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U01SK96QF5E",
+                "editable": false,
+                "size": 13758741,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TFKQ9ZPE\/image_from_ios.mp4?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TFKQ9ZPE\/download\/image_from_ios.mp4?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TFKQ9ZPE-af6900885e\/image_from_ios_thumb_video.jpeg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SK96QF5E\/F01TFKQ9ZPE\/image_from_ios.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TFKQ9ZPE-6bf31d65cc",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ARmA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What did you guys do for Easter? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I went to pet the dreamy, fluffy Alpacas at an Alpaca Farm an hour drive from Budapest"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01SK96QF5E",
+        "display_as_bot": false,
+        "ts": "1617613763.002000",
+        "client_msg_id": "6C6C6CE9-8155-4728-A64B-83ABECAC9A7F",
+        "thread_ts": "1617613763.002000",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1617619329.005100",
+        "reply_users": [
+            "U01RRV4JX6Z",
+            "U01S0E0MRJ7",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1617615034.003000"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1617615084.003300"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1617616006.003700"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617617447.004700"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1617619329.005100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01RN7BVD1C",
+                    "U01RSRE0N3D",
+                    "U01RKN0EGDV",
+                    "U01S7KCL3DF",
+                    "U01S0E0MRJ7",
+                    "U01S0MFJ3HR",
+                    "U01RW140HBP"
+                ],
+                "count": 7
+            },
+            {
+                "name": "llama",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01S7KCL3DF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U01S65G72SY",
+                    "U01RW140HBP",
+                    "U01S79YDELR"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ea1e83f-b494-493b-80a2-deacfa2f3d26",
+        "type": "message",
+        "text": "Its astonishing how Alpacas\/Llamas\/vicunas are now everywhere!",
+        "user": "U01RRV4JX6Z",
+        "ts": "1617615034.003000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ROYr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Its astonishing how Alpacas\/Llamas\/vicunas are now everywhere!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617613763.002000",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "type": "message",
+        "text": "easter egg coloring:)",
+        "files": [
+            {
+                "id": "F01TN4PTGAV",
+                "created": 1617615069,
+                "timestamp": 1617615069,
+                "name": "IMG_2466.JPG",
+                "title": "IMG_2466.JPG",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01S0E0MRJ7",
+                "editable": false,
+                "size": 4947049,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TN4PTGAV\/img_2466.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TN4PTGAV\/download\/img_2466.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN4PTGAV-952b12ff78\/img_2466_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN4PTGAV-952b12ff78\/img_2466_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN4PTGAV-952b12ff78\/img_2466_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN4PTGAV-952b12ff78\/img_2466_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN4PTGAV-952b12ff78\/img_2466_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN4PTGAV-952b12ff78\/img_2466_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN4PTGAV-952b12ff78\/img_2466_800.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN4PTGAV-952b12ff78\/img_2466_960.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN4PTGAV-952b12ff78\/img_2466_1024.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACQDODhkJ9waUTRt8pYA+jcU0SHblgw\/WlDxyDG5HHvSAUxRlhtQbj6UK2z5Ap3e\/NN+WJvlG3PpUjsWC7F+cDr2xSauMb5kq8bUNL5sv9xKjzIf4AfcNRl\/+ef\/AI9RyoAaRY+TkH0pkkTvtdtoUnnA6UoEc0h3N8oHHvTgu9jH5nyChspK6GXCCNF8otkdc96etw8q7di7x1ycZpyfJOzAGQhe\/aq7SH7Tu249qd7k2aJxIRwYnz7c0vm\/9M5KPNT+IMD6FaPNi\/2v++aBEU0Y80Fvu5GfpU7bJ2EaADackr6UnkR9UGPp0pqr5T74ztbGCD0pgMaQ2zEJyD3PrURYySb2qWRWlbe7ZHYKM05Ng+6R9OhoHdiiVT0dfxNL5i\/30\/MUHaT8w5+lJhPT\/wAdpCP\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S0E0MRJ7\/F01TN4PTGAV\/img_2466.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TN4PTGAV-4efcf72fca",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FUg6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "easter egg coloring:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S0E0MRJ7",
+        "display_as_bot": false,
+        "ts": "1617615084.003300",
+        "thread_ts": "1617613763.002000",
+        "parent_user_id": "U01SK96QF5E",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U01S0MFJ3HR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "U01S65G72SY",
+                    "U01SK96QF5E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2799499a-3d78-4c5f-a907-1f8c3e858e41",
+        "type": "message",
+        "text": "Did you guys do the battle of the eggs?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1617616006.003700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pQN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did you guys do the battle of the eggs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617613763.002000",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "no drama llama",
+        "user": "U01S7KCL3DF",
+        "ts": "1617617447.004700",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "yP3",
+                "image_url": "https:\/\/media2.giphy.com\/media\/26AHN1RF9GewMA9Da\/giphy.gif?cid=6104955e4cd750751417156d74430580d6ca9ced084921aa&rid=giphy.gif&ct=g",
+                "alt_text": "no drama llama",
+                "title": {
+                    "type": "plain_text",
+                    "text": "no drama llama",
+                    "emoji": true
+                },
+                "fallback": "480x270px image",
+                "image_width": 480,
+                "image_height": 270,
+                "image_bytes": 1131283,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "Qeqc9",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/chuber\/|chuber channel>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617613763.002000",
+        "parent_user_id": "U01SK96QF5E",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01SK96QF5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f270f479-bde5-48c1-821d-0169eef2bd58",
+        "type": "message",
+        "text": "i didnt dare to break these eggs",
+        "user": "U01S0E0MRJ7",
+        "ts": "1617619329.005100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KlH2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i didnt dare to break these eggs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617613763.002000",
+        "parent_user_id": "U01SK96QF5E"
+    }
+]

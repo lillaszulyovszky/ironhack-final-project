@@ -1,0 +1,2513 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616404292.000200",
+        "user": "U01S7BM4N81",
+        "text": "<@U01S7BM4N81> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616406383.000400",
+        "user": "U01RXCQHMHT",
+        "text": "<@U01RXCQHMHT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616408532.000600",
+        "user": "U01S0MFJ3HR",
+        "text": "<@U01S0MFJ3HR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421888.002100",
+        "user": "U01SD3CDH9P",
+        "text": "<@U01SD3CDH9P> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421888.002300",
+        "user": "U01S0E0MRJ7",
+        "text": "<@U01S0E0MRJ7> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421888.002500",
+        "user": "U01S081EULS",
+        "text": "<@U01S081EULS> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421888.002700",
+        "user": "U01RRV4JX6Z",
+        "text": "<@U01RRV4JX6Z> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421889.002900",
+        "user": "U01RVSTNRRT",
+        "text": "<@U01RVSTNRRT> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421889.003100",
+        "user": "U01RV3K524T",
+        "text": "<@U01RV3K524T> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421889.003300",
+        "user": "U01S65G72SY",
+        "text": "<@U01S65G72SY> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421889.003500",
+        "user": "U01RP2K1606",
+        "text": "<@U01RP2K1606> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421890.003700",
+        "user": "U01S0P26NKD",
+        "text": "<@U01S0P26NKD> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421890.003900",
+        "user": "U01S6LCPM0C",
+        "text": "<@U01S6LCPM0C> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421890.004100",
+        "user": "U01RN7BVD1C",
+        "text": "<@U01RN7BVD1C> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421890.004300",
+        "user": "U01S79YDELR",
+        "text": "<@U01S79YDELR> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421891.004500",
+        "user": "U01SK96QF5E",
+        "text": "<@U01SK96QF5E> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421891.004700",
+        "user": "U01RKN0EGDV",
+        "text": "<@U01RKN0EGDV> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421891.004900",
+        "user": "U01RS9Y6UJH",
+        "text": "<@U01RS9Y6UJH> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421892.005100",
+        "user": "U01RNEU3SNA",
+        "text": "<@U01RNEU3SNA> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421892.005300",
+        "user": "U01S6L7HLUC",
+        "text": "<@U01S6L7HLUC> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421892.005500",
+        "user": "U01S7KCL3DF",
+        "text": "<@U01S7KCL3DF> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421892.005700",
+        "user": "U01RW140HBP",
+        "text": "<@U01RW140HBP> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616421893.005900",
+        "user": "U01S133DZ9A",
+        "text": "<@U01S133DZ9A> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "0f9186f9-5adc-4f22-8abb-1689d47d3ad2",
+        "type": "message",
+        "text": "Hi, this is my Rep for the 1. Lab: <https:\/\/github.com\/AnjaFechner\/IronAnjaFechner.git>   Who wants to work with me for the first lab. Thank you.",
+        "user": "U01S0MFJ3HR",
+        "ts": "1616421939.006000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "16aa576b8645",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1903189544593_16aa576b864568c61af7_72.jpg",
+            "first_name": "",
+            "real_name": "Anja Fechner",
+            "display_name": "Anja Fechner",
+            "team": "T01RBRV5F7H",
+            "name": "anja.fechner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "AnjaFechner\/IronAnjaFechner",
+                "title_link": "https:\/\/github.com\/AnjaFechner\/IronAnjaFechner.git",
+                "text": "Ironhacker Anja Fechner. Contribute to AnjaFechner\/IronAnjaFechner development by creating an account on GitHub.",
+                "fallback": "GitHub: AnjaFechner\/IronAnjaFechner",
+                "thumb_url": "https:\/\/avatars.githubusercontent.com\/u\/78030526?s=400&v=4",
+                "from_url": "https:\/\/github.com\/AnjaFechner\/IronAnjaFechner.git",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/AnjaFechner\/IronAnjaFechner.git"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D9A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, this is my Rep for the 1. Lab: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/AnjaFechner\/IronAnjaFechner.git"
+                            },
+                            {
+                                "type": "text",
+                                "text": "   Who wants to work with me for the first lab. Thank you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616421939.006000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1616424727.006800",
+        "reply_users": [
+            "U01SK96QF5E",
+            "U01S0MFJ3HR"
+        ],
+        "replies": [
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1616424156.006400"
+            },
+            {
+                "user": "U01S0MFJ3HR",
+                "ts": "1616424727.006800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "785d7c0c-9c97-4771-8fe3-355d809cbc77",
+        "type": "message",
+        "text": "meee :slightly_smiling_face: <https:\/\/github.com\/lillaszulyovszky\/ironlilla.git>",
+        "user": "U01SK96QF5E",
+        "ts": "1616424156.006400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "lillaszulyovszky\/ironlilla",
+                "title_link": "https:\/\/github.com\/lillaszulyovszky\/ironlilla.git",
+                "text": "this repo is created for an ironhack lab. Contribute to lillaszulyovszky\/ironlilla development by creating an account on GitHub.",
+                "fallback": "GitHub: lillaszulyovszky\/ironlilla",
+                "thumb_url": "https:\/\/avatars.githubusercontent.com\/u\/40471493?s=400&v=4",
+                "from_url": "https:\/\/github.com\/lillaszulyovszky\/ironlilla.git",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/lillaszulyovszky\/ironlilla.git"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yPeH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "meee "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/lillaszulyovszky\/ironlilla.git"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616421939.006000",
+        "parent_user_id": "U01S0MFJ3HR"
+    },
+    {
+        "client_msg_id": "f9f0a486-7e46-44a0-805c-48f3a5487dd0",
+        "type": "message",
+        "text": "Ok, that is great, thank you",
+        "user": "U01S0MFJ3HR",
+        "ts": "1616424727.006800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "16aa576b8645",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1903189544593_16aa576b864568c61af7_72.jpg",
+            "first_name": "",
+            "real_name": "Anja Fechner",
+            "display_name": "Anja Fechner",
+            "team": "T01RBRV5F7H",
+            "name": "anja.fechner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eSwuN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, that is great, thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616421939.006000",
+        "parent_user_id": "U01S0MFJ3HR"
+    },
+    {
+        "client_msg_id": "169e6d1d-b41a-4975-a5a5-588b20b6973c",
+        "type": "message",
+        "text": "This is mine",
+        "user": "U01RRV4JX6Z",
+        "ts": "1616424788.007200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "deaVh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is mine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9223867-0a48-47a6-baac-eea268977c95",
+        "type": "message",
+        "text": "<https:\/\/github.com\/ebelingbarros\/IronFrancisco.git>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1616424789.007400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "ebelingbarros\/IronFrancisco",
+                "title_link": "https:\/\/github.com\/ebelingbarros\/IronFrancisco.git",
+                "text": "Contribute to ebelingbarros\/IronFrancisco development by creating an account on GitHub.",
+                "fallback": "GitHub: ebelingbarros\/IronFrancisco",
+                "thumb_url": "https:\/\/avatars.githubusercontent.com\/u\/52537860?s=400&v=4",
+                "from_url": "https:\/\/github.com\/ebelingbarros\/IronFrancisco.git",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/ebelingbarros\/IronFrancisco.git"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fw6fK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ebelingbarros\/IronFrancisco.git"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a83ff12-1306-4413-a412-455e070017f2",
+        "type": "message",
+        "text": "Here is mine: <https:\/\/github.com\/ProfGeller\/IronJerrit.git>",
+        "user": "U01S6LCPM0C",
+        "ts": "1616424992.008400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "gef13325ef15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ef13325ef1599f9a41dadef061142601.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jerrit Steinebach",
+            "display_name": "Jerrit Steinebach",
+            "team": "T01RBRV5F7H",
+            "name": "jerrit.steinebach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "ProfGeller\/IronJerrit",
+                "title_link": "https:\/\/github.com\/ProfGeller\/IronJerrit.git",
+                "text": "Contribute to ProfGeller\/IronJerrit development by creating an account on GitHub.",
+                "fallback": "GitHub: ProfGeller\/IronJerrit",
+                "thumb_url": "https:\/\/avatars.githubusercontent.com\/u\/78797172?s=400&v=4",
+                "from_url": "https:\/\/github.com\/ProfGeller\/IronJerrit.git",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/ProfGeller\/IronJerrit.git"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BUO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is mine: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ProfGeller\/IronJerrit.git"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7863f6d-0ac5-4129-bd27-79e9d828a703",
+        "type": "message",
+        "text": "Hey <!channel>, let us know if you have any questions :slightly_smiling_face: we are back from the internal meeting",
+        "user": "U01RSRE0N3D",
+        "ts": "1616426602.009300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xLfq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", let us know if you have any questions "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are back from the internal meeting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93ac05ce-8706-40ed-8d8c-72e7c7cbbb63",
+        "type": "message",
+        "text": "Yes, I have questions. I want to change in the branch to create the file. But I received: fatal: A branch named 'classmate' already exists. How can I check that I am on the new branch and not in the main branch. -&gt; I have found the solutions :slightly_smiling_face: Thanks",
+        "user": "U01S0MFJ3HR",
+        "ts": "1616426707.010700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "16aa576b8645",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1903189544593_16aa576b864568c61af7_72.jpg",
+            "first_name": "",
+            "real_name": "Anja Fechner",
+            "display_name": "Anja Fechner",
+            "team": "T01RBRV5F7H",
+            "name": "anja.fechner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S0MFJ3HR",
+            "ts": "1616427055.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cQek5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I have questions. I want to change in the branch to create the file. But I received: fatal: A branch named 'classmate' already exists. How can I check that I am on the new branch and not in the main branch. -> I have found the solutions "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616427003.011300",
+        "user": "U01SJKB2MG8",
+        "text": "<@U01SJKB2MG8> has joined the channel",
+        "inviter": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "a594d7c5-c28b-4df5-bc19-8d2b3aae136d",
+        "type": "message",
+        "text": "Hi - is there a list of the commands needed",
+        "user": "U01S133DZ9A",
+        "ts": "1616427240.012500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2it+u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi - is there a list of the commands needed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616427240.012500",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1616427776.014600",
+        "reply_users": [
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1616427676.013500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1616427776.014600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "27031209-44a7-4f00-ac14-02b860ffa638",
+        "type": "message",
+        "text": "eg: touch, CD etc",
+        "user": "U01S133DZ9A",
+        "ts": "1616427252.012800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sDbV+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "eg: touch, CD etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8813a277-81e9-4087-9d4f-5b6310fe8894",
+        "type": "message",
+        "text": "i create a branch...but how to switch to that branch?\n\n<https:\/\/www.atlassian.com\/git\/tutorials\/using-branches>",
+        "user": "U01S7KCL3DF",
+        "ts": "1616427369.013100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Atlassian",
+                "title": "Git Branch | Atlassian Git Tutorial",
+                "title_link": "https:\/\/www.atlassian.com\/git\/tutorials\/using-branches",
+                "text": "Git branching intro. Create, list, rename, delete branches with git branch. git checkout: select which line of development you want and navigate branches",
+                "fallback": "Atlassian: Git Branch | Atlassian Git Tutorial",
+                "from_url": "https:\/\/www.atlassian.com\/git\/tutorials\/using-branches",
+                "service_icon": "https:\/\/wac-cdn.atlassian.com\/assets\/img\/favicons\/gitguide\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.atlassian.com\/git\/tutorials\/using-branches"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E5+Zs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i create a branch...but how to switch to that branch?\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.atlassian.com\/git\/tutorials\/using-branches"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616427369.013100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1616427721.013800",
+        "reply_users": [
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1616427721.013800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "I use this:",
+        "files": [
+            {
+                "id": "F01S1Q5497C",
+                "created": 1616427423,
+                "timestamp": 1616427423,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S0MFJ3HR",
+                "editable": false,
+                "size": 13802,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01S1Q5497C\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01S1Q5497C\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S1Q5497C-ac538b6c75\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S1Q5497C-ac538b6c75\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S1Q5497C-ac538b6c75\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 57,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S1Q5497C-ac538b6c75\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 76,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S1Q5497C-ac538b6c75\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 716,
+                "original_h": 114,
+                "thumb_tiny": "AwAHADDPx7CkJA7CnUxutABn3o\/GkooAX8aSiigD\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S0MFJ3HR\/F01S1Q5497C\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01S1Q5497C-a4a5ad0f0f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L1Ugu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I use this:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S0MFJ3HR",
+        "display_as_bot": false,
+        "ts": "1616427430.013400",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7bfeae6c-4150-41c6-806b-3179600e9fc1",
+        "type": "message",
+        "text": "<https:\/\/www.educative.io\/blog\/bash-shell-command-cheat-sheet>",
+        "user": "U01RW140HBP",
+        "ts": "1616427676.013500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Educative: Interactive Courses for Software Developers",
+                "title": "Bash cheat sheet: Top 25 commands and creating custom commands",
+                "title_link": "https:\/\/www.educative.io\/blog\/bash-shell-command-cheat-sheet",
+                "text": "If you don't know the command line, you're not using your computer to its full potential. Here are the top 25 Bash commands to get you started.",
+                "fallback": "Educative: Interactive Courses for Software Developers: Bash cheat sheet: Top 25 commands and creating custom commands",
+                "thumb_url": "https:\/\/www.educative.io\/v2api\/editorpage\/5106263052517376\/image\/6584485703319552",
+                "from_url": "https:\/\/www.educative.io\/blog\/bash-shell-command-cheat-sheet",
+                "thumb_width": 1920,
+                "thumb_height": 1080,
+                "service_icon": "https:\/\/www.educative.io\/static\/favicons\/faviconV2.png",
+                "id": 1,
+                "original_url": "https:\/\/www.educative.io\/blog\/bash-shell-command-cheat-sheet"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sD50",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.educative.io\/blog\/bash-shell-command-cheat-sheet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616427240.012500",
+        "parent_user_id": "U01S133DZ9A"
+    },
+    {
+        "client_msg_id": "d62f53d8-f167-4219-904d-5ebbd500f1fb",
+        "type": "message",
+        "text": "git checkout &lt;nameofyourbranch&gt;",
+        "user": "U01RW140HBP",
+        "ts": "1616427721.013800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+vk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git checkout <nameofyourbranch>"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616427369.013100",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86e4bee5-bfff-4018-ab82-b88a3f7fe8ec",
+        "type": "message",
+        "text": "or if you mean for git commands <https:\/\/confluence.atlassian.com\/bitbucketserver\/basic-git-commands-776639767.html>",
+        "user": "U01RW140HBP",
+        "ts": "1616427776.014600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iShpH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or if you mean for git commands "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/confluence.atlassian.com\/bitbucketserver\/basic-git-commands-776639767.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616427240.012500",
+        "parent_user_id": "U01S133DZ9A"
+    },
+    {
+        "client_msg_id": "32395e7a-32ab-4e81-9bec-8ad89d238054",
+        "type": "message",
+        "text": "anytime i break it is there a way to go back without closing the command line and doin it all again :sweat_smile:\n\n\n```➜  iron_karina git:(main) git checkout classmate\nSwitched to branch 'classmate'\n➜  iron_karina git:(classmate) touch Sam.txt\n➜  iron_karina git:(classmate) ✗ git touch Sam.txt\ngit: 'touch' is not a git command. See 'git --help'.\n➜  iron_karina git:(classmate) ✗ echo 'I enrolled in IronHack's Data Analytic\ns bootcamp because I need to improve my skills' Sam.txt\nquote&gt;\nquote&gt; ls\nquote&gt; ..\/\nquote&gt; git --help\nquote&gt;\nquote&gt;\nquote&gt;\nquote&gt; help\nquote&gt; clear\nquote&gt; exit\nquote&gt; \"\nquote&gt;\nquote&gt;\nquote&gt;\nquote&gt;\nquote&gt;```",
+        "user": "U01S7KCL3DF",
+        "ts": "1616427787.014900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "43i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "anytime i break it is there a way to go back without closing the command line and doin it all again "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "➜  iron_karina git:(main) git checkout classmate\nSwitched to branch 'classmate'\n➜  iron_karina git:(classmate) touch Sam.txt\n➜  iron_karina git:(classmate) ✗ git touch Sam.txt\ngit: 'touch' is not a git command. See 'git --help'.\n➜  iron_karina git:(classmate) ✗ echo 'I enrolled in IronHack's Data Analytic\ns bootcamp because I need to improve my skills' Sam.txt\nquote>\nquote> ls\nquote> ..\/\nquote> git --help\nquote>\nquote>\nquote>\nquote> help\nquote> clear\nquote> exit\nquote> \"\nquote>\nquote>\nquote>\nquote>\nquote>"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616427787.014900",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1616429044.016900",
+        "reply_users": [
+            "U01RW140HBP",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1616428019.015100"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1616428091.015300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1616428159.015600"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1616429015.016700"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1616429044.016900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2b397d14-8222-4cf1-a25d-ea2174efff1a",
+        "type": "message",
+        "text": "try ctrl+c to interrupt",
+        "user": "U01RW140HBP",
+        "ts": "1616428019.015100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1616428137.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ugNo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "try ctrl+c to interrupt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616427787.014900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "9a0e8fd0-bced-4e49-8142-a98fd4be379b",
+        "type": "message",
+        "text": ":q will retreat from some sub commands and exit is the blunt instrument",
+        "user": "U01RW140HBP",
+        "ts": "1616428091.015300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wYCcF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ":q will retreat from some sub commands and exit is the blunt instrument"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616427787.014900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "20a3f7e6-0e99-4f20-88e3-893b16eed121",
+        "type": "message",
+        "text": "although im not sure how you got to quote endlessly :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1616428159.015600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s=C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "although im not sure how you got to quote endlessly "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616427787.014900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "2fe31b16-2298-4139-809b-98db07421f99",
+        "type": "message",
+        "text": "so in Git, Ive got as far as fork, but now on point three in pairs but dont know how to create a branch… any tips",
+        "user": "U01RS9Y6UJH",
+        "ts": "1616428851.016600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PkjR+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so in Git, Ive got as far as fork, but now on point three in pairs but dont know how to create a branch… any tips"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616428851.016600",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1616431608.022100",
+        "reply_users": [
+            "U01SJKB2MG8",
+            "U01RS9Y6UJH"
+        ],
+        "replies": [
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1616429202.018200"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1616429721.018500"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1616431379.021900"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1616431608.022100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5286127e-107e-4daa-acdc-540cbc169ef2",
+        "type": "message",
+        "text": "You opened the string at `I'` , closed it again  at `Ironhack's` and then opened again at `skill's` . Everything you're entering afterwards, bash expects you to close those, before it recongizes anything as new command",
+        "user": "U01SJKB2MG8",
+        "ts": "1616429015.016700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ia85D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You opened the string at "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I'",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " , closed it again  at "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Ironhack's",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and then opened again at "
+                            },
+                            {
+                                "type": "text",
+                                "text": "skill's",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " . Everything you're entering afterwards, bash expects you to close those, before it recongizes anything as new command"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616427787.014900",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "f22331f7-8ea9-4195-83f0-6ca48cfa53c0",
+        "type": "message",
+        "text": "try\n```echo \"I enrolled in IronHack's Data Analytics bootcamp because I need to improve my skills\" &gt; Sam.txt```",
+        "user": "U01SJKB2MG8",
+        "ts": "1616429044.016900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SJKB2MG8",
+            "ts": "1616429057.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x1nOU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "try\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "echo \"I enrolled in IronHack's Data Analytics bootcamp because I need to improve my skills\" > Sam.txt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616427787.014900",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5eca42b1-d67e-4bdc-a735-2cd552e7ce79",
+        "type": "message",
+        "text": "`git checkout -b any_branch_name` creates a new branch (as a copy of the main) with that name and also switches to that.",
+        "user": "U01SJKB2MG8",
+        "ts": "1616429202.018200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pj02",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "git checkout -b any_branch_name",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " creates a new branch (as a copy of the main) with that name and also switches to that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616428851.016600",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "985ebc71-cac6-4b62-8a1c-e58ffefb243a",
+        "type": "message",
+        "text": "agh ok thx in command line, I thought Id do it in Github",
+        "user": "U01RS9Y6UJH",
+        "ts": "1616429721.018500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DgNsV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "agh ok thx in command line, I thought Id do it in Github"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616428851.016600",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "5390023c-a160-42f8-aa2d-90798b46937d",
+        "type": "message",
+        "text": "silly me....but...how to download a jupyter notebook from Git?\n\n<https:\/\/github.com\/ta-data-bcn\/lab-jupyter-notebook\/tree\/master\/your-code>\n\nor is it empty and we can make one?",
+        "user": "U01S7KCL3DF",
+        "ts": "1616430090.019400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fFT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "silly me....but...how to download a jupyter notebook from Git?\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ta-data-bcn\/lab-jupyter-notebook\/tree\/master\/your-code"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nor is it empty and we can make one?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616430090.019400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1616430374.020300",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1616430134.019500"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1616430374.020300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9ca47c74-7131-4c5e-ba83-0c3e9148c205",
+        "type": "message",
+        "text": "Fork and clone to a local folder, the record is there but will be emoty",
+        "user": "U01S7BM4N81",
+        "ts": "1616430134.019500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PDU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fork and clone to a local folder, the record is there but will be emoty"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616430090.019400",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "type": "message",
+        "text": "right click on \"RAW\" and then \"save as\"",
+        "files": [
+            {
+                "id": "F01RM8JV8MV",
+                "created": 1616430361,
+                "timestamp": 1616430361,
+                "name": "Screenshot_2021-03-22 ta-data-bcn lab-jupyter-notebook.png",
+                "title": "Screenshot_2021-03-22 ta-data-bcn lab-jupyter-notebook.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01SJKB2MG8",
+                "editable": false,
+                "size": 38946,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01RM8JV8MV\/screenshot_2021-03-22_ta-data-bcn_lab-jupyter-notebook.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01RM8JV8MV\/download\/screenshot_2021-03-22_ta-data-bcn_lab-jupyter-notebook.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01RM8JV8MV-3e470b35bc\/screenshot_2021-03-22_ta-data-bcn_lab-jupyter-notebook_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01RM8JV8MV-3e470b35bc\/screenshot_2021-03-22_ta-data-bcn_lab-jupyter-notebook_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01RM8JV8MV-3e470b35bc\/screenshot_2021-03-22_ta-data-bcn_lab-jupyter-notebook_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 155,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01RM8JV8MV-3e470b35bc\/screenshot_2021-03-22_ta-data-bcn_lab-jupyter-notebook_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 207,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01RM8JV8MV-3e470b35bc\/screenshot_2021-03-22_ta-data-bcn_lab-jupyter-notebook_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01RM8JV8MV-3e470b35bc\/screenshot_2021-03-22_ta-data-bcn_lab-jupyter-notebook_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 311,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01RM8JV8MV-3e470b35bc\/screenshot_2021-03-22_ta-data-bcn_lab-jupyter-notebook_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 345,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01RM8JV8MV-3e470b35bc\/screenshot_2021-03-22_ta-data-bcn_lab-jupyter-notebook_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 414,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01RM8JV8MV-3e470b35bc\/screenshot_2021-03-22_ta-data-bcn_lab-jupyter-notebook_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 442,
+                "original_w": 1288,
+                "original_h": 556,
+                "thumb_tiny": "AwAUADDS5zRijiloASloooATn2o5zS0UAFFFFABRRRQAUUUUAf\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SJKB2MG8\/F01RM8JV8MV\/screenshot_2021-03-22_ta-data-bcn_lab-jupyter-notebook.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01RM8JV8MV-82e707017b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tpuP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "right click on \"RAW\" and then \"save as\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01SJKB2MG8",
+        "display_as_bot": false,
+        "ts": "1616430374.020300",
+        "edited": {
+            "user": "U01SJKB2MG8",
+            "ts": "1616430381.000000"
+        },
+        "thread_ts": "1616430090.019400",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "type": "message",
+        "text": "when i commit changes of files inside files it shows some are commited and some are not, and im quite confused about this",
+        "files": [
+            {
+                "id": "F01S2858RFD",
+                "created": 1616430381,
+                "timestamp": 1616430381,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 39595,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01S2858RFD\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01S2858RFD\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S2858RFD-9c57c34531\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S2858RFD-9c57c34531\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S2858RFD-9c57c34531\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 229,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S2858RFD-9c57c34531\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 305,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S2858RFD-9c57c34531\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S2858RFD-9c57c34531\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 457,
+                "original_w": 723,
+                "original_h": 459,
+                "thumb_tiny": "AwAeADDOP1pM\/wCc0ufpSY+lAB+NHPrRj2pMfSgBefWgZyOaSgdRQA7jHajj2pD16CigBcCjaKT8KPwoACB64pO9L+FA6jigD\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F01S2858RFD\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01S2858RFD-b67db678a8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u14",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "when i commit changes of files inside files it shows some are commited and some are not, and im quite confused about this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW2X7S9Z",
+        "display_as_bot": false,
+        "ts": "1616430383.020600",
+        "thread_ts": "1616430383.020600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1616434832.024800",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1616430405.020800"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1616431175.021500"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1616434832.024800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b71682c3-2178-4de7-ab88-a9ec28a24ae2",
+        "type": "message",
+        "text": "tried with git add --a too",
+        "user": "U01RW2X7S9Z",
+        "ts": "1616430405.020800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gs7q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tried with git add --a too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616430383.020600",
+        "parent_user_id": "U01RW2X7S9Z"
+    },
+    {
+        "client_msg_id": "b5b1baa5-30fe-42e1-8dee-4aa5a7513351",
+        "type": "message",
+        "text": "hi, should I send the file to github in the classmate branch?",
+        "user": "U01S79YDELR",
+        "ts": "1616430639.021100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "scC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi, should I send the file to github in the classmate branch?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616430639.021100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1616431248.021700",
+        "reply_users": [
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1616431248.021700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "88492251-2597-4f89-ba24-ddb18be4c37f",
+        "type": "message",
+        "text": "or in the main?",
+        "user": "U01S79YDELR",
+        "ts": "1616430661.021400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b=gn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or in the main?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "72a3453b-5bbf-4a89-afae-c6ed549b0dbd",
+        "type": "message",
+        "text": "that's a folder you're trying to add there (which gets recognized by git as `new file: ...` ), I see, since it has no ending. And after you've added it to the staging area, you made some changes in there (which gets recognizes by git as `modified:`)",
+        "user": "U01SJKB2MG8",
+        "ts": "1616431175.021500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fWWfq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that's a folder you're trying to add there (which gets recognized by git as "
+                            },
+                            {
+                                "type": "text",
+                                "text": "new file: ...",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ), I see, since it has no ending. And after you've added it to the staging area, you made some changes in there (which gets recognizes by git as "
+                            },
+                            {
+                                "type": "text",
+                                "text": "modified:",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616430383.020600",
+        "parent_user_id": "U01RW2X7S9Z"
+    },
+    {
+        "client_msg_id": "a09f9748-9e81-4d79-97ba-7876940a8c50",
+        "type": "message",
+        "text": "you would want to perform a `git push` when you're in the classmate branch",
+        "user": "U01SJKB2MG8",
+        "ts": "1616431248.021700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W5ADP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you would want to perform a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "git push",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " when you're in the classmate branch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616430639.021100",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "1421d0de-49cf-4661-b9d4-031e20eb8be6",
+        "type": "message",
+        "text": "you can also create a branch on github using the webinterface, that's also possible",
+        "user": "U01SJKB2MG8",
+        "ts": "1616431379.021900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SsGD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can also create a branch on github using the webinterface, that's also possible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616428851.016600",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "289d6e94-92d4-4fc3-9dad-9d3d3a77301e",
+        "type": "message",
+        "text": "ok, I just realised there is a tutorial on Git branches on the calendar Ill work through that now",
+        "user": "U01RS9Y6UJH",
+        "ts": "1616431608.022100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OYEt3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, I just realised there is a tutorial on Git branches on the calendar Ill work through that now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616428851.016600",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "4810937d-db33-4dd9-a7ca-6a1ab1b498aa",
+        "type": "message",
+        "text": "• Hi, I didn't get what do you want us to do in the 2nd task when you say: 'Write a function that inputs the user's name (You or a friend)'. What is the purpose of collecting this inputs?\n",
+        "user": "U01SD3CDH9P",
+        "ts": "1616432212.024100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iO22T",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Hi, I didn't get what do you want us to do in the 2nd task when you say: 'Write a function that inputs the user's name (You or a friend)'. What is the purpose of collecting this inputs?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616432212.024100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1616432366.024500",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01SD3CDH9P"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1616432238.024300"
+            },
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1616432366.024500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "133fdf70-36bf-4e59-87d4-c09af2aada2c",
+        "type": "message",
+        "text": "I asked the same thing, theres no purpose, just do it :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1616432238.024300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rFcCC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I asked the same thing, theres no purpose, just do it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616432212.024100",
+        "parent_user_id": "U01SD3CDH9P"
+    },
+    {
+        "client_msg_id": "9eedb492-86ba-45d0-ab66-6261789bfd87",
+        "type": "message",
+        "text": "Thank you <@U01S7BM4N81> :slightly_smiling_face:",
+        "user": "U01SD3CDH9P",
+        "ts": "1616432366.024500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VPKc2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S7BM4N81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616432212.024100",
+        "parent_user_id": "U01SD3CDH9P",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13e1d80c-5e52-497a-af00-412b9f399ce4",
+        "type": "message",
+        "text": "thanks!",
+        "user": "U01RW2X7S9Z",
+        "ts": "1616434832.024800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hNyHq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616430383.020600",
+        "parent_user_id": "U01RW2X7S9Z"
+    },
+    {
+        "client_msg_id": "228a29c7-3447-4ae0-b051-5bd797a0680f",
+        "type": "message",
+        "text": "A question for tomorrow (Question Parking Lot):\nWhen I manually move files in my finder from one to another folder (to clean up the chaos i made today), does that impact my repositories on GitHub?",
+        "user": "U01RN7BVD1C",
+        "ts": "1616443704.026600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zx=E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A question for tomorrow (Question Parking Lot):\nWhen I manually move files in my finder from one to another folder (to clean up the chaos i made today), does that impact my repositories on GitHub?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616443704.026600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1616485495.000100",
+        "reply_users": [
+            "U01SJKB2MG8",
+            "U01RN7BVD1C"
+        ],
+        "replies": [
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1616446993.026700"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1616485495.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e04337e-9be1-401a-b3a5-2bd319d575a0",
+        "type": "message",
+        "text": "As soon as a file was recognized by git - e.g. it was created in the specific folder belonging to that repository, or it was cloned from github etc. - the 'tidy' way to move it it making use of git's <https:\/\/githowto.com\/moving_files|move> command. Same with <https:\/\/stackoverflow.com\/questions\/2047465\/how-can-i-delete-a-file-from-a-git-repository\/2047477|deleting>:\n`git mv &lt;some_file&gt;`\n`git rm &lt;some_file&gt;`",
+        "user": "U01SJKB2MG8",
+        "ts": "1616446993.026700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "How can I delete a file from a Git repository?",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/2047465\/how-can-i-delete-a-file-from-a-git-repository\/2047477",
+                "text": "I have added a file named \"file1.txt\" to a Git repository. After that, I committed it, added a couple of directories called dir1 and dir2, and committed them to the Git repository. Now the current",
+                "fallback": "Stack Overflow: How can I delete a file from a Git repository?",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/2047465\/how-can-i-delete-a-file-from-a-git-repository\/2047477",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/2047465\/how-can-i-delete-a-file-from-a-git-repository\/2047477"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3=p6y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As soon as a file was recognized by git - e.g. it was created in the specific folder belonging to that repository, or it was cloned from github etc. - the 'tidy' way to move it it making use of git's "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/githowto.com\/moving_files",
+                                "text": "move"
+                            },
+                            {
+                                "type": "text",
+                                "text": " command. Same with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/2047465\/how-can-i-delete-a-file-from-a-git-repository\/2047477",
+                                "text": "deleting"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "git mv <some_file>",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "git rm <some_file>",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616443704.026600",
+        "parent_user_id": "U01RN7BVD1C"
+    }
+]

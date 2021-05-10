@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "5bb4adb6-b0ca-401f-8b23-26a519cfd167",
+        "type": "message",
+        "text": "MICE and KNN for missing values, in detail? yes please! <https:\/\/medium.com\/nerd-for-tech\/mice-and-knn-missing-value-imputations-explanation-and-implementation-with-python-d11c53f3f4b2>",
+        "user": "U01RW140HBP",
+        "ts": "1618987358.000500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "MICE and KNN missing value imputations Explanation and Implementation with Python",
+                "title_link": "https:\/\/medium.com\/nerd-for-tech\/mice-and-knn-missing-value-imputations-explanation-and-implementation-with-python-d11c53f3f4b2",
+                "text": "In continuation to my blog on missing values and how to handle them. I am here to talk about 2 more very effective techniques of handling…",
+                "fallback": "Medium: MICE and KNN missing value imputations Explanation and Implementation with Python",
+                "image_url": "https:\/\/miro.medium.com\/max\/845\/1*3T7spDLtVaRhd4CkDu2MxA.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "6 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1614872551,
+                "from_url": "https:\/\/medium.com\/nerd-for-tech\/mice-and-knn-missing-value-imputations-explanation-and-implementation-with-python-d11c53f3f4b2",
+                "image_width": 559,
+                "image_height": 250,
+                "image_bytes": 91349,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/nerd-for-tech\/mice-and-knn-missing-value-imputations-explanation-and-implementation-with-python-d11c53f3f4b2"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EiH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MICE and KNN for missing values, in detail? yes please! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/nerd-for-tech\/mice-and-knn-missing-value-imputations-explanation-and-implementation-with-python-d11c53f3f4b2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

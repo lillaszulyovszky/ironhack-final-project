@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "f539b414-f2d7-4f97-8604-f78a626a26d8",
+        "type": "message",
+        "text": "Really looking forward for the ML part. As it seems, this is an exciting new tool\/research area within the Economics discipline...",
+        "user": "U01RRV4JX6Z",
+        "ts": "1618142936.039700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5GaUX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Really looking forward for the ML part. As it seems, this is an exciting new tool\/research area within the Economics discipline..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

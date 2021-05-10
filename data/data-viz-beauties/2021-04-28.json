@@ -1,0 +1,1649 @@
+[
+    {
+        "client_msg_id": "b968ce51-25e9-4afb-bc0d-3bc28db4fc5c",
+        "type": "message",
+        "text": "just wow",
+        "user": "U01SK96QF5E",
+        "ts": "1619593220.051200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FUDBD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just wow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619547330.033200",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "type": "message",
+        "text": "staphney is your middle name? so pretty!\n\nI love the background colour and all the white space you’ve chosen to go for  - i think it makes it look nice and clean. Also you have gone for very minimal labels - its a style i haven’t seen before---im not 100% with you :slightly_smiling_face: , but i like the way you have executed that. Good choice of simple colour scheme, not overwhelming.\n• it would be nice if the profit filter controlled the other charts too - so we saw the top customer list and category view change. \n• also it would be nice if the category filter controlled more than one chart\n• the lollipop chart needs a little work - looks to me, when furniture is selected, as if the axes arent snyc’d anymore, as the circle  is somehow offset from the bar (not a problem on office supplies), but also the bars and circles could be adjusted to align better. Typically the top of the lollipop is bigger than the width of the bar.\n• check your map- in line with my rule of users will do anything you dont want them to, i could zoom out on the map - I normally turn off that zoom or switch to pan mode when publishing a map\n• i really like that the map filters the other charts - but you could edit those tooltips to make them look nicer \/ be more relevant ",
+        "files": [
+            {
+                "id": "F020F14KKQU",
+                "created": 1619593127,
+                "timestamp": 1619593127,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 330498,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020F14KKQU\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020F14KKQU\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F14KKQU-1f30595bae\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F14KKQU-1f30595bae\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F14KKQU-1f30595bae\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 274,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F14KKQU-1f30595bae\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 365,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F14KKQU-1f30595bae\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F14KKQU-1f30595bae\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 548,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F14KKQU-1f30595bae\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 609,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F14KKQU-1f30595bae\/image_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 730,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F14KKQU-1f30595bae\/image_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 779,
+                "original_w": 1430,
+                "original_h": 1088,
+                "thumb_tiny": "AwAkADC8QPWkGPWkJzRQIcRgZpAcZpvzYPNHPc5oGL+NO2+9ABxkUufU0AMIwOuaKKKBBSnGPekooAUHmkPJoooAe33TTAMmnt9001fvUDHbRTWHIqSmP1FADsAdqKKKAP\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F020F14KKQU\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020F14KKQU-2d2f0b84c1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T0I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "staphney is your middle name? so pretty!\n\nI love the background colour and all the white space you’ve chosen to go for  - i think it makes it look nice and clean. Also you have gone for very minimal labels - its a style i haven’t seen before---im not 100% with you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , but i like the way you have executed that. Good choice of simple colour scheme, not overwhelming.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "it would be nice if the profit filter controlled the other charts too - so we saw the top customer list and category view change. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "also it would be nice if the category filter controlled more than one chart"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "the lollipop chart needs a little work - looks to me, when furniture is selected, as if the axes arent snyc’d anymore, as the circle  is somehow offset from the bar (not a problem on office supplies), but also the bars and circles could be adjusted to align better. Typically the top of the lollipop is bigger than the width of the bar."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "check your map- in line with my rule of users will do anything you dont want them to, i could zoom out on the map - I normally turn off that zoom or switch to pan mode when publishing a map"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "i really like that the map filters the other charts - but you could edit those tooltips to make them look nicer \/ be more relevant "
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1619593322.051400",
+        "thread_ts": "1619545740.029500",
+        "parent_user_id": "U01S6L7HLUC"
+    },
+    {
+        "client_msg_id": "080412b3-57d0-4963-a60e-09dbc2c2458b",
+        "type": "message",
+        "text": "<@U01SD3CDH9P> just to check youre in this channel?",
+        "user": "U01RW140HBP",
+        "ts": "1619593373.052000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/mQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01SD3CDH9P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just to check youre in this channel?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619593373.052000",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1619596523.054100",
+        "reply_users": [
+            "U01SD3CDH9P",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1619594820.053700"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619596514.053900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619596523.054100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "well done Federico! I am sorry to hear your laptop is not coping with Tableau, can you try updating to the latest version of tableau public to ensure you havent got a buggy version ?\na good overall structure, but it doesnt resolve too well on my monitor - have you got it set on automatic size or did you build it on a big screen? maybe test it on your laptop and see how it looks",
+        "files": [
+            {
+                "id": "F020YMA4CJU",
+                "created": 1619593972,
+                "timestamp": 1619593972,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 10601,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020YMA4CJU\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020YMA4CJU\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YMA4CJU-741a0cfa07\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YMA4CJU-741a0cfa07\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YMA4CJU-741a0cfa07\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 59,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YMA4CJU-741a0cfa07\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 79,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YMA4CJU-741a0cfa07\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 673,
+                "original_h": 111,
+                "thumb_tiny": "AwAHADDT6ijmkHSloATn2o59qWigA5pM+1LTaAP\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F020YMA4CJU\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020YMA4CJU-a659eebda2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D4IQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "well done Federico! I am sorry to hear your laptop is not coping with Tableau, can you try updating to the latest version of tableau public to ensure you havent got a buggy version ?\na good overall structure, but it doesnt resolve too well on my monitor - have you got it set on automatic size or did you build it on a big screen? maybe test it on your laptop and see how it looks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1619593975.052100",
+        "thread_ts": "1619546818.032300",
+        "parent_user_id": "U01S081EULS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S081EULS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39a9b19c-59cf-4d76-8464-7d34b83d3600",
+        "type": "message",
+        "text": "Appreciate the feedbacks Sian, I'm going to work on these :)",
+        "user": "U01S6L7HLUC",
+        "ts": "1619594143.052500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "503ff2e9e293",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1992626919472_503ff2e9e2932e7dc861_72.png",
+            "first_name": "Prebitha",
+            "real_name": "Prebitha Abraham",
+            "display_name": "Prebitha Abraham",
+            "team": "T01RBRV5F7H",
+            "name": "prebitha.abraham",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qpsd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Appreciate the feedbacks Sian, I'm going to work on these :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619545740.029500",
+        "parent_user_id": "U01S6L7HLUC"
+    },
+    {
+        "client_msg_id": "8425d7e5-be05-4efc-93e9-cf727bdffcf5",
+        "type": "message",
+        "text": "ill add more feedback when youre in groups today :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1619594377.053600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+GM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ill add more feedback when youre in groups today "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df457653-68c8-484f-9287-e5ebb54d6d5c",
+        "type": "message",
+        "text": "Yes, I am! Should I add the dashboard here too?",
+        "user": "U01SD3CDH9P",
+        "ts": "1619594820.053700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sAOe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I am! Should I add the dashboard here too?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619593373.052000",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "2da422f7-8917-4c12-ba01-fb5e72280ec4",
+        "type": "message",
+        "text": "please :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1619596514.053900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MCiG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "please "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619593373.052000",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "4319d128-8a45-4dd5-9dda-708a5ef5b780",
+        "type": "message",
+        "text": "for peer feedback this is the place",
+        "user": "U01RW140HBP",
+        "ts": "1619596523.054100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NUH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for peer feedback this is the place"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619593373.052000",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "7d0b0052-b254-44a0-9a78-8de29da37f7e",
+        "type": "message",
+        "text": "<https:\/\/fivethirtyeight.com\/>",
+        "user": "U01SD3CDH9P",
+        "ts": "1619599126.054700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "FiveThirtyEight",
+                "title_link": "https:\/\/fivethirtyeight.com\/",
+                "text": "Nate Silver’s FiveThirtyEight uses statistical analysis — hard numbers — to tell compelling stories about elections, politics, sports, science, economics and lifestyle.",
+                "fallback": "FiveThirtyEight",
+                "image_url": "https:\/\/fivethirtyeight.com\/wp-content\/themes\/espn-fivethirtyeight\/assets\/images\/open-graph-placeholder-default.png",
+                "from_url": "https:\/\/fivethirtyeight.com\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 5774,
+                "service_icon": "https:\/\/fivethirtyeight.com\/wp-content\/themes\/espn-fivethirtyeight\/assets\/images\/fivethirtyeight-logo-touch.png?v=1.0.24",
+                "service_name": "fivethirtyeight.com",
+                "id": 1,
+                "original_url": "https:\/\/fivethirtyeight.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k+mc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fivethirtyeight.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RW140HBP",
+                    "U01SK96QF5E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2ccb886-cb47-4cfb-bd5d-010436e4f9c3",
+        "type": "message",
+        "text": "its a bit visually busy - one way you make it less so is working on removing and labels, particularly axis labels that are unnecessary to the story. sometimes you can get away with a good tooltip and remove the axis altogether.\nGood job with the floating legends and filters though, plus i quite like the bottom left bar chart labels.",
+        "user": "U01RW140HBP",
+        "ts": "1619614524.055100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1619614531.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i4iHx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its a bit visually busy - one way you make it less so is working on removing and labels, particularly axis labels that are unnecessary to the story. sometimes you can get away with a good tooltip and remove the axis altogether.\nGood job with the floating legends and filters though, plus i quite like the bottom left bar chart labels."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619546818.032300",
+        "parent_user_id": "U01S081EULS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S081EULS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9b995c2-17ed-433a-8043-5661f4cad4f4",
+        "type": "message",
+        "text": "i think it would be better if the charts were interactively linked, as at the moment they are just placed… something to work on for the future",
+        "user": "U01RW140HBP",
+        "ts": "1619614573.055400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ra",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think it would be better if the charts were interactively linked, as at the moment they are just placed… something to work on for the future"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619546818.032300",
+        "parent_user_id": "U01S081EULS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S081EULS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "and it is pretty. I like that you used floating legends and filters to make better use of the space, that you chose a title which is a ‘call to action’ - encouraging people to dive in and explore the data themselves.\nI agree with the colours - be careful that people dont assume the same shade of purple means the same thing in two places but nice use of colour background and outlines - if im being fussy the boxes are not quite aligned here",
+        "files": [
+            {
+                "id": "F02038YH9NJ",
+                "created": 1619614728,
+                "timestamp": 1619614728,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 5236,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F02038YH9NJ\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F02038YH9NJ\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02038YH9NJ-441b5519d2\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02038YH9NJ-441b5519d2\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02038YH9NJ-441b5519d2\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 318,
+                "thumb_360_h": 208,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02038YH9NJ-441b5519d2\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 318,
+                "original_h": 208,
+                "thumb_tiny": "AwAfADDQ\/wCWnU\/nSjnIyaXcPf8AKjcP8igBqnCE8n6mhjwDzz6Uu8e\/5Ubx7\/lQAH7w5NA+8Rk0bx7\/AJUbx7\/lQA6kb7p+lLSN90\/SgBR0FFA6CigAooooA\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F02038YH9NJ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F02038YH9NJ-bac76a81ab",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z5q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and it is pretty. I like that you used floating legends and filters to make better use of the space, that you chose a title which is a ‘call to action’ - encouraging people to dive in and explore the data themselves.\nI agree with the colours - be careful that people dont assume the same shade of purple means the same thing in two places but nice use of colour background and outlines - if im being fussy the boxes are not quite aligned here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1619614732.055700",
+        "thread_ts": "1619547330.033200",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "de6bf425-953d-4ae4-a49d-139951bc4b1b",
+        "type": "message",
+        "text": "but overall good job! this dashboard is not overwhelming :slightly_smiling_face:\nMaybe something to work on is the interaction between the charts",
+        "user": "U01RW140HBP",
+        "ts": "1619614792.056100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "21VAq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but overall good job! this dashboard is not overwhelming "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMaybe something to work on is the interaction between the charts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619547330.033200",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "32df3473-223c-4298-bd68-eea7c51b749a",
+        "type": "message",
+        "text": "I agree with Thamo, nice idea to show the lapsed customers in a staggered kind of bar chart :slightly_smiling_face: i would consider the placement of your two colour legends on the right… i feel like you dont need the legend for RFM rc tier as you have the headers in the chart itself. The other legend (the customer segments) you could show the names of the segments in the bar chart and lose that legend too, or float it, in the white space above the big yellow bar.\nIn general its a good idea to avoid axis which make us have to turn our heads sideways :owl:- theres one axis label doing that now, on your rfm rc tier bar chart.\nnice job on the comments - try making that font bold and a bit bigger?\nagree with Marian -  put white font on the grey header blocks- i would even add a matching grey outline to the charts to hold it all together\noverall - great job!",
+        "user": "U01RW140HBP",
+        "ts": "1619615966.056300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Co1p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with Thamo, nice idea to show the lapsed customers in a staggered kind of bar chart "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i would consider the placement of your two colour legends on the right… i feel like you dont need the legend for RFM rc tier as you have the headers in the chart itself. The other legend (the customer segments) you could show the names of the segments in the bar chart and lose that legend too, or float it, in the white space above the big yellow bar.\nIn general its a good idea to avoid axis which make us have to turn our heads sideways "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "owl"
+                            },
+                            {
+                                "type": "text",
+                                "text": "- theres one axis label doing that now, on your rfm rc tier bar chart.\nnice job on the comments - try making that font bold and a bit bigger?\nagree with Marian -  put white font on the grey header blocks- i would even add a matching grey outline to the charts to hold it all together\noverall - great job!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619547435.034700",
+        "parent_user_id": "U01S0P26NKD",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S0P26NKD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b97d5cfb-b354-4c16-a843-68c98ed70ce7",
+        "type": "message",
+        "text": "really nice layout Olubunmi! i like the consistent use of colours bar chart to line chart - as a consequence i would avoid using blue again on the map, to save any visual confusion. good size font for the titles, its clear and easy to use.\nconsider changing the filters from multi select drop down to single button select - this avoids anyone unticking all options and ending up with nothing to look at! We can talk about different options for placing your filters… the truth is they can go anywhere!",
+        "user": "U01RW140HBP",
+        "ts": "1619616737.056500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n77",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "really nice layout Olubunmi! i like the consistent use of colours bar chart to line chart - as a consequence i would avoid using blue again on the map, to save any visual confusion. good size font for the titles, its clear and easy to use.\nconsider changing the filters from multi select drop down to single button select - this avoids anyone unticking all options and ending up with nothing to look at! We can talk about different options for placing your filters… the truth is they can go anywhere!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619547766.035200",
+        "parent_user_id": "U01RVSTNRRT"
+    },
+    {
+        "type": "message",
+        "text": "stepping up with a movie version! nice one :slightly_smiling_face:\ni like that youve used a srong, bold font for your titles and considered sizing for an intuitive layout. Its a nice layout too, very logical, and i like the colours.\nyou seem to have an issue in the filters top right - they are too squashed, so maybe go back and give it more space when you can",
+        "files": [
+            {
+                "id": "F02101TNDT2",
+                "created": 1619616941,
+                "timestamp": 1619616941,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 18591,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F02101TNDT2\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F02101TNDT2\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02101TNDT2-e518e6c3c2\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02101TNDT2-e518e6c3c2\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02101TNDT2-e518e6c3c2\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 69,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02101TNDT2-e518e6c3c2\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 92,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02101TNDT2-e518e6c3c2\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02101TNDT2-e518e6c3c2\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 138,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02101TNDT2-e518e6c3c2\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 153,
+                "original_w": 928,
+                "original_h": 178,
+                "thumb_tiny": "AwAJADDRIJ70bfc\/nSUUDHAY7mjmm0UAKd3Y0opKUUCP\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F02101TNDT2\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F02101TNDT2-4b5a869bc8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HVVR6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "stepping up with a movie version! nice one "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ni like that youve used a srong, bold font for your titles and considered sizing for an intuitive layout. Its a nice layout too, very logical, and i like the colours.\nyou seem to have an issue in the filters top right - they are too squashed, so maybe go back and give it more space when you can"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1619616971.056700",
+        "thread_ts": "1619548356.037700",
+        "parent_user_id": "U01RNEU3SNA"
+    },
+    {
+        "type": "message",
+        "text": "its great that your region filter affects everything, but the date filter only changes the map, which could be a bit confusing because thats not near the map, its at the top of the dashboard - i would expect it to filter everything.\nnice use of a floating legend for the map. when publishing a map its a good idea to turn the zoom functionality off so your end users dont end up really zoomed out",
+        "files": [
+            {
+                "id": "F020A894PFC",
+                "created": 1619617237,
+                "timestamp": 1619617237,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 240627,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020A894PFC\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020A894PFC\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020A894PFC-e76351349d\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020A894PFC-e76351349d\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020A894PFC-e76351349d\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 244,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020A894PFC-e76351349d\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 326,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020A894PFC-e76351349d\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020A894PFC-e76351349d\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 489,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020A894PFC-e76351349d\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 543,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020A894PFC-e76351349d\/image_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 652,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020A894PFC-e76351349d\/image_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 695,
+                "original_w": 1078,
+                "original_h": 732,
+                "thumb_tiny": "AwAgADC++c8U3LU9zio8mgBctTlY5waaGI60mcjpigBdxz1pQWPekA7806gAcZYUynupJ4FN2N6UCEpcDGaNrelG1vQ0ACmkJpNj4PFOCtjkUAf\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F020A894PFC\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020A894PFC-8b0327d25f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Db",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its great that your region filter affects everything, but the date filter only changes the map, which could be a bit confusing because thats not near the map, its at the top of the dashboard - i would expect it to filter everything.\nnice use of a floating legend for the map. when publishing a map its a good idea to turn the zoom functionality off so your end users dont end up really zoomed out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1619617240.057100",
+        "thread_ts": "1619548356.037700",
+        "parent_user_id": "U01RNEU3SNA"
+    },
+    {
+        "type": "message",
+        "text": "not quite the dashboard lab we were working on but ok!\nwithout legends on the scatter plots having the multiple trend lines are hard to interpret - can you think about adding legends , having just one trend line , and instead of lots of small coloured circles which clash with the trend line, you could potentially eliminate all the extra colours or have one grey trend line. Once a scatter plot gets visually busy its worth switching from shape to circles, which can be faded, and show the density better with an outline, so I would have  think about that.\nnice use of the bold blue headings - watch out for the _condition of property_ axis, its quite squeezed and the label doesnt fully display on my laptop- in fact you can drop the axis labels i think as each scatter contains the same information on x and y",
+        "files": [
+            {
+                "id": "F01V9FZTKC7",
+                "created": 1619617674,
+                "timestamp": 1619617674,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 16413,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01V9FZTKC7\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01V9FZTKC7\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01V9FZTKC7-1e72f6a192\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01V9FZTKC7-1e72f6a192\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01V9FZTKC7-1e72f6a192\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 256,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01V9FZTKC7-1e72f6a192\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 330,
+                "original_h": 464,
+                "thumb_tiny": "AwAwACLTooozQAEZ74oxxjNFFADdv+0aNv8AtGnUUANKAnnNJ5a+9Ln58Z4xSrjHBJoATyxz15o8tePQU6igBnlL70eUvvT6KAEx8wOfwpelFFACEgdaXPGaKKAG7xRvFOooA\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F01V9FZTKC7\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01V9FZTKC7-d351f32fa3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Ys",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not quite the dashboard lab we were working on but ok!\nwithout legends on the scatter plots having the multiple trend lines are hard to interpret - can you think about adding legends , having just one trend line , and instead of lots of small coloured circles which clash with the trend line, you could potentially eliminate all the extra colours or have one grey trend line. Once a scatter plot gets visually busy its worth switching from shape to circles, which can be faded, and show the density better with an outline, so I would have  think about that.\nnice use of the bold blue headings - watch out for the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "condition of property",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " axis, its quite squeezed and the label doesnt fully display on my laptop- in fact you can drop the axis labels i think as each scatter contains the same information on x and y"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1619617679.057500",
+        "thread_ts": "1619554226.045300",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "8099cb13-15d0-47c0-8a9e-db6af5e9a813",
+        "type": "message",
+        "text": "hi thanks for the feedback, I will review my dashboard, I used this data so Id complete my project file",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619617949.057900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TD\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi thanks for the feedback, I will review my dashboard, I used this data so Id complete my project file"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619554226.045300",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "5839a6e1-9140-46f4-b8a8-c71addb9b946",
+        "type": "message",
+        "text": "yeah I agree with Neil you might want to turn the zoom control off :slightly_smiling_face: we are too used to google maps arent we :slightly_smiling_face:\ni like the floating layout, making best use of your space. I would drop the grid lines from the bar charts to keep the whole look clean, or do the same as you did with the lollipop chart - looks like they are really faded out.\nDid you consider creating a dashboard title ? it feels sort of lost without it.\n\nthe profit legend could go further up the map, nearer to the view title, the category legend is possible unnecessary - something to be careful of - that legend is placed next to california at the moment, which also is blue - suggesting california is furniture, so consider your colour choices.\n\nwith so much space going for the  map i think you need to have more information on your tooltip, maybe a viz in tooltip ? but certainly clean the tooltips up a bit!",
+        "user": "U01RW140HBP",
+        "ts": "1619618291.058100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lh\/G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah I agree with Neil you might want to turn the zoom control off "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are too used to google maps arent we "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ni like the floating layout, making best use of your space. I would drop the grid lines from the bar charts to keep the whole look clean, or do the same as you did with the lollipop chart - looks like they are really faded out.\nDid you consider creating a dashboard title ? it feels sort of lost without it.\n\nthe profit legend could go further up the map, nearer to the view title, the category legend is possible unnecessary - something to be careful of - that legend is placed next to california at the moment, which also is blue - suggesting california is furniture, so consider your colour choices.\n\nwith so much space going for the  map i think you need to have more information on your tooltip, maybe a viz in tooltip ? but certainly clean the tooltips up a bit!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619556331.046400",
+        "parent_user_id": "U01S1CWGTU4",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01S1CWGTU4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "nice, simple three part grid structure - i think it would look neater if you had turned off the grid lines, put a title on the dashboard to bring it all together. I would recommend you to revise and test your dashboard actions … i dont think this is what you wanted to happen",
+        "files": [
+            {
+                "id": "F0207929YLV",
+                "created": 1619618445,
+                "timestamp": 1619618445,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 219842,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0207929YLV\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0207929YLV\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0207929YLV-cd9211fb33\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0207929YLV-cd9211fb33\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0207929YLV-cd9211fb33\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 219,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0207929YLV-cd9211fb33\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 292,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0207929YLV-cd9211fb33\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0207929YLV-cd9211fb33\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 439,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0207929YLV-cd9211fb33\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 487,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0207929YLV-cd9211fb33\/image_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 585,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0207929YLV-cd9211fb33\/image_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 624,
+                "original_w": 1504,
+                "original_h": 916,
+                "thumb_tiny": "AwAdADDTopCaKAFopM0UALjvRTHlCnoTSo24ZwR9aVxg3BozQ33qByKYg7Uo6U3GaVQBmgCCX7\/P4f5xU0YwtDIp5OfzpyjAwKlLUpvQ\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F0207929YLV\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F0207929YLV-a762153801",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IQegJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice, simple three part grid structure - i think it would look neater if you had turned off the grid lines, put a title on the dashboard to bring it all together. I would recommend you to revise and test your dashboard actions … i dont think this is what you wanted to happen"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1619618472.058300",
+        "thread_ts": "1619559109.048300",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "7b226ec7-bfb7-475e-8cbd-b2b76a5a80ec",
+        "type": "message",
+        "text": "Thank you Sian! I will work on it! :slightly_smiling_face:",
+        "user": "U01S1CWGTU4",
+        "ts": "1619621461.058800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UWE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Sian! I will work on it! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619556331.046400",
+        "parent_user_id": "U01S1CWGTU4"
+    },
+    {
+        "client_msg_id": "20843ec2-139c-41fd-934f-0b773d9c832a",
+        "type": "message",
+        "text": "cool beans :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1619621523.059000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6iwJ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool beans "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619556331.046400",
+        "parent_user_id": "U01S1CWGTU4"
+    },
+    {
+        "client_msg_id": "d416040e-5e86-499d-8e2a-ebdb7857d39e",
+        "type": "message",
+        "text": "would love to see people’s dashboards from today :nerd_face:  …here is ours\n\n<https:\/\/public.tableau.com\/profile\/alex2690#!\/vizhome\/Facebookpeoplemovementnetflixandtoiletpaperinterest\/Dashboard3?publish=yes>",
+        "user": "U01S7KCL3DF",
+        "ts": "1619624590.059700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9TN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would love to see people’s dashboards from today "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "nerd_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  …here is ours\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/profile\/alex2690#!\/vizhome\/Facebookpeoplemovementnetflixandtoiletpaperinterest\/Dashboard3?publish=yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619624590.059700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1619686968.002000",
+        "reply_users": [
+            "U01RRV4JX6Z",
+            "U01RN7BVD1C"
+        ],
+        "replies": [
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619625304.060200"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619686968.002000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RRV4JX6Z",
+                    "U01RS9Y6UJH",
+                    "U01RW140HBP",
+                    "U01RXCQHMHT",
+                    "U01S081EULS"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5a74613-5f94-4e98-92c9-320dca32b88b",
+        "type": "message",
+        "text": "<https:\/\/public.tableau.com\/profile\/francisco.ebeling#!\/vizhome\/Covidinbrazil_16196166787280\/Story1?publish=yes>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619625304.060200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mjwok",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/profile\/francisco.ebeling#!\/vizhome\/Covidinbrazil_16196166787280\/Story1?publish=yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619624590.059700",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88798934-592f-4d5a-aa3c-ece092e8e0f7",
+        "type": "message",
+        "text": "good idea….eventually I found the right box for switching off gridlines. tough one :thinking_face:  … not sure what’s happening there. If you click on ‘office supplies’ for William Brown, I guess it shows all the states he bought for? and up top, he didn’t buy them every month?",
+        "user": "U01S7KCL3DF",
+        "ts": "1619627570.060500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KcAVr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good idea….eventually I found the right box for switching off gridlines. tough one "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  … not sure what’s happening there. If you click on ‘office supplies’ for William Brown, I guess it shows all the states he bought for? and up top, he didn’t buy them every month?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619559109.048300",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "39934a5c-7cd7-48ae-b586-731e293c3c2b",
+        "type": "message",
+        "text": "to remove the zoom control, select the map you want to change, then go to Map in the top tool bar, select Map Options, then deselect Zoom and anything else you dont want",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619628289.060700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cSW0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to remove the zoom control, select the map you want to change, then go to Map in the top tool bar, select Map Options, then deselect Zoom and anything else you dont want"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619556331.046400",
+        "parent_user_id": "U01S1CWGTU4",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01S1CWGTU4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

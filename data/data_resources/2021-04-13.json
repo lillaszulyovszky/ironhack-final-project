@@ -1,0 +1,172 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel>,\n\"samples\" = rows in your dataset\n<https:\/\/scikit-learn.org\/stable\/tutorial\/machine_learning_map\/index.html>",
+        "files": [
+            {
+                "id": "F01UBMA2ZEG",
+                "created": 1618325615,
+                "timestamp": 1618325615,
+                "name": "ml_map.png",
+                "title": "ml_map.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01SJKB2MG8",
+                "editable": false,
+                "size": 761071,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01UBMA2ZEG\/ml_map.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01UBMA2ZEG\/download\/ml_map.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UBMA2ZEG-5de2d9e384\/ml_map_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UBMA2ZEG-5de2d9e384\/ml_map_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UBMA2ZEG-5de2d9e384\/ml_map_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 224,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UBMA2ZEG-5de2d9e384\/ml_map_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 299,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UBMA2ZEG-5de2d9e384\/ml_map_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UBMA2ZEG-5de2d9e384\/ml_map_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 449,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UBMA2ZEG-5de2d9e384\/ml_map_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 499,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UBMA2ZEG-5de2d9e384\/ml_map_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 599,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UBMA2ZEG-5de2d9e384\/ml_map_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 638,
+                "original_w": 2122,
+                "original_h": 1323,
+                "thumb_tiny": "AwAdADC9KWyMfzpmW34GcCnvy4GzPvTcAg9V5oC49XJU5ByO1LuGPf0NRjOSV6Y60h+YcZ+op2FcepYjkgH2p4z6g1DnBycgAUqks2VfjPTFFrBckYd8ZqLkDJQkk9KXY2\/h8c+lTUkxtEI4DDPT2o6kH5j9OlTUUAQAne38scVKhyOlOooA\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SJKB2MG8\/F01UBMA2ZEG\/ml_map.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01UBMA2ZEG-ac6eff5f03",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=0X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\"samples\" = rows in your dataset\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scikit-learn.org\/stable\/tutorial\/machine_learning_map\/index.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01SJKB2MG8",
+        "display_as_bot": false,
+        "ts": "1618325625.003800",
+        "thread_ts": "1618325625.003800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1618325906.004100",
+        "reply_users": [
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1618325906.004100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U01RW140HBP",
+                    "U01RN7BVD1C"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fdd5400b-ea63-462c-a04f-f3e4ec16f41c",
+        "type": "message",
+        "text": "Interestingly you don't find Logistic Regression and linear regression on this chart, but they can be part of those bubbles (e.g. SGD = \"Stochastic Gradient Descent\") in the \"Regression\" bubble that probably don't tell you much at this point. They're just mathematically more advanced ways to train regression models",
+        "user": "U01SJKB2MG8",
+        "ts": "1618325906.004100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SJKB2MG8",
+            "ts": "1618325939.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=3j=T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interestingly you don't find Logistic Regression and linear regression on this chart, but they can be part of those bubbles (e.g. SGD = \"Stochastic Gradient Descent\") in the \"Regression\" bubble that probably don't tell you much at this point. They're just mathematically more advanced ways to train regression models"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618325625.003800",
+        "parent_user_id": "U01SJKB2MG8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,333 @@
+[
+    {
+        "client_msg_id": "1b7d44a6-7de7-4ac0-a1a8-44674f9904b6",
+        "type": "message",
+        "text": "Just realised that this is a free Slack workspace….so all the cool resources from before April 12th are gone :see_no_evil:\n\nsooo if anyone remembers any helpful stuff they sent towards the start of the course, could they send it my way? I will properly bookmark it this time :beer_parrot:",
+        "user": "U01S7KCL3DF",
+        "ts": "1619509506.009600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Xj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just realised that this is a free Slack workspace….so all the cool resources from before April 12th are gone "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nsooo if anyone remembers any helpful stuff they sent towards the start of the course, could they send it my way? I will properly bookmark it this time "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beer_parrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619509506.009600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1619509698.010300",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619509534.009700"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619509536.009900"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619509698.010300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3ed28ee-3418-486e-899f-674522023243",
+        "type": "message",
+        "text": "The teaching team got your back :muscle:",
+        "user": "U01S7BM4N81",
+        "ts": "1619509534.009700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7BM4N81",
+            "ts": "1619509545.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tye",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The teaching team got your back "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619509506.009600",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "64df158f-f4b4-406d-b71e-8f036e09fd1d",
+        "type": "message",
+        "text": "<https:\/\/www.notion.so\/8af74fb0e11447e9812e816ec184b958?v=73e96b4450274f878ee83698a1c28e81>",
+        "user": "U01S7BM4N81",
+        "ts": "1619509536.009900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Additional Resources - Shared by Students and Teaching Team",
+                "title_link": "https:\/\/www.notion.so\/8af74fb0e11447e9812e816ec184b958?v=73e96b4450274f878ee83698a1c28e81",
+                "text": "A new tool for teams &amp; individuals that blends everyday work apps into one.",
+                "fallback": "ironhack on Notion: Additional Resources - Shared by Students and Teaching Team",
+                "from_url": "https:\/\/www.notion.so\/8af74fb0e11447e9812e816ec184b958?v=73e96b4450274f878ee83698a1c28e81",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/8af74fb0e11447e9812e816ec184b958?v=73e96b4450274f878ee83698a1c28e81"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "miudm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/8af74fb0e11447e9812e816ec184b958?v=73e96b4450274f878ee83698a1c28e81"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619509506.009600",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "69dd621f-6439-487c-89ee-434b611df276",
+        "type": "message",
+        "text": "aaahhhh yes thanks… i must scroll down more often :boludo:",
+        "user": "U01S7KCL3DF",
+        "ts": "1619509698.010300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RflV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aaahhhh yes thanks… i must scroll down more often "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "boludo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619509506.009600",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "catjam",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "boludo",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd80362b-3ff6-4ad2-a2c3-130cc88a843a",
+        "type": "message",
+        "text": "we are working hard to keep that Notion up to date too - ill give it another go today and ensure anything from mid last week to now has been captured to Notion",
+        "user": "U01RW140HBP",
+        "ts": "1619512594.011300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sd3w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we are working hard to keep that Notion up to date too - ill give it another go today and ensure anything from mid last week to now has been captured to Notion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c259a4e-0f04-4b95-a557-0cdc415b5f04",
+        "type": "message",
+        "text": "because of the free slack thing :confounded:- we have been here before :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1619512636.011900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JxyW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "because of the free slack thing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confounded"
+                            },
+                            {
+                                "type": "text",
+                                "text": "- we have been here before "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

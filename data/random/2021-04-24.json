@@ -1,0 +1,350 @@
+[
+    {
+        "client_msg_id": "bb17eb05-4654-4723-a6f4-3bbc08650ee0",
+        "type": "message",
+        "text": "It's unacceptable that things like that still happen in places like cosmopolitan Neukölln.... <https:\/\/www.spiegel.de\/panorama\/aldi-nord-discounter-entschuldigt-sich-nach-rassismusvorfall-a-5b35ef0f-6d3f-434f-9d29-f3445d1ceb9d?fbclid=IwAR3gq58pbE3XQaT6NVRjufrsJNvFIamSxT69T-cThe_bwyLYRoa7AFXdVgo|https:\/\/www.spiegel.de\/panorama\/aldi-nord-discounter-entschuldigt-sich-nach-rassismusvorfall-a-5b35ef0f-6d3f-434f-9d29-f3445d1ceb9d?fbclid=IwAR3gq58pbE3XQaT6NVRjufrsJNvFIamSxT69T-cThe_bwyLYRoa7AFXdVgo>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619268851.004500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Aldi-Kunde filmt Rassismusvorfall – Discounter entschuldigt sich und entlässt Mitarbeiter",
+                "title_link": "https:\/\/www.spiegel.de\/panorama\/aldi-nord-discounter-entschuldigt-sich-nach-rassismusvorfall-a-5b35ef0f-6d3f-434f-9d29-f3445d1ceb9d?fbclid=IwAR3gq58pbE3XQaT6NVRjufrsJNvFIamSxT69T-cThe_bwyLYRoa7AFXdVgo",
+                "text": "Ein Berliner wurde in einer Aldi-Filiale offenbar rassistisch beleidigt. Während er den Vorfall filmte, wurde er vom Filialleiter des Ladens verwiesen. Aldi Nord hat reagiert und den Mitarbeiter entlassen.",
+                "fallback": "Aldi-Kunde filmt Rassismusvorfall – Discounter entschuldigt sich und entlässt Mitarbeiter",
+                "image_url": "https:\/\/cdn.prod.www.spiegel.de\/images\/888234b3-a49a-4fd7-9d93-8602dc3358a7_w1280_r1.77_fpx60.67_fpy55.01.jpg",
+                "from_url": "https:\/\/www.spiegel.de\/panorama\/aldi-nord-discounter-entschuldigt-sich-nach-rassismusvorfall-a-5b35ef0f-6d3f-434f-9d29-f3445d1ceb9d?fbclid=IwAR3gq58pbE3XQaT6NVRjufrsJNvFIamSxT69T-cThe_bwyLYRoa7AFXdVgo",
+                "image_width": 443,
+                "image_height": 250,
+                "image_bytes": 61131,
+                "service_icon": "https:\/\/cdn.prod.www.spiegel.de\/public\/spon\/images\/icons\/touch-icon.png",
+                "service_name": "spiegel.de",
+                "id": 1,
+                "original_url": "https:\/\/www.spiegel.de\/panorama\/aldi-nord-discounter-entschuldigt-sich-nach-rassismusvorfall-a-5b35ef0f-6d3f-434f-9d29-f3445d1ceb9d?fbclid=IwAR3gq58pbE3XQaT6NVRjufrsJNvFIamSxT69T-cThe_bwyLYRoa7AFXdVgo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8oc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's unacceptable that things like that still happen in places like cosmopolitan Neukölln.... "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.spiegel.de\/panorama\/aldi-nord-discounter-entschuldigt-sich-nach-rassismusvorfall-a-5b35ef0f-6d3f-434f-9d29-f3445d1ceb9d?fbclid=IwAR3gq58pbE3XQaT6NVRjufrsJNvFIamSxT69T-cThe_bwyLYRoa7AFXdVgo",
+                                "text": "https:\/\/www.spiegel.de\/panorama\/aldi-nord-discounter-entschuldigt-sich-nach-rassismusvorfall-a-5b35ef0f-6d3f-434f-9d29-f3445d1ceb9d?fbclid=IwAR3gq58pbE3XQaT6NVRjufrsJNvFIamSxT69T-cThe_bwyLYRoa7AFXdVgo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Berlin wildlife says hi :beaver:",
+        "files": [
+            {
+                "id": "F01V92PJHUM",
+                "created": 1619294257,
+                "timestamp": 1619294257,
+                "name": "EzwWukpWUAczBnC.jpeg",
+                "title": "EzwWukpWUAczBnC.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01SJKB2MG8",
+                "editable": false,
+                "size": 138826,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01V92PJHUM\/ezwwukpwuaczbnc.jpeg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01V92PJHUM\/download\/ezwwukpwuaczbnc.jpeg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01V92PJHUM-c02ed13b67\/ezwwukpwuaczbnc_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01V92PJHUM-c02ed13b67\/ezwwukpwuaczbnc_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01V92PJHUM-c02ed13b67\/ezwwukpwuaczbnc_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01V92PJHUM-c02ed13b67\/ezwwukpwuaczbnc_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01V92PJHUM-c02ed13b67\/ezwwukpwuaczbnc_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01V92PJHUM-c02ed13b67\/ezwwukpwuaczbnc_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "original_w": 756,
+                "original_h": 425,
+                "thumb_tiny": "AwAaADBWLA9jyM496ckr5IBBwOh7VGGx3xSDaGLDOT1qbiuE0jYfOfmH4U2PIjA5weadJtkYEn5sYAp8cqpGFGCBxmi4yLeADhT0pAwCjdyamkkV0KgAZ70qtEEA2jIGKdwIsfWkx6E49AKU0o6GpEMO7HAxSKGB6cYpG+9UhphcTOB0\/KgfN0NPTrTXAwaQj\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SJKB2MG8\/F01V92PJHUM\/ezwwukpwuaczbnc.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01V92PJHUM-3eebe4196b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZUm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Berlin wildlife says hi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beaver"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01SJKB2MG8",
+        "display_as_bot": false,
+        "ts": "1619294273.004900",
+        "thread_ts": "1619294273.004900",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1619422756.009200",
+        "reply_users": [
+            "U01S79YDELR",
+            "U01RW2X7S9Z",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01S79YDELR",
+                "ts": "1619416356.008400"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619421213.008600"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619421232.008800"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1619422569.009000"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1619422756.009200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F020MV740EL",
+                "created": 1619296089,
+                "timestamp": 1619296089,
+                "name": "20210424_221245.jpg",
+                "title": "20210424_221245.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01RRV4JX6Z",
+                "editable": false,
+                "size": 1484708,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020MV740EL\/20210424_221245.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020MV740EL\/download\/20210424_221245.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020MV740EL-7a4a66b6e5\/20210424_221245_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020MV740EL-7a4a66b6e5\/20210424_221245_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020MV740EL-7a4a66b6e5\/20210424_221245_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 280,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020MV740EL-7a4a66b6e5\/20210424_221245_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 373,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020MV740EL-7a4a66b6e5\/20210424_221245_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020MV740EL-7a4a66b6e5\/20210424_221245_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 560,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020MV740EL-7a4a66b6e5\/20210424_221245_800.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1028,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020MV740EL-7a4a66b6e5\/20210424_221245_960.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 747,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020MV740EL-7a4a66b6e5\/20210424_221245_1024.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 797,
+                "thumb_1024_h": 1024,
+                "original_w": 2877,
+                "original_h": 3698,
+                "thumb_tiny": "AwAwACXQJxS5pslIDTAcaOtRs3JpyHI\/Gi4h2KMU7FGKLgMk5QgdaqeZukGeO5FN+1g9RTGcNlhwOcVJROzMZMYwKWCQ87sYFVnlIIOQc0JIqsdwJoAtyXW1sKufrTPtjf3RVdiGYk8fhR8vr+lFwsVuPrTg\/wAuMVY8tP7oprxqeij8OKnmAhBB2A460AMzEhetT+UmOgpyqB0FHMBFsYdxRtb1FT4HpRgelFxXP\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RRV4JX6Z\/F020MV740EL\/20210424_221245.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020MV740EL-1b5f68f2c7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "86Ir",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "user": "U01RRV4JX6Z",
+        "display_as_bot": false,
+        "ts": "1619296094.005000",
+        "client_msg_id": "337759eb-7da1-46b3-83a7-2098c708abdd",
+        "thread_ts": "1619296094.005000",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1619346039.007500",
+        "reply_users": [
+            "U01SJKB2MG8",
+            "U01RRV4JX6Z"
+        ],
+        "replies": [
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1619297240.005600"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619334668.005800"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1619346039.007500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3597a411-f17b-4512-b0b9-111a744f64cc",
+        "type": "message",
+        "text": "<@U01SJKB2MG8>, these little guys are hungry",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619296191.005500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pk3T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", these little guys are hungry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69c42f1d-a3f5-40d6-9371-49fb3536ef04",
+        "type": "message",
+        "text": "where's that? :eyes:",
+        "user": "U01SJKB2MG8",
+        "ts": "1619297240.005600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "93B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "where's that? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619296094.005000",
+        "parent_user_id": "U01RRV4JX6Z"
+    }
+]

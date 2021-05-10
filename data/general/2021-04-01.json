@@ -1,0 +1,306 @@
+[
+    {
+        "client_msg_id": "c9023981-4e85-4708-9686-7b83286c8294",
+        "type": "message",
+        "text": "Upcycling\/Circular Economy is a great approach to political economy! It is one of the reasons why China is ascending so fastly! <https:\/\/www.anthempress.com\/global-green-shift-pb>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1617262208.009800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+8ho",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Upcycling\/Circular Economy is a great approach to political economy! It is one of the reasons why China is ascending so fastly! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.anthempress.com\/global-green-shift-pb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01SD3CDH9P",
+                    "U01RKN0EGDV",
+                    "U01S1CWGTU4"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!channel> as I said on sunday, in addition to jupyter notebook, pandas, numpy, matplotlib and seaborn tomorrow, we will need a new library Scikit learn <https:\/\/scikit-learn.org\/stable\/> - please take 5 mins to check this is something that your python environment will support before tomorrow mornings lecture - this should be as easy as running the command\n *conda install -c anaconda scikit-learn*\non your terminal (after activating your chosen conda env)",
+        "user": "U01RW140HBP",
+        "ts": "1617275680.013100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[March 28th, 2021 8:54 PM] sian.davies: Software and Hardware setup requirements for this week (unit2):\n• Monday - no additional setup needed, you will be primarily working on your project - in python\/ pandas\/numpy. Ensure you can actively participate in your group by testing your audio\/ video on zoom. If this is not possible on your laptop, try the zoom app on your phone or tablet\n• Tuesday - zoom - as we have class presentations in the morning, any and all of you should be able to share your screen. Please enable\/ test this, plus testing audio functionality \/ internet speed tests as appropriate eg <https:\/\/zoom.us\/test|test zoom>, <https:\/\/www.speedtest.net\/|test speed> \n• Tuesday lecture and labs - we will be using jupyter notebook with numpy, pandas, matplotlib.pyplot and seaborn libraries. Nothing new to install but check that your chosen conda environment (if you are using conda) works with matplotlib and seaborn or use your base jupyter environment. \n• Wednesday + Thursday we all will need tableau public (minimum) or tableau desktop (optional) 2021 version. I have given you a lab for tuesday afternoon to complete this setup. I would recommending using the quickstart (same lab) to ensure your laptops can cope with tableau and zoom. Unfortunately tableau is memory hungry and there are minimum tech specs listed <https:\/\/www.tableau.com\/en-gb\/products\/techspecs|here> - the alternative on the day will be to work on a browser version, so do let us know if you are struggling with your hardware\/RAM so we can prepare for this. \n• Friday- we will return to Python and will be using numpy, pandas, matplotlib, seaborn + <https:\/\/scikit-learn.org\/stable\/install.html|sci-kit_learn> which will require an install on your chosen python env",
+                "ts": "1616957657.035600",
+                "author_id": "U01RW140HBP",
+                "author_subname": "siand the LT (she\/her)",
+                "channel_id": "C01RKRMS10W",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Software and Hardware setup requirements for this week (unit2):\n• Monday - no additional setup needed, you will be primarily working on your project - in python\/ pandas\/numpy. Ensure you can actively participate in your group by testing your audio\/ video on zoom. If this is not possible on your laptop, try the zoom app on your phone or tablet\n• Tuesday - zoom - as we have class presentations in the morning, any and all of you should be able to share your screen. Please enable\/ test this, plus testing audio functionality \/ internet speed tests as appropriate eg <https:\/\/zoom.us\/test|test zoom>, <https:\/\/www.speedtest.net\/|test speed> \n• Tuesday lecture and labs - we will be using jupyter notebook with numpy, pandas, matplotlib.pyplot and seaborn libraries. Nothing new to install but check that your chosen conda environment (if you are using conda) works with matplotlib and seaborn or use your base jupyter environment. \n• Wednesday + Thursday we all will need tableau public (minimum) or tableau desktop (optional) 2021 version. I have given you a lab for tuesday afternoon to complete this setup. I would recommending using the quickstart (same lab) to ensure your laptops can cope with tableau and zoom. Unfortunately tableau is memory hungry and there are minimum tech specs listed <https:\/\/www.tableau.com\/en-gb\/products\/techspecs|here> - the alternative on the day will be to work on a browser version, so do let us know if you are struggling with your hardware\/RAM so we can prepare for this. \n• Friday- we will return to Python and will be using numpy, pandas, matplotlib, seaborn + <https:\/\/scikit-learn.org\/stable\/install.html|sci-kit_learn> which will require an install on your chosen python env",
+                "author_name": "siand the LT (she\/her)",
+                "author_link": "https:\/\/data-ft-ber-03-2021.slack.com\/team\/U01RW140HBP",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/data-ft-ber-03-2021.slack.com\/archives\/C01RKRMS10W\/p1616957657035600?thread_ts=1616957657035600&cid=C01RKRMS10W",
+                "is_share": true,
+                "footer": "Thread in #general"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dhb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as I said on sunday, in addition to jupyter notebook, pandas, numpy, matplotlib and seaborn tomorrow, we will need a new library Scikit learn "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scikit-learn.org\/stable\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - please take 5 mins to check this is something that your python environment will support before tomorrow mornings lecture - this should be as easy as running the command\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": " conda install -c anaconda scikit-learn",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\non your terminal (after activating your chosen conda env)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S081EULS",
+                    "U01RP2K1606"
+                ],
+                "count": 2
+            },
+            {
+                "name": "brain",
+                "users": [
+                    "U01SJKB2MG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd3c7bd4-022b-493e-bd83-2c72f388825c",
+        "type": "message",
+        "text": "<!channel> Hi Ironhackers :slightly_smiling_face:\n\nDont forget that we have the yoga classes twice a week at 12.30 on Tuesdays and 18.00 on Thursdays :slightly_smiling_face:\nHere is the link:\n<https:\/\/us02web.zoom.us\/j\/82711867834?pwd=cWVFSXdVUEh5V2s1YVVxMDJxSi9UUT09>",
+        "user": "U01RUTP1ZQB",
+        "ts": "1617288069.013600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "36a33ae8e1df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1878730954818_36a33ae8e1df8718c064_72.png",
+            "first_name": "",
+            "real_name": "Jonas Tonndorff",
+            "display_name": "Jonas Tonndorff",
+            "team": "T01RBRV5F7H",
+            "name": "jonas.tonndorff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi Ironhackers "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDont forget that we have the yoga classes twice a week at 12.30 on Tuesdays and 18.00 on Thursdays "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHere is the link:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/82711867834?pwd=cWVFSXdVUEh5V2s1YVVxMDJxSi9UUT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "person_in_lotus_position",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8969af5c-f6f7-43d5-b68f-e2575f09867b",
+        "type": "message",
+        "text": "<!channel>,\nGooood morning! :rabbit:\nFor the upcoming retro we would gather on this Miro board:\n<https:\/\/miro.com\/app\/board\/o9J_lMln_yQ=\/>",
+        "user": "U01SJKB2MG8",
+        "ts": "1617346309.001000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "https:\/\/miro.com\/",
+                "title": "Miro: the collaborative whiteboard platform for distributed teams",
+                "title_link": "https:\/\/miro.com\/app\/board\/o9J_lMln_yQ=\/",
+                "text": "Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 10M+ users from around the world",
+                "fallback": "https:\/\/miro.com\/: Miro: the collaborative whiteboard platform for distributed teams",
+                "image_url": "https:\/\/miro.com\/static\/images\/share\/miro.png?00002",
+                "from_url": "https:\/\/miro.com\/app\/board\/o9J_lMln_yQ=\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 5801,
+                "service_icon": "https:\/\/miro.com\/static\/favicons\/apple-touch-icon.png?v=00zdoEw6N6",
+                "id": 1,
+                "original_url": "https:\/\/miro.com\/app\/board\/o9J_lMln_yQ=\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Ox",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nGooood morning! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rabbit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFor the upcoming retro we would gather on this Miro board:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/miro.com\/app\/board\/o9J_lMln_yQ=\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,285 @@
+[
+    {
+        "client_msg_id": "2f356cc2-af01-4a68-8a07-b87894e00ce3",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=HB8vbB5ILUU&amp;ab_channel=GilbertoGil>\n\nfor all the bear hugs\n\n“o Rio de Janeiro continua lindo” :dancing_dog:  :beach_with_umbrella:",
+        "user": "U01S7KCL3DF",
+        "ts": "1619772283.002800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Gilberto Gil - \"Aquele Abraço\" - Gilberto Gil (1969)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=HB8vbB5ILUU&amp;ab_channel=GilbertoGil",
+                "author_name": "Gilberto Gil",
+                "author_link": "https:\/\/www.youtube.com\/user\/gilbertogilmusic",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/HB8vbB5ILUU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Gilberto Gil - \"Aquele Abraço\" - Gilberto Gil (1969)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/HB8vbB5ILUU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=HB8vbB5ILUU&amp;ab_channel=GilbertoGil",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=HB8vbB5ILUU&amp;ab_channel=GilbertoGil"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pbD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=HB8vbB5ILUU&ab_channel=GilbertoGil"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nfor all the bear hugs\n\n“o Rio de Janeiro continua lindo” "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dancing_dog"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beach_with_umbrella"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619772283.002800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1619786355.003300",
+        "reply_users": [
+            "U01SK96QF5E",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1619785530.003100"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619786355.003300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S1CWGTU4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7792747e-3a88-4e4b-9e29-9a4996093d33",
+        "type": "message",
+        "text": "nice!",
+        "user": "U01SK96QF5E",
+        "ts": "1619785530.003100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R5K9g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619772283.002800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "3b620ff8-6e93-4235-868d-b0f68116106e",
+        "type": "message",
+        "text": "spotify wants to follow that up with a song from the northeast…. what a choon :aaw_yeah:\n\n<https:\/\/open.spotify.com\/track\/3cR6v2bOwqi7znC8P5Vs1T?si=f722e20636454d54>",
+        "user": "U01S7KCL3DF",
+        "ts": "1619786355.003300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Maracatu Atômico",
+                "title_link": "https:\/\/open.spotify.com\/track\/3cR6v2bOwqi7znC8P5Vs1T?si=f722e20636454d54",
+                "thumb_url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0214a6744b1b2f5d8974e15a12",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: Maracatu Atômico",
+                "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Maracatu Atômico\" src=\"https:\/\/open.spotify.com\/embed\/track\/3cR6v2bOwqi7znC8P5Vs1T?si=f722e20636454d54\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/track\/3cR6v2bOwqi7znC8P5Vs1T?si=f722e20636454d54",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/track\/3cR6v2bOwqi7znC8P5Vs1T?si=f722e20636454d54"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZrGcV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "spotify wants to follow that up with a song from the northeast…. what a choon "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "aaw_yeah"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/track\/3cR6v2bOwqi7znC8P5Vs1T?si=f722e20636454d54"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619772283.002800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "7af9e85f-0c6b-4674-a2a3-5483f17d785f",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/XFG19mkssLc|https:\/\/youtu.be\/XFG19mkssLc> Argentinean folk music :relieved:",
+        "user": "U01S1CWGTU4",
+        "ts": "1619795636.003600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Orellana Lucca - La voz del que se ha ido. [La Santiagueña Sessions 5\/5]",
+                "title_link": "https:\/\/youtu.be\/XFG19mkssLc",
+                "author_name": "La Santiagueña",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UChLbwofeGnL1Uo9z5o4ZvOw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/XFG19mkssLc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Orellana Lucca - La voz del que se ha ido. [La Santiagueña Sessions 5\/5]",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/XFG19mkssLc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/XFG19mkssLc",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/XFG19mkssLc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E2XUB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/XFG19mkssLc",
+                                "text": "https:\/\/youtu.be\/XFG19mkssLc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Argentinean folk music "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relieved"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,851 @@
+[
+    {
+        "client_msg_id": "d1f113e1-d517-427f-8f17-a8b2695ca580",
+        "type": "message",
+        "text": "<@U01RSRE0N3D>  <https:\/\/www.ibm.com\/docs\/en\/i\/7.4?topic=join-inner-using-where-clause>   It is the same of an inner join actually.",
+        "user": "U01S79YDELR",
+        "ts": "1617865998.001800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1617871454.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FHv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RSRE0N3D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ibm.com\/docs\/en\/i\/7.4?topic=join-inner-using-where-clause"
+                            },
+                            {
+                                "type": "text",
+                                "text": "   It is the same of an inner join actually."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617861437.000900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "547c153e-d251-492f-8502-81a3b04809cb",
+        "type": "message",
+        "text": "we will do more on this today in the lesson Karina! do ask any questions you have then",
+        "user": "U01RW140HBP",
+        "ts": "1617866449.002400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aRGj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we will do more on this today in the lesson Karina! do ask any questions you have then"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e04e1c54-28fd-46a3-a61e-f2c976be85d6",
+        "type": "message",
+        "text": "ok no problem we will revisit rank this morning but ill also deal with the count",
+        "user": "U01RW140HBP",
+        "ts": "1617866761.002700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jbPA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok no problem we will revisit rank this morning but ill also deal with the count"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617809227.005000",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "90ed80d9-2e55-4f1d-ad2c-52f112e8f70f",
+        "type": "message",
+        "text": "it is the syntax in dbeaver, sakila is the database",
+        "user": "U01S79YDELR",
+        "ts": "1617867057.003200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TarG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it is the syntax in dbeaver, sakila is the database"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617849717.019400",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "a54d0c52-fe4c-4e19-a693-8fe024011684",
+        "type": "message",
+        "text": "at least in selects, it is needed to specify the database",
+        "user": "U01S79YDELR",
+        "ts": "1617867100.003400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s2r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "at least in selects, it is needed to specify the database"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617849717.019400",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "bd24789c-269a-412e-9e1c-324b506c4911",
+        "type": "message",
+        "text": "<@U01RW140HBP> is there a way to use max as window function without partition? I was experimenting and trying to filter results where return_date is equal to max return_date. something like:\n select *,\nfrom sakila.RENTAL;\nwhere EXTRACT(MONTH FROM return_date) = max ( EXTRACT(MONTH FROM return_date))",
+        "user": "U01S0E0MRJ7",
+        "ts": "1617868668.005400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tzbA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RW140HBP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is there a way to use max as window function without partition? I was experimenting and trying to filter results where return_date is equal to max return_date. something like:\n select *,\nfrom sakila.RENTAL;\nwhere EXTRACT(MONTH FROM return_date) = max ( EXTRACT(MONTH FROM return_date))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617868668.005400",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1617904583.007400",
+        "reply_users": [
+            "U01RW140HBP",
+            "U01S0E0MRJ7"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617869132.005500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617882465.005900"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1617904583.007400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ce176520-fe18-4400-8756-024d7b9a03bb",
+        "type": "message",
+        "text": "i would do this with a self join… hold that thought",
+        "user": "U01RW140HBP",
+        "ts": "1617869132.005500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h2Bc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i would do this with a self join… hold that thought"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617868668.005400",
+        "parent_user_id": "U01S0E0MRJ7"
+    },
+    {
+        "client_msg_id": "d27cf818-f924-4bb5-98a1-5fbb0212cd66",
+        "type": "message",
+        "text": "so the challenge you have here is you cant use the window function as part of the where clause due to the order of execution … they are created in the Select, so cant also be used in Select:\n*select *, month(max(return_date) over (order by return_date)) as maxmonth*\n*from rental*\n*where return_date is not null*  \nthis gets you half of the way there… in real life I would normally run the query *select max(return_date) from rental* first, spot that the max month is 9 and then just hard code 9 into my code :\n*select *, month(max(return_date) over (order by return_date)) as maxmonth*\n*from rental*\n*where return_date is not null*  \n*and month(return_date) = 9* \n…. however to do it programmatically, rather than manually, involves either a subquery or a self join - subquery would be the better way to go.\n*select * , month(max(return_date) over (order by return_date)) as maxmonth*\n*from rental*\n*where return_date is not null*  \n*and month(return_date) =* \n*( select month(max(return_date))  from rental)*\nhere the subquery is the same as i started with …\n\na self join method is actually too messy (i tried a few versions) !",
+        "user": "U01RW140HBP",
+        "ts": "1617882465.005900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v=mHc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so the challenge you have here is you cant use the window function as part of the where clause due to the order of execution … they are created in the Select, so cant also be used in Select:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "select *, month(max(return_date) over (order by return_date)) as maxmonth",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "from rental",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "where return_date is not null  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthis gets you half of the way there… in real life I would normally run the query "
+                            },
+                            {
+                                "type": "text",
+                                "text": "select max(return_date) from rental ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "first, spot that the max month is 9 and then just hard code 9 into my code :\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "select *, month(max(return_date) over (order by return_date)) as maxmonth",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "from rental",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "where return_date is not null  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "and month(return_date) = 9 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n…. however to do it programmatically, rather than manually, involves either a subquery or a self join - subquery would be the better way to go.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "select * , month(max(return_date) over (order by return_date)) as maxmonth",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "from rental",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "where return_date is not null  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "and month(return_date) = ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "( select month(max(return_date))  from rental)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nhere the subquery is the same as i started with …\n\na self join method is actually too messy (i tried a few versions) !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617868668.005400",
+        "parent_user_id": "U01S0E0MRJ7",
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U01S0E0MRJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a28e894-0c8e-413c-b959-1bc0c34631b9",
+        "type": "message",
+        "text": "try using use sakila ;\nthen your INSERT INTO statement. But i think you will find there are some constraints on the table which require inserting more information than you have here. if you check the create statement for this table you will see we cant have null entries for\n*first name* \n*last name* \n*address id* \n*store id* \n*user name.*\nwhat this means is you will get an error if you try to partially fill a record not completing all those cells.\nto get all that information, because we know Tammy is already a customer, you can query her records\n*SELECT * FROM sakila.customer*\n*where first_name = ‘Tammy’*\nthen you can amend your insert into statement to include that info\n*insert into sakila.staff(first_name, last_name,  address_id, store_id, username)*\n*values(‘TAMMY’,‘SANDERS’, 79, 2, ‘tammy’)*\nif this doesnt make sense lets jump in a breakout room and go through it later!\n*actually the user name is made up…. ‘tammy’ which is not obvious* ",
+        "user": "U01RW140HBP",
+        "ts": "1617882981.006100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1617883042.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i9a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "try using use sakila ;\nthen your INSERT INTO statement. But i think you will find there are some constraints on the table which require inserting more information than you have here. if you check the create statement for this table you will see we cant have null entries for\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "first name ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "last name ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "address id ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "store id ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "user name.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nwhat this means is you will get an error if you try to partially fill a record not completing all those cells.\nto get all that information, because we know Tammy is already a customer, you can query her records\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "SELECT * FROM sakila.customer",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "where first_name = ‘Tammy’",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthen you can amend your insert into statement to include that info\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "insert into sakila.staff(first_name, last_name,  address_id, store_id, username)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "values(‘TAMMY’,‘SANDERS’, 79, 2, ‘tammy’)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nif this doesnt make sense lets jump in a breakout room and go through it later!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "actually the user name is made up…. ‘tammy’ which is not obvious ",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617849717.019400",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "94c938f3-28a5-434d-8015-c0536adf11bb",
+        "type": "message",
+        "text": "where is often easier ! and you can combine where with a subquery (we will go through this in tomorrows lecture) so that is flexible. However i normally use joins where i want fields from more than one table.",
+        "user": "U01RW140HBP",
+        "ts": "1617883182.006400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qoD6V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "where is often easier ! and you can combine where with a subquery (we will go through this in tomorrows lecture) so that is flexible. However i normally use joins where i want fields from more than one table."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617861437.000900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "981945c7-90bb-4fe4-870b-3e4aa6cdea78",
+        "type": "message",
+        "text": "if your database is clean, all tables have good referential integrity (ie no missing actor_id), it doesnt matter … in general i suggest to start a join with the transactional table but we dont really have transactions in this join between actors and the bridge table, so it could be done either way.",
+        "user": "U01RW140HBP",
+        "ts": "1617883643.006600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y=n1m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if your database is clean, all tables have good referential integrity (ie no missing actor_id), it doesnt matter … in general i suggest to start a join with the transactional table but we dont really have transactions in this join between actors and the bridge table, so it could be done either way."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617813339.015100",
+        "parent_user_id": "U01S79YDELR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1dcba85d-0196-4bf5-a6e1-de086d8c2824",
+        "type": "message",
+        "text": "select count(distinct actor_id) from film_actor\nand\nselect count(distinct actor_id) from actor\nto compare",
+        "user": "U01RW140HBP",
+        "ts": "1617883747.006800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HVyA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "select count(distinct actor_id) from film_actor\nand\nselect count(distinct actor_id) from actor\nto compare"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617813339.015100",
+        "parent_user_id": "U01S79YDELR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd211e31-55e7-4478-9353-d0f57acccdb5",
+        "type": "message",
+        "text": "thank you! so i guess the golden rule is if it’s that complicated for SQL then probably it is not the best platform for it and rather do something like that in Python",
+        "user": "U01S0E0MRJ7",
+        "ts": "1617904583.007400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gcxS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you! so i guess the golden rule is if it’s that complicated for SQL then probably it is not the best platform for it and rather do something like that in Python"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617868668.005400",
+        "parent_user_id": "U01S0E0MRJ7"
+    }
+]

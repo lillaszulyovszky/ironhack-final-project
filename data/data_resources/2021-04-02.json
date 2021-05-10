@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "65d4ff4e-81ca-4cc9-bc48-747d308b5dba",
+        "type": "message",
+        "text": "This guy collected a list of ML concepts explained with interactive visualisations: <https:\/\/medium.com\/analytics-vidhya\/awesome-machine-learning-visualizations-5208f1617ec5>",
+        "user": "U01SK96QF5E",
+        "ts": "1617355444.001000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Awesome Machine Learning Visualizations",
+                "title_link": "https:\/\/medium.com\/analytics-vidhya\/awesome-machine-learning-visualizations-5208f1617ec5",
+                "text": "A curated list of visualizations\/animations of Machine learning algorithms",
+                "fallback": "Medium: Awesome Machine Learning Visualizations",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/0*SLWjcL1XahiAYZqV",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "3 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1580992518,
+                "from_url": "https:\/\/medium.com\/analytics-vidhya\/awesome-machine-learning-visualizations-5208f1617ec5",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 89875,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/analytics-vidhya\/awesome-machine-learning-visualizations-5208f1617ec5"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D4H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This guy collected a list of ML concepts explained with interactive visualisations: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/analytics-vidhya\/awesome-machine-learning-visualizations-5208f1617ec5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S1CWGTU4",
+                    "U01RN7BVD1C",
+                    "U01S7KCL3DF",
+                    "U01RKN0EGDV",
+                    "U01RXCQHMHT",
+                    "U01RW140HBP"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

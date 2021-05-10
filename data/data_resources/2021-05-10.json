@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "63498f99-3996-49a5-825a-49b8516032aa",
+        "type": "message",
+        "text": "<https:\/\/rasa.com\/>",
+        "user": "U01S79YDELR",
+        "ts": "1620633254.000200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Rasa",
+                "title": "Open source conversational AI",
+                "title_link": "https:\/\/rasa.com\/",
+                "text": "Build contextual AI assistants and chatbots in text and voice with our open source machine learning framework. Scale it with our enterprise grade platform.",
+                "fallback": "Rasa: Open source conversational AI",
+                "ts": 1606831543,
+                "from_url": "https:\/\/rasa.com\/",
+                "service_icon": "https:\/\/rasa.com\/apple-touch-icon.png?v=210226",
+                "id": 1,
+                "original_url": "https:\/\/rasa.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XdJY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rasa.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

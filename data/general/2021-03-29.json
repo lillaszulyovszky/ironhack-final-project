@@ -1,0 +1,1171 @@
+[
+    {
+        "client_msg_id": "2eb5485e-fd9e-4f98-94a7-9c4fc4eb19cf",
+        "type": "message",
+        "text": "task on BI tools\n*Your task (individual or in pairs):*  \nPick one of the BI tools we have discussed today\nReview one of the business case studies from their website (or another you find with the help of your friend google!) \nSummarise the overall business objective(s) \nSee if you can identify specific steps taken with the software \/consulting services\/ training\/ organisational change to fulfil the company’s objectives \nIs a timeline mentioned?",
+        "user": "U01RW140HBP",
+        "ts": "1617004613.038000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hjOLM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "task on BI tools\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Your task (individual or in pairs):  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPick one of the BI tools we have discussed today\nReview one of the business case studies from their website (or another you find with the help of your friend google!) \nSummarise the overall business objective(s) \nSee if you can identify specific steps taken with the software \/consulting services\/ training\/ organisational change to fulfil the company’s objectives \nIs a timeline mentioned?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ae327ba-ecba-4a8d-a966-77af162ffd5f",
+        "type": "message",
+        "text": "task for 11am <https:\/\/medium.com\/expedia-group-tech\/rethinking-data-visualization-39e105cca4e8>",
+        "user": "U01RW140HBP",
+        "ts": "1617007650.038200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Rethinking Data Visualization",
+                "title_link": "https:\/\/medium.com\/expedia-group-tech\/rethinking-data-visualization-39e105cca4e8",
+                "text": "Lessons learned from product development",
+                "fallback": "Medium: Rethinking Data Visualization",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/1*-1VD0SANNsqpwH6r2xOafg.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "12 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1616081011,
+                "from_url": "https:\/\/medium.com\/expedia-group-tech\/rethinking-data-visualization-39e105cca4e8",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 113187,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/expedia-group-tech\/rethinking-data-visualization-39e105cca4e8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EIesE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "task for 11am "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/expedia-group-tech\/rethinking-data-visualization-39e105cca4e8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d82052e8-6cae-47d8-96de-d8191f9016a5",
+        "type": "message",
+        "text": "what are the mistakes often made by organisation in adopting data visualisation tools &amp; techniques\nwhat does David suggest could be done differently?",
+        "user": "U01RW140HBP",
+        "ts": "1617007661.038500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AUcHC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what are the mistakes often made by organisation in adopting data visualisation tools & techniques\nwhat does David suggest could be done differently?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b438d643-3274-4fea-80aa-baee9356da62",
+        "type": "message",
+        "text": ":white_check_mark:<@U01S133DZ9A> <@U01RP2K1606> <@U01S0E0MRJ7> you have not completed your student survey from friday. As we said, we are being chased, so now we need to hassle you - please can you do that before noon today. and confirm when you have done it using a green tick on this post :white_check_mark:",
+        "user": "U01RW140HBP",
+        "ts": "1617007906.040200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hxs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S133DZ9A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RP2K1606"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S0E0MRJ7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you have not completed your student survey from friday. As we said, we are being chased, so now we need to hassle you - please can you do that before noon today. and confirm when you have done it using a green tick on this post "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "babe01ff-e6c9-4008-b6e1-0cc53914956e",
+        "type": "message",
+        "text": "<!channel> Hey everyone :slightly_smiling_face:\n\nI just wanted to reach out to you again about the mystery room event on Friday, if you havent already filled out the survey, please do so today to let me know if you are interested in joining the event. Please let me know before 3 PM today so I can book out the rooms :)\n\n_\"We here at Ironhack would like to invite all our students to a special online exit room event next Friday at 19.00._\n_This is a great way to get in contact with students from other courses._\n_During the event you will be split into small group and through the use of a camera you will steer a real life gamester through a series off puzzles. We did this event last bootcamp and it was alot of fun, some students had to protect the world against a deadly zombie virus while others had to defuse an atomic bom!!_\n_If this sounds like something you would be interested in please let us know by filling out this <https:\/\/ironhack-dot-yamm-track.appspot.com\/Redirect?ukey=1lXsSGMtJ2C_SRHOCRp9C47W8sjM-aaI6CM0TUwUmV44-286680014&amp;key=YAMMID-04245215&amp;link=https%3A%2F%2Fironhack.typeform.com%2Fto%2FMbnfwBkS|survey>.\"_\n_BTW. staff is welcome ;)_\n\nKind regards\nThe PM Team\n\nJonas",
+        "user": "U01RUTP1ZQB",
+        "ts": "1617008639.040500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "36a33ae8e1df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1878730954818_36a33ae8e1df8718c064_72.png",
+            "first_name": "",
+            "real_name": "Jonas Tonndorff",
+            "display_name": "Jonas Tonndorff",
+            "team": "T01RBRV5F7H",
+            "name": "jonas.tonndorff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Mystery room",
+                "title_link": "https:\/\/ironhack-dot-yamm-track.appspot.com\/Redirect?ukey=1lXsSGMtJ2C_SRHOCRp9C47W8sjM-aaI6CM0TUwUmV44-286680014&key=YAMMID-04245215&link=https%3A%2F%2Fironhack.typeform.com%2Fto%2FMbnfwBkS",
+                "text": "Turn data collection into an experience with Typeform. Create beautiful online forms, surveys, quizzes, and so much more. Try it for FREE.",
+                "fallback": "Mystery room",
+                "image_url": "https:\/\/images.typeform.com\/images\/FYUps4mFKPYK\/image\/default",
+                "from_url": "https:\/\/ironhack-dot-yamm-track.appspot.com\/Redirect?ukey=1lXsSGMtJ2C_SRHOCRp9C47W8sjM-aaI6CM0TUwUmV44-286680014&key=YAMMID-04245215&link=https%3A%2F%2Fironhack.typeform.com%2Fto%2FMbnfwBkS",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 39631,
+                "service_icon": "https:\/\/ironhack.typeform.com\/favicon.ico",
+                "service_name": "ironhack.typeform.com",
+                "id": 1,
+                "original_url": "https:\/\/ironhack-dot-yamm-track.appspot.com\/Redirect?ukey=1lXsSGMtJ2C_SRHOCRp9C47W8sjM-aaI6CM0TUwUmV44-286680014&amp;key=YAMMID-04245215&amp;link=https%3A%2F%2Fironhack.typeform.com%2Fto%2FMbnfwBkS"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LPCuv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hey everyone "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI just wanted to reach out to you again about the mystery room event on Friday, if you havent already filled out the survey, please do so today to let me know if you are interested in joining the event. Please let me know before 3 PM today so I can book out the rooms :)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"We here at Ironhack would like to invite all our students to a special online exit room event next Friday at 19.00.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This is a great way to get in contact with students from other courses.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "During the event you will be split into small group and through the use of a camera you will steer a real life gamester through a series off puzzles. We did this event last bootcamp and it was alot of fun, some students had to protect the world against a deadly zombie virus while others had to defuse an atomic bom!!",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "If this sounds like something you would be interested in please let us know by filling out this ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ironhack-dot-yamm-track.appspot.com\/Redirect?ukey=1lXsSGMtJ2C_SRHOCRp9C47W8sjM-aaI6CM0TUwUmV44-286680014&key=YAMMID-04245215&link=https%3A%2F%2Fironhack.typeform.com%2Fto%2FMbnfwBkS",
+                                "text": "survey",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\"",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "BTW. staff is welcome ;)",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nKind regards\nThe PM Team\n\nJonas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ca4f752-2a12-4e91-9523-091554a52b10",
+        "type": "message",
+        "text": ":white_check_mark: reposting - please let me know with a green tick you have done the survey <@U01S133DZ9A> <@U01RP2K1606> <@U01S0E0MRJ7> you have not completed your student survey from friday. As we said, we are being chased, so now we need to hassle you! - please can you do this ASAP today. and confirm when you have done it using a green tick on this post :white_check_mark:",
+        "user": "U01RW140HBP",
+        "ts": "1617013835.041300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b0BM6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark"
+                            },
+                            {
+                                "type": "text",
+                                "text": " reposting - please let me know with a green tick you have done the survey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S133DZ9A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RP2K1606"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S0E0MRJ7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you have not completed your student survey from friday. As we said, we are being chased, so now we need to hassle you! - please can you do this ASAP today. and confirm when you have done it using a green tick on this post "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617013835.041300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1617023362.042900",
+        "reply_users": [
+            "U01RW140HBP",
+            "U01RUU9SK4K"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617022199.042400"
+            },
+            {
+                "user": "U01RUU9SK4K",
+                "ts": "1617022948.042600"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617023362.042900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01RW140HBP",
+                    "U01S0E0MRJ7",
+                    "U01SD3CDH9P",
+                    "U01RP2K1606"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57523db7-9a91-44d1-8c4d-609e5ef24f3d",
+        "type": "message",
+        "text": "<@U01S133DZ9A> still waiting on your green tick!!!",
+        "user": "U01RW140HBP",
+        "ts": "1617022199.042400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JkVP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S133DZ9A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " still waiting on your green tick!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617013835.041300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "74dac317-ddbb-455a-adde-385d47c78e78",
+        "type": "message",
+        "text": "Thanks Sian for being on it! :raised_hands: And thank you everyone who has submitted their survey already last week, it makes life for us all much easier. :heart:",
+        "user": "U01RUU9SK4K",
+        "ts": "1617022948.042600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "b6a6e72d0c8d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1878751834370_b6a6e72d0c8d345d9164_72.jpg",
+            "first_name": "",
+            "real_name": "Madini Liebscher",
+            "display_name": "Madini Liebscher",
+            "team": "T01RBRV5F7H",
+            "name": "madini.liebscher",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "04bJp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Sian for being on it! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "text",
+                                "text": " And thank you everyone who has submitted their survey already last week, it makes life for us all much easier. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617013835.041300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "e691d675-ce44-4406-a935-fbb0c1aab708",
+        "type": "message",
+        "text": "i have a feeling simon isnt looking at slack today! might be worth emailing him if no joy",
+        "user": "U01RW140HBP",
+        "ts": "1617023362.042900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f0VU+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i have a feeling simon isnt looking at slack today! might be worth emailing him if no joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617013835.041300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "84def9ac-71d3-4df7-af05-1e1905e8c244",
+        "type": "message",
+        "text": "we will need an order of groups for the morning presentations folks: (fill in your starwars character names and position preference in the below THREAD if your group has a preference on running order):\n1st: obi wan\n2nd: baby yoda\n3rd:Chewbaca\n4th: darth vader\n5th: luke skywalker\n6th: r2d2\n7th: Han solo",
+        "user": "U01RW140HBP",
+        "ts": "1617025242.044900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1617042899.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q3E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we will need an order of groups for the morning presentations folks: (fill in your starwars character names and position preference in the below THREAD if your group has a preference on running order):\n1st: obi wan\n2nd: baby yoda\n3rd:Chewbaca\n4th: darth vader\n5th: luke skywalker\n6th: r2d2\n7th: Han solo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617025242.044900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617032246.046600",
+        "reply_users": [
+            "U01RP2K1606"
+        ],
+        "replies": [
+            {
+                "user": "U01RP2K1606",
+                "ts": "1617032246.046600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "09e63064-957f-487d-a161-c87eded4b10d",
+        "type": "message",
+        "text": "7th: han-solo",
+        "user": "U01RXCQHMHT",
+        "ts": "1617025274.045100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B4r4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "7th: han-solo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d0906e17-018d-4d1f-9fb6-c92d989a77f0",
+        "type": "message",
+        "text": ":angel::pray:",
+        "user": "U01RXCQHMHT",
+        "ts": "1617025290.045300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bBi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "angel"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617025290.045300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617025310.045500",
+        "reply_users": [
+            "U01RXCQHMHT"
+        ],
+        "replies": [
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1617025310.045500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "de6ab056-6d20-49ca-9867-4d73d42a12a0",
+        "type": "message",
+        "text": "my prayers have been heard <@U01RW140HBP>",
+        "user": "U01RXCQHMHT",
+        "ts": "1617025310.045500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4CAh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my prayers have been heard "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RW140HBP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617025290.045300",
+        "parent_user_id": "U01RXCQHMHT"
+    },
+    {
+        "client_msg_id": "5189b29b-1849-4069-a7c3-f039dcd97a80",
+        "type": "message",
+        "text": "chewbacca please the 3rd place, thank you",
+        "user": "U01S0MFJ3HR",
+        "ts": "1617030063.046100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "16aa576b8645",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1903189544593_16aa576b864568c61af7_72.jpg",
+            "first_name": "",
+            "real_name": "Anja Fechner",
+            "display_name": "Anja Fechner",
+            "team": "T01RBRV5F7H",
+            "name": "anja.fechner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nKL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "chewbacca please the 3rd place, thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06e07d68-f6fe-485c-a16b-e05dc1a8b80c",
+        "type": "message",
+        "text": "5th: luke-skywalker",
+        "user": "U01RP2K1606",
+        "ts": "1617032246.046600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "cf57933e3b00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880079302355_cf57933e3b00451b4617_72.png",
+            "first_name": "",
+            "real_name": "Jalal Karimov",
+            "display_name": "Jalal Karimov",
+            "team": "T01RBRV5F7H",
+            "name": "jalalkrmv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RMY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5th: luke-skywalker"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617025242.044900",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "e4d672ae-201d-4094-9d78-b2c6072b4cdd",
+        "type": "message",
+        "text": "6th: r2-d2",
+        "user": "U01RN7BVD1C",
+        "ts": "1617034657.047100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sxkQ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "6th: r2-d2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617034657.047100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617034729.047700",
+        "reply_users": [
+            "U01RN7BVD1C"
+        ],
+        "replies": [
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1617034729.047700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a565d715-4029-4db8-921d-e245bf88f086",
+        "type": "message",
+        "text": "4th: darth-vader",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617034689.047400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tmG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "4th: darth-vader"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "vader",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617034699.047600",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "2ruL",
+                "image_url": "https:\/\/media2.giphy.com\/media\/l1Ku92AhMxarUZWww\/giphy.gif?cid=6104955ebcc1f846e4c83959db7733a91cf699f14613265d&rid=giphy.gif&ct=g",
+                "alt_text": "vader",
+                "title": {
+                    "type": "plain_text",
+                    "text": "vader",
+                    "emoji": true
+                },
+                "fallback": "480x206px image",
+                "image_width": 480,
+                "image_height": 206,
+                "image_bytes": 872656,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "WOr",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/starwars\/|Star Wars>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28bb29c1-d905-448f-a847-300ea3c7650b",
+        "type": "message",
+        "text": "please :slightly_smiling_face: Sorry my head needs a break, didnt mean to be rude",
+        "user": "U01RN7BVD1C",
+        "ts": "1617034729.047700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qjx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "please "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sorry my head needs a break, didnt mean to be rude"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617034657.047100",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "e8e28443-9065-4b77-b803-eaf08c05d6a7",
+        "type": "message",
+        "text": "baby-yoda 5th no one wants to be first ha ha",
+        "user": "U01RS9Y6UJH",
+        "ts": "1617040803.048700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "baby-yoda 5th no one wants to be first ha ha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad3cf4de-e625-458b-991e-7ce843be858b",
+        "type": "message",
+        "text": "agh gone already, then 2nd",
+        "user": "U01RS9Y6UJH",
+        "ts": "1617040850.049000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qiJT0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "agh gone already, then 2nd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1617087296.050500",
+        "user": "U01S0P26NKD",
+        "text": "<@U01S0P26NKD> set the channel topic: :zoom: classroom:\n<https:\/\/zoom.us\/j\/877626245>\npw: 986565",
+        "topic": ":zoom: classroom:\n<https:\/\/zoom.us\/j\/877626245>\npw: 986565"
+    }
+]

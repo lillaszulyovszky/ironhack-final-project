@@ -1,0 +1,957 @@
+[
+    {
+        "client_msg_id": "bd7e48ef-ac95-4fb7-bef8-708fda50f0c0",
+        "type": "message",
+        "text": "<https:\/\/www.codewars.com\/kata\/546e2562b03326a88e000020\/train\/python>",
+        "user": "U01RSRE0N3D",
+        "ts": "1617198721.000500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Codewars",
+                "title": "Training on Square Every Digit | Codewars",
+                "title_link": "https:\/\/www.codewars.com\/kata\/546e2562b03326a88e000020\/train\/python",
+                "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.",
+                "fallback": "Codewars: Training on Square Every Digit | Codewars",
+                "from_url": "https:\/\/www.codewars.com\/kata\/546e2562b03326a88e000020\/train\/python",
+                "thumb_url": "https:\/\/www.codewars.com\/assets\/logos\/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.codewars.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.codewars.com\/kata\/546e2562b03326a88e000020\/train\/python"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LOk1T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codewars.com\/kata\/546e2562b03326a88e000020\/train\/python"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617198721.000500",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1617199734.003700",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01RW2X7S9Z"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617198928.000700"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617199045.001300"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617199060.001700"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617199147.002100"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617199195.002600"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617199734.003700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617199734.003700"
+    },
+    {
+        "client_msg_id": "ae52b61d-5f8e-40a6-a892-8c85fdc705d2",
+        "type": "message",
+        "text": "`r = ''`\n    `for l in str(num):`\n     `r = r + str((int(l))**2)`\n    `return int(r)` ",
+        "user": "U01S7BM4N81",
+        "ts": "1617198928.000700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "scHbq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "r = ''",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    for l in str(num):",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "     r = r + str((int(l))**2)",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    return int(r) ",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617198721.000500",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "most legible lol",
+        "files": [
+            {
+                "id": "F01TN1RTD24",
+                "created": 1617199041,
+                "timestamp": 1617199041,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 5944,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TN1RTD24\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TN1RTD24\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN1RTD24-563fbe4db6\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN1RTD24-563fbe4db6\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN1RTD24-563fbe4db6\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 58,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN1RTD24-563fbe4db6\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 77,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN1RTD24-563fbe4db6\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 507,
+                "original_h": 81,
+                "thumb_tiny": "AwAHADCjvJGDj8qXj1pgpaAF+h\/Oj8RSUUAL+Io\/EUlLQB\/\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F01TN1RTD24\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TN1RTD24-bc8bec4625",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xOFW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "most legible lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW2X7S9Z",
+        "display_as_bot": false,
+        "ts": "1617199045.001300",
+        "thread_ts": "1617198721.000500",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3804aa1a-0ea6-4d1c-8011-2796deb1f464",
+        "type": "message",
+        "text": "<@U01RW2X7S9Z> with the oneliner again",
+        "user": "U01S7BM4N81",
+        "ts": "1617199060.001700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7BM4N81",
+            "ts": "1617199067.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Ik",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RW2X7S9Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with the oneliner again"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617198721.000500",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b621e9ce-ece7-4a93-b882-523697207778",
+        "type": "message",
+        "text": "why the crying face? It's definetly more elegant and easier to understand ^^",
+        "user": "U01S7BM4N81",
+        "ts": "1617199147.002100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7BM4N81",
+            "ts": "1617199153.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V7m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "why the crying face? It's definetly more elegant and easier to understand ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617198721.000500",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "cattyping",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6041a1f-b501-4533-bce9-aa3f92aff2e4",
+        "type": "message",
+        "text": "She sells seashells by the seashore",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617199195.002600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW2X7S9Z",
+            "ts": "1617199202.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bf2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "She sells seashells by the seashore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617198721.000500",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01S7BM4N81"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b32ab8c-c456-449d-90d8-090cef9dfe6d",
+        "type": "message",
+        "text": "i use x too much for comprehensions :sweat_smile:",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617199734.003700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pRbOK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i use x too much for comprehensions "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617198721.000500",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "78646d10-d0e0-4c25-8fb1-b279ae4dd434",
+        "type": "message",
+        "text": "<https:\/\/www.codewars.com\/kata\/52fba66badcd10859f00097e\/train\/python>",
+        "user": "U01SJKB2MG8",
+        "ts": "1617201130.005300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Codewars",
+                "title": "Training on Disemvowel Trolls | Codewars",
+                "title_link": "https:\/\/www.codewars.com\/kata\/52fba66badcd10859f00097e\/train\/python",
+                "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.",
+                "fallback": "Codewars: Training on Disemvowel Trolls | Codewars",
+                "from_url": "https:\/\/www.codewars.com\/kata\/52fba66badcd10859f00097e\/train\/python",
+                "thumb_url": "https:\/\/www.codewars.com\/assets\/logos\/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.codewars.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.codewars.com\/kata\/52fba66badcd10859f00097e\/train\/python"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JhXJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codewars.com\/kata\/52fba66badcd10859f00097e\/train\/python"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617201130.005300",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1617203064.008400",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01SJKB2MG8",
+            "U01S7BM4N81",
+            "U01RRV4JX6Z",
+            "U01S0E0MRJ7",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617201182.005500"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1617201706.006100"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617201720.006300"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1617201742.006500"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617201746.006700"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1617202023.007300"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1617202081.007500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617203064.008400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01TN6T95DE",
+                "created": 1617201181,
+                "timestamp": 1617201181,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 5769,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TN6T95DE\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TN6T95DE\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN6T95DE-5c9ff4df44\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN6T95DE-5c9ff4df44\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN6T95DE-5c9ff4df44\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 88,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TN6T95DE-5c9ff4df44\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 415,
+                "original_h": 102,
+                "thumb_tiny": "AwALADCl5hx2\/KimUbj60AOyPX9KTNJuPrS7m9TQAbvajd7Um4joaCxPU0Af\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F01TN6T95DE\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TN6T95DE-bfd2574891",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RW2X7S9Z",
+        "display_as_bot": false,
+        "ts": "1617201182.005500",
+        "thread_ts": "1617201130.005300",
+        "parent_user_id": "U01SJKB2MG8",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "girl-grin",
+                "users": [
+                    "U01SJKB2MG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5d5fde8-3438-4c6b-a54c-6c9fc0ce7717",
+        "type": "message",
+        "text": "and without `re` ? :slightly_smiling_face:",
+        "user": "U01SJKB2MG8",
+        "ts": "1617201706.006100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q\/qG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and without "
+                            },
+                            {
+                                "type": "text",
+                                "text": "re",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617201130.005300",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "08d9a59a-ea42-47b7-961b-608124e5a409",
+        "type": "message",
+        "text": "Can I solve this with one for loop and 6 'OR' in a conditional statement?",
+        "user": "U01S7BM4N81",
+        "ts": "1617201720.006300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3NHmB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I solve this with one for loop and 6 'OR' in a conditional statement?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617201130.005300",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "854cea3f-7539-445e-9163-2e1754da7f70",
+        "type": "message",
+        "text": "technically possible, yes",
+        "user": "U01SJKB2MG8",
+        "ts": "1617201742.006500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NWT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "technically possible, yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617201130.005300",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "8f616f2d-ae70-4c96-a47f-1298dbf785a4",
+        "type": "message",
+        "text": "string.contains :man-facepalming:",
+        "user": "U01S7BM4N81",
+        "ts": "1617201746.006700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4WI=q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "string.contains "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-facepalming"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617201130.005300",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "d6cac4aa-954b-4b1a-83ab-1514588e122c",
+        "type": "message",
+        "text": "def disemvowel(string):\n    string == 'x'\n    newstr = string\n    vowels = ('a', 'e', 'i', 'o', 'u', \"A\", \"E\", \"I\", \"O\", \"U\")\n    for x in string:\n          if x in vowels:\n            newstr = newstr.replace(x,\"\")\n    return (newstr)",
+        "user": "U01RRV4JX6Z",
+        "ts": "1617202023.007300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OvS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "def disemvowel(string):\n    string == 'x'\n    newstr = string\n    vowels = ('a', 'e', 'i', 'o', 'u', \"A\", \"E\", \"I\", \"O\", \"U\")\n    for x in string:\n          if x in vowels:\n            newstr = newstr.replace(x,\"\")\n    return (newstr)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617201130.005300",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "95cc6714-2174-43a3-9b1c-bef5ab11258b",
+        "type": "message",
+        "text": "```def disemvowel(string):\n    vowels = ('a', 'e', 'i', 'o', 'u','A','E','I','O','U')\n    for letter in string:\n        if letter in vowels:\n            string = string.replace(letter,\"\")\n    return string```\n",
+        "user": "U01S0E0MRJ7",
+        "ts": "1617202081.007500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IA8",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "def disemvowel(string):\n    vowels = ('a', 'e', 'i', 'o', 'u','A','E','I','O','U')\n    for letter in string:\n        if letter in vowels:\n            string = string.replace(letter,\"\")\n    return string"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617201130.005300",
+        "parent_user_id": "U01SJKB2MG8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RRV4JX6Z",
+                    "U01S7BM4N81"
+                ],
+                "count": 2
+            },
+            {
+                "name": "catjam",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e93be08d-ca3a-4eba-8232-2cf726cb0202",
+        "type": "message",
+        "text": "slight improvement Davis to save you typing capitals\ndef disemvowel(string):\n    vowels = (‘a’, ‘e’, ‘i’, ‘o’, ‘u’)\n    for letter in string:\n        if letter.lower() in vowels:\n            string = string.replace(letter,“”)\n    return string",
+        "user": "U01RW140HBP",
+        "ts": "1617203064.008400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h\/Sze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slight improvement Davis to save you typing capitals\ndef disemvowel(string):\n    vowels = (‘a’, ‘e’, ‘i’, ‘o’, ‘u’)\n    for letter in string:\n        if letter.lower() in vowels:\n            string = string.replace(letter,“”)\n    return string"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617201130.005300",
+        "parent_user_id": "U01SJKB2MG8",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01S0E0MRJ7",
+                    "U01SJKB2MG8"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

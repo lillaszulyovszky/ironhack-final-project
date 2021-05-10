@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "c777f65a-139f-42fc-b454-4de97cc3eee2",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=CAyWN9ba9J8>",
+        "user": "U01S7BM4N81",
+        "ts": "1617045897.003500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "The Kiffness - Ievan Polkka ft. Bilal Göregen (Club Remix) [Official Video]",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=CAyWN9ba9J8",
+                "author_name": "The Kiffness",
+                "author_link": "https:\/\/www.youtube.com\/user\/kiffnessTV",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/CAyWN9ba9J8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: The Kiffness - Ievan Polkka ft. Bilal Göregen (Club Remix) [Official Video]",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/CAyWN9ba9J8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=CAyWN9ba9J8",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=CAyWN9ba9J8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8jZS8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=CAyWN9ba9J8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "catjam",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

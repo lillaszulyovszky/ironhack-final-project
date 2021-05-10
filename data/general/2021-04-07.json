@@ -1,0 +1,388 @@
+[
+    {
+        "type": "message",
+        "text": "Hi all, hope you’re having a fun MySQL filled afternoon. To follow up on this mornings lecture:\n• some nice window function examples <https:\/\/learnsql.com\/blog\/mysql-window-functions-examples\/|here>, that <https:\/\/learnsql.com\/blog\/sql-window-functions-cheat-sheet\/Window_Functions_Cheat_Sheet.pdf|cheat sheet> i showed you if you didnt manage to get hold of it\n• a clarification of the datediff mysql syntax - I was definitely getting confused between the syntax of MySQL and Tableau earlier",
+        "files": [
+            {
+                "id": "F01TFD685GV",
+                "created": 1617805109,
+                "timestamp": 1617805109,
+                "name": "datediff.sql",
+                "title": "datediff.sql",
+                "mimetype": "text\/plain",
+                "filetype": "sql",
+                "pretty_type": "SQL",
+                "user": "U01RW140HBP",
+                "editable": true,
+                "size": 499,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TFD685GV\/datediff.sql?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TFD685GV\/download\/datediff.sql?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F01TFD685GV\/datediff.sql",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TFD685GV-5a79157059",
+                "edit_link": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F01TFD685GV\/datediff.sql\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yXzxT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, hope you’re having a fun MySQL filled afternoon. To follow up on this mornings lecture:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "some nice window function examples "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/learnsql.com\/blog\/mysql-window-functions-examples\/",
+                                        "text": "here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", that "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/learnsql.com\/blog\/sql-window-functions-cheat-sheet\/Window_Functions_Cheat_Sheet.pdf",
+                                        "text": "cheat sheet"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " i showed you if you didnt manage to get hold of it"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "a clarification of the datediff mysql syntax - I was definitely getting confused between the syntax of MySQL and Tableau earlier"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1617805152.003300",
+        "reactions": [
+            {
+                "name": "matrix_code",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "catjam",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01RP2K1606"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a95ead4-bc2c-4bcf-a40d-761b8da5a155",
+        "type": "message",
+        "text": "One of the most satisfying things there is is when a code finally works :)",
+        "user": "U01RRV4JX6Z",
+        "ts": "1617808022.004100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mVT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One of the most satisfying things there is is when a code finally works :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617808022.004100",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1617813783.005400",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01S7KCL3DF",
+            "U01RRV4JX6Z"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617808054.004500"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617809322.005000"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1617813783.005400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S7BM4N81",
+                    "U01RW140HBP",
+                    "U01SD3CDH9P",
+                    "U01RN7BVD1C",
+                    "U01RSRE0N3D",
+                    "U01S0P26NKD",
+                    "U01RP2K1606"
+                ],
+                "count": 7
+            },
+            {
+                "name": "laughing",
+                "users": [
+                    "U01S133DZ9A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "awwww yeah",
+        "user": "U01S7BM4N81",
+        "ts": "1617808054.004500",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "RywVV",
+                "image_url": "https:\/\/media4.giphy.com\/media\/whoUqPjdyoM1NJ84Z0\/giphy-downsized.gif?cid=6104955e1b2a67a2bb153ebc73b882e1ffb769ec7652647b&rid=giphy-downsized.gif&ct=g",
+                "alt_text": "awwww yeah",
+                "title": {
+                    "type": "plain_text",
+                    "text": "awwww yeah",
+                    "emoji": true
+                },
+                "fallback": "480x270px image",
+                "image_width": 480,
+                "image_height": 270,
+                "image_bytes": 1388498,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "tbhKl",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/BethanyLutheran\/|Bethany Lutheran College>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617808022.004100",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "yes yes yes",
+        "user": "U01S7KCL3DF",
+        "ts": "1617809322.005000",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "\/lVrc",
+                "image_url": "https:\/\/media2.giphy.com\/media\/dYZuqJLDVsWMLWyIxJ\/giphy.gif?cid=6104955ebd3592516aaf47cb2a6d1bfa5ccbd55296e48ec4&rid=giphy.gif&ct=g",
+                "alt_text": "yes yes yes",
+                "title": {
+                    "type": "plain_text",
+                    "text": "yes yes yes",
+                    "emoji": true
+                },
+                "fallback": "342x214px image",
+                "image_width": 342,
+                "image_height": 214,
+                "image_bytes": 1880518,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "eSHp",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617808022.004100",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01T4GDLWQP",
+                "created": 1617813773,
+                "timestamp": 1617813773,
+                "name": "YQ3zao.gif",
+                "title": "YQ3zao.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U01RRV4JX6Z",
+                "editable": false,
+                "size": 1845825,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T4GDLWQP\/yq3zao.gif?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T4GDLWQP\/download\/yq3zao.gif?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T4GDLWQP-82f3e34820\/yq3zao_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T4GDLWQP-82f3e34820\/yq3zao_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T4GDLWQP-82f3e34820\/yq3zao_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T4GDLWQP-82f3e34820\/yq3zao_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T4GDLWQP-82f3e34820\/yq3zao_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T4GDLWQP-82f3e34820\/yq3zao_360.gif?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_gif": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T4GDLWQP-82f3e34820\/yq3zao_480.gif?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 480,
+                "original_h": 270,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T4GDLWQP-82f3e34820\/yq3zao_deanimate.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T4GDLWQP-82f3e34820\/yq3zao_deanimate_gif.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_tiny": "AwAbADCuVGOc4FGxRn2NaBkhVVYoMN0+WjzYR\/yz59NtOzHzR7FAICSqg9OabtHmAdqvSOjDKqVI4IxikjnLSEeVkYz05pDunrYpgL1HpmkKjIx6VrrgqDtxnsRSSMI03bc\/SnYTasNMIKRoDhUOfrTWtwzlmfqc4qrRS5yNB88ZiVG37gDjGKjTzJJADuRD6CrdmowxxznrVhun1NG+paegwYAAyOPemyAOhXdjNUiBk0mBS5ibn\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RRV4JX6Z\/F01T4GDLWQP\/yq3zao.gif",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01T4GDLWQP-4a7002e3d8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2E7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "user": "U01RRV4JX6Z",
+        "display_as_bot": false,
+        "ts": "1617813783.005400",
+        "client_msg_id": "a1a50266-948c-456c-aa22-9732f41a71d7",
+        "thread_ts": "1617808022.004100",
+        "parent_user_id": "U01RRV4JX6Z"
+    }
+]

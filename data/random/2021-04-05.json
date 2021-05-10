@@ -1,0 +1,488 @@
+[
+    {
+        "client_msg_id": "b8ca688f-fe9d-4dac-b017-992a37337fd2",
+        "type": "message",
+        "text": ":goat: ahh it's on Amazon Prime USA, not sure about in Europe. Hmmm :thinking_face:\n\n<https:\/\/www.amazon.com\/Bad-Lucky-Goat-Honlenny-Huffington\/dp\/B075RQF4K1>",
+        "user": "U01S7KCL3DF",
+        "ts": "1617622721.000500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WOO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "goat"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ahh it's on Amazon Prime USA, not sure about in Europe. Hmmm "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.com\/Bad-Lucky-Goat-Honlenny-Huffington\/dp\/B075RQF4K1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02855C83-650A-4BF1-A343-550CA8ADBF55",
+        "type": "message",
+        "text": "Hail in Berlin friedrichshain in April ",
+        "user": "U01S7BM4N81",
+        "ts": "1617624478.000900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7BM4N81",
+            "ts": "1617624495.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ajc9l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hail in Berlin friedrichshain in April "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01T9PMT1FC",
+                "created": 1617624488,
+                "timestamp": 1617624488,
+                "name": "Bild von iOS.MOV",
+                "title": "Bild von iOS",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "U01S7BM4N81",
+                "editable": false,
+                "size": 11848977,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T9PMT1FC\/bild_von_ios.mov?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T9PMT1FC\/download\/bild_von_ios.mov?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T9PMT1FC-75baef5c63\/bild_von_ios_thumb_video.jpeg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7BM4N81\/F01T9PMT1FC\/bild_von_ios.mov",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01T9PMT1FC-04d07eebb1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XELwA",
+                "elements": []
+            }
+        ],
+        "user": "U01S7BM4N81",
+        "display_as_bot": false,
+        "ts": "1617624500.001100",
+        "client_msg_id": "618BC839-D5C9-46DA-9D71-CF939EFF7296",
+        "thread_ts": "1617624500.001100",
+        "reply_count": 12,
+        "reply_users_count": 3,
+        "latest_reply": "1617721956.003900",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01S7BM4N81",
+            "U01S79YDELR"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617626111.001200"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617626531.001400"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617632974.001600"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617632993.001800"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617633202.002000"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617633430.002300"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617705378.000100"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617707220.000300"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617714966.003100"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617716580.003300"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617717658.003500"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617721956.003900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f240e7d4-f292-4f7b-ad5a-0013662c0d88",
+        "type": "message",
+        "text": "that hail was snow up in P'berg :crying_cat_face:",
+        "user": "U01S7KCL3DF",
+        "ts": "1617626111.001200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iKQE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that hail was snow up in P'berg "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crying_cat_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617624500.001100",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "a71c2e33-e048-495c-9009-98d318cf840d",
+        "type": "message",
+        "text": "crazy how we have different weather zones within 15 kilometres here in berlin :smile:",
+        "user": "U01S7BM4N81",
+        "ts": "1617626531.001400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nns\/2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "crazy how we have different weather zones within 15 kilometres here in berlin "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617624500.001100",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "866c6a59-d983-4f7c-8cb0-9e1a614186cf",
+        "type": "message",
+        "text": "the crazy April weather. Sunny 10 minutes later.",
+        "user": "U01S79YDELR",
+        "ts": "1617632974.001600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xDXa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the crazy April weather. Sunny 10 minutes later."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617624500.001100",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "49fb750a-4885-40b0-8422-e0ec4b84eebf",
+        "type": "message",
+        "text": "I had the same in Mitte",
+        "user": "U01S79YDELR",
+        "ts": "1617632993.001800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aslTP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had the same in Mitte"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617624500.001100",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01T3CAU03G",
+                "created": 1617633198,
+                "timestamp": 1617633198,
+                "name": "Screenshot 2021-04-05 at 16.33.05.png",
+                "title": "Screenshot 2021-04-05 at 16.33.05.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7KCL3DF",
+                "editable": false,
+                "size": 231805,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T3CAU03G\/screenshot_2021-04-05_at_16.33.05.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T3CAU03G\/download\/screenshot_2021-04-05_at_16.33.05.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T3CAU03G-048c2ac138\/screenshot_2021-04-05_at_16.33.05_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T3CAU03G-048c2ac138\/screenshot_2021-04-05_at_16.33.05_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T3CAU03G-048c2ac138\/screenshot_2021-04-05_at_16.33.05_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 345,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T3CAU03G-048c2ac138\/screenshot_2021-04-05_at_16.33.05_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 460,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T3CAU03G-048c2ac138\/screenshot_2021-04-05_at_16.33.05_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T3CAU03G-048c2ac138\/screenshot_2021-04-05_at_16.33.05_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 691,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T3CAU03G-048c2ac138\/screenshot_2021-04-05_at_16.33.05_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 767,
+                "original_w": 906,
+                "original_h": 869,
+                "thumb_tiny": "AwAuADDSw2fvcfSkw\/8AeH5UjZz\/ABfgaUMRxtagAw394flThnHJyaKKACiiigCN8budv4nFJwey\/wDfVOY\/NyeP92m59W\/8doAVWwQvyj0G6pKqx2YidnhYKScjIz+H\/wCqpgZdhyiBu2GyDQBJRUe6Xj92vv8ANQGl3YKLjPXdQArZz0b8DQATkEsPxoK5bkDFLsX0oAULg5yTS0gUL0FLQAUUUUAf\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7KCL3DF\/F01T3CAU03G\/screenshot_2021-04-05_at_16.33.05.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01T3CAU03G-b78b875212",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01S7KCL3DF",
+        "display_as_bot": false,
+        "ts": "1617633202.002000",
+        "thread_ts": "1617624500.001100",
+        "parent_user_id": "U01S7BM4N81",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ce4ae49-929f-4f9c-8ea8-51797f6dbbb1",
+        "type": "message",
+        "text": "False Fall got me :smile:",
+        "user": "U01S7BM4N81",
+        "ts": "1617633430.002300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VplF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "False Fall got me "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617624500.001100",
+        "parent_user_id": "U01S7BM4N81"
+    }
+]

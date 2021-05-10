@@ -1,0 +1,560 @@
+[
+    {
+        "client_msg_id": "8cdd35f2-2e37-4a34-937a-5ee1b8ba5cb9",
+        "type": "message",
+        "text": "Are yesterdays recordings gonna be online soon? :grimacing: <@U01RSRE0N3D> <@U01SJKB2MG8> ",
+        "user": "U01S65G72SY",
+        "ts": "1617435581.001400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S65G72SY",
+            "ts": "1617443503.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fXG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are yesterdays recordings gonna be online soon? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RSRE0N3D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617435581.001400",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1617694611.003600",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01S65G72SY",
+            "U01S081EULS",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617447757.002800"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617447839.003100"
+            },
+            {
+                "user": "U01S65G72SY",
+                "ts": "1617447891.003400"
+            },
+            {
+                "user": "U01S081EULS",
+                "ts": "1617465269.003700"
+            },
+            {
+                "user": "U01S081EULS",
+                "ts": "1617691184.002300"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1617694611.003600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617694611.003600",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01S1CWGTU4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3dc0ef40-dbe5-470a-bd44-d20eed81f17e",
+        "type": "message",
+        "text": "Hi Karina, I can help you, if you still need help. You can direct message me the letter. xx",
+        "user": "U01S65G72SY",
+        "ts": "1617435641.001500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bXIkS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Karina, I can help you, if you still need help. You can direct message me the letter. xx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617379923.023200",
+        "parent_user_id": "U01S79YDELR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1eedfacc-a44a-454c-9716-3ff9b6d9cb44",
+        "type": "message",
+        "text": "Hey <@U01S7BM4N81>, you said you wanted to check out econometrics. I recommend you to download Gretl and play around with the .csv files we have.",
+        "user": "U01RRV4JX6Z",
+        "ts": "1617445110.002000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xuFWY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S7BM4N81"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", you said you wanted to check out econometrics. I recommend you to download Gretl and play around with the .csv files we have."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617371540.019200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "65521bd3-764b-4c53-bba2-ba64a2d5db64",
+        "type": "message",
+        "text": "Good criteria to check out the robustness of the models is to look at the asteriks of each variable. The more asterisks, the lower the p-value and the larger the probability that that independent varible explains the dependent one.",
+        "user": "U01RRV4JX6Z",
+        "ts": "1617445269.002200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xji",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good criteria to check out the robustness of the models is to look at the asteriks of each variable. The more asterisks, the lower the p-value and the larger the probability that that independent varible explains the dependent one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617371540.019200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "6f7cb564-53bd-4365-a6f2-62aeace3cee0",
+        "type": "message",
+        "text": "Also take a look at the f statistic. The higher the better. It tells you if all the variables, as a group, fit well together to explain the dependent variable.",
+        "user": "U01RRV4JX6Z",
+        "ts": "1617445361.002400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=FF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also take a look at the f statistic. The higher the better. It tells you if all the variables, as a group, fit well together to explain the dependent variable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617371540.019200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "37e3128b-17fb-4348-b1e0-d831b98dad11",
+        "type": "message",
+        "text": "Amazing, thanks! I'll check it out this weekend",
+        "user": "U01S7BM4N81",
+        "ts": "1617445910.002600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5kz3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing, thanks! I'll check it out this weekend"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617371540.019200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "3de26eb2-c35d-480a-bf4b-b95bde0064a6",
+        "type": "message",
+        "text": "Hey <@U01S65G72SY> do you know where in general the recordings are? :see_no_evil:\n\ne.g. <https:\/\/www.notion.so\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&amp;p=cd347c74ccf64fa49d4be5ccbffed42a|Python fundamentals>?",
+        "user": "U01S7KCL3DF",
+        "ts": "1617447757.002800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Python fundamentals (the vanilla python)",
+                "title_link": "https:\/\/www.notion.so\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&p=cd347c74ccf64fa49d4be5ccbffed42a",
+                "text": "Kosta - python objects review - for \/while loops",
+                "fallback": "ironhack on Notion: Python fundamentals (the vanilla python)",
+                "from_url": "https:\/\/www.notion.so\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&p=cd347c74ccf64fa49d4be5ccbffed42a",
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&amp;p=cd347c74ccf64fa49d4be5ccbffed42a"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ch",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S65G72SY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you know where in general the recordings are? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\ne.g. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/d069723dff344c84a2671d31010d3c11?v=e92549911eb9432ba98ede76c4e86042&p=cd347c74ccf64fa49d4be5ccbffed42a",
+                                "text": "Python fundamentals"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617435581.001400",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "6c1f3ab0-d50a-4844-bdda-56cd7d7bfada",
+        "type": "message",
+        "text": "ahhh sorry now I see everything is in a separate place\n\n<https:\/\/www.notion.so\/a19c60daecc2460396bfd3e2f32ccd34?v=c9cfed266f074df580579b93192d0b96>",
+        "user": "U01S7KCL3DF",
+        "ts": "1617447839.003100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Classroom Recordings",
+                "title_link": "https:\/\/www.notion.so\/a19c60daecc2460396bfd3e2f32ccd34?v=c9cfed266f074df580579b93192d0b96",
+                "text": "A new tool for teams &amp; individuals that blends everyday work apps into one.",
+                "fallback": "ironhack on Notion: Classroom Recordings",
+                "from_url": "https:\/\/www.notion.so\/a19c60daecc2460396bfd3e2f32ccd34?v=c9cfed266f074df580579b93192d0b96",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/a19c60daecc2460396bfd3e2f32ccd34?v=c9cfed266f074df580579b93192d0b96"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VE8o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahhh sorry now I see everything is in a separate place\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/a19c60daecc2460396bfd3e2f32ccd34?v=c9cfed266f074df580579b93192d0b96"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617435581.001400",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "c126f336-8736-42f0-a302-720fdd43e235",
+        "type": "message",
+        "text": "Should be here: <https:\/\/www.notion.so\/a19c60daecc2460396bfd3e2f32ccd34?v=c9cfed266f074df580579b93192d0b96>",
+        "user": "U01S65G72SY",
+        "ts": "1617447891.003400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wn0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should be here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/a19c60daecc2460396bfd3e2f32ccd34?v=c9cfed266f074df580579b93192d0b96"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617435581.001400",
+        "parent_user_id": "U01S65G72SY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78b8e47c-398e-46ff-b2cf-ab8ce0d2a0fe",
+        "type": "message",
+        "text": "Do you guys know if the recording of Friday 1st of April class is already on Notion?",
+        "user": "U01S081EULS",
+        "ts": "1617465269.003700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RyPwF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you guys know if the recording of Friday 1st of April class is already on Notion?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617435581.001400",
+        "parent_user_id": "U01S65G72SY"
+    }
+]

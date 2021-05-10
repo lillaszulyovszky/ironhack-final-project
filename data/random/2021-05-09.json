@@ -1,0 +1,618 @@
+[
+    {
+        "type": "message",
+        "text": "<@U01S7BM4N81>",
+        "files": [
+            {
+                "id": "F021HK4BWG4",
+                "created": 1620544574,
+                "timestamp": 1620544574,
+                "name": "183377959_10159054739981648_1971860774749960978_n.jpg",
+                "title": "183377959_10159054739981648_1971860774749960978_n.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01RRV4JX6Z",
+                "editable": false,
+                "size": 104015,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021HK4BWG4\/183377959_10159054739981648_1971860774749960978_n.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021HK4BWG4\/download\/183377959_10159054739981648_1971860774749960978_n.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021HK4BWG4-262d60a601\/183377959_10159054739981648_1971860774749960978_n_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021HK4BWG4-262d60a601\/183377959_10159054739981648_1971860774749960978_n_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021HK4BWG4-262d60a601\/183377959_10159054739981648_1971860774749960978_n_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 300,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021HK4BWG4-262d60a601\/183377959_10159054739981648_1971860774749960978_n_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 399,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021HK4BWG4-262d60a601\/183377959_10159054739981648_1971860774749960978_n_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021HK4BWG4-262d60a601\/183377959_10159054739981648_1971860774749960978_n_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 599,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021HK4BWG4-262d60a601\/183377959_10159054739981648_1971860774749960978_n_800.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 962,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021HK4BWG4-262d60a601\/183377959_10159054739981648_1971860774749960978_n_960.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 799,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021HK4BWG4-262d60a601\/183377959_10159054739981648_1971860774749960978_n_1024.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 852,
+                "thumb_1024_h": 1024,
+                "original_w": 1010,
+                "original_h": 1214,
+                "thumb_tiny": "AwAwACd80kwlcK7YycYpDJN2d\/xq01rG7FjuyTnrUGy2HXf+fNTZmynEfbySFDuYk5qXe3qaiSSCJDtJI68\/5+lSLNEzBR1Jx0qkZSd3oSoSeop1GKKBCFc\/xEfSo32p3Ofwp7tsQt6CqEkvUk1MnbYaRY8wZ6H9Kkj2PyrHP4VniRj83b0qRZirBh2qVJrcdjQAx3J+tLQDkAjvRWhJHcAtA4HXFZLZZSF71tVQubNgxaEZB5K+n0pWKTKDOQoAJz3GKfuPTqegpfImJx5T5+lXLSyKOJJuo6L6UWHcuoNqKD2GKWiimQf\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RRV4JX6Z\/F021HK4BWG4\/183377959_10159054739981648_1971860774749960978_n.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F021HK4BWG4-7b368ad59c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p4HE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S7BM4N81"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RRV4JX6Z",
+        "display_as_bot": false,
+        "ts": "1620544577.000100",
+        "client_msg_id": "dd000aef-264c-4bd5-8426-e1e08552643b",
+        "thread_ts": "1620544577.000100",
+        "reply_count": 25,
+        "reply_users_count": 2,
+        "latest_reply": "1620634404.006500",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01RRV4JX6Z"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620545838.000200"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620555247.001300"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620555610.001500"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620555680.001700"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620555794.001900"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620556057.002100"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620579452.002400"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620630082.002900"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620632258.003100"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620632461.003400"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620632641.003700"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620632685.003900"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620632697.004100"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620632739.004300"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620632745.004500"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620632748.004700"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620632752.004900"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620632802.005100"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620633074.005300"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620633176.005500"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620633200.005700"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620633301.005900"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620633325.006100"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620633403.006300"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620634404.006500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0ad68149-64a1-454e-9e9c-6abf8c3d185c",
+        "type": "message",
+        "text": "decentralized (which is the original spirit of cryptocurrency) and gouvernment issued are so far away from another, I doubt they’ll succeed…",
+        "user": "U01S7BM4N81",
+        "ts": "1620545838.000200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fal",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "decentralized (which is the original spirit of cryptocurrency) and gouvernment issued are so far away from another, I doubt they’ll succeed…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620544577.000100",
+        "parent_user_id": "U01RRV4JX6Z",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U01S1CWGTU4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "leute we’re missing the bigger picture….Gold, Silver, Crypto….all so passé\n\nthe future is MANGOS (at least according to the ads that target me on facebook)",
+        "files": [
+            {
+                "id": "F0218DDJN7P",
+                "created": 1620549030,
+                "timestamp": 1620549030,
+                "name": "Screenshot 2021-05-09 at 10.29.35.png",
+                "title": "Screenshot 2021-05-09 at 10.29.35.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7KCL3DF",
+                "editable": false,
+                "size": 1299862,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0218DDJN7P\/screenshot_2021-05-09_at_10.29.35.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0218DDJN7P\/download\/screenshot_2021-05-09_at_10.29.35.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0218DDJN7P-2fe33dd4b9\/screenshot_2021-05-09_at_10.29.35_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0218DDJN7P-2fe33dd4b9\/screenshot_2021-05-09_at_10.29.35_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0218DDJN7P-2fe33dd4b9\/screenshot_2021-05-09_at_10.29.35_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 310,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0218DDJN7P-2fe33dd4b9\/screenshot_2021-05-09_at_10.29.35_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 413,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0218DDJN7P-2fe33dd4b9\/screenshot_2021-05-09_at_10.29.35_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0218DDJN7P-2fe33dd4b9\/screenshot_2021-05-09_at_10.29.35_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 620,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0218DDJN7P-2fe33dd4b9\/screenshot_2021-05-09_at_10.29.35_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 929,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0218DDJN7P-2fe33dd4b9\/screenshot_2021-05-09_at_10.29.35_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 827,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0218DDJN7P-2fe33dd4b9\/screenshot_2021-05-09_at_10.29.35_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 882,
+                "thumb_1024_h": 1024,
+                "original_w": 1042,
+                "original_h": 1210,
+                "thumb_tiny": "AwAwACm8W+Y\/Pxjpmjcv9\/8AUVmNEjzSliv3z1OO9NaBD910H1NK5PMa\/mJ6j8xS70\/vL+dYDqFYjIPuKdDC0z7VH1PpRcdzd3oejL+dGR6is8WgUnYei\/man2t6CkpJlWM+UkTy4cr8xphZscyEj60+TPny\/wC8aaTjqQKZA2KJpZAid+\/pWqkawRhUH\/16itkWGHdjLNycVIhZhucYJ6L6VlNmkVYULgdck1Jg+tM6\/WpPzqYDZjXH\/HxJ\/vGox1rXS1VXZ2jEjMSee3NQ3doGiMiRhHB6L3Fb2MrE6SCSP36EUtUreSSPh4nI9Qpq6rK44B\/EEVhKLNU0MllWPA6sTwKly3oKgeHNwj4PANWcVUEDP\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7KCL3DF\/F0218DDJN7P\/screenshot_2021-05-09_at_10.29.35.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F0218DDJN7P-a7d0a20268",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aFRzS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "leute we’re missing the bigger picture….Gold, Silver, Crypto….all so passé\n\nthe future is MANGOS (at least according to the ads that target me on facebook)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S7KCL3DF",
+        "display_as_bot": false,
+        "ts": "1620549086.000400",
+        "thread_ts": "1620369118.000900",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "579D4E6F-0E09-4FC7-A811-656CC403647F",
+        "type": "message",
+        "text": "Oooof how could I miss this?",
+        "user": "U01S7BM4N81",
+        "ts": "1620550901.001000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mgxv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oooof how could I miss this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620369118.000900",
+        "parent_user_id": "U01RN7BVD1C",
+        "reactions": [
+            {
+                "name": "stonks",
+                "users": [
+                    "U01S7KCL3DF",
+                    "U01SJKB2MG8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78e0293a-be09-4b28-bf3d-2f70ab3b48fb",
+        "type": "message",
+        "text": "I think it very much depends on the issuing country. While China has the power to make it work, Venezuela clearly doesn't",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620555247.001300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMH\/u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it very much depends on the issuing country. While China has the power to make it work, Venezuela clearly doesn't"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620544577.000100",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "9887053e-bf93-4b3e-be44-067f51b9cb5d",
+        "type": "message",
+        "text": "China issued a cryptocurrency (multiple ones, to be fair). The last one has a build in “devalue” function, where the money is worthless if you don’t spend it in x amount of time.\nGouvernments controlling our currency is the reason for so many economic problems, I honestly hope that the new version of money we are going to use get’s rid of these flaws.\nBuild in inflation mechnanisms and incentives to spend the money quickly and not save it, is definetly not what society needs",
+        "user": "U01S7BM4N81",
+        "ts": "1620555610.001500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7BM4N81",
+            "ts": "1620566650.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T3BK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "China issued a cryptocurrency (multiple ones, to be fair). The last one has a build in “devalue” function, where the money is worthless if you don’t spend it in x amount of time.\nGouvernments controlling our currency is the reason for so many economic problems, I honestly hope that the new version of money we are going to use get’s rid of these flaws.\nBuild in inflation mechnanisms and incentives to spend the money quickly and not save it, is definetly not what society needs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620544577.000100",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "0d040ae7-155d-42ab-8e25-33b51c34119c",
+        "type": "message",
+        "text": "And also definetly true what you say, but I wouldnt call it cryptourrency anymore, but electronic money.\nAnd we definetly need layer 2 money applications that scale quicker than bitcoin.\nI just hope we will get rid of one currency per country\/area but adopt one global solution",
+        "user": "U01S7BM4N81",
+        "ts": "1620555680.001700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uEeJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And also definetly true what you say, but I wouldnt call it cryptourrency anymore, but electronic money.\nAnd we definetly need layer 2 money applications that scale quicker than bitcoin.\nI just hope we will get rid of one currency per country\/area but adopt one global solution"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620544577.000100",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "3ca540a8-13a1-4a7f-b895-6409599bd3bc",
+        "type": "message",
+        "text": "I agree with you that this mechanism may be problematic. But it has been disproven that there is a sound correlation between government printing money and inflation.",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620555794.001900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+8EP0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with you that this mechanism may be problematic. But it has been disproven that there is a sound correlation between government printing money and inflation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620544577.000100",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "e037b4ff-1b71-43b1-8f24-bc5ace98b5a4",
+        "type": "message",
+        "text": "This is why economic orthodoxy moved from  Friedman to the new consensus macroeconomics\/DSGE models",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620556057.002100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yPjO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is why economic orthodoxy moved from  Friedman to the new consensus macroeconomics\/DSGE models"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620544577.000100",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "82641845-467b-4d57-bc97-796358b03136",
+        "type": "message",
+        "text": "Reflecting more about it, there is a reason why the Chinese force people to use it in a certain period of time. To be money, a given unit of account like salt, metal or whatever you want must satisfy several requirements. One of this is to be an effetive unit of account, in that its value does not oscillate wildly with time, like in a scenario of hyperinflation. In short, it must effectively guide expectations for the wide public. If the chinese criptocurrency works exactly like bitcoin it wont have this property, at least not for everyone. I guess forcing people to use it before a certain deadline is a form of stabilizing its value. But I agree with you that this does not make sense if the other objective is to make it attractive for the regular investor and thus grant it with liquidity, which is another one of the desirable properties of money. I guess that not only the Chinese, but also the Americans and the Europeans, which probably will experiment with this policy solution, will have to find an adequate mix here.. Its all about policy experimentation. But I'm quiet confident that this government-generated cryptocurrency is the future, because the state is the lender of last resort and the entity ultimately responsible for stabilizing expectations and the business cycle...",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620579452.002400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RRV4JX6Z",
+            "ts": "1620580604.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KZ6wG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reflecting more about it, there is a reason why the Chinese force people to use it in a certain period of time. To be money, a given unit of account like salt, metal or whatever you want must satisfy several requirements. One of this is to be an effetive unit of account, in that its value does not oscillate wildly with time, like in a scenario of hyperinflation. In short, it must effectively guide expectations for the wide public. If the chinese criptocurrency works exactly like bitcoin it wont have this property, at least not for everyone. I guess forcing people to use it before a certain deadline is a form of stabilizing its value. But I agree with you that this does not make sense if the other objective is to make it attractive for the regular investor and thus grant it with liquidity, which is another one of the desirable properties of money. I guess that not only the Chinese, but also the Americans and the Europeans, which probably will experiment with this policy solution, will have to find an adequate mix here.. Its all about policy experimentation. But I'm quiet confident that this government-generated cryptocurrency is the future, because the state is the lender of last resort and the entity ultimately responsible for stabilizing expectations and the business cycle..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620544577.000100",
+        "parent_user_id": "U01RRV4JX6Z"
+    }
+]

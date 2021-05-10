@@ -1,0 +1,151 @@
+[
+    {
+        "client_msg_id": "82f21067-1f05-413e-9d47-8413f76093d9",
+        "type": "message",
+        "text": "Good Morning <!channel> ! welcome to your first full project day!\n• break out rooms will be opened shortly on the zoom … \n• morning sunshine today in approx 5 mins, normally morning sunshine will be at 9:40 each morning this week\n• at 10am everyone please join their stand up calls with your assigned member of the teaching team- Kosta will meet his groups in breakout room 1, Flo in #2 and me in #3\n• If you have questions about the project  (and cannot find answers in the materials we have shared already) drop them on the lab-code help channel (<@U01RSRE0N3D> please can you rename to ‘project-help’ for this week :pray: ) \n• I wish you all a productive and challenging time but remember to take regular screen breaks ",
+        "user": "U01RW140HBP",
+        "ts": "1618815357.004400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1618815998.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ecm7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good Morning "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! welcome to your first full project day!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "break out rooms will be opened shortly on the zoom … "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "morning sunshine today in approx 5 mins, normally morning sunshine will be at 9:40 each morning this week"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "at 10am everyone please join their stand up calls with your assigned member of the teaching team- Kosta will meet his groups in breakout room 1, Flo in #2 and me in #3"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If you have questions about the project  (and cannot find answers in the materials we have shared already) drop them on the lab-code help channel ("
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01RSRE0N3D"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " please can you rename to ‘project-help’ for this week "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "pray"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I wish you all a productive and challenging time but remember to take regular screen breaks "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618815357.004400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1618818789.007100",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1618816397.004800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1618818789.007100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618818789.007100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01S1CWGTU4"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

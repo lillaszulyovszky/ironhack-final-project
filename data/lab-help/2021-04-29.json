@@ -1,0 +1,1491 @@
+[
+    {
+        "client_msg_id": "04376bec-5fb6-4c57-8a4e-1ca74e28f802",
+        "type": "message",
+        "text": "Hi, I’m stuck on a basic problem. I cannot import the csv. I included .0 and deleted spaces in excel. My problem now is that the excel save the csv with ; instead of comma . How can I fix this?",
+        "user": "U01S79YDELR",
+        "ts": "1619706852.002200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a\/lB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I’m stuck on a basic problem. I cannot import the csv. I included .0 and deleted spaces in excel. My problem now is that the excel save the csv with ; instead of comma . How can I fix this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619706852.002200",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1619706981.003600",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01RW140HBP",
+            "U01S79YDELR"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619706912.002400"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619706931.002600"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619706931.002800"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619706965.003200"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1619706967.003400"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1619706981.003600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b10aa007-cbb3-420e-87c6-fb9dbf840c1a",
+        "type": "message",
+        "text": "<https:\/\/thispointer.com\/pandas-read-csv-file-to-dataframe-with-custom-delimiter-in-python\/>",
+        "user": "U01S7BM4N81",
+        "ts": "1619706912.002400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IQjcK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/thispointer.com\/pandas-read-csv-file-to-dataframe-with-custom-delimiter-in-python\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619706852.002200",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "05f96c4a-f6ad-4ada-b1d4-39101badabd6",
+        "type": "message",
+        "text": "thats what i was going to say - darn youre fast thamo :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1619706931.002600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ggLh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thats what i was going to say - darn youre fast thamo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619706852.002200",
+        "parent_user_id": "U01S79YDELR",
+        "reactions": [
+            {
+                "name": "fast_parrot",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fde40852-596a-4fec-a1f6-54e777d982dc",
+        "type": "message",
+        "text": "you can change the delimiter in pandas.read_csv, see link above :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1619706931.002800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j3l5c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can change the delimiter in pandas.read_csv, see link above "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619706852.002200",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "flash",
+        "user": "U01S7BM4N81",
+        "ts": "1619706965.003200",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "3gf1U",
+                "image_url": "https:\/\/media3.giphy.com\/media\/xUOxeZUc8UFwMgH2MM\/giphy-downsized.gif?cid=6104955ebcff8648987c1e67c85700e49c263aefe2894781&rid=giphy-downsized.gif&ct=g&cid=6104955ebcff8648987c1e67c85700e49c263aefe2894781&rid=giphy-downsized.gif&ct=g",
+                "alt_text": "flash",
+                "title": {
+                    "type": "plain_text",
+                    "text": "flash",
+                    "emoji": true
+                },
+                "fallback": "250x250px image",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 1630738,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "\/d3Nb",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/foxnederland\/|FOX Nederland &amp; België>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619706852.002200",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "fab23a07-bbb2-463c-b7ed-07e611aaf95f",
+        "type": "message",
+        "text": "thanks you 2 :slightly_smiling_face:",
+        "user": "U01S79YDELR",
+        "ts": "1619706967.003400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oZFnF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks you 2 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619706852.002200",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "2e1f7ca2-936c-4206-a64a-f5b48906c5ff",
+        "type": "message",
+        "text": "Thamo is really fast",
+        "user": "U01S79YDELR",
+        "ts": "1619706981.003600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gAiV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thamo is really fast"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619706852.002200",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "a2e63bf6-6d20-4fdd-b20d-b37303dceca0",
+        "type": "message",
+        "text": "Why is the critical value sometimes positive and sometimes negative?",
+        "user": "U01S7BM4N81",
+        "ts": "1619711912.004200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JtIB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why is the critical value sometimes positive and sometimes negative?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619711912.004200",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1619712453.006900",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01S7BM4N81",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619711947.004300"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619712020.005000"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619712063.005200"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619712098.005400"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619712137.005600"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619712140.005800"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619712146.006000"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619712162.006300"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619712200.006500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619712453.006900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f8b31af3-6743-4711-b2cc-706218a1fdf2",
+        "type": "message",
+        "text": "i think it just depends on which one of the groups you put in front, you have to use the absolute value to compare it to your p-value",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619711947.004300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW2X7S9Z",
+            "ts": "1619711954.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8G54",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think it just depends on which one of the groups you put in front, you have to use the absolute value to compare it to your p-value"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619711912.004200",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "type": "message",
+        "text": "This is particularly confusing me - why is this critical vlaue higher, when it’s clearly lower, indicated by the fact that it’s negative number? Or is this a typo? <@U01RW140HBP> :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F020CC4UJJ1",
+                "created": 1619711981,
+                "timestamp": 1619711981,
+                "name": "Bildschirmfoto 2021-04-29 um 17.59.13.png",
+                "title": "Bildschirmfoto 2021-04-29 um 17.59.13.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7BM4N81",
+                "editable": false,
+                "size": 119122,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020CC4UJJ1\/bildschirmfoto_2021-04-29_um_17.59.13.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020CC4UJJ1\/download\/bildschirmfoto_2021-04-29_um_17.59.13.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020CC4UJJ1-1be6d18e9b\/bildschirmfoto_2021-04-29_um_17.59.13_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020CC4UJJ1-1be6d18e9b\/bildschirmfoto_2021-04-29_um_17.59.13_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020CC4UJJ1-1be6d18e9b\/bildschirmfoto_2021-04-29_um_17.59.13_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 188,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020CC4UJJ1-1be6d18e9b\/bildschirmfoto_2021-04-29_um_17.59.13_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 251,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020CC4UJJ1-1be6d18e9b\/bildschirmfoto_2021-04-29_um_17.59.13_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020CC4UJJ1-1be6d18e9b\/bildschirmfoto_2021-04-29_um_17.59.13_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 376,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020CC4UJJ1-1be6d18e9b\/bildschirmfoto_2021-04-29_um_17.59.13_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 418,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020CC4UJJ1-1be6d18e9b\/bildschirmfoto_2021-04-29_um_17.59.13_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 501,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020CC4UJJ1-1be6d18e9b\/bildschirmfoto_2021-04-29_um_17.59.13_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 535,
+                "original_w": 1205,
+                "original_h": 629,
+                "thumb_tiny": "AwAZADDRcnjnFHPqf0obJ6Y\/Gk59RQAvPqf0o59T+lHPqKPxFABz6mlH50c+1Ic0ADe9ICB2p9FADdw9P1o3D0\/WnUUAICDQRS0lAH\/\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7BM4N81\/F020CC4UJJ1\/bildschirmfoto_2021-04-29_um_17.59.13.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020CC4UJJ1-ba0c7b6514",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y2g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is particularly confusing me - why is this critical vlaue higher, when it’s clearly lower, indicated by the fact that it’s negative number? Or is this a typo? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RW140HBP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S7BM4N81",
+        "display_as_bot": false,
+        "ts": "1619712020.005000",
+        "thread_ts": "1619711912.004200",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "ce5806a3-6991-451a-b7b9-6c02ac30d8a6",
+        "type": "message",
+        "text": "<@U01RW2X7S9Z> I am not sure I understand, can you make an example please? :slightly_smiling_face:\nThanks!",
+        "user": "U01S7BM4N81",
+        "ts": "1619712063.005200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eqv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RW2X7S9Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am not sure I understand, can you make an example please? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619711912.004200",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F020CCJMKT7",
+                "created": 1619712077,
+                "timestamp": 1619712077,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 4905,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020CCJMKT7\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020CCJMKT7\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020CCJMKT7-805dc2e63e\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020CCJMKT7-805dc2e63e\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020CCJMKT7-805dc2e63e\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 80,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020CCJMKT7-805dc2e63e\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 418,
+                "original_h": 93,
+                "thumb_tiny": "AwAKADDQ6Hp+tAwev86fgegpMD0FACBR6UbR6U6igBu0elLjnNLRQB\/\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F020CCJMKT7\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020CCJMKT7-e98703e910",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F020MKNTCBW",
+                "created": 1619712095,
+                "timestamp": 1619712095,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 4816,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020MKNTCBW\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020MKNTCBW\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020MKNTCBW-21084b5512\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020MKNTCBW-21084b5512\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020MKNTCBW-21084b5512\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 79,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020MKNTCBW-21084b5512\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 414,
+                "original_h": 91,
+                "thumb_tiny": "AwAKADDQ79P1oGCeQPzp+B6Ck2j0FACBR2FG0ZzinUUAN2j0pcc5xS0UAf\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F020MKNTCBW\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020MKNTCBW-97d6d245f1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RW2X7S9Z",
+        "ts": "1619712098.005400",
+        "thread_ts": "1619711912.004200",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "9719d638-dbef-4307-9d63-cfad346aa4ef",
+        "type": "message",
+        "text": "alright, that means I can ignore the fact it’s a positive or negative number and just compare the numbers?",
+        "user": "U01S7BM4N81",
+        "ts": "1619712137.005600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TCG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alright, that means I can ignore the fact it’s a positive or negative number and just compare the numbers?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619711912.004200",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "602df262-8b7e-487c-934a-13662f010f59",
+        "type": "message",
+        "text": "its more clear when you compare two samples, when the mean of one is bigger than the other, itll be negative depending who gets in front",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619712140.005800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ZN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its more clear when you compare two samples, when the mean of one is bigger than the other, itll be negative depending who gets in front"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619711912.004200",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "2f66cd01-3101-4fab-890b-aedfc115dfe5",
+        "type": "message",
+        "text": "yea, you use the absolute value of it to compare",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619712146.006000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lVql",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea, you use the absolute value of it to compare"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619711912.004200",
+        "parent_user_id": "U01S7BM4N81",
+        "reactions": [
+            {
+                "name": "fast_parrot",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e933fa68-95f1-4981-bf48-16adee6da033",
+        "type": "message",
+        "text": "Got it, thank you! Very helpful",
+        "user": "U01S7BM4N81",
+        "ts": "1619712162.006300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=qn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it, thank you! Very helpful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619711912.004200",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "4703e7ca-97c6-4fc6-9e8b-6003963a6b8c",
+        "type": "message",
+        "text": "no prob, is more confusing when using the mean of the population because you dont put it in a certain order, so if the pop mean is bigger than the sample, or the other way around, youll have a positive or negative t-value",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619712200.006500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW2X7S9Z",
+            "ts": "1619712210.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "viG8c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no prob, is more confusing when using the mean of the population because you dont put it in a certain order, so if the pop mean is bigger than the sample, or the other way around, youll have a positive or negative t-value"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619711912.004200",
+        "parent_user_id": "U01S7BM4N81",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cef4b7b2-0159-4693-9cdb-908d0bda4164",
+        "type": "message",
+        "text": "you can use this calculator to plug a few numbers in and calculate the t statistic <https:\/\/www.omnicalculator.com\/statistics\/t-test>",
+        "user": "U01RW140HBP",
+        "ts": "1619712453.006900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "t-test Calculator | Formula | p-value",
+                "title_link": "https:\/\/www.omnicalculator.com\/statistics\/t-test",
+                "text": "t-test calculator performs all kinds of t-tests: one-sample, two-sample, and paired.",
+                "fallback": "t-test Calculator | Formula | p-value",
+                "image_url": "https:\/\/og-imgs.omnicalculator.com\/calculator\/1761\/dC10ZXN0IENhbGN1bGF0b3I.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/www.omnicalculator.com\/statistics\/t-test",
+                "image_bytes": 149500,
+                "service_icon": "https:\/\/www.omnicalculator.com\/assets\/favicons\/apple-touch-icon-ac57bcf5e5.png",
+                "service_name": "omnicalculator.com",
+                "id": 1,
+                "original_url": "https:\/\/www.omnicalculator.com\/statistics\/t-test"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X4u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can use this calculator to plug a few numbers in and calculate the t statistic "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.omnicalculator.com\/statistics\/t-test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619711912.004200",
+        "parent_user_id": "U01S7BM4N81",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68cf0ce7-6046-4fbe-85c0-6b68a26f782c",
+        "type": "message",
+        "text": "<@U01RW140HBP> if time allows tomorrow morning, pretty pleeeeeease let us go through the mandatory lab from today.\nI did calculate everything, but I'm not sure if I made the correct assumptions in the end. :confused-chloe:",
+        "user": "U01RN7BVD1C",
+        "ts": "1619713724.009000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sohqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RW140HBP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if time allows tomorrow morning, pretty pleeeeeease let us go through the mandatory lab from today.\nI did calculate everything, but I'm not sure if I made the correct assumptions in the end. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused-chloe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619713724.009000",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1619765681.014800",
+        "reply_users": [
+            "U01RN7BVD1C",
+            "U01S7BM4N81",
+            "U01RW2X7S9Z",
+            "U01RXCQHMHT"
+        ],
+        "replies": [
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619713802.009300"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619713857.009500"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619713894.009800"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619714433.010700"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619714457.010900"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1619714503.011100"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619765681.014800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RW140HBP",
+                    "U01S133DZ9A",
+                    "U01S7KCL3DF",
+                    "U01S7BM4N81",
+                    "U01RXCQHMHT",
+                    "U01S79YDELR",
+                    "U01S0E0MRJ7"
+                ],
+                "count": 7
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U01RW140HBP",
+                    "U01RXCQHMHT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U01RP2K1606",
+                    "U01S7BM4N81"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e7a582d-45e5-441a-8c61-6ff04eedfdd1",
+        "type": "message",
+        "text": "still a little lost on p value and one tail and two tails and significance levels  for both etc hahaha\nI read all respurces provided but that confused me even more",
+        "user": "U01RN7BVD1C",
+        "ts": "1619713802.009300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V4i1F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "still a little lost on p value and one tail and two tails and significance levels  for both etc hahaha\nI read all respurces provided but that confused me even more"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619713724.009000",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "b26c8c99-ee0c-44ab-a2af-6f4e371615b7",
+        "type": "message",
+        "text": "Welcome to the club, I was starting to wonder if it is me :smile: Quite a few new concepts to wrap the head around…would be great to recap this!",
+        "user": "U01S7BM4N81",
+        "ts": "1619713857.009500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=pw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to the club, I was starting to wonder if it is me "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Quite a few new concepts to wrap the head around…would be great to recap this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619713724.009000",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "confusion",
+        "user": "U01S7BM4N81",
+        "ts": "1619713894.009800",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "ooJ",
+                "image_url": "https:\/\/media3.giphy.com\/media\/xL7PDV9frcudO\/giphy.gif?cid=6104955e611a788a1df3bd06c4050cad8260f59850daa898&rid=giphy.gif&ct=g&cid=6104955e611a788a1df3bd06c4050cad8260f59850daa898&rid=giphy.gif&ct=g",
+                "alt_text": "confusion",
+                "title": {
+                    "type": "plain_text",
+                    "text": "confusion",
+                    "emoji": true
+                },
+                "fallback": "268x274px image",
+                "image_width": 268,
+                "image_height": 274,
+                "image_bytes": 1079510,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "abM9",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619713724.009000",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "6eb06921-35d9-48e3-a1f6-d17c9295cc60",
+        "type": "message",
+        "text": "recommend to follow dr nic on youtube xD",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619714433.010700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7R5e+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "recommend to follow dr nic on youtube xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619713724.009000",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "0be5e884-5949-43fa-ae1e-3aa4db0ff074",
+        "type": "message",
+        "text": "even that way, it's very confusing :excuse_me:",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619714457.010900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vKO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "even that way, it's very confusing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "excuse_me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619713724.009000",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "2e161f35-7144-4c60-9e27-71016a63f004",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=VK-rnA3-41c>\n\nthis might be good?",
+        "user": "U01RXCQHMHT",
+        "ts": "1619714503.011100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Intro to Hypothesis Testing in Statistics - Hypothesis Testing Statistics Problems &amp; Examples",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=VK-rnA3-41c",
+                "author_name": "Math and Science",
+                "author_link": "https:\/\/www.youtube.com\/user\/mathtutordvd",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/VK-rnA3-41c\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Intro to Hypothesis Testing in Statistics - Hypothesis Testing Statistics Problems & Examples",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/VK-rnA3-41c?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=VK-rnA3-41c",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=VK-rnA3-41c"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I2I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=VK-rnA3-41c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nthis might be good?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619713724.009000",
+        "parent_user_id": "U01RN7BVD1C",
+        "reactions": [
+            {
+                "name": "giphy",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "132b757e-1c4f-4dcf-9212-04a6d62226cc",
+        "type": "message",
+        "text": "Tony coming in again with his :ok_hand: youtube tutorials! Thanks :slightly_smiling_face: great help aready",
+        "user": "U01RN7BVD1C",
+        "ts": "1619765681.014800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ses",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tony coming in again with his "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            },
+                            {
+                                "type": "text",
+                                "text": " youtube tutorials! Thanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " great help aready"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619713724.009000",
+        "parent_user_id": "U01RN7BVD1C"
+    }
+]

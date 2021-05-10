@@ -1,0 +1,589 @@
+[
+    {
+        "client_msg_id": "7f933f50-397e-46be-9a32-fee92513c672",
+        "type": "message",
+        "text": "in the solutions section, what is the <https:\/\/github.com\/ironhack-labs\/lab-customer-analysis-round-1\/blob\/master\/.github\/stale.yml|stale.yml> file for \/how is it opened\/launched :face_with_rolling_eyes:",
+        "user": "U01RS9Y6UJH",
+        "ts": "1616951008.023800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[ironhack-labs\/lab-customer-analysis-round-1] .github\/stale.yml",
+                "text": "```\n# Disclosure: Please don't make any changes to this file.\n# Your Ironhack team ♥️\n\n# ------------------------------------------------------------------------------- #\n\n# Configuration for probot-stale - <https:\/\/github.com\/probot\/stale>\n\n# Number of days of inactivity before an Issue or Pull Request becomes stale\ndaysUntilStale: 21\n\n# Number of days of inactivity before an Issue or Pull Request with the stale label is closed.\n# Set to false to disable. If disabled, issues still need to be closed manually, but will remain marked as stale.\ndaysUntilClose: 7\n\n# Issues or Pull Requests with these labels will never be considered stale. Set to `[]` to disable\nexemptLabels:\n  - bug\n  - enhancement\n\n# Label to use when marking as stale\nstaleLabel: stale\n\n# Comment to post when marking as stale. Set to `false` to disable\nmarkComment: &gt;\n  This pull request has been automatically marked as stale because it didn't have any recent activity. It will be closed if no further activity occurs. Thank you.\ncloseComment: &gt;\n  This pull request has been automatically closed. Thank you.\n\n```",
+                "title": ".github\/stale.yml",
+                "footer": "<https:\/\/github.com\/ironhack-labs\/lab-customer-analysis-round-1|ironhack-labs\/lab-customer-analysis-round-1>",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/ironhack-labs\/lab-customer-analysis-round-1\/blob\/master\/.github\/stale.yml",
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "bot_id": "B01RM0CJC4X",
+                "app_unfurl_url": "https:\/\/github.com\/ironhack-labs\/lab-customer-analysis-round-1\/blob\/master\/.github\/stale.yml",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Rp4p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in the solutions section, what is the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ironhack-labs\/lab-customer-analysis-round-1\/blob\/master\/.github\/stale.yml",
+                                "text": "stale.yml"
+                            },
+                            {
+                                "type": "text",
+                                "text": " file for \/how is it opened\/launched "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_rolling_eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616951008.023800",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1616955751.025300",
+        "reply_users": [
+            "U01S79YDELR",
+            "U01SJKB2MG8",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01S79YDELR",
+                "ts": "1616951239.024000"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1616951639.024400"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1616951644.024600"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1616951706.024900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1616955751.025300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8c70bd01-cd0d-499f-8a52-20022d4fd7d0",
+        "type": "message",
+        "text": "I did not find it. But yml is an extension for the python environment. It shows the requeriment (libraries and their versions) we need to run the project.",
+        "user": "U01S79YDELR",
+        "ts": "1616951239.024000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1616951302.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vWt3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did not find it. But yml is an extension for the python environment. It shows the requeriment (libraries and their versions) we need to run the project."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616951008.023800",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "f642397e-68b5-45a3-a799-c37397a877e0",
+        "type": "message",
+        "text": "not relevant  for students. Only for the Ironhack education team internally.",
+        "user": "U01SJKB2MG8",
+        "ts": "1616951639.024400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vWrv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not relevant  for students. Only for the Ironhack education team internally."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616951008.023800",
+        "parent_user_id": "U01RS9Y6UJH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b703a0c5-8f50-4709-94c4-a35042ab6afc",
+        "type": "message",
+        "text": "I found it now. Don’t worry about it and other files inside .github . They are usually hidden (with dot in the beginning of the name),  they are important only to the autor of the repository.",
+        "user": "U01S79YDELR",
+        "ts": "1616951644.024600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1616951883.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RBPH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I found it now. Don’t worry about it and other files inside .github . They are usually hidden (with dot in the beginning of the name),  they are important only to the autor of the repository."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616951008.023800",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "ce562d84-c4d1-474c-9aea-8e68adcdde54",
+        "type": "message",
+        "text": "btw... that's also not the solutions section:slightly_smiling_face:",
+        "user": "U01SJKB2MG8",
+        "ts": "1616951706.024900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dA6f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "btw... that's also not the solutions section"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616951008.023800",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "50b522fe-482f-44a3-aa6b-aa59e28e7fe9",
+        "type": "message",
+        "text": "yes you are in the actual lab section Neil! if you remember, we share the solutions with you via Notion - if the solutions were stored right next to the lab that would be quite boring for us all!",
+        "user": "U01RW140HBP",
+        "ts": "1616955751.025300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z3lg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes you are in the actual lab section Neil! if you remember, we share the solutions with you via Notion - if the solutions were stored right next to the lab that would be quite boring for us all!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616951008.023800",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "9b9e3c98-7293-40c1-bb0b-c93961c7a8c5",
+        "type": "message",
+        "text": "Software and Hardware setup requirements for this week (unit2):\n• Monday - no additional setup needed, you will be primarily working on your project - in python\/ pandas\/numpy. Ensure you can actively participate in your group by testing your audio\/ video on zoom. If this is not possible on your laptop, try the zoom app on your phone or tablet\n• Tuesday - zoom - as we have class presentations in the morning, any and all of you should be able to share your screen. Please enable\/ test this, plus testing audio functionality \/ internet speed tests as appropriate eg <https:\/\/zoom.us\/test|test zoom>, <https:\/\/www.speedtest.net\/|test speed> \n• Tuesday lecture and labs - we will be using jupyter notebook with numpy, pandas, matplotlib.pyplot and seaborn libraries. Nothing new to install but check that your chosen conda environment (if you are using conda) works with matplotlib and seaborn or use your base jupyter environment. \n• Wednesday + Thursday we all will need tableau public (minimum) or tableau desktop (optional) 2021 version. I have given you a lab for tuesday afternoon to complete this setup. I would recommending using the quickstart (same lab) to ensure your laptops can cope with tableau and zoom. Unfortunately tableau is memory hungry and there are minimum tech specs listed <https:\/\/www.tableau.com\/en-gb\/products\/techspecs|here> - the alternative on the day will be to work on a browser version, so do let us know if you are struggling with your hardware\/RAM so we can prepare for this. \n• Friday- we will return to Python and will be using numpy, pandas, matplotlib, seaborn + <https:\/\/scikit-learn.org\/stable\/install.html|sci-kit_learn> which will require an install on your chosen python env",
+        "user": "U01RW140HBP",
+        "ts": "1616957657.035600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1616957836.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CMf2Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Software and Hardware setup requirements for this week (unit2):\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Monday - no additional setup needed, you will be primarily working on your project - in python\/ pandas\/numpy. Ensure you can actively participate in your group by testing your audio\/ video on zoom. If this is not possible on your laptop, try the zoom app on your phone or tablet"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Tuesday - zoom - as we have class presentations in the morning, any and all of you should be able to share your screen. Please enable\/ test this, plus testing audio functionality \/ internet speed tests as appropriate eg "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/zoom.us\/test",
+                                        "text": "test zoom"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.speedtest.net\/",
+                                        "text": "test speed"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Tuesday lecture and labs - we will be using jupyter notebook with numpy, pandas, matplotlib.pyplot and seaborn libraries. Nothing new to install but check that your chosen conda environment (if you are using conda) works with matplotlib and seaborn or use your base jupyter environment. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Wednesday + Thursday we all will need tableau public (minimum) or tableau desktop (optional) 2021 version. I have given you a lab for tuesday afternoon to complete this setup. I would recommending using the quickstart (same lab) to ensure your laptops can cope with tableau and zoom. Unfortunately tableau is memory hungry and there are minimum tech specs listed "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.tableau.com\/en-gb\/products\/techspecs",
+                                        "text": "here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - the alternative on the day will be to work on a browser version, so do let us know if you are struggling with your hardware\/RAM so we can prepare for this. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Friday- we will return to Python and will be using numpy, pandas, matplotlib, seaborn + "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/scikit-learn.org\/stable\/install.html",
+                                        "text": "sci-kit_learn"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " which will require an install on your chosen python env"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616957657.035600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1616957811.036300",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1616957761.036100"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1616957811.036300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S7BM4N81",
+                    "U01S1CWGTU4",
+                    "U01RSRE0N3D",
+                    "U01RN7BVD1C",
+                    "U01SK96QF5E"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S0P26NKD",
+                    "U01S7KCL3DF",
+                    "U01S79YDELR",
+                    "U01RSRE0N3D",
+                    "U01S65G72SY",
+                    "U01SD3CDH9P",
+                    "U01RW2X7S9Z"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8fac8f53-48c4-4081-ac25-0740aa7b235c",
+        "type": "message",
+        "text": "Awesome, thanks! :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1616957761.036100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Wzt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, thanks! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616957657.035600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "fe490e0f-74bd-47dd-9afd-0efd264c95f9",
+        "type": "message",
+        "text": "no prob. adapting to feedback :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1616957811.036300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wu\/8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no prob. adapting to feedback "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616957657.035600",
+        "parent_user_id": "U01RW140HBP"
+    }
+]

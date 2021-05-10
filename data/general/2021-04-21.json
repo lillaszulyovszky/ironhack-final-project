@@ -1,0 +1,1749 @@
+[
+    {
+        "client_msg_id": "6245b5f7-e3e2-427a-8157-13036d828888",
+        "type": "message",
+        "text": "<@U01SJKB2MG8> is the recording there now ?",
+        "user": "U01RW140HBP",
+        "ts": "1618992700.000200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xhv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is the recording there now ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618914767.016000",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "91d1630a-b6a5-4493-9821-2e459d229f16",
+        "type": "message",
+        "text": "the tableau recording from yesterday is now up on Notion folks <https:\/\/www.notion.so\/ironhack\/a19c60daecc2460396bfd3e2f32ccd34?v=c9cfed266f074df580579b93192d0b96>",
+        "user": "U01RW140HBP",
+        "ts": "1618994239.000600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Classroom Recordings",
+                "title_link": "https:\/\/www.notion.so\/ironhack\/a19c60daecc2460396bfd3e2f32ccd34?v=c9cfed266f074df580579b93192d0b96",
+                "text": "A new tool for teams &amp; individuals that blends everyday work apps into one.",
+                "fallback": "ironhack on Notion: Classroom Recordings",
+                "from_url": "https:\/\/www.notion.so\/ironhack\/a19c60daecc2460396bfd3e2f32ccd34?v=c9cfed266f074df580579b93192d0b96",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/ironhack\/a19c60daecc2460396bfd3e2f32ccd34?v=c9cfed266f074df580579b93192d0b96"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6+h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the tableau recording from yesterday is now up on Notion folks "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/ironhack\/a19c60daecc2460396bfd3e2f32ccd34?v=c9cfed266f074df580579b93192d0b96"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618994239.000600",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1619000663.013800",
+        "reply_users": [
+            "U01RW140HBP",
+            "U01RS9Y6UJH",
+            "U01RV3K524T"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1618994330.000800"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1618996640.007500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1618997077.009400"
+            },
+            {
+                "user": "U01RV3K524T",
+                "ts": "1619000102.013100"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619000663.013800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7db4eaf5-b420-44e9-a29b-0e0f58652a64",
+        "type": "message",
+        "text": "<@U01RS9Y6UJH> <@U01RXCQHMHT>",
+        "user": "U01RW140HBP",
+        "ts": "1618994330.000800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "obMOk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RS9Y6UJH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RXCQHMHT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618994239.000600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "d194f4b1-8272-44c6-9601-d8a28a949b4c",
+        "type": "message",
+        "text": "Thanks, yeh got it, a big help watching then pausing",
+        "user": "U01RS9Y6UJH",
+        "ts": "1618996640.007500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2lEp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, yeh got it, a big help watching then pausing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618994239.000600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "e7bd6bd5-ab64-453f-87fd-02681941a35d",
+        "type": "message",
+        "text": "<!here> Please select your *slot* and your *music* *choice* for the presentations on Friday.\n\n*Presentation slots:*\n• Slot 1 (09:30 - 09:45): Petunia Dursley\n• Slot 2 (09:45 - 10:00): Hermione Granger\n• Slot 3 (10:00 - 10:15): Nymphadora Tonks\n*&lt;Break&gt; (10:15 - 10:30)*\n• Slot 4 (10:30 - 10:45): Ginny Weasley\n• Slot 5 (10:45 - 11:00): Bellatrix Lestrange\n• Slot 6 (11:00 - 11:15): Luna Lovegood\n*&lt;Break&gt; (11:15 - 11:30)*\n• Slot 7 (11:30 - 11:45): Fleur Delacour\n• Slot 8 (11:45 - 12:00): Lily Potter\n• Slot 9 (12:00 - 12:15): Professor McGonagall\n*&lt;Break&gt; (12:15 - 12:30)*\n• Slot 10 (12:30 - 12:45): Dolores Umbridge\n*&lt;Kahoot&gt; (12:45 - 13:00)*\n\n*Music choice:*\nPM <@U01SJKB2MG8> with your music selection that will be played in the transition between groups!",
+        "user": "U01RSRE0N3D",
+        "ts": "1618996759.009000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RSRE0N3D",
+            "ts": "1619001246.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NtRxg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Please select your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "slot",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "music",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "choice",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the presentations on Friday.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Presentation slots:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Slot 1 (09:30 - 09:45): Petunia Dursley"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Slot 2 (09:45 - 10:00): Hermione Granger"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Slot 3 (10:00 - 10:15): Nymphadora Tonks"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<Break> (10:15 - 10:30)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Slot 4 (10:30 - 10:45): Ginny Weasley"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Slot 5 (10:45 - 11:00): Bellatrix Lestrange"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Slot 6 (11:00 - 11:15): Luna Lovegood"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<Break> (11:15 - 11:30)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Slot 7 (11:30 - 11:45): Fleur Delacour"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Slot 8 (11:45 - 12:00): Lily Potter"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Slot 9 (12:00 - 12:15): Professor McGonagall"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<Break> (12:15 - 12:30)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Slot 10 (12:30 - 12:45): Dolores Umbridge"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<Kahoot> (12:45 - 13:00)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Music choice:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPM "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with your music selection that will be played in the transition between groups!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618996759.009000",
+        "reply_count": 13,
+        "reply_users_count": 13,
+        "latest_reply": "1619085380.005700",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01RW2X7S9Z",
+            "U01S0P26NKD",
+            "U01RP2K1606",
+            "U01SJKB2MG8",
+            "U01RS9Y6UJH",
+            "U01RKN0EGDV",
+            "U01S7BM4N81",
+            "U01SD3CDH9P",
+            "U01RN7BVD1C",
+            "U01S79YDELR",
+            "U01RW140HBP",
+            "U01RSRE0N3D"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1618996986.009200"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1618997155.009600"
+            },
+            {
+                "user": "U01S0P26NKD",
+                "ts": "1618997313.010100"
+            },
+            {
+                "user": "U01RP2K1606",
+                "ts": "1618997317.010300"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1618997382.010500"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1618998134.010800"
+            },
+            {
+                "user": "U01RKN0EGDV",
+                "ts": "1618998234.011100"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1618999743.012700"
+            },
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1619000148.013300"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619000848.014000"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1619078391.002400"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619085357.005500"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1619085380.005700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1619085380.005700"
+    },
+    {
+        "client_msg_id": "5e5bb60f-9062-479b-86b0-0bffccc67248",
+        "type": "message",
+        "text": "ginny_weasley requests slot 4",
+        "user": "U01S7KCL3DF",
+        "ts": "1618996986.009200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SvezZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ginny_weasley requests slot 4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618996759.009000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "36e9b223-1074-4280-85e7-112cd74c8126",
+        "type": "message",
+        "text": "coolio",
+        "user": "U01RW140HBP",
+        "ts": "1618997077.009400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ubO2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "coolio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618994239.000600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "f8e23058-6e08-40e1-a0d2-1fba5ac61c48",
+        "type": "message",
+        "text": "ill go slot 1! the music is for presentation?",
+        "user": "U01RW2X7S9Z",
+        "ts": "1618997155.009600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW2X7S9Z",
+            "ts": "1618997210.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oMF0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ill go slot 1! the music is for presentation?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618996759.009000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "471d94b7-fe57-4885-8339-9c54c6da3d83",
+        "type": "message",
+        "text": "Slot 2 for Hermione Granger",
+        "user": "U01S0P26NKD",
+        "ts": "1618997313.010100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7b30129d02b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b30129d02bcacd7eef985bfd5432c73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Jennipher Kasemire",
+            "display_name": "Jennipher Kasemire",
+            "team": "T01RBRV5F7H",
+            "name": "jennipherkasemire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H6Oh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slot 2 for Hermione Granger"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618996759.009000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e018ccde-675e-4d89-9db4-0cc2de637693",
+        "type": "message",
+        "text": "Group Bellatrix_Lestrange would like to take Slot 5",
+        "user": "U01RP2K1606",
+        "ts": "1618997317.010300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "cf57933e3b00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880079302355_cf57933e3b00451b4617_72.png",
+            "first_name": "",
+            "real_name": "Jalal Karimov",
+            "display_name": "Jalal Karimov",
+            "team": "T01RBRV5F7H",
+            "name": "jalalkrmv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yjLD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Group Bellatrix_Lestrange would like to take Slot 5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618996759.009000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "323414a1-f2f6-4f8b-92fa-5eb6c8f3b4fc",
+        "type": "message",
+        "text": "Music \/ song that you pick is played *before* your presentation, <@U01RW2X7S9Z>",
+        "user": "U01SJKB2MG8",
+        "ts": "1618997382.010500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SJKB2MG8",
+            "ts": "1618997424.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X38",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Music \/ song that you pick is played "
+                            },
+                            {
+                                "type": "text",
+                                "text": "before",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " your presentation, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RW2X7S9Z"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618996759.009000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "602b63c7-9732-48c7-ab8a-2ef95d65afce",
+        "type": "message",
+        "text": "Slot 3 Nymphadora Tonks, to the soundtrack: Bachman Turner Overdrive - You Ain’t Seen Nothing Yet",
+        "user": "U01RS9Y6UJH",
+        "ts": "1618998134.010800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WO1Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slot 3 Nymphadora Tonks, to the soundtrack: Bachman Turner Overdrive - You Ain’t Seen Nothing Yet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618996759.009000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e080d594-8258-480b-ac4b-56731edca97f",
+        "type": "message",
+        "text": "slot 6!! luna lovegood",
+        "user": "U01RKN0EGDV",
+        "ts": "1618998234.011100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jc4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slot 6!! luna lovegood"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618996759.009000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b356f0c3-2bcd-44e1-a5c8-6178fe4dc3c3",
+        "type": "message",
+        "text": "sadly this event is in the middle of the night but might be of interest to some of you <https:\/\/careersonair.withgoogle.com\/events\/black-women-in-tech> - register, because there is probably a recorded version sent out afterwards",
+        "user": "U01RW140HBP",
+        "ts": "1618999611.012600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SmKhh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sadly this event is in the middle of the night but might be of interest to some of you "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/careersonair.withgoogle.com\/events\/black-women-in-tech"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - register, because there is probably a recorded version sent out afterwards"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ddd07416-de40-4c84-8837-12adba38b259",
+        "type": "message",
+        "text": "Slot 7 for fleur delacour",
+        "user": "U01S7BM4N81",
+        "ts": "1618999743.012700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HPDE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slot 7 for fleur delacour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618996759.009000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01RRV4JX6Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4381c1c6-3101-4906-877e-365802f884ec",
+        "type": "message",
+        "text": "Thanks Sian...this will go a long way",
+        "user": "U01RV3K524T",
+        "ts": "1619000102.013100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "96eac43da464",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875837396901_96eac43da4641e00e5fe_72.jpg",
+            "first_name": "Olubunmi",
+            "real_name": "Olubunmi Haastrup",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "habimcrown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "as1b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Sian...this will go a long way"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618994239.000600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "6c868f8f-42e1-41ed-92d4-74bb2addb7c1",
+        "type": "message",
+        "text": "slot 8for LilyPotter, pls",
+        "user": "U01SD3CDH9P",
+        "ts": "1619000148.013300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k94nJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slot 8for LilyPotter, pls"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618996759.009000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6cf3222-c99e-4ef5-a12e-87ef7d09b7de",
+        "type": "message",
+        "text": "no problemo",
+        "user": "U01RW140HBP",
+        "ts": "1619000663.013800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PDXHV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no problemo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618994239.000600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "83a2cd02-201c-48d2-9b51-fbf5e0edbb59",
+        "type": "message",
+        "text": "the slot 9 for mcgonnagal please",
+        "user": "U01RN7BVD1C",
+        "ts": "1619000848.014000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RN7BVD1C",
+            "ts": "1619000882.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1cat",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the slot 9 for mcgonnagal please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618996759.009000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2de320e0-05e7-46f8-b8a6-a444ebe27c4d",
+        "type": "message",
+        "text": "this is your slightly over 15 min warning to prepare for our cross continental class collab session, thats happening at 3 <!channel> - please return to the main room at 3 and give your projects a short break",
+        "user": "U01RW140HBP",
+        "ts": "1619008982.015500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "254e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is your slightly over 15 min warning to prepare for our cross continental class collab session, thats happening at 3 "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - please return to the main room at 3 and give your projects a short break"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619008982.015500",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1619009311.016000",
+        "reply_users": [
+            "U01RN7BVD1C",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619009024.015600"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619009285.015800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619009311.016000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "84de00ea-6d2e-4e9e-bc03-68494bd9fe5a",
+        "type": "message",
+        "text": "could you remind us, what we are to prepare?\nHow we like the course so far. Improvement suggestions, etc?",
+        "user": "U01RN7BVD1C",
+        "ts": "1619009024.015600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nLGZI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "could you remind us, what we are to prepare?\nHow we like the course so far. Improvement suggestions, etc?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619008982.015500",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "10fce46d-e984-42e2-8585-0cfb3860400e",
+        "type": "message",
+        "text": "very little to be prepared… just to be there or be :large_orange_square:",
+        "user": "U01RW140HBP",
+        "ts": "1619009285.015800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bZwCB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "very little to be prepared… just to be there or be "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "large_orange_square"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619008982.015500",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "a65082c7-23cd-46b4-bece-46b7e53ee3b3",
+        "type": "message",
+        "text": "also have a think about anything youve really enjoyed in the mid bootcamp project, and what you have found challenging",
+        "user": "U01RW140HBP",
+        "ts": "1619009311.016000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1619009321.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U\/q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also have a think about anything youve really enjoyed in the mid bootcamp project, and what you have found challenging"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619008982.015500",
+        "parent_user_id": "U01RW140HBP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RN7BVD1C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3719dcd3-39d6-43c4-9d23-502a0a7c59e3",
+        "type": "message",
+        "text": "Going for a beer with <@U01RXCQHMHT> at Tempelhof at 4,45, feel free to join if u want to;)",
+        "user": "U01SD3CDH9P",
+        "ts": "1619013486.017400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DKtb0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Going for a beer with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RXCQHMHT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " at Tempelhof at 4,45, feel free to join if u want to;)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619013486.017400",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1619076684.000300",
+        "reply_users": [
+            "U01RN7BVD1C",
+            "U01SD3CDH9P"
+        ],
+        "replies": [
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619013730.018800"
+            },
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1619074956.000100"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619076684.000300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce161626-02b8-4907-86e9-1230e4b4b20f",
+        "type": "message",
+        "text": "I drink only Spetzi <@U01SD3CDH9P>",
+        "user": "U01RXCQHMHT",
+        "ts": "1619013509.017700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "deOXd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I drink only Spetzi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SD3CDH9P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f50a324-a2fe-4f46-80a0-057256958024",
+        "type": "message",
+        "text": ":laughing:",
+        "user": "U01RXCQHMHT",
+        "ts": "1619013524.017900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eRoyy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "799f31d9-643e-4ade-892d-61e509c818d6",
+        "type": "message",
+        "text": "now that’s my kinda project :beer_parrot:",
+        "user": "U01S7KCL3DF",
+        "ts": "1619013542.018500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XMFD9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "now that’s my kinda project "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beer_parrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "efdc7195-dfba-4741-bb07-759863641b65",
+        "type": "message",
+        "text": "but the beer is the secret of our productivity",
+        "user": "U01RXCQHMHT",
+        "ts": "1619013548.018700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1EUU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but the beer is the secret of our productivity"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f20e9cc6-8c2b-43fe-a95c-65d07b309b07",
+        "type": "message",
+        "text": "tempelhofer feld or tempelhof somwhere else?",
+        "user": "U01RN7BVD1C",
+        "ts": "1619013730.018800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3xQa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tempelhofer feld or tempelhof somwhere else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619013486.017400",
+        "parent_user_id": "U01SD3CDH9P"
+    }
+]

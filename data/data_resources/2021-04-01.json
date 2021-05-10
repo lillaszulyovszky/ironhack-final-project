@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "467a7e14-0052-4aa0-ac6d-4c36b1f1c654",
+        "type": "message",
+        "text": "There is a really supportive Tableau community on discord. There are people who work with Tableau and will help you if you have any problems.\n\nYou can also hop on the voice chat, share your screen and people will help you (hint you).\n\n<https:\/\/discord.gg\/vtEKcsp9>",
+        "user": "U01RXCQHMHT",
+        "ts": "1617274396.017600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Discord",
+                "title": "Join the r\/Tableau Discord Server!",
+                "title_link": "https:\/\/discord.gg\/vtEKcsp9",
+                "text": "Check out the r\/Tableau community on Discord - hang out with 1,126 other members and enjoy free voice and text chat.",
+                "fallback": "Discord: Join the r\/Tableau Discord Server!",
+                "image_url": "https:\/\/cdn.discordapp.com\/icons\/651895177501343776\/2445a10f449731658e1b9320f3879061.jpg?size=256",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/discord.gg\/vtEKcsp9",
+                "image_bytes": 6319,
+                "service_icon": "https:\/\/discord.com\/assets\/07dca80a102d4149e9736d4b162cff6f.ico",
+                "id": 1,
+                "original_url": "https:\/\/discord.gg\/vtEKcsp9"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/0Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is a really supportive Tableau community on discord. There are people who work with Tableau and will help you if you have any problems.\n\nYou can also hop on the voice chat, share your screen and people will help you (hint you).\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/discord.gg\/vtEKcsp9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "surprised_owl",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01S7KCL3DF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01S0MFJ3HR",
+                    "U01RS9Y6UJH",
+                    "U01SK96QF5E"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

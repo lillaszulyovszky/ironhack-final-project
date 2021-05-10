@@ -1,0 +1,1571 @@
+[
+    {
+        "client_msg_id": "df795e3c-cb38-4b8c-8e17-7e13580f43bb",
+        "type": "message",
+        "text": "I uploaded the notebook in the *<https:\/\/www.notion.so\/ironhack\/Python-fundamentals-the-vanilla-python-cd347c74ccf64fa49d4be5ccbffed42a|Notion Calendar>* :v::skin-tone-2:",
+        "user": "U01RSRE0N3D",
+        "ts": "1617101341.012000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Python fundamentals (the vanilla python)",
+                "title_link": "https:\/\/www.notion.so\/ironhack\/Python-fundamentals-the-vanilla-python-cd347c74ccf64fa49d4be5ccbffed42a",
+                "text": "Kosta - python objects review - for \/while loops",
+                "fallback": "ironhack on Notion: Python fundamentals (the vanilla python)",
+                "from_url": "https:\/\/www.notion.so\/ironhack\/Python-fundamentals-the-vanilla-python-cd347c74ccf64fa49d4be5ccbffed42a",
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/ironhack\/Python-fundamentals-the-vanilla-python-cd347c74ccf64fa49d4be5ccbffed42a"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fxM0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I uploaded the notebook in the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/ironhack\/Python-fundamentals-the-vanilla-python-cd347c74ccf64fa49d4be5ccbffed42a",
+                                "text": "Notion Calendar",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "reply_count": 23,
+        "reply_users_count": 7,
+        "latest_reply": "1617102431.021100",
+        "reply_users": [
+            "U01S79YDELR",
+            "U01S7BM4N81",
+            "U01RXCQHMHT",
+            "U01RN7BVD1C",
+            "U01SJKB2MG8",
+            "U01RSRE0N3D",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617101758.013900"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617101796.014300"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1617101802.014500"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1617101807.014700"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617101821.014900"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617101840.015100"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1617101840.015300"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1617101841.015500"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1617101872.015700"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1617101883.015900"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617101902.016100"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617101921.016300"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1617101948.016600"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1617101979.016900"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1617102027.017700"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1617102050.018100"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1617102094.018800"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1617102146.019500"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1617102184.019900"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1617102199.020100"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1617102237.020300"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1617102342.020500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617102431.021100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617102431.021100",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S7BM4N81",
+                    "U01S7KCL3DF",
+                    "U01RXCQHMHT"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR",
+                    "U01S133DZ9A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed3dda0f-11e8-4b1d-aac3-9fabc29672b4",
+        "type": "message",
+        "text": "how can I download as ipynb as this extension, not as js or html?",
+        "user": "U01S79YDELR",
+        "ts": "1617101758.013900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "39a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how can I download as ipynb as this extension, not as js or html?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "82b9a3a3-200e-42ce-a823-f613c20b1145",
+        "type": "message",
+        "text": "seconded, seems to be not working. Can you maybe zip it up Kosta?",
+        "user": "U01S7BM4N81",
+        "ts": "1617101796.014300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "08kJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "seconded, seems to be not working. Can you maybe zip it up Kosta?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "0510a480-e687-46d5-a54e-55b1d620eb7a",
+        "type": "message",
+        "text": "Save as",
+        "user": "U01RXCQHMHT",
+        "ts": "1617101802.014500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "he=a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Save as"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "1c9b97c5-8130-416e-905f-7baa82fdf579",
+        "type": "message",
+        "text": "choose all files",
+        "user": "U01RXCQHMHT",
+        "ts": "1617101807.014700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hH8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "choose all files"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "8be3e377-f04f-4ba7-9c0f-3da0caed2099",
+        "type": "message",
+        "text": "save as save as hml and many js",
+        "user": "U01S79YDELR",
+        "ts": "1617101821.014900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XaWz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "save as save as hml and many js"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "e673ada3-480f-4a3a-9d75-21d1f41403cc",
+        "type": "message",
+        "text": "even I rename ipynb",
+        "user": "U01S79YDELR",
+        "ts": "1617101840.015100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3QuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "even I rename ipynb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "7a2b28b9-ed30-4653-a37c-1ba30f064aa7",
+        "type": "message",
+        "text": "remove \".txt\"\n\nand put \".ipynb\" at the end",
+        "user": "U01RXCQHMHT",
+        "ts": "1617101840.015300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QeK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "remove \".txt\"\n\nand put \".ipynb\" at the end"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "19c8fc6a-6f96-473c-901e-cfa7474c591e",
+        "type": "message",
+        "text": "One last question on data types:\n• data types: string, integer, float, boolean\n• data types: list, dictionary, tuples, sets\n• data types: array?, df?\nAre these all data types or called somehow different?",
+        "user": "U01RN7BVD1C",
+        "ts": "1617101841.015500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3SV0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One last question on data types:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "data types: string, integer, float, boolean"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "data types: list, dictionary, tuples, sets"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "data types: array?, df?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are these all data types or called somehow different?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "7f60d0c4-a312-4dac-913d-8cc9b308ed87",
+        "type": "message",
+        "text": "<@U01RN7BVD1C> I think data types are string, integer, float, bool",
+        "user": "U01RXCQHMHT",
+        "ts": "1617101872.015700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tQ80",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RN7BVD1C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think data types are string, integer, float, bool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "2737c21e-503b-4e8a-a485-b96b4de89800",
+        "type": "message",
+        "text": "data structures are list, dictionary, tuples, dataframe",
+        "user": "U01RXCQHMHT",
+        "ts": "1617101883.015900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wOgj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "data structures are list, dictionary, tuples, dataframe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RN7BVD1C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0bf4ac6f-97af-40b8-a04d-f9fed1c5dcb1",
+        "type": "message",
+        "text": "<@U01RXCQHMHT> txt doesnt appears to me",
+        "user": "U01S79YDELR",
+        "ts": "1617101902.016100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "obfF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RXCQHMHT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " txt doesnt appears to me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "9c9c6530-c6d6-4def-a103-1aae760de4f8",
+        "type": "message",
+        "text": "even I change the type for *.* , it does not work",
+        "user": "U01S79YDELR",
+        "ts": "1617101921.016300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1IT45",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "even I change the type for "
+                            },
+                            {
+                                "type": "text",
+                                "text": ".",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " , it does not work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "7ff6a308-51e2-4df0-b9bb-075d3da0466d",
+        "type": "message",
+        "text": "<@U01RN7BVD1C>, you first bullet point are \"fundamental datatypes\"",
+        "user": "U01SJKB2MG8",
+        "ts": "1617101948.016600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SJKB2MG8",
+            "ts": "1617101962.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v+L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RN7BVD1C"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", you first bullet point are \"fundamental datatypes\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RN7BVD1C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Sorry, does this work?",
+        "files": [
+            {
+                "id": "F01SQD3TXQV",
+                "created": 1617101972,
+                "timestamp": 1617101972,
+                "name": "Code Along Object Types.ipynb 2.zip",
+                "title": "Code Along Object Types.ipynb 2.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U01RSRE0N3D",
+                "editable": false,
+                "size": 5107,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SQD3TXQV\/code_along_object_types.ipynb_2.zip?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SQD3TXQV\/download\/code_along_object_types.ipynb_2.zip?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RSRE0N3D\/F01SQD3TXQV\/code_along_object_types.ipynb_2.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01SQD3TXQV-1f93249953",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o4z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry, does this work?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RSRE0N3D",
+        "display_as_bot": false,
+        "ts": "1617101979.016900",
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55f75a05-6e77-450b-b9e5-2e936793c734",
+        "type": "message",
+        "text": "<@U01SJKB2MG8> Ah and the others are data types as well though?\n• fundamental data types: string, integer, float, boolean\n• data types: list, dictionary, tuples, sets, array?, df?",
+        "user": "U01RN7BVD1C",
+        "ts": "1617102027.017700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QGzc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ah and the others are data types as well though?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "fundamental data types: string, integer, float, boolean"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "data types: list, dictionary, tuples, sets, array?, df?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "b9be6587-099c-4d31-a6be-0cb50088c48a",
+        "type": "message",
+        "text": "<@U01RN7BVD1C>, while dicts, lists, sets are *collection* datatypes",
+        "user": "U01SJKB2MG8",
+        "ts": "1617102050.018100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W7\/Wz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RN7BVD1C"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", while dicts, lists, sets are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "collection",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " datatypes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cea2d362-b46d-41b7-b2b3-e29b8935748d",
+        "type": "message",
+        "text": "<@U01RN7BVD1C>, (numpy) arrays and (pandas) dataframes are also datatypes, but not python-built in. They're borrowed from other modules\/packages",
+        "user": "U01SJKB2MG8",
+        "ts": "1617102094.018800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qLmE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RN7BVD1C"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", (numpy) arrays and (pandas) dataframes are also datatypes, but not python-built in. They're borrowed from other modules\/packages"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01RN7BVD1C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "566851c9-3237-463a-82d9-068c73b80f2c",
+        "type": "message",
+        "text": "Feel free to check the full list of <https:\/\/www.w3schools.com\/python\/python_ref_string.asp|String Methods>, <https:\/\/www.w3schools.com\/python\/python_ref_list.asp|List\/Array Methods>, <https:\/\/www.w3schools.com\/python\/python_ref_dictionary.asp|Dictionary Methods>, <https:\/\/www.w3schools.com\/python\/python_ref_tuple.asp|Tuple Methods>, <https:\/\/www.w3schools.com\/python\/python_ref_set.asp|Set Methods>",
+        "user": "U01RSRE0N3D",
+        "ts": "1617102098.019100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Python String Methods",
+                "title_link": "https:\/\/www.w3schools.com\/python\/python_ref_string.asp",
+                "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java and XML.",
+                "fallback": "Python String Methods",
+                "from_url": "https:\/\/www.w3schools.com\/python\/python_ref_string.asp",
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "service_name": "w3schools.com",
+                "id": 1,
+                "original_url": "https:\/\/www.w3schools.com\/python\/python_ref_string.asp"
+            },
+            {
+                "title": "Python List\/Array Methods",
+                "title_link": "https:\/\/www.w3schools.com\/python\/python_ref_list.asp",
+                "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java and XML.",
+                "fallback": "Python List\/Array Methods",
+                "from_url": "https:\/\/www.w3schools.com\/python\/python_ref_list.asp",
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "service_name": "w3schools.com",
+                "id": 2,
+                "original_url": "https:\/\/www.w3schools.com\/python\/python_ref_list.asp"
+            },
+            {
+                "title": "Python Dictionary Methods",
+                "title_link": "https:\/\/www.w3schools.com\/python\/python_ref_dictionary.asp",
+                "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java and XML.",
+                "fallback": "Python Dictionary Methods",
+                "from_url": "https:\/\/www.w3schools.com\/python\/python_ref_dictionary.asp",
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "service_name": "w3schools.com",
+                "id": 3,
+                "original_url": "https:\/\/www.w3schools.com\/python\/python_ref_dictionary.asp"
+            },
+            {
+                "title": "Python Tuple Methods",
+                "title_link": "https:\/\/www.w3schools.com\/python\/python_ref_tuple.asp",
+                "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java and XML.",
+                "fallback": "Python Tuple Methods",
+                "from_url": "https:\/\/www.w3schools.com\/python\/python_ref_tuple.asp",
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "service_name": "w3schools.com",
+                "id": 4,
+                "original_url": "https:\/\/www.w3schools.com\/python\/python_ref_tuple.asp"
+            },
+            {
+                "title": "Python Set Methods",
+                "title_link": "https:\/\/www.w3schools.com\/python\/python_ref_set.asp",
+                "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java and XML.",
+                "fallback": "Python Set Methods",
+                "from_url": "https:\/\/www.w3schools.com\/python\/python_ref_set.asp",
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "service_name": "w3schools.com",
+                "id": 5,
+                "original_url": "https:\/\/www.w3schools.com\/python\/python_ref_set.asp"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7aXF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Feel free to check the full list of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com\/python\/python_ref_string.asp",
+                                "text": "String Methods"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com\/python\/python_ref_list.asp",
+                                "text": "List\/Array Methods"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com\/python\/python_ref_dictionary.asp",
+                                "text": "Dictionary Methods"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com\/python\/python_ref_tuple.asp",
+                                "text": "Tuple Methods"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com\/python\/python_ref_set.asp",
+                                "text": "Set Methods"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RW140HBP",
+                    "U01SK96QF5E"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U01RN7BVD1C"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "199990ad-fab1-4ace-af76-3a67493959aa",
+        "type": "message",
+        "text": "Ahhh ok, thank you! This helps to put it in perspective to get an overview",
+        "user": "U01RN7BVD1C",
+        "ts": "1617102146.019500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sg=QV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahhh ok, thank you! This helps to put it in perspective to get an overview"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "726e92ff-4e71-4a79-93f4-fa9b1e6abf82",
+        "type": "message",
+        "text": "@yes, thanks",
+        "user": "U01S79YDELR",
+        "ts": "1617102184.019900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E5KYR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@yes, thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "576c60d1-e9d5-449e-abfd-441e2f5ab069",
+        "type": "message",
+        "text": "Ok, then sorry I got it wrong.\n\n<@U01SJKB2MG8> what are data structures then?",
+        "user": "U01RXCQHMHT",
+        "ts": "1617102199.020100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r6I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, then sorry I got it wrong.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what are data structures then?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "2178cbcd-3eea-46e3-9c88-a535771af720",
+        "type": "message",
+        "text": "the takeaway is basically that e.g. a pandas dataframe is built out of\n• a series datatype\n    ◦ which in turn is built on numpy (arrays)\n        ▪︎ which again makes use of python fundamental datatypes\n• an index datatype\nso you have datatyp \"encapsulation\"",
+        "user": "U01SJKB2MG8",
+        "ts": "1617102237.020300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "beMH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the takeaway is basically that e.g. a pandas dataframe is built out of\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "a series datatype"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "which in turn is built on numpy (arrays)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "which again makes use of python fundamental datatypes"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "an index datatype"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nso you have datatyp \"encapsulation\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U01RN7BVD1C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0944910e-3bf1-49e0-83ca-c649292e4425",
+        "type": "message",
+        "text": "<@U01RXCQHMHT>, sometimes the collection datatypes like sets, lists, dictionaries etc. are also called datastructures",
+        "user": "U01SJKB2MG8",
+        "ts": "1617102342.020500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U+TSJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RXCQHMHT"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", sometimes the collection datatypes like sets, lists, dictionaries etc. are also called datastructures"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "ef1a673a-4405-4330-b2fe-e4e9323f2ed1",
+        "type": "message",
+        "text": "note to <@U01RSRE0N3D> compress the file before uploading to Notion :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1617102431.021100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i+6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "note to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RSRE0N3D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " compress the file before uploading to Notion "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617101341.012000",
+        "parent_user_id": "U01RSRE0N3D"
+    }
+]

@@ -1,0 +1,1492 @@
+[
+    {
+        "client_msg_id": "88295d8b-d6c1-46ce-838c-ffd7b83f69e5",
+        "type": "message",
+        "text": "what a time to be alive: <https:\/\/youtu.be\/jfrWFB9lYJI>",
+        "user": "U01RSRE0N3D",
+        "ts": "1620284548.020500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Starship SN15 Flight (without frozen video)",
+                "title_link": "https:\/\/youtu.be\/jfrWFB9lYJI",
+                "author_name": "The Launch Pad",
+                "author_link": "https:\/\/www.youtube.com\/c\/TheLaunchPad",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/jfrWFB9lYJI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Starship SN15 Flight (without frozen video)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/jfrWFB9lYJI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/jfrWFB9lYJI",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/jfrWFB9lYJI"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "23Nc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what a time to be alive: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/jfrWFB9lYJI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620284548.020500",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1620284941.021800",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01RSRE0N3D"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620284614.020700"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620284624.020900"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1620284720.021100"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1620284735.021400"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620284782.021600"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1620284941.021800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620285559.022000"
+    },
+    {
+        "client_msg_id": "b26474e6-0893-453d-a583-c12c0dd409a3",
+        "type": "message",
+        "text": "This is real life interstellar haha",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620284614.020700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7mNm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is real life interstellar haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620284548.020500",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "aac34fdf-604a-49d4-a504-9662ae454aab",
+        "type": "message",
+        "text": "did you see the mars landing ? :smile:",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620284624.020900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6vhc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did you see the mars landing ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620284548.020500",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "e8fe22a8-7bef-4f2a-9592-969e6deb6fe0",
+        "type": "message",
+        "text": "I've seen everything, I am a fanboy",
+        "user": "U01RSRE0N3D",
+        "ts": "1620284720.021100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "95S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've seen everything, I am a fanboy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620284548.020500",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "worship",
+        "user": "U01RSRE0N3D",
+        "ts": "1620284735.021400",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "\/K0+t",
+                "image_url": "https:\/\/media4.giphy.com\/media\/l3q2Z5667uYOJ2U6I\/giphy-downsized.gif?cid=6104955e8fdfafd0db15bf7feaa24ce34282092a0c9d0a75&rid=giphy-downsized.gif&ct=g&cid=6104955e8fdfafd0db15bf7feaa24ce34282092a0c9d0a75&rid=giphy-downsized.gif&ct=g",
+                "alt_text": "worship",
+                "title": {
+                    "type": "plain_text",
+                    "text": "worship",
+                    "emoji": true
+                },
+                "fallback": "381x274px image",
+                "image_width": 381,
+                "image_height": 274,
+                "image_bytes": 1778691,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "1\/vNJ",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/oscars\/|The Academy Awards>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620284548.020500",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "3001b0e6-cafe-4d65-9d68-8e0ead1beb72",
+        "type": "message",
+        "text": "its so cool that they do livestreams of this, it's live being enabled to witness history from anywhere in the world",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620284782.021600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wpf4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its so cool that they do livestreams of this, it's live being enabled to witness history from anywhere in the world"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620284548.020500",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "7b323f94-3e92-458b-afe9-f2e3a3775453",
+        "type": "message",
+        "text": "Yea, totally! The hype is real",
+        "user": "U01RSRE0N3D",
+        "ts": "1620284941.021800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=8x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yea, totally! The hype is real"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620284548.020500",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "ad0ab4fd-c494-4113-a70a-08430e8f2b7c",
+        "type": "message",
+        "text": "*Interior Design Inspo*\nColor palette: <https:\/\/coolors.co>\nColor picker: <https:\/\/imagecolorpicker.com>\n\nWes Anderson Movies\n\n40 Winks Hotel in London by David Carter\n\nWall paint shop: Farben Kacza, Oranienstr. 172, Kreuzberg, \n(Brands like Farrow&amp;Ball cheaper)\n\nInstagram Accounts: \n@lumikello__\n@herz.und.blut\n@laurakarasinski\n@atelierkarasinski\n@lrnce \n@somewhereiwouldliketolive\n\nNetflix: Abstract Episode „Ilse Crawford: Interior Design”",
+        "user": "U01S65G72SY",
+        "ts": "1620288900.022800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coolors.co",
+                "title": "Coolors - The super fast color schemes generator!",
+                "title_link": "https:\/\/coolors.co\/",
+                "text": "Generate or browse beautiful color combinations for your designs.",
+                "fallback": "Coolors.co: Coolors - The super fast color schemes generator!",
+                "image_url": "https:\/\/coolors.co\/assets\/img\/og_image.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/coolors.co\/",
+                "image_bytes": 65510,
+                "service_icon": "https:\/\/coolors.co\/assets\/img\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/coolors.co"
+            },
+            {
+                "title": ":+1: Color Picker online | HEX Color Picker | HTML Color Picker",
+                "title_link": "https:\/\/imagecolorpicker.com\/",
+                "text": "Color Picker:Color Picker: With this online tool you can upload an image or provide a website URL and get the RGB Color, HEX Color and HSL Color code. :+1:",
+                "fallback": "👍 Color Picker online | HEX Color Picker | HTML Color Picker",
+                "image_url": "https:\/\/imagecolorpicker.com\/icon.png",
+                "from_url": "https:\/\/imagecolorpicker.com\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 35451,
+                "service_icon": "https:\/\/imagecolorpicker.com\/icons\/apple-icon-57x57.png",
+                "service_name": "imagecolorpicker.com",
+                "id": 2,
+                "original_url": "https:\/\/imagecolorpicker.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1BCv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interior Design Inspo",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nColor palette: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coolors.co"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nColor picker: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/imagecolorpicker.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWes Anderson Movies\n\n40 Winks Hotel in London by David Carter\n\nWall paint shop: Farben Kacza, Oranienstr. 172, Kreuzberg, \n(Brands like Farrow&Ball cheaper)\n\nInstagram Accounts: \n@lumikello__\n@herz.und.blut\n@laurakarasinski\n@atelierkarasinski\n@lrnce \n@somewhereiwouldliketolive\n\nNetflix: Abstract Episode „Ilse Crawford: Interior Design”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620288900.022800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1620292177.024000",
+        "reply_users": [
+            "U01S65G72SY"
+        ],
+        "replies": [
+            {
+                "user": "U01S65G72SY",
+                "ts": "1620292177.024000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RW140HBP",
+                    "U01RKN0EGDV",
+                    "U01S0E0MRJ7",
+                    "U01S1CWGTU4",
+                    "U01S79YDELR"
+                ],
+                "count": 5
+            },
+            {
+                "name": "screaming_jonah",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "710b2d3a-187d-419a-a375-dfc5e81f1878",
+        "type": "message",
+        "text": "A bargain:<https:\/\/www.palgrave.com\/gp\/book\/9781137401892>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620289331.023600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RRV4JX6Z",
+            "ts": "1620289352.000000"
+        },
+        "attachments": [
+            {
+                "title": "Analysing Economic Data - A Concise Introduction | T. Mills | Palgrave Macmillan",
+                "title_link": "https:\/\/www.palgrave.com\/gp\/book\/9781137401892",
+                "text": "Covers the key issues required for students wishing to understand and analyse the core empirical issues in economics. It focuses on descriptive statistics, probability concepts and basic econometric techniques and has an accompanying website that contains all the data used in the examples and...",
+                "fallback": "Analysing Economic Data - A Concise Introduction | T. Mills | Palgrave Macmillan",
+                "from_url": "https:\/\/www.palgrave.com\/gp\/book\/9781137401892",
+                "service_icon": "https:\/\/www.palgrave.com\/favicon.ico",
+                "service_name": "palgrave.com",
+                "id": 1,
+                "original_url": "https:\/\/www.palgrave.com\/gp\/book\/9781137401892"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tGEjg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A bargain:"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.palgrave.com\/gp\/book\/9781137401892"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba0d8a37-b625-4b37-af05-5d81ad650dee",
+        "type": "message",
+        "text": "oh I forgot Akademie Ruhr! Amazing people. all about drawing. ( also urban sketching and portrait) <https:\/\/www.youtube.com\/user\/AkademieRuhr>",
+        "user": "U01S65G72SY",
+        "ts": "1620292177.024000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "title": "AkademieRuhr",
+                "title_link": "https:\/\/www.youtube.com\/user\/AkademieRuhr",
+                "text": "<https:\/\/www.youtube.com\/channel\/UCK9WkXqtWrRkzOleNT62f9w\/communityMit> einer breiten Palette an Kursen richtet sich die Akademie Ruhr an Planer in Handwerk und Handel, an Schüler und angehende Studenten, an interessierte Berufsumsteiger sowie an Menschen, die in ihrer Freizeit zeichnen möchten. Ausgerichtet an den jeweiligen Interessen und Lernzielen unserer Teilnehmer bieten wir Kurse mit folgenden Schwerpunkten: • Mappenkurse: <https:\/\/mappenvorbereitungskurs.de> • Fortbildungen: <https:\/\/akademieruhr.de\/fortbildungen> • Freizeitkurse: <https:\/\/akademieruhr.de\/zeichenkurse> • Onlinekurse: <https:\/\/akademieruhr.teachable.com> Instagram: <https:\/\/www.instagram.com\/akademieruhr\/> Facebook: <https:\/\/www.facebook.com\/akademieruhr> Entscheidet mit! – Unser neues Buch <https:\/\/www.youtube.com\/channel\/UCK9WkXqtWrRkzOleNT62f9w\/community>",
+                "fallback": "YouTube: AkademieRuhr",
+                "thumb_url": "https:\/\/yt3.ggpht.com\/ytc\/AAUvwnjyFsOaOOTHQjEyAXNK2V6ign77QPKmpXGmrf428w=s900-c-k-c0x00ffffff-no-rj",
+                "from_url": "https:\/\/www.youtube.com\/user\/AkademieRuhr",
+                "thumb_width": 900,
+                "thumb_height": 900,
+                "service_icon": "https:\/\/www.youtube.com\/s\/desktop\/9d897852\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/user\/AkademieRuhr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gry\/w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh I forgot Akademie Ruhr! Amazing people. all about drawing. ( also urban sketching and portrait) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/user\/AkademieRuhr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620288900.022800",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "cd134d32-e3a1-4e3e-b306-1854e47b290b",
+        "type": "message",
+        "text": "There is a Jorge Luis Borges short story in which an empire of cartography tries to create a map so exact that it has the same size of the country itself: <https:\/\/en.wikipedia.org\/wiki\/On_Exactitude_in_Science>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620293118.025000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "On Exactitude in Science",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/On_Exactitude_in_Science",
+                "from_url": "https:\/\/en.wikipedia.org\/wiki\/On_Exactitude_in_Science",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/",
+                "text": "\"On Exactitude in Science\" or \"On Rigor in Science\" (the original Spanish-language title is \"Del rigor en la ciencia\") is a one-paragraph short story written in 1946 by Jorge Luis Borges, about the map–territory relation, written in the form of a literary forgery.",
+                "fallback": "wikipedia: On Exactitude in Science",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/en.wikipedia.org\/wiki\/On_Exactitude_in_Science"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n=r+7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is a Jorge Luis Borges short story in which an empire of cartography tries to create a map so exact that it has the same size of the country itself: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/On_Exactitude_in_Science"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620293118.025000",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1620294036.026400",
+        "reply_users": [
+            "U01S1CWGTU4",
+            "U01RRV4JX6Z"
+        ],
+        "replies": [
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1620293815.025200"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620293913.025600"
+            },
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1620293936.025800"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620293994.026100"
+            },
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1620294036.026400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01S0E0MRJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":-)",
+        "files": [
+            {
+                "id": "F021SECR080",
+                "created": 1620293803,
+                "timestamp": 1620293803,
+                "name": "photo_2021-05-06_11-36-18.jpg",
+                "title": "photo_2021-05-06_11-36-18.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01S1CWGTU4",
+                "editable": false,
+                "size": 123007,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021SECR080\/photo_2021-05-06_11-36-18.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021SECR080\/download\/photo_2021-05-06_11-36-18.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021SECR080-243ed348eb\/photo_2021-05-06_11-36-18_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021SECR080-243ed348eb\/photo_2021-05-06_11-36-18_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021SECR080-243ed348eb\/photo_2021-05-06_11-36-18_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021SECR080-243ed348eb\/photo_2021-05-06_11-36-18_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021SECR080-243ed348eb\/photo_2021-05-06_11-36-18_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021SECR080-243ed348eb\/photo_2021-05-06_11-36-18_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021SECR080-243ed348eb\/photo_2021-05-06_11-36-18_800.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021SECR080-243ed348eb\/photo_2021-05-06_11-36-18_960.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021SECR080-243ed348eb\/photo_2021-05-06_11-36-18_1024.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 960,
+                "original_h": 1280,
+                "thumb_tiny": "AwAwACSpDEZH5q6sO0cYp0cYU\/hUuKAITH9KQxVPSEUAVjEKPKFTkUYoAceMGjdQ3Sm0AO3Um7mkoHWgBaKKKABjxTQaGbim\/hQA7NA69abn60oI9KAH0U3NGaAP\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S1CWGTU4\/F021SECR080\/photo_2021-05-06_11-36-18.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F021SECR080-8d8668c8ce",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wdFFq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ":-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S1CWGTU4",
+        "display_as_bot": false,
+        "ts": "1620293815.025200",
+        "thread_ts": "1620293118.025000",
+        "parent_user_id": "U01RRV4JX6Z",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01RRV4JX6Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88546da8-8bb9-4301-9a6b-9a01f92afa3f",
+        "type": "message",
+        "text": "<@U01S1CWGTU4> my favorite argentinean writer is Sabato though",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620293913.025600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+I=HZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S1CWGTU4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " my favorite argentinean writer is Sabato though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620293118.025000",
+        "parent_user_id": "U01RRV4JX6Z",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S1CWGTU4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f5491f1-f276-4114-9aea-a936b1f33b36",
+        "type": "message",
+        "text": "Borges for me is a 5000 years old  man writting",
+        "user": "U01S1CWGTU4",
+        "ts": "1620293936.025800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S1CWGTU4",
+            "ts": "1620294015.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JdO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Borges for me is a 5000 years old  man writting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620293118.025000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "dc6944c8-744a-4e0e-be7b-93be74db5bb2",
+        "type": "message",
+        "text": "He is a master in the art of making any possible fiction very credible",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620293994.026100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+z7t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He is a master in the art of making any possible fiction very credible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620293118.025000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "acdf56f0-67d2-4c42-a576-1781e646b672",
+        "type": "message",
+        "text": "yes!!!!",
+        "user": "U01S1CWGTU4",
+        "ts": "1620294036.026400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qdd9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620293118.025000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "d16c51d3-7d59-45dd-b973-e8e5e8dbca76",
+        "type": "message",
+        "text": "why do i see another boaty mcboatface episode coming …\n<https:\/\/www.theverge.com\/2021\/4\/28\/22407297\/microsoft-office-new-default-font-2022>",
+        "user": "U01RW140HBP",
+        "ts": "1620308967.027100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The Verge",
+                "title": "Microsoft is changing the default Office font and wants your help to pick a new one",
+                "title_link": "https:\/\/www.theverge.com\/2021\/4\/28\/22407297\/microsoft-office-new-default-font-2022",
+                "text": "Five new Office fonts will be battle to be Microsoft’s new default.",
+                "fallback": "The Verge: Microsoft is changing the default Office font and wants your help to pick a new one",
+                "image_url": "https:\/\/cdn.vox-cdn.com\/thumbor\/C0COX0oRTiuvBG29KR3EoO8UCgI=\/0x95:1320x786\/fit-in\/1200x630\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/22475062\/microsoftofficenewfonts.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1619614800,
+                "from_url": "https:\/\/www.theverge.com\/2021\/4\/28\/22407297\/microsoft-office-new-default-font-2022",
+                "image_bytes": 78044,
+                "service_icon": "https:\/\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/7395359\/ios-icon.0.png",
+                "id": 1,
+                "original_url": "https:\/\/www.theverge.com\/2021\/4\/28\/22407297\/microsoft-office-new-default-font-2022"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q8Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "why do i see another boaty mcboatface episode coming …\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.theverge.com\/2021\/4\/28\/22407297\/microsoft-office-new-default-font-2022"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ddce184-6531-4b7d-801f-8810f974b924",
+        "type": "message",
+        "text": "<http:\/\/trueitalian.top\/2021\/04\/20\/berlin-ice-cream-week-a-special-flavour-for-just-1e-in-31-of-the-ice-cream-parlours-of-the-city\/?fbclid=IwAR3dUIJpBAwwfm9bfe8Xa9n-k-MZADh3X2YuxzWeMVa4PEZFwbh_qkigCHY|http:\/\/trueitalian.top\/2021\/04\/20\/berlin-ice-cream-week-a-special-flavour-for-just-[…]IwAR3dUIJpBAwwfm9bfe8Xa9n-k-MZADh3X2YuxzWeMVa4PEZFwbh_qkigCHY>",
+        "user": "U01S79YDELR",
+        "ts": "1620329917.027500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "trueitalian.top - The best Italian food in Berlin",
+                "title": "Berlin Ice Cream Week, a special flavour for just 1€ in 31 of the ice cream parlours of the city",
+                "title_link": "http:\/\/trueitalian.top\/2021\/04\/20\/berlin-ice-cream-week-a-special-flavour-for-just-1e-in-31-of-the-ice-cream-parlours-of-the-city\/?fbclid=IwAR3dUIJpBAwwfm9bfe8Xa9n-k-MZADh3X2YuxzWeMVa4PEZFwbh_qkigCHY",
+                "text": "The event entirely dedicated to the best artisanal ice cream in Berlin is coming back, the Berlin Ice Cream Week 2021. Rustic yogurt with lime, mint and blackberry, buffalo ricotta with pear and spicy chocolate, asparagus ice cream, pistachio tiramisu in Sicilian cannoli, Piña Colada made with fresh fruits, orange and fennel, sorbet with primitive […]",
+                "fallback": "trueitalian.top - The best Italian food in Berlin: Berlin Ice Cream Week, a special flavour for just 1€ in 31 of the ice cream parlours of the city",
+                "thumb_url": "http:\/\/trueitalian.top\/wp-content\/uploads\/2021\/04\/ice-cream.jpg",
+                "ts": 1618928095,
+                "from_url": "http:\/\/trueitalian.top\/2021\/04\/20\/berlin-ice-cream-week-a-special-flavour-for-just-1e-in-31-of-the-ice-cream-parlours-of-the-city\/?fbclid=IwAR3dUIJpBAwwfm9bfe8Xa9n-k-MZADh3X2YuxzWeMVa4PEZFwbh_qkigCHY",
+                "thumb_width": 1920,
+                "thumb_height": 1280,
+                "service_icon": "http:\/\/trueitalian.top\/wp-content\/uploads\/2017\/10\/cropped-cropped-logo-true-italian_senza-bm-180x180.png",
+                "id": 1,
+                "original_url": "http:\/\/trueitalian.top\/2021\/04\/20\/berlin-ice-cream-week-a-special-flavour-for-just-1e-in-31-of-the-ice-cream-parlours-of-the-city\/?fbclid=IwAR3dUIJpBAwwfm9bfe8Xa9n-k-MZADh3X2YuxzWeMVa4PEZFwbh_qkigCHY"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "21KX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/trueitalian.top\/2021\/04\/20\/berlin-ice-cream-week-a-special-flavour-for-just-1e-in-31-of-the-ice-cream-parlours-of-the-city\/?fbclid=IwAR3dUIJpBAwwfm9bfe8Xa9n-k-MZADh3X2YuxzWeMVa4PEZFwbh_qkigCHY",
+                                "text": "http:\/\/trueitalian.top\/2021\/04\/20\/berlin-ice-cream-week-a-special-flavour-for-just-[…]IwAR3dUIJpBAwwfm9bfe8Xa9n-k-MZADh3X2YuxzWeMVa4PEZFwbh_qkigCHY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620329917.027500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1620370328.001900",
+        "reply_users": [
+            "U01S0E0MRJ7"
+        ],
+        "replies": [
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1620370328.001900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S0E0MRJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Pretty sure I should invest now, right? :stuck_out_tongue_closed_eyes:",
+        "files": [
+            {
+                "id": "F021KA05HEV",
+                "created": 1620369065,
+                "timestamp": 1620369065,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RN7BVD1C",
+                "editable": false,
+                "size": 1913817,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021KA05HEV\/image_from_ios.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021KA05HEV\/download\/image_from_ios.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021KA05HEV-2d2481aa83\/image_from_ios_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021KA05HEV-2d2481aa83\/image_from_ios_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021KA05HEV-2d2481aa83\/image_from_ios_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021KA05HEV-2d2481aa83\/image_from_ios_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021KA05HEV-2d2481aa83\/image_from_ios_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021KA05HEV-2d2481aa83\/image_from_ios_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021KA05HEV-2d2481aa83\/image_from_ios_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021KA05HEV-2d2481aa83\/image_from_ios_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021KA05HEV-2d2481aa83\/image_from_ios_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 828,
+                "original_h": 1792,
+                "thumb_tiny": "AwAwABbQ6HoaXPsaacZPTr\/epVbtwB\/vUAL3paAQTwQaWgBhkjyQXUHvzTBJFuI3Lx\/tVnsEe9kVjgl6IdryBDGDnjPQ4oGkaiujHCspPsadVCzTy7yVPRc5q\/QIjMKbywVdx77RUahGfCgZH+zUx7mkyp\/i\/WgBVQBi2BuPGcU6kHFLmgD\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RN7BVD1C\/F021KA05HEV\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F021KA05HEV-42e4189157",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dSZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pretty sure I should invest now, right? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_closed_eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RN7BVD1C",
+        "display_as_bot": false,
+        "ts": "1620369118.000900",
+        "client_msg_id": "F2F0C7AD-D8DD-4384-98F4-0B0C78284E41",
+        "thread_ts": "1620369118.000900",
+        "reply_count": 14,
+        "reply_users_count": 5,
+        "latest_reply": "1620550901.001000",
+        "reply_users": [
+            "U01RRV4JX6Z",
+            "U01S7KCL3DF",
+            "U01SJKB2MG8",
+            "U01S7BM4N81",
+            "U01RN7BVD1C"
+        ],
+        "replies": [
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620369553.001000"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620370002.001300"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620370139.001500"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1620371285.002100"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1620371322.002300"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620387285.016200"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1620394410.019200"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620394646.019600"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620394689.019800"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1620395034.020000"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620395365.020200"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620395378.020400"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620549086.000400"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620550901.001000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01S0E0MRJ7",
+                    "U01SJKB2MG8",
+                    "U01S7BM4N81"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0213KKHQ8M",
+                "created": 1620369551,
+                "timestamp": 1620369551,
+                "name": "N5rPzATkYWrqmCjbFR_zSCa81WfcgkHzyF8oFpbPQtI.jpg",
+                "title": "N5rPzATkYWrqmCjbFR_zSCa81WfcgkHzyF8oFpbPQtI.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01RRV4JX6Z",
+                "editable": false,
+                "size": 164016,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0213KKHQ8M\/n5rpzatkywrqmcjbfr_zsca81wfcgkhzyf8ofpbpqti.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0213KKHQ8M\/download\/n5rpzatkywrqmcjbfr_zsca81wfcgkhzyf8ofpbpqti.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0213KKHQ8M-9c38088ed8\/n5rpzatkywrqmcjbfr_zsca81wfcgkhzyf8ofpbpqti_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0213KKHQ8M-9c38088ed8\/n5rpzatkywrqmcjbfr_zsca81wfcgkhzyf8ofpbpqti_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0213KKHQ8M-9c38088ed8\/n5rpzatkywrqmcjbfr_zsca81wfcgkhzyf8ofpbpqti_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 332,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0213KKHQ8M-9c38088ed8\/n5rpzatkywrqmcjbfr_zsca81wfcgkhzyf8ofpbpqti_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 443,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0213KKHQ8M-9c38088ed8\/n5rpzatkywrqmcjbfr_zsca81wfcgkhzyf8ofpbpqti_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0213KKHQ8M-9c38088ed8\/n5rpzatkywrqmcjbfr_zsca81wfcgkhzyf8ofpbpqti_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 665,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0213KKHQ8M-9c38088ed8\/n5rpzatkywrqmcjbfr_zsca81wfcgkhzyf8ofpbpqti_800.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 738,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0213KKHQ8M-9c38088ed8\/n5rpzatkywrqmcjbfr_zsca81wfcgkhzyf8ofpbpqti_960.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 886,
+                "original_w": 960,
+                "original_h": 886,
+                "thumb_tiny": "AwAsADDR2qeoGcUbFHYUwBvMJ7YpR\/tN19OKAHbU\/uimkIBnaKaJF37cEcdccU7zFHXIx7UANIBU7APr0pmdhwzAN7UvnNk5HAbFBHzZDDgemf1oAbO8yk+XGGGBjmo5mutrLDDjnhsjpUpHJJ2Fu3anxLyXYDPbBoArB7wsp8joDkEjk1HIL90x5e0nqQQK0Q2RxQc+uKAKKRTq+SpO4c4boal8okAnPBzxT5FXksCdo6imjYWBKsAOmeKAIGY+YRk\/KPTpz\/kVK0yRk5JUdmPQ1XmjBj25IGe3elljDwEHttA9uKAJZbiJXRC2WzT\/ALQjRMTIMDrWd9mT1al8hdpXc2DQBoKQAO7etPQlmLEEc4\/Cogv7lcMQSnaoVd1TaHbtyevWgD\/\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RRV4JX6Z\/F0213KKHQ8M\/n5rpzatkywrqmcjbfr_zsca81wfcgkhzyf8ofpbpqti.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F0213KKHQ8M-d7665352bf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RRV4JX6Z",
+        "display_as_bot": false,
+        "ts": "1620369553.001000",
+        "thread_ts": "1620369118.000900",
+        "parent_user_id": "U01RN7BVD1C",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01RN7BVD1C",
+                    "U01SJKB2MG8",
+                    "U01S7BM4N81"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ba1c417-2cdd-4911-be99-7618f25e8713",
+        "type": "message",
+        "text": "Nah the cool kids are on Dogecoin now :stonks: :cool-doge:",
+        "user": "U01S7KCL3DF",
+        "ts": "1620370002.001300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D5i7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nah the cool kids are on Dogecoin now "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stonks"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cool-doge"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620369118.000900",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "bd916ded-e3e9-4263-97e8-66a1fd3d1b01",
+        "type": "message",
+        "text": "But seriously, my impression it that these days it is not easy at all to make money on financial markets, unless you have a really large asset base and\/or have acesss to insider information. That's why other markets, such as land or housing, are so  heated these days. There the returns are much larger.",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620370139.001500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kW734",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But seriously, my impression it that these days it is not easy at all to make money on financial markets, unless you have a really large asset base and\/or have acesss to insider information. That's why other markets, such as land or housing, are so  heated these days. There the returns are much larger."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620369118.000900",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "3fb5c6ce-b837-49a0-9c00-f6ea02d05430",
+        "type": "message",
+        "text": "i think im the only person on this planet that doesnt like icecream :laughing:",
+        "user": "U01S0E0MRJ7",
+        "ts": "1620370328.001900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xY\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think im the only person on this planet that doesnt like icecream "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620329917.027500",
+        "parent_user_id": "U01S79YDELR"
+    }
+]

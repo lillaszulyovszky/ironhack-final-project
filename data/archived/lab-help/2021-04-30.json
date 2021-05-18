@@ -1,0 +1,1283 @@
+[
+    {
+        "type": "message",
+        "text": "Hey, yesterday I tried this lab <https:\/\/github.com\/ta-data-bcn\/lab-intro-to-scipy\/blob\/master\/your-code\/main.ipynb|here> and the task seen in the screenshot came up.\nI tried solving this pandas.apply and lambda but it took my computer a minute to resolve this, while np.where only took a few seconds. Does anyone know what I have to google to get to know more about this? <@U01SJKB2MG8> <@U01RSRE0N3D>? :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F020F12QPD3",
+                "created": 1619769790,
+                "timestamp": 1619769790,
+                "name": "Bildschirmfoto 2021-04-30 um 10.03.02.png",
+                "title": "Bildschirmfoto 2021-04-30 um 10.03.02.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7BM4N81",
+                "editable": false,
+                "size": 98040,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020F12QPD3\/bildschirmfoto_2021-04-30_um_10.03.02.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020F12QPD3\/download\/bildschirmfoto_2021-04-30_um_10.03.02.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F12QPD3-ea4a865bc0\/bildschirmfoto_2021-04-30_um_10.03.02_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F12QPD3-ea4a865bc0\/bildschirmfoto_2021-04-30_um_10.03.02_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F12QPD3-ea4a865bc0\/bildschirmfoto_2021-04-30_um_10.03.02_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 105,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F12QPD3-ea4a865bc0\/bildschirmfoto_2021-04-30_um_10.03.02_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 140,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F12QPD3-ea4a865bc0\/bildschirmfoto_2021-04-30_um_10.03.02_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F12QPD3-ea4a865bc0\/bildschirmfoto_2021-04-30_um_10.03.02_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 211,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F12QPD3-ea4a865bc0\/bildschirmfoto_2021-04-30_um_10.03.02_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 234,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F12QPD3-ea4a865bc0\/bildschirmfoto_2021-04-30_um_10.03.02_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 281,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020F12QPD3-ea4a865bc0\/bildschirmfoto_2021-04-30_um_10.03.02_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 300,
+                "original_w": 1247,
+                "original_h": 365,
+                "thumb_tiny": "AwAOADDRbOOKQbj3pXG4YzimeX\/tGgB2G9aMN60gj9WNL5Y9W\/OgBQG9qUZzzim+WPVvzpVQA5yfzoA\/\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7BM4N81\/F020F12QPD3\/bildschirmfoto_2021-04-30_um_10.03.02.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020F12QPD3-9edc0154b3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KKsq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, yesterday I tried this lab "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ta-data-bcn\/lab-intro-to-scipy\/blob\/master\/your-code\/main.ipynb",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and the task seen in the screenshot came up.\nI tried solving this pandas.apply and lambda but it took my computer a minute to resolve this, while np.where only took a few seconds. Does anyone know what I have to google to get to know more about this? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RSRE0N3D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S7BM4N81",
+        "display_as_bot": false,
+        "ts": "1619769807.017300",
+        "thread_ts": "1619769807.017300",
+        "reply_count": 13,
+        "reply_users_count": 3,
+        "latest_reply": "1619780758.020600",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01S7BM4N81",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619770016.017500"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619770060.017700"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619770106.017900"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619770128.018100"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619770141.018400"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619770164.018600"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619770220.018800"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619770222.019000"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619770247.019200"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619770330.019400"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1619771759.019700"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1619771875.020000"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619780758.020600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1619780758.020600"
+    },
+    {
+        "client_msg_id": "8db7c7da-3a68-4d32-8bf1-29bef287487c",
+        "type": "message",
+        "text": "to know more about the timing difference or about where function?",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619770016.017500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "no20",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to know more about the timing difference or about where function?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619769807.017300",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "a9cd737f-d0fa-4e3f-a545-ff19386ce672",
+        "type": "message",
+        "text": "timing difference, I feel comfortable with np.where :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1619770060.017700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EfD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "timing difference, I feel comfortable with np.where "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619769807.017300",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "86abd05d-c8be-4a5b-9787-4a278cb6a952",
+        "type": "message",
+        "text": "I was under the impression that applying a function should be quicker than going with np.where ^^",
+        "user": "U01S7BM4N81",
+        "ts": "1619770106.017900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "au0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was under the impression that applying a function should be quicker than going with np.where ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619769807.017300",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "e56abaab-b976-4d5b-9c03-25fefe829220",
+        "type": "message",
+        "text": "<https:\/\/engineering.upside.com\/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6>",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619770128.018100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "A Beginner’s Guide to Optimizing Pandas Code for Speed",
+                "title_link": "https:\/\/engineering.upside.com\/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6",
+                "text": "If you’ve done any data analysis in Python, you’ve probably run across Pandas, a fantastic analytics library written by Wes McKinney. By…",
+                "fallback": "Medium: A Beginner’s Guide to Optimizing Pandas Code for Speed",
+                "image_url": "https:\/\/miro.medium.com\/max\/1030\/1*p4zjrqG97C4bFmOXU5UQog.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "9 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1524115060,
+                "from_url": "https:\/\/engineering.upside.com\/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6",
+                "image_width": 628,
+                "image_height": 250,
+                "image_bytes": 53433,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/engineering.upside.com\/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QPeCJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/engineering.upside.com\/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619769807.017300",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "d97c2f53-dd20-4235-b24f-889bf4a676a5",
+        "type": "message",
+        "text": "they speak here about applying functions in a loop",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619770141.018400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0N\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they speak here about applying functions in a loop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619769807.017300",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "fd6fe39e-78b9-4c2d-b6e3-e493b49bad3a",
+        "type": "message",
+        "text": "how much slower it is than using a method on the series, i read another article but i can't find it",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619770164.018600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N7dV0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how much slower it is than using a method on the series, i read another article but i can't find it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619769807.017300",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "2afc6ea2-966a-4523-b545-a4bcd6456c0a",
+        "type": "message",
+        "text": "Thanks, that gives me a googling starting point :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1619770220.018800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x6AG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, that gives me a googling starting point "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619769807.017300",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "8d6a6cdf-5fc0-47c9-b065-4405971f5afc",
+        "type": "message",
+        "text": "you can time the execution of functions with %timeit, there is another function that would execute the command several times and return an average, in order to optimize code, haven't tried it much but seems interessant",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619770222.019000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Irf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can time the execution of functions with %timeit, there is another function that would execute the command several times and return an average, in order to optimize code, haven't tried it much but seems interessant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619769807.017300",
+        "parent_user_id": "U01S7BM4N81",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U01SJKB2MG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5d7ea74-25da-4e56-9ee6-f712fffaa3e1",
+        "type": "message",
+        "text": "“choose the right tool for the job” - would be interesting to see the differences!",
+        "user": "U01S7BM4N81",
+        "ts": "1619770247.019200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5b9c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“choose the right tool for the job” - would be interesting to see the differences!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619769807.017300",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "e9523343-90a1-4296-bb5c-b90587765071",
+        "type": "message",
+        "text": "yeah indeed",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619770330.019400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BF=aY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah indeed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619769807.017300",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "b9be5e6a-33b7-4107-bc63-1f8adc646d2c",
+        "type": "message",
+        "text": "it comes down to *vectorized* operations (numpy, which does operations always on every element of the array *at once*) vs. some non vectorized ones in pandas. Although pandas builds heavily on numpy, meaning it benefits from that, there are certain ways you can use their API in which you accidentally loose this speed advantage... maybe with that `apply()` you have found one",
+        "user": "U01SJKB2MG8",
+        "ts": "1619771759.019700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SJKB2MG8",
+            "ts": "1619771921.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9EO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it comes down to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "vectorized",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " operations (numpy, which does operations always on every element of the array "
+                            },
+                            {
+                                "type": "text",
+                                "text": "at once",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") vs. some non vectorized ones in pandas. Although pandas builds heavily on numpy, meaning it benefits from that, there are certain ways you can use their API in which you accidentally loose this speed advantage... maybe with that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "apply()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " you have found one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619769807.017300",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "46afdfae-6a08-42de-ae94-ae8cbfa24c2f",
+        "type": "message",
+        "text": "Due to that reason, sometimes you see notebooks in which programmers try to use numpy as long as they can (to generate features for example), and only use pandas if they really have to - especially when it's about calculating with big datasets",
+        "user": "U01SJKB2MG8",
+        "ts": "1619771875.020000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fMU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Due to that reason, sometimes you see notebooks in which programmers try to use numpy as long as they can (to generate features for example), and only use pandas if they really have to - especially when it's about calculating with big datasets"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619769807.017300",
+        "parent_user_id": "U01S7BM4N81",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "881b1e69-4886-4985-a7eb-d241d0739ce6",
+        "type": "message",
+        "text": "thanks flo!",
+        "user": "U01S7BM4N81",
+        "ts": "1619780758.020600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G0S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks flo!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619769807.017300",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "02fa6984-6748-4fc2-b3e7-3aabb5cb2a5b",
+        "type": "message",
+        "text": "The tableau lab for today is the same as monday's . Is that correct?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619785050.021100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "32kQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The tableau lab for today is the same as monday's . Is that correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "add06a93-1a36-44d0-95c9-7c2bc99975c6",
+        "type": "message",
+        "text": "yes it was in case you wanted to have a go at the AB test using the data from that lab",
+        "user": "U01RW140HBP",
+        "ts": "1619791323.021500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fI\/C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes it was in case you wanted to have a go at the AB test using the data from that lab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc4f441b-63c0-4d2c-8477-df549d71a2e3",
+        "type": "message",
+        "text": "ive updated the language on it - completely optional",
+        "user": "U01RW140HBP",
+        "ts": "1619791407.021800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dkaCA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ive updated the language on it - completely optional"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8c6330c-4dee-4a3f-858b-3918ad0b1b81",
+        "type": "message",
+        "text": "its the only AB data i have !",
+        "user": "U01RW140HBP",
+        "ts": "1619791414.022000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hwUI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its the only AB data i have !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3ad8b7f-1e4b-496d-ab2e-7b0d3a5f3034",
+        "type": "message",
+        "text": "Because I was going through it and i realized that I had already done that :)",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619791439.022500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5+vw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because I was going through it and i realized that I had already done that :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619791439.022500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1619791488.022600",
+        "reply_users": [
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619791488.022600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0c9f8036-4705-4049-a6c4-a0eae35743ec",
+        "type": "message",
+        "text": "haha groundhog day! sorry about that",
+        "user": "U01RW140HBP",
+        "ts": "1619791488.022600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zqm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha groundhog day! sorry about that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619791439.022500",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "type": "message",
+        "text": "what witchcraft is this :joy:   …. i used ‘if’ and ‘else’ which apparently is excessive…. this python operator ‘in’ in the brackets pulls out booleans? :exploding_head:",
+        "files": [
+            {
+                "id": "F020YH6ULD7",
+                "created": 1619800869,
+                "timestamp": 1619800869,
+                "name": "Screenshot 2021-04-30 at 18.39.15.png",
+                "title": "Screenshot 2021-04-30 at 18.39.15.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7KCL3DF",
+                "editable": false,
+                "size": 50405,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020YH6ULD7\/screenshot_2021-04-30_at_18.39.15.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020YH6ULD7\/download\/screenshot_2021-04-30_at_18.39.15.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YH6ULD7-cca6156a9f\/screenshot_2021-04-30_at_18.39.15_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YH6ULD7-cca6156a9f\/screenshot_2021-04-30_at_18.39.15_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YH6ULD7-cca6156a9f\/screenshot_2021-04-30_at_18.39.15_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 129,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YH6ULD7-cca6156a9f\/screenshot_2021-04-30_at_18.39.15_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 172,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YH6ULD7-cca6156a9f\/screenshot_2021-04-30_at_18.39.15_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YH6ULD7-cca6156a9f\/screenshot_2021-04-30_at_18.39.15_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 258,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YH6ULD7-cca6156a9f\/screenshot_2021-04-30_at_18.39.15_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 287,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YH6ULD7-cca6156a9f\/screenshot_2021-04-30_at_18.39.15_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 344,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020YH6ULD7-cca6156a9f\/screenshot_2021-04-30_at_18.39.15_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 367,
+                "original_w": 1037,
+                "original_h": 372,
+                "thumb_tiny": "AwARADDRakx7UrdQKXb70ANx7Uo+hpcUYoAM+xoz7GjFGKAFooooAKKKKACiiigD\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7KCL3DF\/F020YH6ULD7\/screenshot_2021-04-30_at_18.39.15.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020YH6ULD7-023e4ed7e8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H060y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what witchcraft is this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "   …. i used ‘if’ and ‘else’ which apparently is excessive…. this python operator ‘in’ in the brackets pulls out booleans? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S7KCL3DF",
+        "display_as_bot": false,
+        "ts": "1619801003.024000",
+        "thread_ts": "1619801003.024000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1619802835.026600",
+        "reply_users": [
+            "U01RW2X7S9Z"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619802835.026600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1619801185.025500",
+        "thread_ts": "1619801185.025500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1619801938.026400",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01S79YDELR"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619801242.026200"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1619801938.026400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c1495a1e-df36-46f7-a21c-d00ea6a61c10",
+        "type": "message",
+        "text": "ok bom descanso ai!",
+        "user": "U01S7KCL3DF",
+        "ts": "1619801242.026200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3bt9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok bom descanso ai!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619801185.025500",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "4654e5f8-8656-44fa-b8b3-a7a79673b1a8",
+        "type": "message",
+        "text": "Thanks",
+        "user": "U01S79YDELR",
+        "ts": "1619801938.026400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5HAn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619801185.025500",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "d8ee258a-5954-4e7b-b2ff-a59bf720bbd7",
+        "type": "message",
+        "text": "yea we normally use it inside the if statement, if letter in tuple: do something.. that letter in tuple has to be true or false to do the thing, so technically you can print it directly :smile:",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619802835.026600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eT=P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea we normally use it inside the if statement, if letter in tuple: do something.. that letter in tuple has to be true or false to do the thing, so technically you can print it directly "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619801003.024000",
+        "parent_user_id": "U01S7KCL3DF"
+    }
+]

@@ -59,6 +59,13 @@
             "created": 1617778896,
             "user": "U01RW2X7S9Z",
             "owner": "U01RW140HBP"
+        },
+        {
+            "id": "1620751611.034700",
+            "type": "C",
+            "created": 1620753048,
+            "user": "U01S7KCL3DF",
+            "owner": "U01S0MFJ3HR"
         }
     ],
     "topic": {
@@ -69,7 +76,7 @@
     "purpose": {
         "value": ":zoom: classroom:\n<https:\/\/zoom.us\/j\/877626245>\npw: 986565",
         "creator": "U01S7BM4N81",
-        "last_set": 1618672219
+        "last_set": 1620658980
     }
 },
 {
@@ -109,7 +116,8 @@
         "U01S85M3UCV",
         "U01SD3CDH9P",
         "U01SJKB2MG8",
-        "U01SK96QF5E"
+        "U01SK96QF5E",
+        "U021Y1G0E9X"
     ],
     "topic": {
         "value": "",
@@ -406,6 +414,15 @@
         "U01SJKB2MG8",
         "U01SK96QF5E"
     ],
+    "pins": [
+        {
+            "id": "1620891763.002000",
+            "type": "C",
+            "created": 1620892771,
+            "user": "U01RSRE0N3D",
+            "owner": "U01RW140HBP"
+        }
+    ],
     "topic": {
         "value": "Have the list of Katas we did and the solutions here: <https:\/\/www.notion.so\/ironhack\/f04376c779aa462793d49e927acd2f9b?v=b1f5bff5716c4915be65ce410a9d1166>",
         "creator": "U01SJKB2MG8",
@@ -574,7 +591,8 @@
         "U01S79YDELR",
         "U01S7KCL3DF",
         "U01SD3CDH9P",
-        "U01SJKB2MG8"
+        "U01SJKB2MG8",
+        "U01SK96QF5E"
     ],
     "topic": {
         "value": "",
@@ -674,6 +692,54 @@
         "value": "",
         "creator": "",
         "last_set": 0
+    }
+},
+{
+    "id": "C021L0JKMT9",
+    "name": "rogue-one",
+    "created": 1621090126,
+    "creator": "U01SJKB2MG8",
+    "is_archived": false,
+    "is_general": false,
+    "members": [],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "Flo's week9 standup group",
+        "creator": "U01SJKB2MG8",
+        "last_set": 1621090127
+    }
+},
+{
+    "id": "C0221J5DTT4",
+    "name": "rogue-squadron",
+    "created": 1621173003,
+    "creator": "U01SJKB2MG8",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U01RRV4JX6Z",
+        "U01RV3K524T",
+        "U01RVSTNRRT",
+        "U01S0P26NKD",
+        "U01S79YDELR",
+        "U01S7BM4N81",
+        "U01S7KCL3DF",
+        "U01SJKB2MG8",
+        "U01SK96QF5E"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "Flo's standup group for the final projects",
+        "creator": "U01SJKB2MG8",
+        "last_set": 1621173004
     }
 }
 ]

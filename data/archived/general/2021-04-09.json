@@ -1,0 +1,2438 @@
+[
+    {
+        "client_msg_id": "afc79bd8-b8a5-4fe9-8802-65187d51369f",
+        "type": "message",
+        "text": "<!channel>,\nMiro board: <https:\/\/miro.com\/app\/board\/o9J_lKiEQO4=\/>",
+        "user": "U01SJKB2MG8",
+        "ts": "1617951852.017700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "https:\/\/miro.com\/",
+                "title": "Miro: the collaborative whiteboard platform for distributed teams",
+                "title_link": "https:\/\/miro.com\/app\/board\/o9J_lKiEQO4=\/",
+                "text": "Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 10M+ users from around the world",
+                "fallback": "https:\/\/miro.com\/: Miro: the collaborative whiteboard platform for distributed teams",
+                "image_url": "https:\/\/miro.com\/static\/images\/share\/miro.png?00002",
+                "from_url": "https:\/\/miro.com\/app\/board\/o9J_lKiEQO4=\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 5801,
+                "service_icon": "https:\/\/miro.com\/static\/favicons\/apple-touch-icon.png?v=00zdoEw6N6",
+                "id": 1,
+                "original_url": "https:\/\/miro.com\/app\/board\/o9J_lKiEQO4=\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3oV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nMiro board: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/miro.com\/app\/board\/o9J_lKiEQO4=\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e47ce781-9818-4eab-92da-55f61b668249",
+        "type": "message",
+        "text": "<!here> extra 5 mins break\/ chat time for the students, we need a bit longer with the miro board sorreeeeeyyy!",
+        "user": "U01RW140HBP",
+        "ts": "1617955499.019000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S0p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " extra 5 mins break\/ chat time for the students, we need a bit longer with the miro board sorreeeeeyyy!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!channel>,\nwhile we discuss, you can fill out the weekly survey in your student portal :morning-sunshine:",
+        "files": [
+            {
+                "id": "F01TL2LQPRC",
+                "created": 1617955505,
+                "timestamp": 1617955505,
+                "name": "obi_wan_weekly_survey.jpg",
+                "title": "obi_wan_weekly_survey.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01SJKB2MG8",
+                "editable": false,
+                "size": 41122,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TL2LQPRC\/obi_wan_weekly_survey.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TL2LQPRC\/download\/obi_wan_weekly_survey.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TL2LQPRC-246d54369a\/obi_wan_weekly_survey_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TL2LQPRC-246d54369a\/obi_wan_weekly_survey_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TL2LQPRC-246d54369a\/obi_wan_weekly_survey_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 171,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TL2LQPRC-246d54369a\/obi_wan_weekly_survey_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 228,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TL2LQPRC-246d54369a\/obi_wan_weekly_survey_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 500,
+                "original_h": 238,
+                "thumb_tiny": "AwAWADBsTRuQPKXB681YaBY8u6KABwQaohWQZP3T2pZJmlTaWY4HFFxkjXgBB8s+n3u1SAhV80LyByNxqjg8Bux61cLhVOSDu6UhotxnzYg+Rz2qtPsR2BiB\/GmK8sMXyyfL6EVE0jyHk7jQJjkcrnIVs+op\/nccxp19KiopiHmXOf3ac+1Hmnj93Hx\/s0yigCVWaQNlYyPQilZSQPlRcegoh6NT\/wCGgD\/\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SJKB2MG8\/F01TL2LQPRC\/obi_wan_weekly_survey.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TL2LQPRC-5faa2af6a6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4dl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nwhile we discuss, you can fill out the weekly survey in your student portal "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "morning-sunshine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01SJKB2MG8",
+        "display_as_bot": false,
+        "ts": "1617955510.019200"
+    },
+    {
+        "type": "message",
+        "text": "Survey is not there yet, but this happened :open_mouth:",
+        "files": [
+            {
+                "id": "F01TSRLBFH8",
+                "created": 1617955547,
+                "timestamp": 1617955547,
+                "name": "Bildschirmfoto 2021-04-09 um 10.05.44.png",
+                "title": "Bildschirmfoto 2021-04-09 um 10.05.44.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7BM4N81",
+                "editable": false,
+                "size": 14644,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TSRLBFH8\/bildschirmfoto_2021-04-09_um_10.05.44.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TSRLBFH8\/download\/bildschirmfoto_2021-04-09_um_10.05.44.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TSRLBFH8-ad23b556f6\/bildschirmfoto_2021-04-09_um_10.05.44_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TSRLBFH8-ad23b556f6\/bildschirmfoto_2021-04-09_um_10.05.44_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TSRLBFH8-ad23b556f6\/bildschirmfoto_2021-04-09_um_10.05.44_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 144,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TSRLBFH8-ad23b556f6\/bildschirmfoto_2021-04-09_um_10.05.44_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 192,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TSRLBFH8-ad23b556f6\/bildschirmfoto_2021-04-09_um_10.05.44_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TSRLBFH8-ad23b556f6\/bildschirmfoto_2021-04-09_um_10.05.44_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 289,
+                "original_w": 731,
+                "original_h": 293,
+                "thumb_tiny": "AwATADDTJA6nFJuX1H50EZFJs9\/0FADqKbg\/3j+lOoAKKKKACiiigAooooAKKKKAP\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7BM4N81\/F01TSRLBFH8\/bildschirmfoto_2021-04-09_um_10.05.44.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TSRLBFH8-7b9f03295e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NueqT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Survey is not there yet, but this happened "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "open_mouth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S7BM4N81",
+        "display_as_bot": false,
+        "ts": "1617955555.019500",
+        "thread_ts": "1617955555.019500",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1617967378.024100",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01S7KCL3DF",
+            "U01S7BM4N81",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617955629.020000"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617955740.020200"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617955940.020500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617956013.020700"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617956214.021100"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617967378.024100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "mortar_board",
+                "users": [
+                    "U01SJKB2MG8",
+                    "U01S1CWGTU4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "grin",
+                "users": [
+                    "U01SJKB2MG8",
+                    "U01RN7BVD1C"
+                ],
+                "count": 2
+            },
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U01SJKB2MG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "040369ed-0acc-4ecf-ae30-847eccd78305",
+        "type": "message",
+        "text": "Let's go!",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617955629.020000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7kw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's go!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617955555.019500",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "defa32d8-4e3b-498d-b7f7-7a2b213abc4e",
+        "type": "message",
+        "text": "CONGRATULATIONS THAMO :partying_face:  :confetti_ball:",
+        "user": "U01S7KCL3DF",
+        "ts": "1617955740.020200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B2I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CONGRATULATIONS THAMO "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partying_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confetti_ball"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617955555.019500",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "bb039db7-419d-4d0a-a2a6-85ed250626d2",
+        "type": "message",
+        "text": "More sleep for me folks :tada:",
+        "user": "U01S7BM4N81",
+        "ts": "1617955940.020500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xZFt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "More sleep for me folks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617955555.019500",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "9c4821bc-b1ff-4556-85a4-26705289af04",
+        "type": "message",
+        "text": "there are more labs for next units to be published on studio… dont get too excited",
+        "user": "U01RW140HBP",
+        "ts": "1617956013.020700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+YZm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there are more labs for next units to be published on studio… dont get too excited"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617955555.019500",
+        "parent_user_id": "U01S7BM4N81",
+        "reactions": [
+            {
+                "name": "crying_cat_face",
+                "users": [
+                    "U01S7KCL3DF",
+                    "U01S7BM4N81",
+                    "U01RRV4JX6Z"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63ddfe45-3663-479d-badd-ff4c80b22769",
+        "type": "message",
+        "text": "rollercoaster of emotions",
+        "user": "U01S7BM4N81",
+        "ts": "1617956214.021100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WnkE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rollercoaster of emotions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617955555.019500",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "ae6e5165-5134-4e16-bf79-aaeda826b400",
+        "type": "message",
+        "text": "If anyone wants to team up on the lab, drop a hint below :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1617966649.021700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pQ0z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If anyone wants to team up on the lab, drop a hint below "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617966649.021700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617966874.021800",
+        "reply_users": [
+            "U01S0P26NKD"
+        ],
+        "replies": [
+            {
+                "user": "U01S0P26NKD",
+                "ts": "1617966874.021800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e6f3eb35-76c3-4708-8707-bf23cdecea02",
+        "type": "message",
+        "text": ":hand:",
+        "user": "U01S0P26NKD",
+        "ts": "1617966874.021800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7b30129d02b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b30129d02bcacd7eef985bfd5432c73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Jennipher Kasemire",
+            "display_name": "Jennipher Kasemire",
+            "team": "T01RBRV5F7H",
+            "name": "jennipherkasemire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LnTp\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617966649.021700",
+        "parent_user_id": "U01S7BM4N81",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57c59c71-d1af-4e75-8326-4acf7d78de93",
+        "type": "message",
+        "text": "class notebook is on notion under the lecture python sql connection, lab jupyter notebook updated to remove my typo, thanks Thamo!",
+        "user": "U01RW140HBP",
+        "ts": "1617966935.022700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fgc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "class notebook is on notion under the lecture python sql connection, lab jupyter notebook updated to remove my typo, thanks Thamo!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617966935.022700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617975097.029400",
+        "reply_users": [
+            "U01RXCQHMHT"
+        ],
+        "replies": [
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1617975097.029400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7d7026bb-11cb-4925-9eaa-c56ceda3a7a1",
+        "type": "message",
+        "text": "ok so the remote version of mysql on <https:\/\/relational.fit.cvut.cz\/dataset\/Stats> is now up and running, so either lab can be done - the first one (on stack overflow) will be more advanced and use an unfamiliar data set) so for an easier ride, go for option 2 (sakila\/harry potter \/ bank )",
+        "user": "U01RW140HBP",
+        "ts": "1617967274.024000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d=E5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok so the remote version of mysql on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/relational.fit.cvut.cz\/dataset\/Stats"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is now up and running, so either lab can be done - the first one (on stack overflow) will be more advanced and use an unfamiliar data set) so for an easier ride, go for option 2 (sakila\/harry potter \/ bank )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U01SD3CDH9P",
+                    "U01RXCQHMHT"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d20e8e58-41e6-4192-bb82-d45bfd1bc7f3",
+        "type": "message",
+        "text": "it is indeed. welcome to bootcamp living",
+        "user": "U01RW140HBP",
+        "ts": "1617967378.024100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Amv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it is indeed. welcome to bootcamp living"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617955555.019500",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "685c35f7-3ba1-419d-824d-8b5228baeb63",
+        "type": "message",
+        "text": "<!channel>,\n:microscope: long awaited sample solution for the Linear Regression ML lab is <https:\/\/github.com\/student-IH-labs-and-stuff\/BER-DAFT-MAR21\/blob\/main\/Solutions\/unit2\/day5\/lab-customer-analysis-linear-regression\/Customer_Analysis_Linear_Regression.ipynb|online>\nI added a bit more explaining content near the end - about the linear model and the R². Nothing you would include in a data analysis in the field of course",
+        "user": "U01SJKB2MG8",
+        "ts": "1617968285.026200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SJKB2MG8",
+            "ts": "1617970945.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+OCO\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "microscope"
+                            },
+                            {
+                                "type": "text",
+                                "text": " long awaited sample solution for the Linear Regression ML lab is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/student-IH-labs-and-stuff\/BER-DAFT-MAR21\/blob\/main\/Solutions\/unit2\/day5\/lab-customer-analysis-linear-regression\/Customer_Analysis_Linear_Regression.ipynb",
+                                "text": "online"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI added a bit more explaining content near the end - about the linear model and the R². Nothing you would include in a data analysis in the field of course"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7BM4N81",
+                    "U01SD3CDH9P",
+                    "U01S081EULS",
+                    "U01RN7BVD1C"
+                ],
+                "count": 4
+            },
+            {
+                "name": "fast_parrot",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea823baf-f8e7-4125-bb00-75f798a183ff",
+        "type": "message",
+        "text": "<https:\/\/mystery.knightlab.com\/>",
+        "user": "U01RW140HBP",
+        "ts": "1617970484.026900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Knight Lab's SQL Murder Mystery",
+                "title": "SQL Murder Mystery",
+                "title_link": "https:\/\/mystery.knightlab.com\/",
+                "text": "Use SQL queries to solve the murder mystery. Suitable for beginners or experienced SQL sleuths.",
+                "fallback": "Knight Lab's SQL Murder Mystery: SQL Murder Mystery",
+                "image_url": "http:\/\/mystery.knightlab.com\/174092-clue-illustration.png",
+                "from_url": "https:\/\/mystery.knightlab.com\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 84913,
+                "service_icon": "https:\/\/cdn.knightlab.com\/libs\/orangeline\/0.1.1\/assets\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/mystery.knightlab.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "phqyT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mystery.knightlab.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9f6db5d-ce44-42e1-be09-a2c39acd5173",
+        "type": "message",
+        "text": "how many people \/groups found the murderer?",
+        "user": "U01RW140HBP",
+        "ts": "1617974054.027700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wcj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how many people \/groups found the murderer?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617974054.027700",
+        "reply_count": 10,
+        "reply_users_count": 4,
+        "latest_reply": "1617976883.030100",
+        "reply_users": [
+            "U01RW140HBP",
+            "U01S7KCL3DF",
+            "U01S0E0MRJ7",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617974117.027800"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617974213.028000"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617974226.028300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617974283.028500"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1617974446.028800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617974592.029000"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1617975047.029200"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1617976794.029600"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617976867.029900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617976883.030100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01TD39SC5D",
+                "created": 1617974103,
+                "timestamp": 1617974103,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 44116,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TD39SC5D\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TD39SC5D\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TD39SC5D-cb46390b57\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TD39SC5D-cb46390b57\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TD39SC5D-cb46390b57\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 57,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TD39SC5D-cb46390b57\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 76,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TD39SC5D-cb46390b57\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TD39SC5D-cb46390b57\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 114,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TD39SC5D-cb46390b57\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 126,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TD39SC5D-cb46390b57\/image_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 152,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TD39SC5D-cb46390b57\/image_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 162,
+                "original_w": 1698,
+                "original_h": 268,
+                "thumb_tiny": "AwAHADDQ28\/\/AF6Nv+c06koATb\/nNG2looATbRt\/zmlooA\/\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F01TD39SC5D\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TD39SC5D-2d0a71a850",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1617974117.027800",
+        "thread_ts": "1617974054.027700",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "aeae4856-573a-488c-a17b-e511a515fc95",
+        "type": "message",
+        "text": "we were on to something <@U01RW2X7S9Z> <@U01RXCQHMHT>",
+        "user": "U01S7KCL3DF",
+        "ts": "1617974213.028000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7KCL3DF",
+            "ts": "1617974220.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MTo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we were on to something "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RW2X7S9Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RXCQHMHT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617974054.027700",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "09f2dddb-3c9c-4f6a-b53b-79244696c6f4",
+        "type": "message",
+        "text": "objection your honour",
+        "user": "U01S7KCL3DF",
+        "ts": "1617974226.028300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BUql",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "objection your honour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617974054.027700",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "bebf0aca-5e6b-4e66-9546-37844ea11272",
+        "type": "message",
+        "text": "oooh well done, youre on the trail! i think its normal that detectives take time off to do lab work :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1617974283.028500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oooh well done, youre on the trail! i think its normal that detectives take time off to do lab work "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617974054.027700",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "ead3984a-3ad1-4cf9-843d-85a4a6e37484",
+        "type": "message",
+        "text": "a general q: i was trying to use LOCATE in there and it said that there is no such function. is it because its different from mysql?",
+        "user": "U01S0E0MRJ7",
+        "ts": "1617974446.028800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d0WS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a general q: i was trying to use LOCATE in there and it said that there is no such function. is it because its different from mysql?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617974054.027700",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "3f70ee10-4531-4db3-945f-84226d682ab7",
+        "type": "message",
+        "text": "no there is a LOCATE in sql and mysql, maybe its just not supported in this web version (which would be weird!)\ncan you try where value LIKE ‘%substr%’ instead?\ni used LIKE with the wildcard search to track down part of a number plate",
+        "user": "U01RW140HBP",
+        "ts": "1617974592.029000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yqi0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no there is a LOCATE in sql and mysql, maybe its just not supported in this web version (which would be weird!)\ncan you try where value LIKE ‘%substr%’ instead?\ni used LIKE with the wildcard search to track down part of a number plate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617974054.027700",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "type": "message",
+        "text": "yes, that works. thanks. i was using this which worked on mysql bench but not there",
+        "files": [
+            {
+                "id": "F01U6GT12Q1",
+                "created": 1617975034,
+                "timestamp": 1617975034,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S0E0MRJ7",
+                "editable": false,
+                "size": 21750,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01U6GT12Q1\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01U6GT12Q1\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U6GT12Q1-8ce4f3e736\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U6GT12Q1-8ce4f3e736\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U6GT12Q1-8ce4f3e736\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 287,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U6GT12Q1-8ce4f3e736\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 454,
+                "original_h": 362,
+                "thumb_tiny": "AwAmADDRf7pqIE9cn8z\/AIVMetJTAar56\/pml3AnH9KWikIbvXOM\/pTgc0UUwFbrSUMTn\/61AP8AnFIYUUUtACUUtFAAd2eMfjSfP\/s06igLjcN6LR83+zTqKAuNG7POMUtLSUAf\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S0E0MRJ7\/F01U6GT12Q1\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01U6GT12Q1-66bdc26984",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hU8R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, that works. thanks. i was using this which worked on mysql bench but not there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S0E0MRJ7",
+        "display_as_bot": false,
+        "ts": "1617975047.029200",
+        "thread_ts": "1617974054.027700",
+        "parent_user_id": "U01RW140HBP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e84460ff-36c4-4bcf-afc4-a2c91ee86b69",
+        "type": "message",
+        "text": "<@U01S7KCL3DF>, <@U01RW2X7S9Z>",
+        "user": "U01RXCQHMHT",
+        "ts": "1617975097.029400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zn7kW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S7KCL3DF"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RW2X7S9Z"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617966935.022700",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "f6be3f44-23f5-4a93-97e4-ce37ed163f54",
+        "type": "message",
+        "text": "let's just say, Amnesty international would have wanted a word with Thamo's group :grin:",
+        "user": "U01SJKB2MG8",
+        "ts": "1617976794.029600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NrbT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let's just say, Amnesty international would have wanted a word with Thamo's group "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617974054.027700",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "4f911dbe-49d7-45ce-b3b0-fde6a62a46a2",
+        "type": "message",
+        "text": "^we're considering bringing a federal case with the Department of Justice against the SQL City forensics team. No estimated time of death is quite shoddy work",
+        "user": "U01S7KCL3DF",
+        "ts": "1617976867.029900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n16c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^we're considering bringing a federal case with the Department of Justice against the SQL City forensics team. No estimated time of death is quite shoddy work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617974054.027700",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "2c8dfe52-9202-45c5-973e-4d54ed031474",
+        "type": "message",
+        "text": "haha",
+        "user": "U01RW140HBP",
+        "ts": "1617976883.030100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qKq3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617974054.027700",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "8c6c9802-d153-4956-a56e-90181f60d9df",
+        "type": "message",
+        "text": "I feel stupid asking this question at the end of week 3, but ....\nIs downloading the entire zip file the only way to get the lab files from GitHub?",
+        "user": "U01S133DZ9A",
+        "ts": "1617977806.031100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YTf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel stupid asking this question at the end of week 3, but ....\nIs downloading the entire zip file the only way to get the lab files from GitHub?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617977806.031100",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1617979281.032100",
+        "reply_users": [
+            "U01SJKB2MG8",
+            "U01RW2X7S9Z",
+            "U01S133DZ9A",
+            "U01S0E0MRJ7",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1617978228.031200"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617978316.031500"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1617978402.031700"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1617978413.031900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617979281.032100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "804e8c70-90fc-465d-aa8d-6da56f10b9f0",
+        "type": "message",
+        "text": "I claim no, but some of your peers may say yes :grin:\nIt seems to be OS specific. I (Ubuntu 20.04) can do a right click on the \"RAW\" button in the upper right corner in github and click \"save as\" and then it saves the file in the right format. No need for a zip file for me.",
+        "user": "U01SJKB2MG8",
+        "ts": "1617978228.031200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SJKB2MG8",
+            "ts": "1617978250.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9+j1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I claim no, but some of your peers may say yes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIt seems to be OS specific. I (Ubuntu 20.04) can do a right click on the \"RAW\" button in the upper right corner in github and click \"save as\" and then it saves the file in the right format. No need for a zip file for me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617977806.031100",
+        "parent_user_id": "U01S133DZ9A"
+    },
+    {
+        "client_msg_id": "ef42a419-736f-4908-9cf5-ff5765f7ffe4",
+        "type": "message",
+        "text": "you can pull the files of the repo, but some of them might not get to your system if the names are not written in a certain way (I think whitespace and things like that wont work) at least in my windows system",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617978316.031500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cd0Zn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can pull the files of the repo, but some of them might not get to your system if the names are not written in a certain way (I think whitespace and things like that wont work) at least in my windows system"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617977806.031100",
+        "parent_user_id": "U01S133DZ9A"
+    },
+    {
+        "client_msg_id": "df84cfd7-e9d3-4bc6-b5ad-1f652439754c",
+        "type": "message",
+        "text": "Thanks guys. I think that' s a yes :slightly_smiling_face: - which is no problem as long as I know I'm not wasting energy unnecessarily",
+        "user": "U01S133DZ9A",
+        "ts": "1617978402.031700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nfH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks guys. I think that' s a yes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - which is no problem as long as I know I'm not wasting energy unnecessarily"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617977806.031100",
+        "parent_user_id": "U01S133DZ9A"
+    },
+    {
+        "client_msg_id": "0fcbf105-8e45-4ade-a259-704557009043",
+        "type": "message",
+        "text": "for me with .ipynb files I can do as Flo, but it automatically adds .txt extension. but i delete it and it saves as .ipynb",
+        "user": "U01S0E0MRJ7",
+        "ts": "1617978413.031900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FtQF8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for me with .ipynb files I can do as Flo, but it automatically adds .txt extension. but i delete it and it saves as .ipynb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617977806.031100",
+        "parent_user_id": "U01S133DZ9A"
+    },
+    {
+        "client_msg_id": "f3bb176e-191d-4e68-b8f7-518a2e3a27dd",
+        "type": "message",
+        "text": "<http:\/\/sigmaquality.pl\/uncategorized\/how-to-download-ipynb-file-from-github\/>",
+        "user": "U01RW140HBP",
+        "ts": "1617979281.032100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "THE DATA SCIENCE LIBRARY",
+                "title": "How to download ipynb file from github? - THE DATA SCIENCE LIBRARY",
+                "title_link": "http:\/\/sigmaquality.pl\/uncategorized\/how-to-download-ipynb-file-from-github\/",
+                "text": "First click on Raw. Then, press ctrl+s to save it as .ipynb (Note that you’ll have to manually type ‘.ipynb’ after the file name to [...]",
+                "fallback": "THE DATA SCIENCE LIBRARY: How to download ipynb file from github? - THE DATA SCIENCE LIBRARY",
+                "image_url": "http:\/\/sigmaquality.pl\/wp-content\/uploads\/2019\/09\/pencil_sketch_1568976053253_resized_20190920_124328298.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "admin",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "0 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1569005340,
+                "from_url": "http:\/\/sigmaquality.pl\/uncategorized\/how-to-download-ipynb-file-from-github\/",
+                "image_bytes": 992013,
+                "service_icon": "http:\/\/sigmaquality.pl\/wp-content\/uploads\/2019\/02\/cropped-ryba-180x180.png",
+                "id": 1,
+                "original_url": "http:\/\/sigmaquality.pl\/uncategorized\/how-to-download-ipynb-file-from-github\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mdsu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sigmaquality.pl\/uncategorized\/how-to-download-ipynb-file-from-github\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617977806.031100",
+        "parent_user_id": "U01S133DZ9A",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01S133DZ9A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b83bd43-5968-42f8-af18-d2dc8035ace2",
+        "type": "message",
+        "text": "folks, if you havent managed to finish the lab today, do make sure you take the evening off to rest and refresh , and enjoy your weekends!\nI will ensure we have some extra space on monday afternoon for anyone who wants to have another go at this sql+py+viz lab then (with optional monday labs for those who did finish today.)\n….. this bootcamp is more of a marathon than a sprint. :runner:\n\nI also havent finished my to do list but i am now going to log off, get a beer, have a walk, watch a film … so if youre following my example  pull the :electric_plug:. Good work this week, everyone!!",
+        "user": "U01RW140HBP",
+        "ts": "1617983771.035300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1617983882.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gnu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "folks, if you havent managed to finish the lab today, do make sure you take the evening off to rest and refresh , and enjoy your weekends!\nI will ensure we have some extra space on monday afternoon for anyone who wants to have another go at this sql+py+viz lab then (with optional monday labs for those who did finish today.)\n….. this bootcamp is more of a marathon than a sprint. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "runner"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI also havent finished my to do list but i am now going to log off, get a beer, have a walk, watch a film … so if youre following my example  pull the "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "electric_plug"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Good work this week, everyone!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01SD3CDH9P",
+                    "U01S133DZ9A",
+                    "U01S0P26NKD"
+                ],
+                "count": 4
+            },
+            {
+                "name": "beer",
+                "users": [
+                    "U01SK96QF5E",
+                    "U01RN7BVD1C",
+                    "U01S7KCL3DF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S65G72SY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "no_mouth",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d1762bd-fe32-42c8-9316-33fd8f0c1eff",
+        "type": "message",
+        "text": "Agreed :stuck_out_tongue: ! - time to give up for today. Have a great weekend folks.",
+        "user": "U01S133DZ9A",
+        "ts": "1617987336.036700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JtiCD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! - time to give up for today. Have a great weekend folks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617987336.036700",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1617990432.038900",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01RSRE0N3D"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617990169.038000"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1617990310.038200"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617990337.038500"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1617990432.038900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617990432.038900",
+        "reactions": [
+            {
+                "name": "stonks",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ddcd31e-ba0f-4e25-918b-5011f3857fa1",
+        "type": "message",
+        "text": "just got an Augustiner for €1,50 at a spati...lockdown is lookin up. have a nice weekend!",
+        "user": "U01S7KCL3DF",
+        "ts": "1617987495.037300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7KCL3DF",
+            "ts": "1617987502.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "djJst",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just got an Augustiner for €1,50 at a spati...lockdown is lookin up. have a nice weekend!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beers",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01RXCQHMHT",
+                    "U01S7BM4N81"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S133DZ9A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1da443ec-bee5-47f5-8374-e4d4c1181f82",
+        "type": "message",
+        "text": "who added that emoji :laughing:  <@U01RSRE0N3D>",
+        "user": "U01S7KCL3DF",
+        "ts": "1617990169.038000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aPoGU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "who added that emoji "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RSRE0N3D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617987336.036700",
+        "parent_user_id": "U01S133DZ9A"
+    },
+    {
+        "client_msg_id": "79d5c2fa-481e-44b0-b04b-bf4bb8613007",
+        "type": "message",
+        "text": "<@U01S7KCL3DF> that was a part of the fun committee's starter pack, feel free to <https:\/\/slack.com\/intl\/en-de\/help\/articles\/206870177-Add-custom-emoji-to-your-workspace|add some> too! :kosta:",
+        "user": "U01RSRE0N3D",
+        "ts": "1617990310.038200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Slack Help Center",
+                "title": "Add custom emoji to your workspace",
+                "title_link": "https:\/\/slack.com\/intl\/en-de\/help\/articles\/206870177-Add-custom-emoji-to-your-workspace",
+                "text": "In Slack, emoji serve both a fun and functional purpose. You can add your own custom emoji, or a set of custom emoji from an emoji pack. What to expect You can only add custom emoji from Slack on ...",
+                "fallback": "Slack Help Center: Add custom emoji to your workspace",
+                "thumb_url": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/slack_hash_256.png",
+                "from_url": "https:\/\/slack.com\/intl\/en-de\/help\/articles\/206870177-Add-custom-emoji-to-your-workspace",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/favicon-32.png",
+                "id": 1,
+                "original_url": "https:\/\/slack.com\/intl\/en-de\/help\/articles\/206870177-Add-custom-emoji-to-your-workspace"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2KrX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S7KCL3DF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that was a part of the fun committee's starter pack, feel free to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/slack.com\/intl\/en-de\/help\/articles\/206870177-Add-custom-emoji-to-your-workspace",
+                                "text": "add some"
+                            },
+                            {
+                                "type": "text",
+                                "text": " too! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kosta"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617987336.036700",
+        "parent_user_id": "U01S133DZ9A"
+    },
+    {
+        "client_msg_id": "760ae4ee-92fb-4f8f-9cce-f460258d506c",
+        "type": "message",
+        "text": "at a previous job adding emojis to slack was pretty much all i did",
+        "user": "U01S7KCL3DF",
+        "ts": "1617990337.038500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "977+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "at a previous job adding emojis to slack was pretty much all i did"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617987336.036700",
+        "parent_user_id": "U01S133DZ9A",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U01S133DZ9A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "honest work meme",
+        "user": "U01RSRE0N3D",
+        "ts": "1617990432.038900",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "Gxjcj",
+                "image_url": "https:\/\/media0.giphy.com\/media\/NEvPzZ8bd1V4Y\/giphy-downsized.gif?cid=6104955ef2fb8d50725b7420499aed6355a19d0601c7b7e3&rid=giphy-downsized.gif&ct=g",
+                "alt_text": "honest work meme",
+                "title": {
+                    "type": "plain_text",
+                    "text": "honest work meme",
+                    "emoji": true
+                },
+                "fallback": "245x256px image",
+                "image_width": 245,
+                "image_height": 256,
+                "image_bytes": 1301242,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "J4C",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/channel\/editingandlayout\/|EditingAndLayout>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617987336.036700",
+        "parent_user_id": "U01S133DZ9A",
+        "reactions": [
+            {
+                "name": "stonks",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09af2ce6-d7b2-40a4-a74a-3b1e1b734028",
+        "type": "message",
+        "text": "Seems good.. <https:\/\/www.cambridge.org\/core\/books\/data-analysis-for-business-economics-and-policy\/D67A1B0B56176D6D6A92E27F3F82AA20|https:\/\/www.cambridge.org\/core\/books\/data-analysis-for-business-economics-and-policy\/D67A1B0B56176D6D6A92E27F3F82AA20>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1618000453.039300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Cambridge Core",
+                "title": "Data Analysis for Business, Economics, and Policy",
+                "title_link": "https:\/\/www.cambridge.org\/core\/books\/data-analysis-for-business-economics-and-policy\/D67A1B0B56176D6D6A92E27F3F82AA20",
+                "text": "Cambridge Core - Econometrics and Mathematical Methods - Data Analysis for Business, Economics, and Policy",
+                "fallback": "Cambridge Core: Data Analysis for Business, Economics, and Policy",
+                "image_url": "https:\/\/assets.cambridge.org\/97811087\/16208\/large_cover\/9781108716208i.jpg",
+                "from_url": "https:\/\/www.cambridge.org\/core\/books\/data-analysis-for-business-economics-and-policy\/D67A1B0B56176D6D6A92E27F3F82AA20",
+                "image_width": 192,
+                "image_height": 250,
+                "image_bytes": 72824,
+                "service_icon": "https:\/\/www.cambridge.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.cambridge.org\/core\/books\/data-analysis-for-business-economics-and-policy\/D67A1B0B56176D6D6A92E27F3F82AA20"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "23Tf1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seems good.. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.cambridge.org\/core\/books\/data-analysis-for-business-economics-and-policy\/D67A1B0B56176D6D6A92E27F3F82AA20",
+                                "text": "https:\/\/www.cambridge.org\/core\/books\/data-analysis-for-business-economics-and-policy\/D67A1B0B56176D6D6A92E27F3F82AA20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

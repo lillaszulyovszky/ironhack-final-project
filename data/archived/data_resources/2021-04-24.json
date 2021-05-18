@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "29c7e7e3-a723-4af5-9a89-9e09c1a2a82a",
+        "type": "message",
+        "text": "I received this message. It seems we need to create a token for using GitHub now.\n“Basic authentication using a password to Git is deprecated and will soon no longer work. Visit <https:\/\/github.blog\/2020-12-15-token-authentication-requirements-for-git-operations\/> for more information around suggested workarounds and removal dates.”",
+        "user": "U01S79YDELR",
+        "ts": "1619253178.004000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The GitHub Blog",
+                "title": "Token authentication requirements for Git operations - The GitHub Blog",
+                "title_link": "https:\/\/github.blog\/2020-12-15-token-authentication-requirements-for-git-operations\/",
+                "text": "Beginning August 13th, 2021, we will no longer accept account passwords when authenticating Git operations on <http:\/\/GitHub.com|GitHub.com> and will instead require token-based authentication (for example, a personal access, OAuth, or GitHub App installation token) for all authenticated Git operations.",
+                "fallback": "The GitHub Blog: Token authentication requirements for Git operations - The GitHub Blog",
+                "image_url": "https:\/\/github.blog\/wp-content\/uploads\/2019\/09\/security-1200-630.png?fit=1200%2C630",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1608064131,
+                "from_url": "https:\/\/github.blog\/2020-12-15-token-authentication-requirements-for-git-operations\/",
+                "image_bytes": 134233,
+                "service_icon": "https:\/\/github.blog\/wp-content\/uploads\/2019\/01\/cropped-github-favicon-512.png?fit=180%2C180",
+                "id": 1,
+                "original_url": "https:\/\/github.blog\/2020-12-15-token-authentication-requirements-for-git-operations\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "92Fy7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I received this message. It seems we need to create a token for using GitHub now.\n“Basic authentication using a password to Git is deprecated and will soon no longer work. Visit "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.blog\/2020-12-15-token-authentication-requirements-for-git-operations\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for more information around suggested workarounds and removal dates.”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31f652b8-9c65-439a-b7e8-44ec149fb0f2",
+        "type": "message",
+        "text": "<@U01RSRE0N3D>  <@U01SJKB2MG8> <@U01RW140HBP> Could you please recommend me resources about API and web scrapping? also using docker with them? I would like to contribute to academic research, making scrappy for published papers in a specific field and an analysis of trends.",
+        "user": "U01S79YDELR",
+        "ts": "1619325545.005300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1619326032.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fYZh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RSRE0N3D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RW140HBP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Could you please recommend me resources about API and web scrapping? also using docker with them? I would like to contribute to academic research, making scrappy for published papers in a specific field and an analysis of trends."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619325545.005300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1619336521.006600",
+        "reply_users": [
+            "U01SJKB2MG8",
+            "U01S79YDELR"
+        ],
+        "replies": [
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1619336314.006300"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1619336521.006600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1619336521.006600"
+    }
+]

@@ -1,0 +1,637 @@
+[
+    {
+        "client_msg_id": "6c7fa322-cbf8-4431-a5d9-a4426f9d2a5d",
+        "type": "message",
+        "text": "Inertia\n\n<https:\/\/www.youtube.com\/watch?v=ZE2CCGDYemk&amp;ab_channel=xEndOfEverything>",
+        "user": "U01S7KCL3DF",
+        "ts": "1620294883.007800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7KCL3DF",
+            "ts": "1620294901.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vlS7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Inertia\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=ZE2CCGDYemk&ab_channel=xEndOfEverything"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620294883.007800",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1620370402.002700",
+        "reply_users": [
+            "U01SK96QF5E",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1620297859.009100"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620298296.009400"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620299641.009600"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1620300821.010500"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1620365943.002100"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620370402.002700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "27AFAE1E-97A2-43B1-9519-A83E29BFA782",
+        "type": "message",
+        "text": "Ahh Mars Volta :heart_eyes: I remember when The widow came out.. it was on repeat for weeks if not months",
+        "user": "U01SK96QF5E",
+        "ts": "1620297859.009100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GZH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahh Mars Volta "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I remember when The widow came out.. it was on repeat for weeks if not months"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620294883.007800",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "man_dancing",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c99c0660-b760-400e-94a2-3c23177cf7bd",
+        "type": "message",
+        "text": "cool! i think i went to the same tour as in this video :older_man:",
+        "user": "U01S7KCL3DF",
+        "ts": "1620298296.009400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qAohq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool! i think i went to the same tour as in this video "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "older_man"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620294883.007800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "93e28c94-d364-488d-a9c3-8f08c7466378",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=w3mn7EC-skg&amp;ab_channel=MassiveAttackVEVO>\n\nok i’m out of Inertia songs",
+        "user": "U01S7KCL3DF",
+        "ts": "1620299641.009600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Massive Attack - Inertia Creeps",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=w3mn7EC-skg&amp;ab_channel=MassiveAttackVEVO",
+                "author_name": "MassiveAttackVEVO",
+                "author_link": "https:\/\/www.youtube.com\/user\/MassiveAttackVEVO",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/w3mn7EC-skg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Massive Attack - Inertia Creeps",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/w3mn7EC-skg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=w3mn7EC-skg&amp;ab_channel=MassiveAttackVEVO",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=w3mn7EC-skg&amp;ab_channel=MassiveAttackVEVO"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uo+\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=w3mn7EC-skg&ab_channel=MassiveAttackVEVO"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nok i’m out of Inertia songs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620294883.007800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "576E3373-E6BB-4145-9EE9-2B0FA7F480A1",
+        "type": "message",
+        "text": "I was expecting this emoji :white_haired_man::skin-tone-2:",
+        "user": "U01SK96QF5E",
+        "ts": "1620300821.010500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=gyF3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was expecting this emoji "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_haired_man",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620294883.007800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "6f5f0c50-d4f2-47ae-96be-af135341466f",
+        "type": "message",
+        "text": "Marian might know what cafe this playlist comes from\n\n<https:\/\/open.spotify.com\/playlist\/4vB1Rr4mJ7iRnG9XquO7t1?si=3c6675fa2f844efa>",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620305981.010800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW2X7S9Z",
+            "ts": "1620306011.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "TOMA CAFÉ SOUND",
+                "title_link": "https:\/\/open.spotify.com\/playlist\/4vB1Rr4mJ7iRnG9XquO7t1?si=3c6675fa2f844efa",
+                "thumb_url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2735f34565cbd294cf7a3c56ef8ab67616d0000b2736006f72adb5ffe7b4b02daddab67616d0000b2739d9171a7f04b3c52dc7f7455ab67616d0000b273b4ea6997c13c809ec2a5749d",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: TOMA CAFÉ SOUND",
+                "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: TOMA CAFÉ SOUND\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/4vB1Rr4mJ7iRnG9XquO7t1?si=3c6675fa2f844efa\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/playlist\/4vB1Rr4mJ7iRnG9XquO7t1?si=3c6675fa2f844efa",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/playlist\/4vB1Rr4mJ7iRnG9XquO7t1?si=3c6675fa2f844efa"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DfJP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marian might know what cafe this playlist comes from\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/playlist\/4vB1Rr4mJ7iRnG9XquO7t1?si=3c6675fa2f844efa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "loved this music related visual from another music recommender project. helped me understand why I don’t like recent tunes and prefer the old ones :slightly_smiling_face: <https:\/\/towardsdatascience.com\/how-to-build-an-amazing-music-recommendation-system-4cce2719a572>",
+        "files": [
+            {
+                "id": "F021K5Z1VH7",
+                "created": 1620364733,
+                "timestamp": 1620364733,
+                "name": "Screenshot 2021-05-07 at 07.14.33.png",
+                "title": "Screenshot 2021-05-07 at 07.14.33.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01SK96QF5E",
+                "editable": false,
+                "size": 609631,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021K5Z1VH7\/screenshot_2021-05-07_at_07.14.33.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021K5Z1VH7\/download\/screenshot_2021-05-07_at_07.14.33.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021K5Z1VH7-9a62f13c88\/screenshot_2021-05-07_at_07.14.33_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021K5Z1VH7-9a62f13c88\/screenshot_2021-05-07_at_07.14.33_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021K5Z1VH7-9a62f13c88\/screenshot_2021-05-07_at_07.14.33_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 246,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021K5Z1VH7-9a62f13c88\/screenshot_2021-05-07_at_07.14.33_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 328,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021K5Z1VH7-9a62f13c88\/screenshot_2021-05-07_at_07.14.33_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021K5Z1VH7-9a62f13c88\/screenshot_2021-05-07_at_07.14.33_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 492,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021K5Z1VH7-9a62f13c88\/screenshot_2021-05-07_at_07.14.33_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 547,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021K5Z1VH7-9a62f13c88\/screenshot_2021-05-07_at_07.14.33_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 657,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021K5Z1VH7-9a62f13c88\/screenshot_2021-05-07_at_07.14.33_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 700,
+                "original_w": 1462,
+                "original_h": 1000,
+                "thumb_tiny": "AwAgADDSY7Rmk3ikkPy0gxTAfuo3UzIFGaAH59qAQaReaUA0gEccUzknOKlIzTdtMBvFLml2+tG2gAXrTqQDBpaQH\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SK96QF5E\/F021K5Z1VH7\/screenshot_2021-05-07_at_07.14.33.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F021K5Z1VH7-cfb6cf2670",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eWCK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "loved this music related visual from another music recommender project. helped me understand why I don’t like recent tunes and prefer the old ones "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/towardsdatascience.com\/how-to-build-an-amazing-music-recommendation-system-4cce2719a572"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01SK96QF5E",
+        "display_as_bot": false,
+        "ts": "1620364859.002000",
+        "thread_ts": "1620364859.002000",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1620410508.008100",
+        "reply_users": [
+            "U01RRV4JX6Z",
+            "U01RW140HBP",
+            "U01SK96QF5E"
+        ],
+        "replies": [
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620370563.002900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620370994.003100"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1620374136.003400"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620409256.007100"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1620410508.008100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RRV4JX6Z",
+                    "U01RXCQHMHT",
+                    "U01S7KCL3DF",
+                    "U01S7BM4N81"
+                ],
+                "count": 4
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U01S0E0MRJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc3cbd4c-cb11-47c7-9a9f-ce40be0af091",
+        "type": "message",
+        "text": "okay The Widow was on repeat last night again :see_no_evil: so many memories..",
+        "user": "U01SK96QF5E",
+        "ts": "1620365943.002100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gUgQt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay The Widow was on repeat last night again "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so many memories.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620294883.007800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "edb849a0-204b-493d-ae51-614cf44700b0",
+        "type": "message",
+        "text": "Sounds like a wild night in Budapest :dancer:.... I had Mezzanine on",
+        "user": "U01S7KCL3DF",
+        "ts": "1620370402.002700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+VKNW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds like a wild night in Budapest "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dancer"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".... I had Mezzanine on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620294883.007800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "a5ec6875-fa55-41dc-9d1f-1fd096ec2b9f",
+        "type": "message",
+        "text": "I would never have thought of producing such a graph! I was so concentrated in making the code work...",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620370563.002900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8PBj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would never have thought of producing such a graph! I was so concentrated in making the code work..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620364859.002000",
+        "parent_user_id": "U01SK96QF5E"
+    }
+]

@@ -1,0 +1,344 @@
+[
+    {
+        "client_msg_id": "3004ee1a-f382-44cb-a8de-9e465b6770fc",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=kxopViU98Xo>",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619079641.000900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Epic sax guy 10 hours",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=kxopViU98Xo",
+                "author_name": "HermTrololol",
+                "author_link": "https:\/\/www.youtube.com\/user\/HermTrololol",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/kxopViU98Xo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Epic sax guy 10 hours",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/kxopViU98Xo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=kxopViU98Xo",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=kxopViU98Xo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YSaT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=kxopViU98Xo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619079641.000900",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1619082316.002000",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619079665.001100"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1619081893.001600"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1619082316.002000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01SJKB2MG8",
+                    "U01RSRE0N3D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3906167f-efa8-4328-8a97-7cf91130914d",
+        "type": "message",
+        "text": "<@U01SJKB2MG8>",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619079665.001100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oek",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619079641.000900",
+        "parent_user_id": "U01RW2X7S9Z"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01V9T9N4EQ",
+                "created": 1619081891,
+                "timestamp": 1619081891,
+                "name": "index.jpeg",
+                "title": "index.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01SJKB2MG8",
+                "editable": false,
+                "size": 7344,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01V9T9N4EQ\/index.jpeg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01V9T9N4EQ\/download\/index.jpeg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01V9T9N4EQ-e628058a0a\/index_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01V9T9N4EQ-e628058a0a\/index_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01V9T9N4EQ-e628058a0a\/index_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 344,
+                "thumb_360_h": 146,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01V9T9N4EQ-e628058a0a\/index_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 344,
+                "original_h": 146,
+                "thumb_tiny": "AwAUADDMpyDJ6ZpCKVDtbPagCV1GwOMenFMHUVKSWgCjnnNQ45pgxF6\/gaSlHDH8aSkBYjkwFGxCB6ipFkBP+rj\/AO+feoF6inpQBYicHK7EH0FRyyYx8q9x0pYfvGo5u31NMBfOwf8AVx8f7NMeTdERsQe4HPWmnr+NIfuGkB\/\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SJKB2MG8\/F01V9T9N4EQ\/index.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01V9T9N4EQ-b03a2adcf3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01SJKB2MG8",
+        "display_as_bot": false,
+        "ts": "1619081893.001600",
+        "thread_ts": "1619079641.000900",
+        "parent_user_id": "U01RW2X7S9Z"
+    },
+    {
+        "client_msg_id": "78f62831-e87c-49e8-8a66-60708cb86f3e",
+        "type": "message",
+        "text": "Hahahahhaah you have to honor the ancestors",
+        "user": "U01RW2X7S9Z",
+        "ts": "1619082316.002000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pnGpW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hahahahhaah you have to honor the ancestors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619079641.000900",
+        "parent_user_id": "U01RW2X7S9Z"
+    },
+    {
+        "client_msg_id": "5f96791f-1ed1-4aa8-aa37-d6d3d9713c80",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=uHGlCi9jOWY>",
+        "user": "U01SJKB2MG8",
+        "ts": "1619083338.002300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Data Science – Baba Brinkman Music Video",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=uHGlCi9jOWY",
+                "author_name": "Baba Brinkman",
+                "author_link": "https:\/\/www.youtube.com\/user\/babasword",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/uHGlCi9jOWY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Data Science – Baba Brinkman Music Video",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/uHGlCi9jOWY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=uHGlCi9jOWY",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=uHGlCi9jOWY"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LLd7Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=uHGlCi9jOWY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "coool",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01RW2X7S9Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0203PVDS57",
+                "created": 1619103895,
+                "timestamp": 1619103895,
+                "name": "Bildschirmaufnahme 2021-04-22 um 17.03.34.mov",
+                "title": "Bildschirmaufnahme 2021-04-22 um 17.03.34.mov",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "U01S7BM4N81",
+                "editable": false,
+                "size": 81696917,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0203PVDS57\/bildschirmaufnahme_2021-04-22_um_17.03.34.mov?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0203PVDS57\/download\/bildschirmaufnahme_2021-04-22_um_17.03.34.mov?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0203PVDS57-eb0cc8f820\/bildschirmaufnahme_2021-04-22_um_17.03.34_thumb_video.jpeg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7BM4N81\/F0203PVDS57\/bildschirmaufnahme_2021-04-22_um_17.03.34.mov",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F0203PVDS57-f0e55eccb8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01S7BM4N81",
+        "display_as_bot": false,
+        "ts": "1619103973.002800",
+        "reactions": [
+            {
+                "name": "fillion-speechless",
+                "users": [
+                    "U01SJKB2MG8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

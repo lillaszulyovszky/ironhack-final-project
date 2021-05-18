@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "0e5a6246-b64b-4101-8f80-44f9ad933b63",
+        "type": "message",
+        "text": "for previous tableau group project that are saved to one person’s profile - what’s the best way of adding them to your own profile? download and reupload?",
+        "user": "U01S7KCL3DF",
+        "ts": "1621238747.000800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/=77I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for previous tableau group project that are saved to one person’s profile - what’s the best way of adding them to your own profile? download and reupload?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621238747.000800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1621238760.000900",
+        "reply_users": [
+            "U01S7BM4N81"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1621238760.000900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4de3f111-d585-4158-a512-375755a1a5e4",
+        "type": "message",
+        "text": "yes :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1621238760.000900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lk=L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621238747.000800",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U01S7KCL3DF",
+                    "U01RW140HBP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

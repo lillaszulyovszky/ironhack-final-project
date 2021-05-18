@@ -1,0 +1,93 @@
+[
+    {
+        "client_msg_id": "187f2547-4c5c-4586-9357-b1de5a2d012b",
+        "type": "message",
+        "text": "<@U01SD3CDH9P>, <@U01S6LCPM0C> <https:\/\/www.youtube.com\/watch?v=OnXB3ZRrOW0&amp;list=PLiPFKCVZWHKq3RvwDxosNm5Ny7cHyfc4o>",
+        "user": "U01RXCQHMHT",
+        "ts": "1617713049.000500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "How to Create a Database, Add Tables and Import Data in MySQL Workbench",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=OnXB3ZRrOW0",
+                "author_name": "Matt Macarty",
+                "author_link": "https:\/\/www.youtube.com\/c\/MattMacarty",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/OnXB3ZRrOW0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How to Create a Database, Add Tables and Import Data in MySQL Workbench",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/OnXB3ZRrOW0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=OnXB3ZRrOW0",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=OnXB3ZRrOW0&amp;list=PLiPFKCVZWHKq3RvwDxosNm5Ny7cHyfc4o"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RWSV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01SD3CDH9P"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S6LCPM0C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=OnXB3ZRrOW0&list=PLiPFKCVZWHKq3RvwDxosNm5Ny7cHyfc4o"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01SD3CDH9P"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cattyping",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,716 @@
+[
+    {
+        "client_msg_id": "42576c77-1057-4acf-9660-a552625b6925",
+        "type": "message",
+        "text": "on the topic of socialising with classmates and taking a break.... if anyone ever wants to take a stroll with a real life human i'd be up for that :man-walking: .\n\n(according to whatever the covid rules are at the time, of course)",
+        "user": "U01S7KCL3DF",
+        "ts": "1616582711.001300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NHvU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on the topic of socialising with classmates and taking a break.... if anyone ever wants to take a stroll with a real life human i'd be up for that "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-walking"
+                            },
+                            {
+                                "type": "text",
+                                "text": " .\n\n(according to whatever the covid rules are at the time, of course)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616582711.001300",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1616583862.003300",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01RW2X7S9Z"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1616583778.002500"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1616583795.002700"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1616583817.002900"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1616583862.003300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S7BM4N81",
+                    "U01RN7BVD1C",
+                    "U01RSRE0N3D",
+                    "U01S1CWGTU4",
+                    "U01RV3K524T",
+                    "U01S081EULS"
+                ],
+                "count": 6
+            },
+            {
+                "name": "pizza",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a1d5d1b-527a-4209-93d1-b172e3b45095",
+        "type": "message",
+        "text": "Sure, great idea sam :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1616583349.001600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ORe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure, great idea sam "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23ca9e76-2538-4d21-9a5c-cd27ca27da1c",
+        "type": "message",
+        "text": "Yeah, would be up for it as well.",
+        "user": "U01RXCQHMHT",
+        "ts": "1616583375.001900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k2W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, would be up for it as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec84bdc0-179b-4c61-8b53-949e00fcd991",
+        "type": "message",
+        "text": "yes, me too!",
+        "user": "U01RKN0EGDV",
+        "ts": "1616583406.002200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PcArc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, me too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "599124c7-a312-4c00-89bc-6d0eca59c74b",
+        "type": "message",
+        "text": "<@U01RW2X7S9Z> not :pizza: , you bring us :doughnut:",
+        "user": "U01S7KCL3DF",
+        "ts": "1616583778.002500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bAu6v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RW2X7S9Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pizza"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , you bring us "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "doughnut"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616582711.001300",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "b7d10250-93b3-4bca-8f86-6c9fb03b858e",
+        "type": "message",
+        "text": "can def do that",
+        "user": "U01RW2X7S9Z",
+        "ts": "1616583795.002700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "abMY6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can def do that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616582711.001300",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "a1ac7276-2de1-475f-81e5-39c9187d1ead",
+        "type": "message",
+        "text": "shop closes at 6, can take as much as i want, my wife works at one of the shops",
+        "user": "U01RW2X7S9Z",
+        "ts": "1616583817.002900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O2kr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "shop closes at 6, can take as much as i want, my wife works at one of the shops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616582711.001300",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "eat donuts",
+        "user": "U01S7KCL3DF",
+        "ts": "1616583862.003300",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "59rG",
+                "image_url": "https:\/\/media4.giphy.com\/media\/l3fZUu2Zu3Mc9PiQE\/giphy-downsized.gif?cid=6104955e65115017699262b56f13d5b3a22c6a6656963169&rid=giphy-downsized.gif&ct=g",
+                "alt_text": "eat donuts",
+                "title": {
+                    "type": "plain_text",
+                    "text": "eat donuts",
+                    "emoji": true
+                },
+                "fallback": "480x360px image",
+                "image_width": 480,
+                "image_height": 360,
+                "image_bytes": 1784857,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "LXnB",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616582711.001300",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a922f17e-8382-4dbd-9d0a-332db6b4a79f",
+        "type": "message",
+        "text": "me too!",
+        "user": "U01S1CWGTU4",
+        "ts": "1616585188.003600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g2K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hey all,\njust created the schedule for the *Morning Sunshines* (see attached)\nPlease make sure to block that day and prepare a *5 min presentation* (with 5 min Q&amp;A) about a topic you are *passionate* about!\nLet me know if you have any questions!\n:v:",
+        "files": [
+            {
+                "id": "F01SP7Y3G57",
+                "created": 1616602947,
+                "timestamp": 1616602947,
+                "name": "Morning_sunshine_schedule.pdf",
+                "title": "Morning_sunshine_schedule.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U01RSRE0N3D",
+                "editable": false,
+                "size": 30090,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SP7Y3G57\/morning_sunshine_schedule.pdf?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SP7Y3G57\/download\/morning_sunshine_schedule.pdf?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SP7Y3G57-6f2701420e\/morning_sunshine_schedule_thumb_pdf.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RSRE0N3D\/F01SP7Y3G57\/morning_sunshine_schedule.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01SP7Y3G57-40fe629546",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TY5V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey all,\njust created the schedule for the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Morning Sunshines",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (see attached)\nPlease make sure to block that day and prepare a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "5 min presentation",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (with 5 min Q&A) about a topic you are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "passionate",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " about!\nLet me know if you have any questions!\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RSRE0N3D",
+        "display_as_bot": false,
+        "ts": "1616602964.006400",
+        "thread_ts": "1616602964.006400",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1616603048.007100",
+        "reply_users": [
+            "U01RSRE0N3D"
+        ],
+        "replies": [
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1616603024.006700"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1616603048.007100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1616603048.007100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RN7BVD1C",
+                    "U01S7BM4N81"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Small teaser on my sunshine:",
+        "files": [
+            {
+                "id": "F01SP81H5BK",
+                "created": 1616602991,
+                "timestamp": 1616602991,
+                "name": "Screenshot 2021-03-24 at 17.23.07.png",
+                "title": "Screenshot 2021-03-24 at 17.23.07.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RSRE0N3D",
+                "editable": false,
+                "size": 2814463,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SP81H5BK\/screenshot_2021-03-24_at_17.23.07.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SP81H5BK\/download\/screenshot_2021-03-24_at_17.23.07.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SP81H5BK-b373e2179f\/screenshot_2021-03-24_at_17.23.07_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SP81H5BK-b373e2179f\/screenshot_2021-03-24_at_17.23.07_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SP81H5BK-b373e2179f\/screenshot_2021-03-24_at_17.23.07_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 201,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SP81H5BK-b373e2179f\/screenshot_2021-03-24_at_17.23.07_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 268,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SP81H5BK-b373e2179f\/screenshot_2021-03-24_at_17.23.07_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SP81H5BK-b373e2179f\/screenshot_2021-03-24_at_17.23.07_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 402,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SP81H5BK-b373e2179f\/screenshot_2021-03-24_at_17.23.07_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 447,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SP81H5BK-b373e2179f\/screenshot_2021-03-24_at_17.23.07_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 537,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SP81H5BK-b373e2179f\/screenshot_2021-03-24_at_17.23.07_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 572,
+                "original_w": 1832,
+                "original_h": 1024,
+                "thumb_tiny": "AwAaADC+UbPX9TQUfsf1NRpP85B\/WpJHGzoT7CkAzJ3bSwz7E0\/Y3r+pqt\/y0ztOP\/rVK1ysUYyrZPQY60k31G7EhRv72PxNQm4jWQLuJ5wSDwKqSTy3DYLbV\/uio+nbiqEXJYWQZ\/UUgdtoCnp3FXqozcScccUhk8Dl\/vAH3p1xD50WP4hyDRB90fSpaYjKUJks3GOoqRiu3Axj9KjueLmbHt\/SprcAwdBwaljR\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RSRE0N3D\/F01SP81H5BK\/screenshot_2021-03-24_at_17.23.07.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01SP81H5BK-02299be1fd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yfz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Small teaser on my sunshine:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RSRE0N3D",
+        "display_as_bot": false,
+        "ts": "1616603024.006700",
+        "thread_ts": "1616602964.006400",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0cec4166-d27a-40f5-828f-05b5fb0610d9",
+        "type": "message",
+        "text": "_May or may not be real_",
+        "user": "U01RSRE0N3D",
+        "ts": "1616603048.007100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GRjL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "May or may not be real",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616602964.006400",
+        "parent_user_id": "U01RSRE0N3D"
+    }
+]

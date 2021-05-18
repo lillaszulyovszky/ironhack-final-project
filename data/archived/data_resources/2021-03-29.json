@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "8cbd47f0-8d5f-4dca-8362-30db12c18cc8",
+        "type": "message",
+        "text": "<!channel>,\nFYI - a very comprehensive and condensed Python 3 cheatsheet <https:\/\/perso.limsi.fr\/pointal\/_media\/python:cours:mementopython3-english.pdf>",
+        "user": "U01SJKB2MG8",
+        "ts": "1617043658.011000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xC3b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nFYI - a very comprehensive and condensed Python 3 cheatsheet "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/perso.limsi.fr\/pointal\/_media\/python:cours:mementopython3-english.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S1CWGTU4",
+                    "U01S7BM4N81",
+                    "U01S79YDELR"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

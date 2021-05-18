@@ -1,0 +1,219 @@
+[
+    {
+        "type": "message",
+        "text": "When you need to start using tableau",
+        "files": [
+            {
+                "id": "F01SGB4GZ7H",
+                "created": 1617177726,
+                "timestamp": 1617177726,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 1330886,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SGB4GZ7H\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SGB4GZ7H\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SGB4GZ7H-3bff5efa75\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SGB4GZ7H-3bff5efa75\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SGB4GZ7H-3bff5efa75\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 330,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SGB4GZ7H-3bff5efa75\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 440,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SGB4GZ7H-3bff5efa75\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SGB4GZ7H-3bff5efa75\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 660,
+                "original_w": 730,
+                "original_h": 669,
+                "thumb_tiny": "AwArADC9ULSMJCuAFHenbz6VXnYl+OlIY95yBwAT6VDHIsmWCcjjBqJiTT1cYznnoaaEySWY28YKgHJxioVvpGdRheTikvOY0A7nNQRRt5yZHcGmBoqWZsEkUrhEycEkCqq3DtIpwOOvvUsj5wVPJpDGTHY+Co5GetRmQEN8o6Zq0jpOuyUDNQ3FqUVmjBIx0oAgmfESYHUVHFJhsAdaWQHYoNJGnzgZ5oEJISCMZwe1XbUBoQDVGQ\/dq5Zf6v8AGkhj3i7rTkuGQASjP9KcOlI4BBz2FK4MpXbBmBGPfFPsFxNubpg4pzKuelOTg8UXFY\/\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F01SGB4GZ7H\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01SGB4GZ7H-5fe5fa5760",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ssvO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When you need to start using tableau"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW2X7S9Z",
+        "display_as_bot": false,
+        "ts": "1617177733.000200",
+        "thread_ts": "1617177733.000200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1617178424.001300",
+        "reply_users": [
+            "U01SJKB2MG8",
+            "U01RW2X7S9Z"
+        ],
+        "replies": [
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1617178133.000800"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617178424.001300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01S7BM4N81",
+                    "U01RSRE0N3D",
+                    "U01SJKB2MG8",
+                    "U01S7KCL3DF",
+                    "U01RKN0EGDV",
+                    "U01S0MFJ3HR",
+                    "U01S1CWGTU4",
+                    "U01RW140HBP",
+                    "U01RN7BVD1C",
+                    "U01RP2K1606"
+                ],
+                "count": 10
+            },
+            {
+                "name": "smile",
+                "users": [
+                    "U01SK96QF5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":grin:",
+        "files": [
+            {
+                "id": "F01SU2S5UR3",
+                "created": 1617178125,
+                "timestamp": 1617178125,
+                "name": "4813561.jpg",
+                "title": "4813561.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01SJKB2MG8",
+                "editable": false,
+                "size": 50696,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SU2S5UR3\/4813561.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SU2S5UR3\/download\/4813561.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SU2S5UR3-6c422ec8f2\/4813561_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SU2S5UR3-6c422ec8f2\/4813561_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SU2S5UR3-6c422ec8f2\/4813561_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 344,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SU2S5UR3-6c422ec8f2\/4813561_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 382,
+                "original_h": 400,
+                "thumb_tiny": "AwAwAC2KFLZxg7i\/GAM+n+NWEESPhQR\/Oq1shVt7DAI4z3qcg78jrSuMewRRl9445zTN0DEAlsY9\/WmhGJlZhhQvH1qruODQBYxa5+fcD7E1BN5fmfus7cUwkkUo6UAaE5An2jooAppanXa7Z8\/3hmmKu+pAfKSIHxgcYrPJ7VdnBwR2NUmGCaYxppw6Uxqev3RTEaN4cxI5PzZ6elQwygNg1O02zeduQuO9V47kBDHsJOSc59aLXAklYEcGqj4qZ7wEqQpGGJ5Prn\/Gke9V02eWecd\/Q0rBcpnJPSpVHFWFvVEjnyz8zA9abNJ5r7sY4xTYH\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SJKB2MG8\/F01SU2S5UR3\/4813561.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01SU2S5UR3-8869cf4156",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aBTle",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01SJKB2MG8",
+        "display_as_bot": false,
+        "ts": "1617178133.000800",
+        "thread_ts": "1617177733.000200",
+        "parent_user_id": "U01RW2X7S9Z"
+    },
+    {
+        "client_msg_id": "72be227a-0e9a-4efe-96c8-e9d1a8fdda50",
+        "type": "message",
+        "text": "print(\"hahaha\")",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617178424.001300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fhvY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "print(\"hahaha\")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617177733.000200",
+        "parent_user_id": "U01RW2X7S9Z"
+    }
+]

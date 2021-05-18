@@ -1,0 +1,196 @@
+[
+    {
+        "client_msg_id": "e3cebefa-7648-4502-a09a-7509f7511141",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=aJoo79OwZEI&amp;t=608s>",
+        "user": "U01RXCQHMHT",
+        "ts": "1619504683.000200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Liquid Drum and Bass Mix #60",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=aJoo79OwZEI&amp;t=608s",
+                "author_name": "Sound Territory",
+                "author_link": "https:\/\/www.youtube.com\/c\/DedicatedToYouByQLee",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/aJoo79OwZEI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Liquid Drum and Bass Mix #60",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/aJoo79OwZEI?feature=oembed&start=608&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=aJoo79OwZEI&amp;t=608s",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=aJoo79OwZEI&amp;t=608s"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dpnh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=aJoo79OwZEI&t=608s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619504683.000200",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1619530200.004200",
+        "reply_users": [
+            "U01SK96QF5E",
+            "U01RXCQHMHT"
+        ],
+        "replies": [
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1619505904.003200"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1619529798.003800"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1619529990.004000"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1619530200.004200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U01SK96QF5E",
+                    "U01RSRE0N3D",
+                    "U01RKN0EGDV"
+                ],
+                "count": 3
+            },
+            {
+                "name": "dimitri",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1F8C3AD8-6827-4137-9062-B755F4326FB9",
+        "type": "message",
+        "text": "Fun fact: there is an open air liquid drum and bass party series every summer on a  boat’s roof terrace in Budapest (goes from 5pm til 10pm on Fridays, yes, that early :sweat_smile:). So if you ever come around, let me know :slightly_smiling_face: <https:\/\/open.spotify.com\/user\/larry-de-montreal\/playlist\/5j8yv6rY82YV7MQuP0dkfj?si=Obi-AJsHQjeRWbx0L82axA|https:\/\/open.spotify.com\/user\/larry-de-montreal\/playlist\/5j8yv6rY82YV7MQuP0dkfj?si=Obi-AJsHQjeRWbx0L82axA>",
+        "user": "U01SK96QF5E",
+        "ts": "1619505904.003200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Jazz &amp; Bass #1 (Jazzy &amp; Soulful Liquid So Wet Drum &amp; Bass)",
+                "title_link": "https:\/\/open.spotify.com\/user\/larry-de-montreal\/playlist\/5j8yv6rY82YV7MQuP0dkfj?si=Obi-AJsHQjeRWbx0L82axA",
+                "thumb_url": "https:\/\/mosaic.scdn.co\/300\/ab67616d0000b2737094d149df2faf1d0e5a04a3ab67616d0000b27370afaf55dc8cd0e5c69ce30dab67616d0000b27395cdd17f4524b2bb5a787c57ab67616d0000b273c82d9ec287ce55b3de357f8c",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: Jazz & Bass #1 (Jazzy & Soulful Liquid So Wet Drum & Bass)",
+                "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Jazz &amp; Bass #1 (Jazzy &amp; Soulful Liquid So Wet Drum &amp; Bass)\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/5j8yv6rY82YV7MQuP0dkfj?si=Obi-AJsHQjeRWbx0L82axA\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/user\/larry-de-montreal\/playlist\/5j8yv6rY82YV7MQuP0dkfj?si=Obi-AJsHQjeRWbx0L82axA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/user\/larry-de-montreal\/playlist\/5j8yv6rY82YV7MQuP0dkfj?si=Obi-AJsHQjeRWbx0L82axA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HKE9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fun fact: there is an open air liquid drum and bass party series every summer on a  boat’s roof terrace in Budapest (goes from 5pm til 10pm on Fridays, yes, that early "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). So if you ever come around, let me know "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/user\/larry-de-montreal\/playlist\/5j8yv6rY82YV7MQuP0dkfj?si=Obi-AJsHQjeRWbx0L82axA",
+                                "text": "https:\/\/open.spotify.com\/user\/larry-de-montreal\/playlist\/5j8yv6rY82YV7MQuP0dkfj?si=Obi-AJsHQjeRWbx0L82axA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619504683.000200",
+        "parent_user_id": "U01RXCQHMHT",
+        "reactions": [
+            {
+                "name": "girl-grin",
+                "users": [
+                    "U01RKN0EGDV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

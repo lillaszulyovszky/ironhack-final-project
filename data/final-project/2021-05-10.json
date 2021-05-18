@@ -245,16 +245,45 @@
             }
         ],
         "thread_ts": "1620640364.005900",
-        "reply_count": 1,
-        "reply_users_count": 1,
-        "latest_reply": "1620640747.006400",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1620645571.008100",
         "reply_users": [
-            "U01RW140HBP"
+            "U01RW140HBP",
+            "U01S7BM4N81"
         ],
         "replies": [
             {
                 "user": "U01RW140HBP",
                 "ts": "1620640747.006400"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620645359.006600"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620645400.006800"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620645418.007100"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620645430.007300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620645433.007500"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620645480.007700"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620645571.008100"
             }
         ],
         "is_locked": false,
@@ -299,5 +328,316 @@
         ],
         "thread_ts": "1620640364.005900",
         "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "364fe571-ef50-4078-a365-39029be33921",
+        "type": "message",
+        "text": "yes, I’ll send it later :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1620645359.006600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4\/g1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, I’ll send it later "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620640364.005900",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "b3443206-f456-471b-b439-4dd2d17d8e6c",
+        "type": "message",
+        "text": "<https:\/\/colab.research.google.com\/drive\/1j1JRC5ObXrRRCFKdO_gkwd6HrbOA5UnJ?usp=sharing> - easier than expected &lt;&lt;",
+        "user": "U01S7BM4N81",
+        "ts": "1620645400.006800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Google Colaboratory",
+                "title_link": "https:\/\/colab.research.google.com\/drive\/1j1JRC5ObXrRRCFKdO_gkwd6HrbOA5UnJ?usp=sharing",
+                "fallback": "Google Colaboratory",
+                "image_url": "https:\/\/colab.research.google.com\/img\/colab_favicon_256px.png",
+                "from_url": "https:\/\/colab.research.google.com\/drive\/1j1JRC5ObXrRRCFKdO_gkwd6HrbOA5UnJ?usp=sharing",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 4534,
+                "service_icon": "https:\/\/colab.research.google.com\/img\/favicon.ico?vrz=colab-20210506-060122-RC00_372298824",
+                "service_name": "colab.research.google.com",
+                "id": 1,
+                "original_url": "https:\/\/colab.research.google.com\/drive\/1j1JRC5ObXrRRCFKdO_gkwd6HrbOA5UnJ?usp=sharing"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bu+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/colab.research.google.com\/drive\/1j1JRC5ObXrRRCFKdO_gkwd6HrbOA5UnJ?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - easier than expected <<"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620640364.005900",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "9af16912-abf9-4f21-8eb1-ee543351655c",
+        "type": "message",
+        "text": "I have trouble with part 6 - Train the model. Collab just doesnt do it",
+        "user": "U01S7BM4N81",
+        "ts": "1620645418.007100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MHb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have trouble with part 6 - Train the model. Collab just doesnt do it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620640364.005900",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "a718f9e5-f99f-4659-901c-cf638149eac0",
+        "type": "message",
+        "text": "Here is the error log",
+        "user": "U01S7BM4N81",
+        "ts": "1620645430.007300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G\/0P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is the error log"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620640364.005900",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "facae6a6-895b-4ff8-ba74-3108e6b30275",
+        "type": "message",
+        "text": "hmmm ill check it out!",
+        "user": "U01RW140HBP",
+        "ts": "1620645433.007500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qv=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmmm ill check it out!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620640364.005900",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F021KPCMVE0",
+                "created": 1620645478,
+                "timestamp": 1620645478,
+                "name": "error collab.rtf",
+                "title": "error collab.rtf",
+                "mimetype": "text\/rtf",
+                "filetype": "rtf",
+                "pretty_type": "Rich Text File",
+                "user": "U01S7BM4N81",
+                "editable": false,
+                "size": 12096,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021KPCMVE0\/error_collab.rtf?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021KPCMVE0\/download\/error_collab.rtf?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7BM4N81\/F021KPCMVE0\/error_collab.rtf",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F021KPCMVE0-6c00bb73b1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01S7BM4N81",
+        "display_as_bot": false,
+        "ts": "1620645480.007700",
+        "thread_ts": "1620640364.005900",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "f908478f-c8ac-476c-a58e-f459f12328af",
+        "type": "message",
+        "text": "thanks thamo - afternoon challenge!",
+        "user": "U01RW140HBP",
+        "ts": "1620645571.008100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4aU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks thamo - afternoon challenge!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620640364.005900",
+        "parent_user_id": "U01S7BM4N81",
+        "reactions": [
+            {
+                "name": "fast_parrot",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
     }
 ]

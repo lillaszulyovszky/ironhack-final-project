@@ -1,0 +1,363 @@
+[
+    {
+        "client_msg_id": "d9be98f1-9722-405e-8328-916013b182de",
+        "type": "message",
+        "text": "<@U01S7BM4N81>, <@U01S6L7HLUC>\nanyone struggling with RegEx, this might help <https:\/\/www.py4e.com\/lessons\/regex>",
+        "user": "U01RXCQHMHT",
+        "ts": "1616940244.007900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9L0J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S7BM4N81"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S6L7HLUC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nanyone struggling with RegEx, this might help "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.py4e.com\/lessons\/regex"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S1CWGTU4",
+                    "U01S7BM4N81",
+                    "U01RKN0EGDV",
+                    "U01S7KCL3DF",
+                    "U01RSRE0N3D",
+                    "U01RN7BVD1C",
+                    "U01S6L7HLUC"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01S76D5K8X",
+                "created": 1616940294,
+                "timestamp": 1616940294,
+                "name": "Pythonlearn-11-Regex.pptx",
+                "title": "Pythonlearn-11-Regex.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "U01RXCQHMHT",
+                "editable": false,
+                "size": 353154,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01S76D5K8X\/pythonlearn-11-regex.pptx?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01S76D5K8X\/download\/pythonlearn-11-regex.pptx?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S76D5K8X-085e8eeefa\/pythonlearn-11-regex_converted.pdf?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01S76D5K8X-085e8eeefa\/pythonlearn-11-regex_thumb_pdf.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_pdf_w": 1956,
+                "thumb_pdf_h": 1100,
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RXCQHMHT\/F01S76D5K8X\/pythonlearn-11-regex.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01S76D5K8X-47db89a062",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RXCQHMHT",
+        "display_as_bot": false,
+        "ts": "1616940301.008000"
+    },
+    {
+        "client_msg_id": "c861733d-0570-45a9-98ae-347f027a0316",
+        "type": "message",
+        "text": "This might be another good guide on git :slightly_smiling_face: <https:\/\/rogerdudler.github.io\/git-guide\/>",
+        "user": "U01RXCQHMHT",
+        "ts": "1616964805.009200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yd0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This might be another good guide on git "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rogerdudler.github.io\/git-guide\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7d4b241-07ce-4197-a249-50450ba90645",
+        "type": "message",
+        "text": "Git <https:\/\/learngitbranching.js.org\/>",
+        "user": "U01S79YDELR",
+        "ts": "1616965589.009400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Learn Git Branching",
+                "title_link": "https:\/\/learngitbranching.js.org\/",
+                "text": "An interactive Git visualization tool to educate and challenge!",
+                "fallback": "Learn Git Branching",
+                "image_url": "https:\/\/pcottle.github.io\/learnGitBranching\/assets\/learnGitBranching.png",
+                "from_url": "https:\/\/learngitbranching.js.org\/",
+                "image_width": 371,
+                "image_height": 250,
+                "image_bytes": 70656,
+                "service_name": "learngitbranching.js.org",
+                "id": 1,
+                "original_url": "https:\/\/learngitbranching.js.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TMvZ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Git "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learngitbranching.js.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38f524d2-a3b8-47ee-90c9-d3f5dac39a37",
+        "type": "message",
+        "text": "<https:\/\/www.statisticshowto.com\/>",
+        "user": "U01S79YDELR",
+        "ts": "1616966163.009800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Statistics How To",
+                "title": "Statistics How To: Elementary Statistics for the rest of us!",
+                "title_link": "https:\/\/www.statisticshowto.com\/",
+                "text": "Hundreds of statistics how to articles and step by step videos for elementary statistics and probability, plus AP and advanced statistics topics.",
+                "fallback": "Statistics How To: Statistics How To: Elementary Statistics for the rest of us!",
+                "image_url": "https:\/\/www.statisticshowto.com\/wp-content\/uploads\/2018\/10\/cropped-banner-21.jpg",
+                "image_width": 896,
+                "image_height": 200,
+                "fields": [
+                    {
+                        "title": "Est. reading time",
+                        "value": "2 minutes",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.statisticshowto.com\/",
+                "image_bytes": 28725,
+                "service_icon": "https:\/\/www.statisticshowto.com\/wp-content\/uploads\/fbrfg\/apple-touch-icon.png?v=kPvm30vRK4",
+                "id": 1,
+                "original_url": "https:\/\/www.statisticshowto.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VgOj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.statisticshowto.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a16e59a3-b98d-4f26-81b0-cd31b67978e9",
+        "type": "message",
+        "text": "Normal Distribution <https:\/\/www.statisticshowto.com\/probability-and-statistics\/normal-distributions\/>   <@U01RP2K1606> <@U01S7KCL3DF>",
+        "user": "U01S79YDELR",
+        "ts": "1616966396.010100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Statistics How To",
+                "title": "Normal Distributions (Bell Curve): Definition, Word Problems - Statistics How To",
+                "title_link": "https:\/\/www.statisticshowto.com\/probability-and-statistics\/normal-distributions\/",
+                "text": "Normal distribution definition, articles, word problems. Hundreds of statistics videos, articles. Free help forum. Online calculators.",
+                "fallback": "Statistics How To: Normal Distributions (Bell Curve): Definition, Word Problems - Statistics How To",
+                "image_url": "https:\/\/www.statisticshowto.com\/wp-content\/uploads\/2013\/09\/normal-distribution-probability.jpg",
+                "fields": [
+                    {
+                        "title": "Est. reading time",
+                        "value": "15 minutes",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.statisticshowto.com\/probability-and-statistics\/normal-distributions\/",
+                "image_width": 526,
+                "image_height": 189,
+                "image_bytes": 7579,
+                "service_icon": "https:\/\/www.statisticshowto.com\/wp-content\/uploads\/fbrfg\/apple-touch-icon.png?v=kPvm30vRK4",
+                "id": 1,
+                "original_url": "https:\/\/www.statisticshowto.com\/probability-and-statistics\/normal-distributions\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CE4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Normal Distribution "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.statisticshowto.com\/probability-and-statistics\/normal-distributions\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "   "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RP2K1606"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S7KCL3DF"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

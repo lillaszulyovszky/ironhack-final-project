@@ -1,0 +1,1471 @@
+[
+    {
+        "client_msg_id": "3791249c-ffe4-438e-8a4c-ca1868a16ac3",
+        "type": "message",
+        "text": "does anyone have an up to date ‘main’ notebook from yesterday? I had to leave a bit early for an appointment :confused:",
+        "user": "U01S7KCL3DF",
+        "ts": "1618561382.000700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fTh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "does anyone have an up to date ‘main’ notebook from yesterday? I had to leave a bit early for an appointment "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2608e54-3872-42ec-9abc-56e7e5f0aad7",
+        "type": "message",
+        "text": "I would like to have it as well",
+        "user": "U01S79YDELR",
+        "ts": "1618561467.001000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jQQi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would like to have it as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01UB9PD9PY",
+                "created": 1618561488,
+                "timestamp": 1618561488,
+                "name": "main.ipynb",
+                "title": "main.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U01S0MFJ3HR",
+                "editable": false,
+                "size": 125261,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01UB9PD9PY\/main.ipynb?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01UB9PD9PY\/download\/main.ipynb?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S0MFJ3HR\/F01UB9PD9PY\/main.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01UB9PD9PY-f2af67a0b7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01S0MFJ3HR",
+        "display_as_bot": false,
+        "ts": "1618561491.001100",
+        "thread_ts": "1618561491.001100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1618561564.001900",
+        "reply_users": [
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1618561564.001900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U01S79YDELR",
+                    "U01S7KCL3DF",
+                    "U01RRV4JX6Z"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4479919c-0389-4074-9d60-58a84ad252b1",
+        "type": "message",
+        "text": "Thanks Anja",
+        "user": "U01S79YDELR",
+        "ts": "1618561563.001800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uEo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Anja"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S0MFJ3HR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "hero",
+        "user": "U01S7KCL3DF",
+        "ts": "1618561564.001900",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "TX1",
+                "image_url": "https:\/\/media4.giphy.com\/media\/3oEdv6wCEgEsvWOgPS\/giphy.gif?cid=6104955ecadc7ceaf74013d8196f002addc55638aee7f886&rid=giphy.gif&ct=g",
+                "alt_text": "hero",
+                "title": {
+                    "type": "plain_text",
+                    "text": "hero",
+                    "emoji": true
+                },
+                "fallback": "500x539px image",
+                "image_width": 500,
+                "image_height": 539,
+                "image_bytes": 298855,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "t4vb0",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/dccomics\/|DC>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618561491.001100",
+        "parent_user_id": "U01S0MFJ3HR",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01S0MFJ3HR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2a5b4e2-d6b3-448f-87e4-935457fb1d63",
+        "type": "message",
+        "text": "Please: My DF has the name -&gt; review_missing_removed",
+        "user": "U01S0MFJ3HR",
+        "ts": "1618561722.002500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "16aa576b8645",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1903189544593_16aa576b864568c61af7_72.jpg",
+            "first_name": "",
+            "real_name": "Anja Fechner",
+            "display_name": "Anja Fechner",
+            "team": "T01RBRV5F7H",
+            "name": "anja.fechner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XIm=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please: My DF has the name -> review_missing_removed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Uploaded in Notion too :v:",
+        "files": [
+            {
+                "id": "F01UF3TGLBX",
+                "created": 1618563332,
+                "timestamp": 1618563332,
+                "name": "main_with_Kosta.ipynb.zip",
+                "title": "main_with_Kosta.ipynb.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U01RSRE0N3D",
+                "editable": false,
+                "size": 14590,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01UF3TGLBX\/main_with_kosta.ipynb.zip?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01UF3TGLBX\/download\/main_with_kosta.ipynb.zip?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RSRE0N3D\/F01UF3TGLBX\/main_with_kosta.ipynb.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01UF3TGLBX-026ff62157",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fs4W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Uploaded in Notion too "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RSRE0N3D",
+        "display_as_bot": false,
+        "ts": "1618563342.003100"
+    },
+    {
+        "client_msg_id": "066f2809-e9b0-42f6-8458-7cc3b25aad81",
+        "type": "message",
+        "text": "re random variables lab: can’t seem to find the lesson we did the log transformations in.. does somebody know?",
+        "user": "U01SK96QF5E",
+        "ts": "1618589124.003900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Z9Ge",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "re random variables lab: can’t seem to find the lesson we did the log transformations in.. does somebody know?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618589124.003900",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1618589866.004700",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01RP2K1606",
+            "U01SK96QF5E"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1618589169.004000"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1618589232.004200"
+            },
+            {
+                "user": "U01RP2K1606",
+                "ts": "1618589250.004400"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1618589866.004700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7151c2e3-46bd-4965-9d41-bc1f695af920",
+        "type": "message",
+        "text": "i used this but the result is ‘ambigous’ to use pythons words..\n`dflog1=nums['natural_log'] = np.log(nums['customer_lifetime_value'])` ",
+        "user": "U01S7BM4N81",
+        "ts": "1618589169.004000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h0x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i used this but the result is ‘ambigous’ to use pythons words..\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "dflog1=nums['natural_log'] = np.log(nums['customer_lifetime_value']) ",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618589124.003900",
+        "parent_user_id": "U01SK96QF5E",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01SK96QF5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6843a81b-cb32-430a-813f-6073d82a4b84",
+        "type": "message",
+        "text": "note that this results in a series, you can convert to a dataframe using `dflog1=<http:\/\/dflog1.to|dflog1.to>_frame()`",
+        "user": "U01S7BM4N81",
+        "ts": "1618589232.004200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fNVX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "note that this results in a series, you can convert to a dataframe using "
+                            },
+                            {
+                                "type": "text",
+                                "text": "dflog1=",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/dflog1.to",
+                                "text": "dflog1.to",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "_frame()",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618589124.003900",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "1f94f2ac-dd38-4e99-b40b-519ab7146698",
+        "type": "message",
+        "text": "it was in the first Machine Learning lesson (2 weeks ago) if I am not mistaken",
+        "user": "U01RP2K1606",
+        "ts": "1618589250.004400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "cf57933e3b00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880079302355_cf57933e3b00451b4617_72.png",
+            "first_name": "",
+            "real_name": "Jalal Karimov",
+            "display_name": "Jalal Karimov",
+            "team": "T01RBRV5F7H",
+            "name": "jalalkrmv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IbRz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it was in the first Machine Learning lesson (2 weeks ago) if I am not mistaken"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618589124.003900",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "16bffff7-20bc-4d54-989e-01710046e1a0",
+        "type": "message",
+        "text": "ah, ace! yes <@U01RP2K1606> it was in this file: ML_Linear_Regression_Students",
+        "user": "U01SK96QF5E",
+        "ts": "1618589866.004700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9\/Az",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah, ace! yes "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RP2K1606"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it was in this file: ML_Linear_Regression_Students"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618589124.003900",
+        "parent_user_id": "U01SK96QF5E",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RP2K1606"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "564a8949-c74a-47ba-a496-69267eb50a0a",
+        "type": "message",
+        "text": "hi, can someone help with this please?\n`try:`\n    `for var in numerical_variables:`\n    `plt.figure(figsize = (8, 8))`\n    `sns.distplot(boxcox(data[var])[0])`\n    `plt.show()`\n`except ValueError:`\n    `print('It founds the error: ValueError: Data must be positive.')`\nI have a list of numerical variables. I am trying to automate the plot with boxcox",
+        "user": "U01S79YDELR",
+        "ts": "1618592774.005400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1618592853.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Dx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi, can someone help with this please?\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "try:",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    for var in numerical_variables:",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    plt.figure(figsize = (8, 8))",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    sns.distplot(boxcox(data[var])[0])",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    plt.show()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "except ValueError:",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    print('It founds the error: ValueError: Data must be positive.')",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI have a list of numerical variables. I am trying to automate the plot with boxcox"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16ae8c69-be84-4665-982c-ddf16bdab3dd",
+        "type": "message",
+        "text": "I think it doesnt accept the negative log values",
+        "user": "U01RRV4JX6Z",
+        "ts": "1618592871.005700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wex",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it doesnt accept the negative log values"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95394cce-ad9b-4bbc-aa24-3d88a87f31d9",
+        "type": "message",
+        "text": "because of this i insert an exception",
+        "user": "U01S79YDELR",
+        "ts": "1618592900.006300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1618592914.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FkxpT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "because of this i insert an exception"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56319f21-f4b2-4629-a823-90f9d7bb6523",
+        "type": "message",
+        "text": "This is the error I have\n```  File \"&lt;ipython-input-54-241aeedb9fee&gt;\", line 3\n    plt.figure(figsize = (8, 8))\n    ^\nIndentationError: expected an indented block```\n",
+        "user": "U01S79YDELR",
+        "ts": "1618592967.006800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Ig8m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the error I have\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "  File \"<ipython-input-54-241aeedb9fee>\", line 3\n    plt.figure(figsize = (8, 8))\n    ^\nIndentationError: expected an indented block"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618592967.006800",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1618595900.011400",
+        "reply_users": [
+            "U01RSRE0N3D",
+            "U01S79YDELR"
+        ],
+        "replies": [
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1618592994.007400"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1618593004.007800"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1618593067.009300"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1618593156.009800"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1618595900.011400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618595900.011400"
+    },
+    {
+        "client_msg_id": "ffdcdf4a-f756-4be3-a741-69ca55b1bbc4",
+        "type": "message",
+        "text": "that is <https:\/\/www.w3schools.com\/python\/gloss_python_indentation.asp#:~:text=Indentation%20refers%20to%20the%20spaces,indicate%20a%20block%20of%20code.|identation error>",
+        "user": "U01RSRE0N3D",
+        "ts": "1618592994.007400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RSRE0N3D",
+            "ts": "1618593037.000000"
+        },
+        "attachments": [
+            {
+                "title": "Python Indentation",
+                "title_link": "https:\/\/www.w3schools.com\/python\/gloss_python_indentation.asp#:~:text=Indentation%20refers%20to%20the%20spaces,indicate%20a%20block%20of%20code.",
+                "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java and XML.",
+                "fallback": "Python Indentation",
+                "from_url": "https:\/\/www.w3schools.com\/python\/gloss_python_indentation.asp#:~:text=Indentation%20refers%20to%20the%20spaces,indicate%20a%20block%20of%20code.",
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "service_name": "w3schools.com",
+                "id": 1,
+                "original_url": "https:\/\/www.w3schools.com\/python\/gloss_python_indentation.asp#:~:text=Indentation%20refers%20to%20the%20spaces,indicate%20a%20block%20of%20code."
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "67M0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com\/python\/gloss_python_indentation.asp#:~:text=Indentation%20refers%20to%20the%20spaces,indicate%20a%20block%20of%20code.",
+                                "text": "identation error"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618592967.006800",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "1d8b531a-c6e1-4a79-ab33-27b624f7920c",
+        "type": "message",
+        "text": "The errors says indentations are missing under the for loop",
+        "user": "U01S7BM4N81",
+        "ts": "1618592995.007600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TSqN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The errors says indentations are missing under the for loop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7501110a-1e97-4a96-930e-f517c88c2850",
+        "type": "message",
+        "text": "check the spaces and tabs",
+        "user": "U01RSRE0N3D",
+        "ts": "1618593004.007800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YL\/q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "check the spaces and tabs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618592967.006800",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "aa7086f7-a32d-4944-b87f-223c16508a72",
+        "type": "message",
+        "text": "yep, but how to fix? it seems right for me",
+        "user": "U01S79YDELR",
+        "ts": "1618593030.008400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1618593052.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7UQ0+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep, but how to fix? it seems right for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "deb83a77-5280-4f02-81f2-e1cefb0ae725",
+        "type": "message",
+        "text": "I will do it again",
+        "user": "U01S79YDELR",
+        "ts": "1618593067.009300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RkLw+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will do it again"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618592967.006800",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "2b21e4d8-06e0-4f95-aa59-2360fae750d6",
+        "type": "message",
+        "text": "Check <https:\/\/appuals.com\/fix-indentation-error-python\/|this> out",
+        "user": "U01RSRE0N3D",
+        "ts": "1618593156.009800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Appuals.com",
+                "title": "Fix: Indentation Error Python - Appuals.com",
+                "title_link": "https:\/\/appuals.com\/fix-indentation-error-python\/",
+                "text": "Python is an emerging programming language which was first released in 1991. The language is known for its large comprehensive library and supports",
+                "fallback": "Appuals.com: Fix: Indentation Error Python - Appuals.com",
+                "image_url": "https:\/\/cdn.appuals.com\/wp-content\/uploads\/2018\/10\/5.png",
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Kevin Arrows",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "3 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1539507893,
+                "from_url": "https:\/\/appuals.com\/fix-indentation-error-python\/",
+                "image_width": 502,
+                "image_height": 250,
+                "image_bytes": 73136,
+                "service_icon": "https:\/\/cdn.appuals.com\/wp-content\/uploads\/2018\/04\/cropped-512-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/appuals.com\/fix-indentation-error-python\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "20d1Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Check "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/appuals.com\/fix-indentation-error-python\/",
+                                "text": "this"
+                            },
+                            {
+                                "type": "text",
+                                "text": " out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618592967.006800",
+        "parent_user_id": "U01S79YDELR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7a99afd-8f3a-4376-aaf7-c982c600919e",
+        "type": "message",
+        "text": "Perhaps you could change the scale?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1618593259.010200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IOHjK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perhaps you could change the scale?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "002aa837-c2c8-4db5-9ef4-c663f326a670",
+        "type": "message",
+        "text": "I missed the identation after for",
+        "user": "U01S79YDELR",
+        "ts": "1618593297.010700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sDW\/J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I missed the identation after for"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "baby-yoda-soup",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01S79YDELR"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61c535a5-5e22-44da-9962-62462953c67c",
+        "type": "message",
+        "text": "<@U01S79YDELR>, when you say automation you mean a code to plot all the graphs at the same time?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1618594004.010900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "86L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S79YDELR"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", when you say automation you mean a code to plot all the graphs at the same time?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f0cf82d-5dce-4510-9c69-116c2c30d069",
+        "type": "message",
+        "text": "yes",
+        "user": "U01S79YDELR",
+        "ts": "1618595764.011100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KPL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618595764.011100",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1618815464.000200",
+        "reply_users": [
+            "U01RRV4JX6Z",
+            "U01S79YDELR",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1618672838.011700"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1618682049.011900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1618815464.000200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "808e52c0-aed2-456a-a079-a0f224eccd71",
+        "type": "message",
+        "text": "yes, but sometimes it is hard to see the “obvious”. I can find mistake in the code of others easily then in mine.",
+        "user": "U01S79YDELR",
+        "ts": "1618595900.011400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1618595939.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8gJpU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, but sometimes it is hard to see the “obvious”. I can find mistake in the code of others easily then in mine."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618592967.006800",
+        "parent_user_id": "U01S79YDELR"
+    }
+]

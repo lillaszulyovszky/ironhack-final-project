@@ -1,0 +1,81 @@
+[
+    {
+        "type": "message",
+        "text": "Maybe I got that batch, maybe not.",
+        "files": [
+            {
+                "id": "F02296C4TTN",
+                "created": 1621241152,
+                "timestamp": 1621241152,
+                "name": "Bild von iOS.png",
+                "title": "Bild von iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7BM4N81",
+                "editable": false,
+                "size": 801385,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F02296C4TTN\/bild_von_ios.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F02296C4TTN\/download\/bild_von_ios.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02296C4TTN-fcecae761a\/bild_von_ios_64.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02296C4TTN-fcecae761a\/bild_von_ios_80.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02296C4TTN-fcecae761a\/bild_von_ios_360.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02296C4TTN-fcecae761a\/bild_von_ios_480.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02296C4TTN-fcecae761a\/bild_von_ios_160.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02296C4TTN-fcecae761a\/bild_von_ios_720.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02296C4TTN-fcecae761a\/bild_von_ios_800.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02296C4TTN-fcecae761a\/bild_von_ios_960.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F02296C4TTN-fcecae761a\/bild_von_ios_1024.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "thumb_tiny": "AwAwABrMoqb7JP8A88zR9knAz5TY9aAIaKf5MmcbDk1J9iuP+eLUAbG1vQ0jriJyePlPWpQxJIKsPc4pJf8AVP8A7poAyXdQ4ZTkVeGoJgfI1UZG2yg7s+9aQvIMD5\/0oAyPtlx\/z2b86Q3dwQQZWIPWoaKAF3t6\/pS+Y3rTaKAP\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7BM4N81\/F02296C4TTN\/bild_von_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F02296C4TTN-99a054b6fb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bm8w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe I got that batch, maybe not."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S7BM4N81",
+        "display_as_bot": false,
+        "ts": "1621241161.001400",
+        "client_msg_id": "46ACE8B7-8726-4192-A908-660CDB12C8CE"
+    }
+]

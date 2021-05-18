@@ -1,0 +1,169 @@
+[
+    {
+        "client_msg_id": "213918e2-8468-4936-b881-619e3368a3ca",
+        "type": "message",
+        "text": "Hey guys, Udacity offers 30 day free access now (I think they are aiming for an IPO btw) and they have several courses on AI (I’ve done the Data Analyst Nanodegree, I know, not AI but I loved it!) <https:\/\/www.udacity.com\/school-of-ai>\nIt’s probably a good idea in case you want to dive deep into some of the subjects you can find there, plus now you have the prerequisite knowledge so don’t have to bother with that. You won’t get the certificate if you choose only the 30 day access option, but they offer discount on the monthly rolling payments too so I would go for that.",
+        "user": "U01SK96QF5E",
+        "ts": "1620972553.004000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Artificial Intelligence (AI) Online Courses",
+                "title_link": "https:\/\/www.udacity.com\/school-of-ai",
+                "text": "Artificial Intelligence (AI) is one of the fastest-growing technologies of our time, with 2.3 million new jobs opening up by 2020. Learn online, with Udacity.",
+                "fallback": "Artificial Intelligence (AI) Online Courses",
+                "image_width": 1200,
+                "image_height": 630,
+                "from_url": "https:\/\/www.udacity.com\/school-of-ai",
+                "service_icon": "https:\/\/www.udacity.com\/favicon.ico",
+                "service_name": "udacity.com",
+                "id": 1,
+                "original_url": "https:\/\/www.udacity.com\/school-of-ai"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8f1w+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys, Udacity offers 30 day free access now (I think they are aiming for an IPO btw) and they have several courses on AI (I’ve done the Data Analyst Nanodegree, I know, not AI but I loved it!) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udacity.com\/school-of-ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIt’s probably a good idea in case you want to dive deep into some of the subjects you can find there, plus now you have the prerequisite knowledge so don’t have to bother with that. You won’t get the certificate if you choose only the 30 day access option, but they offer discount on the monthly rolling payments too so I would go for that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620972553.004000",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1620979848.005600",
+        "reply_users": [
+            "U01SK96QF5E",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1620972651.004300"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620979324.005300"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1620979848.005600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RRV4JX6Z",
+                    "U01RN7BVD1C",
+                    "U01RW140HBP",
+                    "U01S1CWGTU4",
+                    "U01S7KCL3DF",
+                    "U01RXCQHMHT"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01RV3K524T",
+                    "U01S79YDELR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U01RV3K524T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f11fb4b3-f950-4ac2-9f66-a7fa30373fcb",
+        "type": "message",
+        "text": "I’m going for the AI Product Manager one :eyes:",
+        "user": "U01SK96QF5E",
+        "ts": "1620972651.004300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AIri",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m going for the AI Product Manager one "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620972553.004000",
+        "parent_user_id": "U01SK96QF5E",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

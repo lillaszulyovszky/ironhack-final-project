@@ -1,0 +1,405 @@
+[
+    {
+        "client_msg_id": "5f12218e-ffc1-46f2-a375-ce37d8a03a11",
+        "type": "message",
+        "text": "Is it possible we save the tasks and resources from the Ironhack calendar automatically to a to do list in Notion or, even better, at Trello?  <@U01RSRE0N3D> <@U01SJKB2MG8> <@U01RW140HBP>",
+        "user": "U01S79YDELR",
+        "ts": "1619368366.035500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1619368426.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ZC=s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it possible we save the tasks and resources from the Ironhack calendar automatically to a to do list in Notion or, even better, at Trello?  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RSRE0N3D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RW140HBP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619368366.035500",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1619451086.049400",
+        "reply_users": [
+            "U01SK96QF5E",
+            "U01RW140HBP",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1619449380.048000"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619449624.048400"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1619449858.048600"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619449898.048800"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1619450008.049000"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619450905.049200"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619451086.049400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1619451086.049400"
+    },
+    {
+        "client_msg_id": "fe31bd13-ef86-4320-a9ea-86e06786dc3b",
+        "type": "message",
+        "text": "Good morning everyone, a group of us met on spontaneously on Friday afternoon thanks to the Lily Potter group, despite corona rules, oops, judging by the fact we stayed till almost sunset, I think we all enjoyed meeting in person, it would be great if we do it again.",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619419939.039300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0jI2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good morning everyone, a group of us met on spontaneously on Friday afternoon thanks to the Lily Potter group, despite corona rules, oops, judging by the fact we stayed till almost sunset, I think we all enjoyed meeting in person, it would be great if we do it again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619419939.039300",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1619455807.050200",
+        "reply_users": [
+            "U01SD3CDH9P",
+            "U01S79YDELR",
+            "U01RXCQHMHT",
+            "U01RS9Y6UJH",
+            "U01S7KCL3DF",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1619420047.039400"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1619420085.039600"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1619420087.039800"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1619420179.040200"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619421354.040700"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619422671.041300"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619454889.049900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619455807.050200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U01RN7BVD1C",
+                    "U01S1CWGTU4",
+                    "U01RKN0EGDV",
+                    "U01S7KCL3DF",
+                    "U01SD3CDH9P"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01S65G72SY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S6LCPM0C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6694fd4-48ca-408e-a512-e0e120bed5c3",
+        "type": "message",
+        "text": "It was great and we should definitely do it again!:heart_eyes:",
+        "user": "U01SD3CDH9P",
+        "ts": "1619420047.039400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ShrNE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It was great and we should definitely do it again!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619419939.039300",
+        "parent_user_id": "U01RS9Y6UJH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RKN0EGDV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f868df6-72a7-4c5b-91f4-f520fbc83ac9",
+        "type": "message",
+        "text": "I missed that, but I want to go next time.",
+        "user": "U01S79YDELR",
+        "ts": "1619420085.039600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4KoA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I missed that, but I want to go next time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619419939.039300",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "e6f3e8d3-74a9-4a7a-b138-05076c8c1293",
+        "type": "message",
+        "text": "Yes, it was so pleasant to meet all of you!",
+        "user": "U01RXCQHMHT",
+        "ts": "1619420087.039800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HATl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, it was so pleasant to meet all of you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619419939.039300",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "5e75b621-d868-4c8b-ad59-eddb7446fdd9",
+        "type": "message",
+        "text": "I think the idea is to give more notice next time and we need to consider corona rules :face_with_rolling_eyes:",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619420179.040200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yeO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think the idea is to give more notice next time and we need to consider corona rules "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_rolling_eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619419939.039300",
+        "parent_user_id": "U01RS9Y6UJH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RN7BVD1C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

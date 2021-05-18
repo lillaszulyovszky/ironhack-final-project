@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "92275c57-a3a0-48b9-af09-4399fcf50fe5",
+        "type": "message",
+        "text": "someone say cookie? :cookie:\n\n<https:\/\/www.youtube.com\/watch?v=fbiioBFkD_Q&amp;ab_channel=cookiewaits>",
+        "user": "U01S7KCL3DF",
+        "ts": "1620817950.001000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Tom Waits\/Cookie Monster - Hell Broke Luce",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=fbiioBFkD_Q&amp;ab_channel=cookiewaits",
+                "author_name": "cookiewaits",
+                "author_link": "https:\/\/www.youtube.com\/user\/cookiewaits",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/fbiioBFkD_Q\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Tom Waits\/Cookie Monster - Hell Broke Luce",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/fbiioBFkD_Q?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=fbiioBFkD_Q&amp;ab_channel=cookiewaits",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=fbiioBFkD_Q&amp;ab_channel=cookiewaits"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X6fJI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "someone say cookie? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cookie"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=fbiioBFkD_Q&ab_channel=cookiewaits"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

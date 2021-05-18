@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "441e8044-8366-4e1f-92a3-967891525cdd",
+        "type": "message",
+        "text": "ahhh bloody love Adriano. Also on Pro Evolution Soccer 6 he was INCREDIBLE",
+        "user": "U01S7KCL3DF",
+        "ts": "1620822427.014300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LGQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahhh bloody love Adriano. Also on Pro Evolution Soccer 6 he was INCREDIBLE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620799590.014100",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "0fd8c35a-c387-4b48-8676-61dbdca3817e",
+        "type": "message",
+        "text": "maybe this could be my next job: translating the blogs of legendary brazilian footballers into english",
+        "user": "U01S7KCL3DF",
+        "ts": "1620822538.014500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T\/wG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "maybe this could be my next job: translating the blogs of legendary brazilian footballers into english"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620799590.014100",
+        "parent_user_id": "U01RRV4JX6Z"
+    }
+]

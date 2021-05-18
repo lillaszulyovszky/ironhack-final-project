@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "728d04ef-1fe8-40a5-9c50-c0fabeb49ca2",
+        "type": "message",
+        "text": "<https:\/\/us04web.zoom.us\/j\/78532814235?pwd=YjRUTFdlU2FiVDlvWHdrc3lkMkVjUT09>",
+        "user": "U01S0P26NKD",
+        "ts": "1620161835.005400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7b30129d02b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b30129d02bcacd7eef985bfd5432c73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "Jennipher Kasemire",
+            "display_name": "Jennipher Kasemire",
+            "team": "T01RBRV5F7H",
+            "name": "jennipherkasemire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ob\/0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us04web.zoom.us\/j\/78532814235?pwd=YjRUTFdlU2FiVDlvWHdrc3lkMkVjUT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "d2d7c8e3-e6ed-47d6-b3e0-55025c5c4786",
+        "type": "message",
+        "text": "awww such a cute bat",
+        "user": "U01RW140HBP",
+        "ts": "1619421082.010700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H\/Rz7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "awww such a cute bat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619345407.008400",
+        "parent_user_id": "U01SJKB2MG8"
+    }
+]

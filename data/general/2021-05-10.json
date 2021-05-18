@@ -22,8 +22,8 @@
                 "public_url_shared": false,
                 "display_as_bot": false,
                 "username": "",
-                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0222LFBFFS\/panel_data_econometrics_with_python.ipynb?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
-                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0222LFBFFS\/download\/panel_data_econometrics_with_python.ipynb?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0222LFBFFS\/panel_data_econometrics_with_python.ipynb?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0222LFBFFS\/download\/panel_data_econometrics_with_python.ipynb?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
                 "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RRV4JX6Z\/F0222LFBFFS\/panel_data_econometrics_with_python.ipynb",
                 "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F0222LFBFFS-a46fad903c",
                 "edit_link": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RRV4JX6Z\/F0222LFBFFS\/panel_data_econometrics_with_python.ipynb\/edit",
@@ -97,10 +97,10 @@
                 "public_url_shared": false,
                 "display_as_bot": false,
                 "username": "",
-                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021DDWN4JX\/panel.xlsx?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
-                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021DDWN4JX\/download\/panel.xlsx?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
-                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021DDWN4JX-d12ee41112\/panel_converted.pdf?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
-                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021DDWN4JX-d12ee41112\/panel_thumb_pdf.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021DDWN4JX\/panel.xlsx?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021DDWN4JX\/download\/panel.xlsx?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021DDWN4JX-d12ee41112\/panel_converted.pdf?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021DDWN4JX-d12ee41112\/panel_thumb_pdf.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
                 "thumb_pdf_w": 909,
                 "thumb_pdf_h": 1286,
                 "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RRV4JX6Z\/F021DDWN4JX\/panel.xlsx",
@@ -138,6 +138,208 @@
                     "U01RW140HBP"
                 ],
                 "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U01SJKB2MG8> typed some feedback in the chat of zoom for every group that presented on friday, but i dont know if everyone saw it so I am attaching the chat log.  If any group wants more detailed feedback on a particular part of their code, their approach or technique, let us know on this thread with detailed questions so we can give you specifically the help\/guidance you want.",
+        "files": [
+            {
+                "id": "F0216RZRY7Q",
+                "created": 1620646105,
+                "timestamp": 1620646105,
+                "name": "GMT20210507-120844_Recording.txt",
+                "title": "GMT20210507-120844_Recording.txt",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U01RW140HBP",
+                "editable": true,
+                "size": 9946,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0216RZRY7Q\/gmt20210507-120844_recording.txt?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0216RZRY7Q\/download\/gmt20210507-120844_recording.txt?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F0216RZRY7Q\/gmt20210507-120844_recording.txt",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F0216RZRY7Q-c7d807c930",
+                "edit_link": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F0216RZRY7Q\/gmt20210507-120844_recording.txt\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/MM8Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " typed some feedback in the chat of zoom for every group that presented on friday, but i dont know if everyone saw it so I am attaching the chat log.  If any group wants more detailed feedback on a particular part of their code, their approach or technique, let us know on this thread with detailed questions so we can give you specifically the help\/guidance you want."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1620646128.014600",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01SK96QF5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40b7576d-c532-464d-b80a-13265acd1439",
+        "type": "message",
+        "text": "<!channel> 10 minute warning that we will be shortly joined by our guest speaker on the main zoom",
+        "user": "U01RW140HBP",
+        "ts": "1620658267.015200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WA2wh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 10 minute warning that we will be shortly joined by our guest speaker on the main zoom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7KCL3DF",
+                    "U01S0P26NKD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1620658980.015500",
+        "user": "U01S7BM4N81",
+        "text": "<@U01S7BM4N81> set the channel description: :zoom: classroom:\n<https:\/\/zoom.us\/j\/877626245>\npw: 986565",
+        "purpose": ":zoom: classroom:\n<https:\/\/zoom.us\/j\/877626245>\npw: 986565",
+        "reactions": [
+            {
+                "name": "rickroll",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01S7BM4N81"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e69adad7-4442-4cab-950d-e97868031b99",
+        "type": "message",
+        "text": "excellent lab submission rate for today! I have 15 submitted now, only 1 with a broken link and 1 looks incomplete. I have just been through them all using the handy <https:\/\/nbviewer.jupyter.org\/> - looking to see if all prescribed steps are there, ill share some feedback in the morning on that (very light touch feedback, so im not up all night )\n\nthose students who havent yet submitted, please do so asap tomorrow morning, so you dont fall behind this week - submit the lab as far as you have it, it does not need to be completed to the end of the task list.\n\nFYI tomorrows lab is very short but we will do more together in class, to mix it up a bit",
+        "user": "U01RW140HBP",
+        "ts": "1620667733.020900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1620668013.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6MHwD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "excellent lab submission rate for today! I have 15 submitted now, only 1 with a broken link and 1 looks incomplete. I have just been through them all using the handy "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nbviewer.jupyter.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - looking to see if all prescribed steps are there, ill share some feedback in the morning on that (very light touch feedback, so im not up all night )\n\nthose students who havent yet submitted, please do so asap tomorrow morning, so you dont fall behind this week - submit the lab as far as you have it, it does not need to be completed to the end of the task list.\n\nFYI tomorrows lab is very short but we will do more together in class, to mix it up a bit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RRV4JX6Z",
+                    "U01RXCQHMHT",
+                    "U01S7KCL3DF",
+                    "U01RNEU3SNA",
+                    "U01S7BM4N81",
+                    "U01S0MFJ3HR",
+                    "U01RN7BVD1C"
+                ],
+                "count": 7
             }
         ]
     }

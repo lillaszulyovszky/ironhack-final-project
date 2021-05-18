@@ -1,0 +1,1416 @@
+[
+    {
+        "client_msg_id": "4c644f09-8add-4843-b0fc-8e03b9269744",
+        "type": "message",
+        "text": "Did you already give your feedback and wondering what to do?\nHere is an *<https:\/\/www.codewars.com\/kata\/5ce9c1000bab0b001134f5af\/train\/python|easy kata>* to keep you busy :v:\n\nTask:\n*Input*: number from 1 to 12 for the month\n*Output*: number from 1 to 4 for the quarter corresponding to the given month",
+        "user": "U01RSRE0N3D",
+        "ts": "1617349621.002300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Codewars",
+                "title": "Training on Quarter of the year | Codewars",
+                "title_link": "https:\/\/www.codewars.com\/kata\/5ce9c1000bab0b001134f5af\/train\/python",
+                "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.",
+                "fallback": "Codewars: Training on Quarter of the year | Codewars",
+                "from_url": "https:\/\/www.codewars.com\/kata\/5ce9c1000bab0b001134f5af\/train\/python",
+                "thumb_url": "https:\/\/www.codewars.com\/assets\/logos\/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.codewars.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.codewars.com\/kata\/5ce9c1000bab0b001134f5af\/train\/python"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R52kp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did you already give your feedback and wondering what to do?\nHere is an "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codewars.com\/kata\/5ce9c1000bab0b001134f5af\/train\/python",
+                                "text": "easy kata",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to keep you busy "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nTask:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Input",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": number from 1 to 12 for the month\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Output",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": number from 1 to 4 for the quarter corresponding to the given month"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "reply_count": 20,
+        "reply_users_count": 5,
+        "latest_reply": "1617355081.009600",
+        "reply_users": [
+            "U01RSRE0N3D",
+            "U01S7BM4N81",
+            "U01S1CWGTU4",
+            "U01RW2X7S9Z",
+            "U01RKN0EGDV"
+        ],
+        "replies": [
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1617350254.003000"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617350261.003200"
+            },
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1617350740.003700"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1617350997.004200"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1617351001.004400"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617351060.004600"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617352031.006000"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617352074.006300"
+            },
+            {
+                "user": "U01RKN0EGDV",
+                "ts": "1617352086.006500"
+            },
+            {
+                "user": "U01RKN0EGDV",
+                "ts": "1617352115.006700"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617352132.006900"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617352360.007100"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617352527.007300"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617352529.007500"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617352551.007700"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617352585.008100"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617352607.008500"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617352634.008900"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1617352734.009400"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617355081.009600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617355081.009600",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U01RKN0EGDV",
+                    "U01RN7BVD1C",
+                    "U01S7BM4N81",
+                    "U01SK96QF5E"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01RW140HBP",
+                    "U01S7BM4N81",
+                    "U01S133DZ9A"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7cdaf1c6-06a5-4413-973b-56812aebbc25",
+        "type": "message",
+        "text": "As always, share your solutions here:",
+        "user": "U01RSRE0N3D",
+        "ts": "1617350254.003000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ohn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As always, share your solutions here:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "686f7dd1-dbe2-4fba-9d8c-e2430e424aa1",
+        "type": "message",
+        "text": "`if month in range(1,4):`\n        `return 1`\n    `elif month in range(4,7):`\n        `return 2`\n    `elif month in range (7,10):`\n        `return 3`\n    `elif month in range (9,13):`\n        `return 4`",
+        "user": "U01S7BM4N81",
+        "ts": "1617350261.003200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IT0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if month in range(1,4):",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "        return 1",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    elif month in range(4,7):",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "        return 2",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    elif month in range (7,10):",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "        return 3",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    elif month in range (9,13):",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "        return 4",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01S1CWGTU4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe640161-fa73-45ea-831a-104e9c436163",
+        "type": "message",
+        "text": "```def quarter_of(month):\n    if month &lt; 4:\n        return 1\n    elif month &gt;= 4 and month &lt; 7:\n        return 2\n    elif month &gt;=7 and month &lt; 10:\n        return 3\n    elif month &gt;=10 and month &lt;= 12:\n        return 4\n    else: \n        return \"this is not a month number\"```\n",
+        "user": "U01S1CWGTU4",
+        "ts": "1617350740.003700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H=qd",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "def quarter_of(month):\n    if month < 4:\n        return 1\n    elif month >= 4 and month < 7:\n        return 2\n    elif month >=7 and month < 10:\n        return 3\n    elif month >=10 and month <= 12:\n        return 4\n    else: \n        return \"this is not a month number\""
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "catjam",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59d22553-6283-4dc6-bd60-e78ec8d7748c",
+        "type": "message",
+        "text": "<@U01S1CWGTU4>, thanks for sharing! You can simplify the code more, there is a redundancy: the `elif` only activates `if` if is *False*, check this out:",
+        "user": "U01RSRE0N3D",
+        "ts": "1617350997.004200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KnRFl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S1CWGTU4"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", thanks for sharing! You can simplify the code more, there is a redundancy: the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "elif",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " only activates "
+                            },
+                            {
+                                "type": "text",
+                                "text": "if",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " if is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "False",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", check this out:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "8652f5bb-8405-478c-a695-2dfd2258b317",
+        "type": "message",
+        "text": "`def quarter_of(month):`\n    `if month &lt;= 3:`\n        `return 1`\n    `elif month &lt;= 6:`\n        `return 2`\n    `elif month &lt;= 9:`\n        `return 3`\n    `else:`\n        `return 4`",
+        "user": "U01RSRE0N3D",
+        "ts": "1617351001.004400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DUY3d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "def quarter_of(month):",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    if month <= 3:",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "        return 1",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    elif month <= 6:",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "        return 2",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    elif month <= 9:",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "        return 3",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "    else:",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "        return 4",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01S1CWGTU4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01SYBCR5EJ",
+                "created": 1617351059,
+                "timestamp": 1617351059,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 4196,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SYBCR5EJ\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SYBCR5EJ\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SYBCR5EJ-a86113e7b8\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SYBCR5EJ-a86113e7b8\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SYBCR5EJ-a86113e7b8\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 289,
+                "thumb_360_h": 110,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SYBCR5EJ-a86113e7b8\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 289,
+                "original_h": 110,
+                "thumb_tiny": "AwASADCmNmOS2fakO3+En8aaep+tKGGef5UAGfejPvRlfw+lOLqBx+qigBuaM0EqeTn8qbxQAHqaKD1NFABRRRQAUUUUAf\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F01SYBCR5EJ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01SYBCR5EJ-c1891426ae",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RW2X7S9Z",
+        "display_as_bot": false,
+        "ts": "1617351060.004600",
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01S1CWGTU4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U01RN7BVD1C",
+                    "U01RKN0EGDV",
+                    "U01S7BM4N81",
+                    "U01RSRE0N3D"
+                ],
+                "count": 4
+            },
+            {
+                "name": "coffin",
+                "users": [
+                    "U01RKN0EGDV",
+                    "U01S0E0MRJ7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "629e6865-040f-44e4-bb34-8d5a8df9dac8",
+        "type": "message",
+        "text": "Bro....",
+        "user": "U01S7BM4N81",
+        "ts": "1617352031.006000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Moq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bro...."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "confused",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617352074.006300",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "tW3o",
+                "image_url": "https:\/\/media4.giphy.com\/media\/WRQBXSCnEFJIuxktnw\/giphy.gif?cid=6104955ecee9ded04dedeff33fd397740407dd600828ad75&rid=giphy.gif&ct=g",
+                "alt_text": "confused",
+                "title": {
+                    "type": "plain_text",
+                    "text": "confused",
+                    "emoji": true
+                },
+                "fallback": "504x322px image",
+                "image_width": 504,
+                "image_height": 322,
+                "image_bytes": 1022135,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "UqMh",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "e1103307-d574-4809-9710-d4c77903d7c6",
+        "type": "message",
+        "text": "what's the month-.1?",
+        "user": "U01RKN0EGDV",
+        "ts": "1617352086.006500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CHISS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what's the month-.1?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "36c5612b-e132-4d57-bda8-4b8c2bee18af",
+        "type": "message",
+        "text": "google just shows me monty python xdddd",
+        "user": "U01RKN0EGDV",
+        "ts": "1617352115.006700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Nh9e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "google just shows me monty python xdddd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "aaff84c3-fc5c-428f-b521-9cbcac2f4603",
+        "type": "message",
+        "text": "im basically trying to catch flies with a cannon, i tested different divisions on excel first",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617352132.006900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Nfs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "im basically trying to catch flies with a cannon, i tested different divisions on excel first"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "eb09ed1d-e3b2-4150-9cd3-d4e332b6ef7f",
+        "type": "message",
+        "text": "I second marian, I do not understand what you did there, even with the power of google",
+        "user": "U01S7BM4N81",
+        "ts": "1617352360.007100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oyiZ+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I second marian, I do not understand what you did there, even with the power of google"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "62c64b23-093d-4d05-b414-447ca6fa9363",
+        "type": "message",
+        "text": "this is how i thought about this, first thing i told myself using else if, too easy so ill think further",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617352527.007300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QJa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is how i thought about this, first thing i told myself using else if, too easy so ill think further"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "48eb14f2-98f7-49c7-a69e-09b2e1b8df57",
+        "type": "message",
+        "text": "step 1",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617352529.007500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/PfZS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "step 1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "type": "message",
+        "text": "doesnt work",
+        "files": [
+            {
+                "id": "F01TV0BQ2BA",
+                "created": 1617352548,
+                "timestamp": 1617352548,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 7961,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TV0BQ2BA\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TV0BQ2BA\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TV0BQ2BA-c77fd23210\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TV0BQ2BA-c77fd23210\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TV0BQ2BA-c77fd23210\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 245,
+                "thumb_360_h": 297,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TV0BQ2BA-c77fd23210\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 245,
+                "original_h": 297,
+                "thumb_tiny": "AwAwACfRw3bGKXGBSjpSHpQAnzdsYoyFHJxTh0prZ7Z\/CgCIXEW\/yxnI46U\/zF96oKD9sP8AvGrNSmbSppFodKQ9DSjpSHoaoxFHSmv0\/wDr4pw6U18Y5x+IoArj\/XfiakpoQ+ZnjGak2msIvc0bJB0pD0P9KUdKRuQe9bmYo6U1unGfwp1NYZHTNADe9OqAGbzcbPlz1qTL\/wB2sY02h3P\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F01TV0BQ2BA\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TV0BQ2BA-1fcea3f34c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sx6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "doesnt work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW2X7S9Z",
+        "display_as_bot": false,
+        "ts": "1617352551.007700",
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "type": "message",
+        "text": "try to change the original number by .1, doesnt work either but i got 3 periods instead so im getting closer",
+        "files": [
+            {
+                "id": "F01TBB0TCFN",
+                "created": 1617352573,
+                "timestamp": 1617352573,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 8610,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TBB0TCFN\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TBB0TCFN\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TBB0TCFN-150841784e\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TBB0TCFN-150841784e\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TBB0TCFN-150841784e\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 252,
+                "thumb_360_h": 299,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TBB0TCFN-150841784e\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 252,
+                "original_h": 299,
+                "thumb_tiny": "AwAwACjRw3cDFHTqadSN260AJh\/RaCQOp5p1MfPv+VACLIjNgZyakqrD\/rRVqohJyV2VJWYU1uo\/xp1NbqOn4irJHUxxn\/8AXT6Y+MjOPyoYDI4wrggmpqYv3hT6xofCOTuFNbqOv4U6mkZOcVsIdTHz7\/hT6Y4J6DNAFeAkyrzVuq0MbrICVwKs1nTVkZUr21P\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F01TBB0TCFN\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TBB0TCFN-5bb0289abf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KRl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "try to change the original number by .1, doesnt work either but i got 3 periods instead so im getting closer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW2X7S9Z",
+        "display_as_bot": false,
+        "ts": "1617352585.008100",
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "type": "message",
+        "text": "tried to divide by 3, got quarters, bingo",
+        "files": [
+            {
+                "id": "F01T5CFGF51",
+                "created": 1617352593,
+                "timestamp": 1617352593,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 8838,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T5CFGF51\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T5CFGF51\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T5CFGF51-72deefc7ab\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T5CFGF51-72deefc7ab\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T5CFGF51-72deefc7ab\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 248,
+                "thumb_360_h": 308,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T5CFGF51-72deefc7ab\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 248,
+                "original_h": 308,
+                "thumb_tiny": "AwAwACbR+b0GPrR068elOpG6jrQAnz+g\/OhmAByeadUcmcN16elJ7AhFlU9f0pfMT1P5VXUc9KdisVUZo4ItU1uo\/wAadTW6j\/CtzMdTG69vzp9RykhWwe3pSewBRVVZHz940\/e3941zKmw5i3TW6j\/GnUhGTniuoBail+6309alpjoWBxjkUnsJ7FNRzT8U8QOD2\/Ol8lvasUpGC5z\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F01T5CFGF51\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01T5CFGF51-702fa44315",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cTM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tried to divide by 3, got quarters, bingo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW2X7S9Z",
+        "display_as_bot": false,
+        "ts": "1617352607.008500",
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "type": "message",
+        "text": "if i add one and truncate the number, i got the quarter number",
+        "files": [
+            {
+                "id": "F01TBB22DEG",
+                "created": 1617352614,
+                "timestamp": 1617352614,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 9703,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TBB22DEG\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TBB22DEG\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TBB22DEG-fa84f77f44\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TBB22DEG-fa84f77f44\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TBB22DEG-fa84f77f44\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 270,
+                "thumb_360_h": 294,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TBB22DEG-fa84f77f44\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 270,
+                "original_h": 294,
+                "thumb_tiny": "AwAwACzRIOeMfjRggc496dQelADeT90jHvRggckUq9O\/40HpQAxpEU85NOQhlyM4qCbOR1\/GpYP9WKzUm5WLaXLckoPSig9DWhAi9P8A6+aG6Ghen+FDdDQAz\/PXNPXpVaZ2VhtPHsKmtyWiBJyc1lGLU2wv0JKQ9KWkIyDWoAvTv+NB6H+lCjAoPQ0AVbjlh1\/Gprb\/AFQ+tRzRsSMKalgBWMAjBrNX5jJN877H\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F01TBB22DEG\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TBB22DEG-bd8e41f04d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5IdP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if i add one and truncate the number, i got the quarter number"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW2X7S9Z",
+        "display_as_bot": false,
+        "ts": "1617352634.008900",
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "d27acbe9-d8d2-439d-a498-9126688a72c8",
+        "type": "message",
+        "text": "itll not work with bigger works, but as months always are btw 1 and 12, this formula can work",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617352734.009400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zRSG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "itll not work with bigger works, but as months always are btw 1 and 12, this formula can work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "22844432-c3a5-4a49-864d-6f5b8a05d526",
+        "type": "message",
+        "text": "Thanks for elaborating!",
+        "user": "U01S7BM4N81",
+        "ts": "1617355081.009600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Xt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for elaborating!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617349621.002300",
+        "parent_user_id": "U01RSRE0N3D"
+    }
+]

@@ -1,0 +1,368 @@
+[
+    {
+        "client_msg_id": "9c1d2d3f-8f81-454f-b226-889b1b448ca0",
+        "type": "message",
+        "text": "I have an ambition to actually complete a Python Kata this week :nerd_face:  (if there’s time in amongst final project stuff)\n\nif anyone wants to team up, get in touch :success-kid:",
+        "user": "U01S7KCL3DF",
+        "ts": "1620891724.001000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AiUna",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have an ambition to actually complete a Python Kata this week "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "nerd_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  (if there’s time in amongst final project stuff)\n\nif anyone wants to team up, get in touch "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "success-kid"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620891724.001000",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1620891985.002800",
+        "reply_users": [
+            "U01RKN0EGDV",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01RKN0EGDV",
+                "ts": "1620891768.002100"
+            },
+            {
+                "user": "U01RKN0EGDV",
+                "ts": "1620891783.002300"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620891799.002600"
+            },
+            {
+                "user": "U01RKN0EGDV",
+                "ts": "1620891985.002800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RKN0EGDV",
+                    "U01S79YDELR"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b882dbb-5765-484d-a4b3-def269b340f4",
+        "type": "message",
+        "text": "good idea! we havent done any for a while",
+        "user": "U01RW140HBP",
+        "ts": "1620891746.001300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q7bJO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good idea! we havent done any for a while"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f61d6775-34c5-4415-b23e-d50ec374abec",
+        "type": "message",
+        "text": "Im sure <@U01SJKB2MG8> or <@U01RSRE0N3D> can make some suggestions for you too",
+        "user": "U01RW140HBP",
+        "ts": "1620891763.002000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w66Dx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Im sure "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RSRE0N3D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can make some suggestions for you too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RKN0EGDV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8c1aec4-b529-411d-9868-25d80d3a8606",
+        "type": "message",
+        "text": "i'm in",
+        "user": "U01RKN0EGDV",
+        "ts": "1620891768.002100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GmAh+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'm in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620891724.001000",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "665917ef-41f8-4c22-85e3-3a8370bd31aa",
+        "type": "message",
+        "text": ":matrix_code:",
+        "user": "U01RKN0EGDV",
+        "ts": "1620891783.002300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bPY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "matrix_code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620891724.001000",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "ab7f0f21-9a5a-4250-b0af-e817d15d122f",
+        "type": "message",
+        "text": "lady you’ve completed enough :eyes:\n\n(but yes sure)",
+        "user": "U01S7KCL3DF",
+        "ts": "1620891799.002600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jwm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lady you’ve completed enough "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n(but yes sure)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620891724.001000",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "90605f25-0d04-47bc-865f-231c32d45ddf",
+        "type": "message",
+        "text": "ah, ups, my reading comprehension xd",
+        "user": "U01RKN0EGDV",
+        "ts": "1620891985.002800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DDQa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah, ups, my reading comprehension xd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620891724.001000",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "pog",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,635 @@
+[
+    {
+        "client_msg_id": "434942f7-6ce5-4e6c-b781-ec9648b5b5d4",
+        "type": "message",
+        "text": "sadly not, I just moved to option 2 haha",
+        "user": "U01RKN0EGDV",
+        "ts": "1618137276.035600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YvOK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sadly not, I just moved to option 2 haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617973715.008600",
+        "parent_user_id": "U01RKN0EGDV"
+    },
+    {
+        "client_msg_id": "56738c1c-94b8-4dd2-8256-c20db7963b4a",
+        "type": "message",
+        "text": "catching up on <https:\/\/github.com\/student-IH-labs-and-stuff\/lab-sql-join-multiple-tables|thursday's labs>.\n\n\"6. Is the `Academy Dinosaur` movie available for rent from `Store 1`?\"\n\nI defined 'available' as the return date being later than the rental date (unless there's an _'available for rent TRUE or FALSE'_ field that I missed)\n\nBecause each VHS\/DVD was rented multiple times, I end up with multiple rows per inventory_id. Is there a better way to approach it so each inventory_id shows up just once?\n\n`select distinct(i.inventory_id), i.store_id, f.title, r.rental_date, r.return_date from film f`\n`join inventory i on f.film_id = i.film_id`\n`join rental r on i.inventory_id = r.inventory_id`\n`where title like '%academy dinosaur%' and store_id like 1 and return_date &gt; rental_date`\n`order by title, store_id, inventory_id DESC;`",
+        "user": "U01S7KCL3DF",
+        "ts": "1618141446.037900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7KCL3DF",
+            "ts": "1618141540.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "student-IH-labs-and-stuff\/lab-sql-join-multiple-tables",
+                "title": "student-IH-labs-and-stuff\/lab-sql-join-multiple-tables",
+                "footer": "<https:\/\/github.com\/student-IH-labs-and-stuff\/lab-sql-join-multiple-tables|student-IH-labs-and-stuff\/lab-sql-join-multiple-tables>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1617868316,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Last updated",
+                        "value": "3 days ago",
+                        "short": true
+                    },
+                    {
+                        "title": "Forks",
+                        "value": "42",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B01RM0CJC4X",
+                "app_unfurl_url": "https:\/\/github.com\/student-IH-labs-and-stuff\/lab-sql-join-multiple-tables",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4vtbp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "catching up on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/student-IH-labs-and-stuff\/lab-sql-join-multiple-tables",
+                                "text": "thursday's labs"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\n\"6. Is the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Academy Dinosaur",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " movie available for rent from "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Store 1",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\"\n\nI defined 'available' as the return date being later than the rental date (unless there's an "
+                            },
+                            {
+                                "type": "text",
+                                "text": "'available for rent TRUE or FALSE'",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " field that I missed)\n\nBecause each VHS\/DVD was rented multiple times, I end up with multiple rows per inventory_id. Is there a better way to approach it so each inventory_id shows up just once?\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "select distinct(i.inventory_id), i.store_id, f.title, r.rental_date, r.return_date from film f",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "join inventory i on f.film_id = i.film_id",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "join rental r on i.inventory_id = r.inventory_id",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "where title like '%academy dinosaur%' and store_id like 1 and return_date > rental_date",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "order by title, store_id, inventory_id DESC;",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618141446.037900",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1618225817.046700",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01RW140HBP",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1618142279.038300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1618212048.043500"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1618225574.046500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1618225817.046700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "236000BB-34DA-4220-9A04-62F94180665A",
+        "type": "message",
+        "text": ":eyes:",
+        "user": "U01S7BM4N81",
+        "ts": "1618142279.038300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KMjZ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618141446.037900",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I am getting this error message when I try to connect to mysql (using this syntax: df = pd.read_sql_query ('select * from film', engine )). Trying to solve it since yesterday, but no success so far:\/. Anyone else had this issue?",
+        "files": [
+            {
+                "id": "F01UAC97D2M",
+                "created": 1618147893,
+                "timestamp": 1618147893,
+                "name": "Capture.JPG",
+                "title": "Capture.JPG",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01RP2K1606",
+                "editable": false,
+                "size": 28306,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01UAC97D2M\/capture.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01UAC97D2M\/download\/capture.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UAC97D2M-e115bb4666\/capture_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UAC97D2M-e115bb4666\/capture_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UAC97D2M-e115bb4666\/capture_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 41,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UAC97D2M-e115bb4666\/capture_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 55,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UAC97D2M-e115bb4666\/capture_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UAC97D2M-e115bb4666\/capture_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 83,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UAC97D2M-e115bb4666\/capture_800.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 92,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UAC97D2M-e115bb4666\/capture_960.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 110,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01UAC97D2M-e115bb4666\/capture_1024.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 117,
+                "original_w": 1316,
+                "original_h": 151,
+                "thumb_tiny": "AwAFADDRIJPU0uPelooATFGKWkoAKP8APWiigD\/\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RP2K1606\/F01UAC97D2M\/capture.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01UAC97D2M-25aa1a58d0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6XKXX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am getting this error message when I try to connect to mysql (using this syntax: df = pd.read_sql_query ('select * from film', engine )). Trying to solve it since yesterday, but no success so far:\/. Anyone else had this issue?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RP2K1606",
+        "display_as_bot": false,
+        "ts": "1618148129.040700",
+        "thread_ts": "1618148129.040700",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1618226677.047100",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01RP2K1606"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1618148548.042200"
+            },
+            {
+                "user": "U01RP2K1606",
+                "ts": "1618148869.042400"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1618208464.042800"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1618208506.043000"
+            },
+            {
+                "user": "U01RP2K1606",
+                "ts": "1618226677.047100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D5980096-03CD-4705-A033-559558672162",
+        "type": "message",
+        "text": "Can you paste your connection string please?\nAlso, are you 100% certain username and password are correct?",
+        "user": "U01S7BM4N81",
+        "ts": "1618148548.042200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GORc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you paste your connection string please?\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Also, are you 100% certain username and password are correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618148129.040700",
+        "parent_user_id": "U01RP2K1606"
+    },
+    {
+        "type": "message",
+        "text": "yes, password and username seem correct and accepted, not sure what i am missing here",
+        "files": [
+            {
+                "id": "F01U3UR7Q84",
+                "created": 1618148811,
+                "timestamp": 1618148811,
+                "name": "Capture1.JPG",
+                "title": "Capture1.JPG",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01RP2K1606",
+                "editable": false,
+                "size": 54658,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01U3UR7Q84\/capture1.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01U3UR7Q84\/download\/capture1.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U3UR7Q84-0f4c002ec6\/capture1_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U3UR7Q84-0f4c002ec6\/capture1_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U3UR7Q84-0f4c002ec6\/capture1_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 103,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U3UR7Q84-0f4c002ec6\/capture1_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 137,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U3UR7Q84-0f4c002ec6\/capture1_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U3UR7Q84-0f4c002ec6\/capture1_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 205,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U3UR7Q84-0f4c002ec6\/capture1_800.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 228,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U3UR7Q84-0f4c002ec6\/capture1_960.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 274,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U3UR7Q84-0f4c002ec6\/capture1_1024.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 292,
+                "original_w": 1519,
+                "original_h": 433,
+                "thumb_tiny": "AwANADDSPTrik\/4FSmm96AHfj+tGfcUUmKAF\/GiiigD\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RP2K1606\/F01U3UR7Q84\/capture1.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01U3UR7Q84-c96ede5454",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r2M+j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, password and username seem correct and accepted, not sure what i am missing here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RP2K1606",
+        "display_as_bot": false,
+        "ts": "1618148869.042400",
+        "thread_ts": "1618148129.040700",
+        "parent_user_id": "U01RP2K1606"
+    },
+    {
+        "client_msg_id": "c8ebf2a4-04ca-485a-be73-ae82e9bf126d",
+        "type": "message",
+        "text": "Hi, sorry for late reply.\nThe mistake is in your connection string - you made “password” part of the string, and it gets submitted as it is, instead of the real password.",
+        "user": "U01S7BM4N81",
+        "ts": "1618208464.042800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7BM4N81",
+            "ts": "1618208525.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sEqNr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, sorry for late reply.\nThe mistake is in your connection string - you made “password” part of the string, and it gets submitted as it is, instead of the real password."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618148129.040700",
+        "parent_user_id": "U01RP2K1606"
+    },
+    {
+        "client_msg_id": "48acb09f-1e66-4ed7-a620-84594aeba378",
+        "type": "message",
+        "text": "Try this:\n`connection_string = '<mysql+pymysql:\/\/root>:' + password + '@localhost3306\/sakila'`",
+        "user": "U01S7BM4N81",
+        "ts": "1618208506.043000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7BM4N81",
+            "ts": "1618213939.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uW3kt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Try this:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "connection_string = '",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "mysql+pymysql:\/\/root",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ":' + password + '@localhost3306\/sakila'",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618148129.040700",
+        "parent_user_id": "U01RP2K1606",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

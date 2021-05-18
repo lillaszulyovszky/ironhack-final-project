@@ -769,5 +769,45 @@
         ],
         "thread_ts": "1620544577.000100",
         "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "48ce55ab-cc29-439e-b7f3-8c10585d27d1",
+        "type": "message",
+        "text": "I can only agree with that",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620651818.006800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5po",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can only agree with that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620544577.000100",
+        "parent_user_id": "U01RRV4JX6Z"
     }
 ]

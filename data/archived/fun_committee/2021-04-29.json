@@ -1,0 +1,401 @@
+[
+    {
+        "client_msg_id": "15ebbd89-5d18-4f36-b9bc-1665ffbb4a31",
+        "type": "message",
+        "text": "Should we have a \"fun filter friday\" at some point? Everybody gets a beard or something?\nMake zoom a little more colorful? :among_us_party:",
+        "user": "U01RN7BVD1C",
+        "ts": "1619693939.002500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kzol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should we have a \"fun filter friday\" at some point? Everybody gets a beard or something?\nMake zoom a little more colorful? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "among_us_party"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619693939.002500",
+        "reply_count": 7,
+        "reply_users_count": 6,
+        "latest_reply": "1619704930.004300",
+        "reply_users": [
+            "U01RSRE0N3D",
+            "U01S7KCL3DF",
+            "U01S0E0MRJ7",
+            "U01RN7BVD1C",
+            "U01RW140HBP",
+            "U01RRV4JX6Z"
+        ],
+        "replies": [
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1619693971.002600"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619694057.002800"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1619695436.003100"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619695441.003300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619700334.003700"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619704350.004100"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619704930.004300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1619704930.004300",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RRV4JX6Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "128a2fcb-85ac-4794-8a20-b5e0dcec2252",
+        "type": "message",
+        "text": "yes please",
+        "user": "U01RSRE0N3D",
+        "ts": "1619693971.002600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kVskW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619693939.002500",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "4946cb1e-45ee-42d9-ba8f-90520af8e849",
+        "type": "message",
+        "text": "send us a slide deck with your proposal and the committee will give it careful consideration",
+        "user": "U01S7KCL3DF",
+        "ts": "1619694057.002800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aBkPx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "send us a slide deck with your proposal and the committee will give it careful consideration"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619693939.002500",
+        "parent_user_id": "U01RN7BVD1C",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01SK96QF5E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5da96a6a-aa8e-4ade-98c6-09aca1ec9862",
+        "type": "message",
+        "text": "they also just launched this immersive view where we can all sit in a virtual classroom",
+        "user": "U01S0E0MRJ7",
+        "ts": "1619695436.003100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7JxJ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they also just launched this immersive view where we can all sit in a virtual classroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619693939.002500",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "851e1ee0-0715-44a9-a320-ab89fb0edce9",
+        "type": "message",
+        "text": "challenge accepted",
+        "user": "U01RN7BVD1C",
+        "ts": "1619695441.003300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dzx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "challenge accepted"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619693939.002500",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "5ff2e31e-4630-4dd1-94c5-36a865737d04",
+        "type": "message",
+        "text": "im into it",
+        "user": "U01RW140HBP",
+        "ts": "1619700334.003700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dTuE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "im into it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619693939.002500",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "50e8e68f-49ce-4c80-9c64-af6f5f7c8309",
+        "type": "message",
+        "text": "How do you do that?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619704350.004100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gi1aV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How do you do that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619693939.002500",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "7b80b30a-5bcb-4b32-9136-adb6cce65895",
+        "type": "message",
+        "text": "is in  the video settings in zoom where the backgrounds are :slightly_smiling_face:",
+        "user": "U01RN7BVD1C",
+        "ts": "1619704930.004300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JiZTA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is in  the video settings in zoom where the backgrounds are "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619693939.002500",
+        "parent_user_id": "U01RN7BVD1C",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U01RRV4JX6Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

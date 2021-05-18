@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "a09d6386-ce42-498e-95f7-ab193d1ab9ea",
+        "type": "message",
+        "text": "<https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC7908195\/>",
+        "user": "U01RW140HBP",
+        "ts": "1619624057.012100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "PubMed Central (PMC)",
+                "title": "Anxiety and Panic Buying Behaviour during COVID-19 Pandemic—A Qualitative Analysis of Toilet Paper Hoarding Contents on Twitter",
+                "title_link": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC7908195\/",
+                "text": "Background: The coronavirus disease 2019 (COVID-19) pandemic had increased population-level anxiety and had elicited panic buying behaviour across the world. The over-hoarding of toilet paper has received a lot of negative public attention. In this work, ...",
+                "fallback": "PubMed Central (PMC): Anxiety and Panic Buying Behaviour during COVID-19 Pandemic—A Qualitative Analysis of Toilet Paper Hoarding Contents on Twitter",
+                "thumb_url": "https:\/\/www.ncbi.nlm.nih.gov\/corehtml\/pmc\/pmcgifs\/pmc-logo-share.png",
+                "from_url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC7908195\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "http:\/\/www.ncbi.nlm.nih.gov\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC7908195\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pT7fJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC7908195\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

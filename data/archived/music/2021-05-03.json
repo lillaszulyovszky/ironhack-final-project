@@ -1,0 +1,292 @@
+[
+    {
+        "client_msg_id": "982c5a84-ef6a-4bff-90f3-1ee65b4a43a7",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=meFxq3-mNEc>",
+        "user": "U01RSRE0N3D",
+        "ts": "1620030749.003900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Mulatto - Muwop (Official Video) ft. Gucci Mane",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=meFxq3-mNEc",
+                "author_name": "MissMulattoVEVO",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCSyHP2BpHDevN3FQO6N_SWw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/meFxq3-mNEc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Mulatto - Muwop (Official Video) ft. Gucci Mane",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/meFxq3-mNEc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=meFxq3-mNEc",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=meFxq3-mNEc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4d9J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=meFxq3-mNEc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620030749.003900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1620030925.004100",
+        "reply_users": [
+            "U01RRV4JX6Z"
+        ],
+        "replies": [
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620030925.004100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620030925.004100"
+    },
+    {
+        "client_msg_id": "42a3784a-1ec4-4d34-be19-02163d595010",
+        "type": "message",
+        "text": "I only knew this Mulatu: <https:\/\/www.youtube.com\/watch?v=5y3JU5ZMg5Y>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620030925.004100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Mulatu Astatke - New York-Addis-London [Full Album]",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=5y3JU5ZMg5Y",
+                "author_name": "Dr. Acula",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC1Xj-GcafZrI_rZ7GdwNLFw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/5y3JU5ZMg5Y\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Mulatu Astatke - New York-Addis-London [Full Album]",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/5y3JU5ZMg5Y?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=5y3JU5ZMg5Y",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=5y3JU5ZMg5Y"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tn7X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I only knew this Mulatu: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=5y3JU5ZMg5Y"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620030749.003900",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "89fbaed8-1793-40f4-863c-7685317b7773",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=T1UHQAepSBo>",
+        "user": "U01RXCQHMHT",
+        "ts": "1620053272.004500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "★ nirvana songs but it's lofi remix ★",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=T1UHQAepSBo",
+                "author_name": "Tune Free Audio",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCueuj4U0rmwAcIaxaBwYzGg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/T1UHQAepSBo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: ★ nirvana songs but it's lofi remix ★",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/T1UHQAepSBo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=T1UHQAepSBo",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=T1UHQAepSBo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X4m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=T1UHQAepSBo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01S0E0MRJ7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "excuse_me",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "the Billboard Top 100 got me like",
+        "files": [
+            {
+                "id": "F021ELTSNF2",
+                "created": 1620054560,
+                "timestamp": 1620054560,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7KCL3DF",
+                "editable": false,
+                "size": 548338,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021ELTSNF2\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021ELTSNF2\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021ELTSNF2-d212661d2d\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021ELTSNF2-d212661d2d\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021ELTSNF2-d212661d2d\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 337,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021ELTSNF2-d212661d2d\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 449,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021ELTSNF2-d212661d2d\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 500,
+                "original_h": 534,
+                "thumb_tiny": "AwAwACypVhF2L7nrUcIDSru+6OtWnVAcowx6GrRMiPaScCnMhQjJBzTVkw\/AqXzNpUjBPv1qW3zrsFvdGMjABipANJUxnZhghSPpUR69K0V+pDsV1ymSMGpVcMhyuecdarVOi7F56nrUq5bsLuUc7P1pylDyVwc+tKqFmIBx3pSu04JzS0vYLu1xoO7HUGnZpCOM0fgapJolu5Dbp5kwBOAOSfSrDx7GPOQe9V4yE65zUpcsu4EnNJMpjkkCvg5wfanB0LbipPt0qPzRnOX46c0GQswwW57E1Nlzcw+liz567dvl8emahIGeM4pC5YH5sketKM1aaRLTZ\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7KCL3DF\/F021ELTSNF2\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F021ELTSNF2-de97f2822c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lTG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the Billboard Top 100 got me like"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S7KCL3DF",
+        "display_as_bot": false,
+        "ts": "1620054563.004900",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01S081EULS",
+                    "U01RRV4JX6Z"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

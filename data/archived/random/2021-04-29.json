@@ -1,0 +1,456 @@
+[
+    {
+        "client_msg_id": "d28d6803-a035-4d83-a8d7-713a53f527aa",
+        "type": "message",
+        "text": "<@U01RSRE0N3D> looking forward to hearing about your new skills :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1619679648.000500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8yk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RSRE0N3D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " looking forward to hearing about your new skills "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619675874.000400",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "b0fc89be-eb08-435b-a6ea-1603b151ad08",
+        "type": "message",
+        "text": "Hahahahaha",
+        "user": "U01RSRE0N3D",
+        "ts": "1619679977.000700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IFyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hahahahaha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619675874.000400",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "f8489718-c18f-41a7-b97a-14cb2ee6b129",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=uwmeH6Rnj2E>\nMe after watching Flo's morning sunshine",
+        "user": "U01RSRE0N3D",
+        "ts": "1619681585.001400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Cat Transcendence- limitless",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=uwmeH6Rnj2E",
+                "author_name": "Doriitostv",
+                "author_link": "https:\/\/www.youtube.com\/c\/doriitostv",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/uwmeH6Rnj2E\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Cat Transcendence- limitless",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/uwmeH6Rnj2E?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=uwmeH6Rnj2E",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=uwmeH6Rnj2E"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E2U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=uwmeH6Rnj2E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMe after watching Flo's morning sunshine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "scream_cat",
+                "users": [
+                    "U01RN7BVD1C",
+                    "U01RKN0EGDV",
+                    "U01RW140HBP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01VCPH0ZM5",
+                "created": 1619682012,
+                "timestamp": 1619682012,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7KCL3DF",
+                "editable": false,
+                "size": 493627,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01VCPH0ZM5\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01VCPH0ZM5\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01VCPH0ZM5-43909227b2\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01VCPH0ZM5-43909227b2\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01VCPH0ZM5-43909227b2\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 315,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01VCPH0ZM5-43909227b2\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 420,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01VCPH0ZM5-43909227b2\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 534,
+                "original_h": 467,
+                "thumb_tiny": "AwApADCgelC04qD604LtwRU3KEO1RzyaQnHVcVatEVpCzAfLTroLg8CmFikcY4ptAxmnY5oBEwSiQFQv0q0EyfTJqOUoT1BA44rNXYCwH90QRkk1DcNmRhjAHGKlT7pKcFTVYozyYbj6VaC41U7+tO28mhZNnyMvIqZcM5wcjAqW2hqwkDOASeSFJGal8pQu7zBk\/T0pq\/6tv92q47\/WrJLSwL8485QM47dqRLdCWHmDIbhh1qm\/f6CnQf8AHxH9aYFt7ePdvaReOSvFVnKCQOjAYxwKS6++31qH+Gla4Xsf\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7KCL3DF\/F01VCPH0ZM5\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01VCPH0ZM5-fc7f430aba",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01S7KCL3DF",
+        "display_as_bot": false,
+        "ts": "1619682015.001700"
+    },
+    {
+        "client_msg_id": "5f8fedbb-2c1d-4c30-9f2f-129c263c4243",
+        "type": "message",
+        "text": "New warp drive possibilities! <https:\/\/www.youtube.com\/watch?v=Vk5bxHetL4s>",
+        "user": "U01SJKB2MG8",
+        "ts": "1619682543.002200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "The NEW Warp Drive Possibilities",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Vk5bxHetL4s",
+                "author_name": "PBS Space Time",
+                "author_link": "https:\/\/www.youtube.com\/c\/pbsspacetime",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Vk5bxHetL4s\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: The NEW Warp Drive Possibilities",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Vk5bxHetL4s?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Vk5bxHetL4s",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Vk5bxHetL4s"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Brtov",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "New warp drive possibilities! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=Vk5bxHetL4s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01S1CWGTU4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "speaking of credit cards and algorithms…. I got turned down for an AmEx bonus last night cos i’m a ‘bad customer’\n\ndamn you data science. Foiled again :crying_cat_face:",
+        "files": [
+            {
+                "id": "F020L33NVC4",
+                "created": 1619688990,
+                "timestamp": 1619688990,
+                "name": "WhatsApp Image 2021-04-28 at 23.39.35.jpeg",
+                "title": "WhatsApp Image 2021-04-28 at 23.39.35.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01S7KCL3DF",
+                "editable": false,
+                "size": 161612,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020L33NVC4\/whatsapp_image_2021-04-28_at_23.39.35.jpeg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020L33NVC4\/download\/whatsapp_image_2021-04-28_at_23.39.35.jpeg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020L33NVC4-a17a194e61\/whatsapp_image_2021-04-28_at_23.39.35_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020L33NVC4-a17a194e61\/whatsapp_image_2021-04-28_at_23.39.35_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020L33NVC4-a17a194e61\/whatsapp_image_2021-04-28_at_23.39.35_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 160,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020L33NVC4-a17a194e61\/whatsapp_image_2021-04-28_at_23.39.35_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 213,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020L33NVC4-a17a194e61\/whatsapp_image_2021-04-28_at_23.39.35_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020L33NVC4-a17a194e61\/whatsapp_image_2021-04-28_at_23.39.35_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 319,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020L33NVC4-a17a194e61\/whatsapp_image_2021-04-28_at_23.39.35_800.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 355,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020L33NVC4-a17a194e61\/whatsapp_image_2021-04-28_at_23.39.35_960.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 425,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020L33NVC4-a17a194e61\/whatsapp_image_2021-04-28_at_23.39.35_1024.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 454,
+                "original_w": 1600,
+                "original_h": 709,
+                "thumb_tiny": "AwAVADB\/OeoqeFFaPLAE5quevWrVsMxde9AC+XH\/AHB+dHlJ\/c\/Wj7RD\/wA9B+VKksTttVwT6U7MV0VbsCN1C8ZGetQqxJHNWrvAdfp6VCMf5FTYZFLPscrtzj3q7Yv5kBOMfMazLn\/XN9BWjpv\/AB7H\/eNMCz5af3R+VKEUHIUA\/SlooAp3n+sX6VCpGelTXn+sX6VAv3qAP\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7KCL3DF\/F020L33NVC4\/whatsapp_image_2021-04-28_at_23.39.35.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020L33NVC4-7461763f1d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VWkJL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "speaking of credit cards and algorithms…. I got turned down for an AmEx bonus last night cos i’m a ‘bad customer’\n\ndamn you data science. Foiled again "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crying_cat_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S7KCL3DF",
+        "display_as_bot": false,
+        "ts": "1619689033.003600",
+        "edited": {
+            "user": "U01S7KCL3DF",
+            "ts": "1619689166.000000"
+        },
+        "thread_ts": "1619689033.003600",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1619785655.006500",
+        "reply_users": [
+            "U01SJKB2MG8",
+            "U01S7BM4N81",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1619690611.003900"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619781303.005500"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619781382.005700"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619785587.005900"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619785636.006100"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1619785655.006500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "confused",
+                "users": [
+                    "U01S65G72SY",
+                    "U01SJKB2MG8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "811c1476-9865-47fe-a1e6-6b0cade461c9",
+        "type": "message",
+        "text": "reply back: \"Have you even done SMOTE?\"",
+        "user": "U01SJKB2MG8",
+        "ts": "1619690611.003900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=VsK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "reply back: \"Have you even done SMOTE?\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619689033.003600",
+        "parent_user_id": "U01S7KCL3DF"
+    }
+]

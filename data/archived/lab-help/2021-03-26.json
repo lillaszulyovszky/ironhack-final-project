@@ -1,0 +1,934 @@
+[
+    {
+        "client_msg_id": "361b13ba-0a0d-413c-b930-d5b88e2c3def",
+        "type": "message",
+        "text": "Re: first,\nyou have deleted the file and made a commit of that deletion?\n\nRe: second,\nedit a commit message of an existing commit?",
+        "user": "U01SJKB2MG8",
+        "ts": "1616744757.000100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "72YTR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Re: first,\nyou have deleted the file and made a commit of that deletion?\n\nRe: second,\nedit a commit message of an existing commit?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616710572.026600",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "d59de0ad-cf1b-422c-885e-5dbcc40768cf",
+        "type": "message",
+        "text": "1- I made a commit, deleted the file and pushed after git add.",
+        "user": "U01S79YDELR",
+        "ts": "1616745211.000300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IJqS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1- I made a commit, deleted the file and pushed after git add."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616710572.026600",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "8594a498-5342-4f5c-820f-56948a912768",
+        "type": "message",
+        "text": "2- yes, edit a commit message of an existing commit",
+        "user": "U01S79YDELR",
+        "ts": "1616745236.000500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eVsW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2- yes, edit a commit message of an existing commit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616710572.026600",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "452330e6-a2b6-40ed-8db0-b9e41eb47dce",
+        "type": "message",
+        "text": "1 - if it's the last commit, then you can do `git revert HEAD` which is sort of the `Ctrl + Z` for git",
+        "user": "U01SJKB2MG8",
+        "ts": "1616745636.000700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4X4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1 - if it's the last commit, then you can do "
+                            },
+                            {
+                                "type": "text",
+                                "text": "git revert HEAD",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " which is sort of the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Ctrl + Z",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for git"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616710572.026600",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "2a2bec79-1659-4c58-8b5a-1f3e98dbb02f",
+        "type": "message",
+        "text": "ok, and how can I look for it in the GitHub?",
+        "user": "U01S79YDELR",
+        "ts": "1616745908.000900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yZZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, and how can I look for it in the GitHub?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616710572.026600",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "50e213a3-780d-4aba-b20b-ff5add76974a",
+        "type": "message",
+        "text": "so, if you have reverted the commit, you also need to push it with, `git push`. Then it will be reflected on the remote (meaning GitHub)",
+        "user": "U01SJKB2MG8",
+        "ts": "1616749483.001200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kGtP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so, if you have reverted the commit, you also need to push it with, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "git push",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Then it will be reflected on the remote (meaning GitHub)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616710572.026600",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "ee9d2736-98f3-48e1-ba0f-30ec5bd47694",
+        "type": "message",
+        "text": "we imported matplot yesterday and used\nplt.show() after hist function. but if i dont use it i get the same results. whats the difference?",
+        "user": "U01S0E0MRJ7",
+        "ts": "1616769733.002600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A3cX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we imported matplot yesterday and used\nplt.show() after hist function. but if i dont use it i get the same results. whats the difference?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616769733.002600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1616770042.002900",
+        "reply_users": [
+            "U01S0E0MRJ7",
+            "U01SK96QF5E"
+        ],
+        "replies": [
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1616769822.002700"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1616770042.002900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01SK03E07M",
+                "created": 1616769818,
+                "timestamp": 1616769818,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S0E0MRJ7",
+                "editable": false,
+                "size": 68270,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SK03E07M\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SK03E07M\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SK03E07M-ac6850c788\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SK03E07M-ac6850c788\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SK03E07M-ac6850c788\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 271,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SK03E07M-ac6850c788\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 361,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SK03E07M-ac6850c788\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SK03E07M-ac6850c788\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 542,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SK03E07M-ac6850c788\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 602,
+                "original_w": 822,
+                "original_h": 619,
+                "thumb_tiny": "AwAkADDSI\/zmm4yOP5089KjiOdw9GNADgPXP50uBS0CgBMUuKKKAEycUwIASwXBPvT\/4abGchvZiKAF5\/wAmlGfalooATJopaKAEHSogNjEgnk5xUw6Com60ALvPtT1ORmo6kX7ooAWiiigD\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S0E0MRJ7\/F01SK03E07M\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01SK03E07M-fc05589175",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01S0E0MRJ7",
+        "display_as_bot": false,
+        "ts": "1616769822.002700",
+        "thread_ts": "1616769733.002600",
+        "parent_user_id": "U01S0E0MRJ7"
+    },
+    {
+        "client_msg_id": "803eedb4-cc87-4c53-9570-3d8de01aec35",
+        "type": "message",
+        "text": "There are a couple of answers here:. <https:\/\/stackoverflow.com\/questions\/58789606\/when-do-i-have-to-use-plt-show>",
+        "user": "U01SK96QF5E",
+        "ts": "1616770042.002900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "When do I have to use plt.show()?",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/58789606\/when-do-i-have-to-use-plt-show",
+                "text": "import pandas as pd import numpy as np import matplotlib.pyplot as plt np.random.seed(0) df_new = pd.DataFrame(np.random.randn(5,3), columns=list('ABC')) df_new.plot(kind='bar') I have no idea...",
+                "fallback": "Stack Overflow: When do I have to use plt.show()?",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/58789606\/when-do-i-have-to-use-plt-show",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/58789606\/when-do-i-have-to-use-plt-show"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ikla",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are a couple of answers here:. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/58789606\/when-do-i-have-to-use-plt-show"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616769733.002600",
+        "parent_user_id": "U01S0E0MRJ7",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01S0E0MRJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0bf4a52-6f24-4a37-a35f-803c5fd6c954",
+        "type": "message",
+        "text": "trying a `sns.heatmap` on all my numericals and my computer doesnt seem too happy. too many variables?",
+        "user": "U01S7KCL3DF",
+        "ts": "1616771431.003800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+8D8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "trying a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "sns.heatmap",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " on all my numericals and my computer doesnt seem too happy. too many variables?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616771431.003800",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1616772664.005600",
+        "reply_users": [
+            "U01RN7BVD1C",
+            "U01RW140HBP",
+            "U01S7KCL3DF",
+            "U01S7BM4N81"
+        ],
+        "replies": [
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1616771523.003900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1616771568.004100"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1616771660.004300"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1616771661.004500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1616771874.004700"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1616772018.004900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1616772092.005100"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1616772197.005300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1616772664.005600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a14aa7dc-99db-4a4d-919a-87353eb2796b",
+        "type": "message",
+        "text": "I had to make my window bigger, then it worked. Maybe that works for you?",
+        "user": "U01RN7BVD1C",
+        "ts": "1616771523.003900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rd2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had to make my window bigger, then it worked. Maybe that works for you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616771431.003800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "36c06ee4-c47b-4aa7-9a59-d59118aba94a",
+        "type": "message",
+        "text": "whats the error or is it just frozen…. you can always try running it with less columns to see",
+        "user": "U01RW140HBP",
+        "ts": "1616771568.004100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JEu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "whats the error or is it just frozen…. you can always try running it with less columns to see"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616771431.003800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "1c3405e7-5738-4330-ab3b-79024f97caa6",
+        "type": "message",
+        "text": "it just sits there loading forever and sounds like it wants to fly away\n\nahhhh i suppose i could drop some columns",
+        "user": "U01S7KCL3DF",
+        "ts": "1616771660.004300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bTn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it just sits there loading forever and sounds like it wants to fly away\n\nahhhh i suppose i could drop some columns"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616771431.003800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "eab55393-f620-41bd-b167-a1709ed37d8d",
+        "type": "message",
+        "text": "Took my machine 15 minutes to resolve this :smile:",
+        "user": "U01S7BM4N81",
+        "ts": "1616771661.004500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BSMT1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Took my machine 15 minutes to resolve this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616771431.003800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "b783968a-793f-4d02-9a8a-d52d8ea5e738",
+        "type": "message",
+        "text": "eek, that shouldnt take that long! have a look see if theres a lighter version of the code",
+        "user": "U01RW140HBP",
+        "ts": "1616771874.004700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qW5s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "eek, that shouldnt take that long! have a look see if theres a lighter version of the code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616771431.003800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "83347b40-e0b2-472e-b613-8911bbf6b476",
+        "type": "message",
+        "text": "```drop() got multiple values for argument 'axis'```\naxis = 1 right? or no?",
+        "user": "U01S7KCL3DF",
+        "ts": "1616772018.004900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hUVB",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "drop() got multiple values for argument 'axis'"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "axis = 1 right? or no?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616771431.003800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "925f272c-2aa3-4e5e-854c-5ca167520b22",
+        "type": "message",
+        "text": "you drop along one particular axis … not sure i am understanding the question but here\ndf = df.drop(‘column_name’,axis=1)",
+        "user": "U01RW140HBP",
+        "ts": "1616772092.005100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1616772608.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BLu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you drop along one particular axis … not sure i am understanding the question but here\ndf = df.drop(‘column_name’,axis=1)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616771431.003800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "dfd083b5-601f-471d-bd15-0694faf51505",
+        "type": "message",
+        "text": "oh i think i was missing some square brackets...my bad",
+        "user": "U01S7KCL3DF",
+        "ts": "1616772197.005300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a4G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh i think i was missing some square brackets...my bad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616771431.003800",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "031ef3e2-e876-483d-a6a2-59e92678c681",
+        "type": "message",
+        "text": "like this df.drop(columns=[‘B’, ‘C’]) yes if dropping more than one you need some kind o square bracket in the mix",
+        "user": "U01RW140HBP",
+        "ts": "1616772664.005600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gSre",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like this df.drop(columns=[‘B’, ‘C’]) yes if dropping more than one you need some kind o square bracket in the mix"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616771431.003800",
+        "parent_user_id": "U01S7KCL3DF"
+    }
+]

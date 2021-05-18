@@ -1,0 +1,749 @@
+[
+    {
+        "client_msg_id": "a043d08e-4721-4a9a-9617-b1ed00ab92ed",
+        "type": "message",
+        "text": "i went up against e-bay, it didn't work for me :sob:",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620890003.040200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dU=i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i went up against e-bay, it didn't work for me "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620823548.020600",
+        "parent_user_id": "U01RN7BVD1C",
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U01RN7BVD1C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "817352ee-cad4-4cdf-a674-a04006b042af",
+        "type": "message",
+        "text": "do you need to watch the Japanese fisherman again?",
+        "user": "U01S7KCL3DF",
+        "ts": "1620891285.040400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w=nk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you need to watch the Japanese fisherman again?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620823548.020600",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "32c7409c-7e42-40a6-9fd5-c1ab9b900691",
+        "type": "message",
+        "text": "nah, i went into the honeypot labeled as:kaggle",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620892477.040700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L9Pc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nah, i went into the honeypot labeled as:kaggle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620823548.020600",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "f6bd54dd-4851-4eea-9e94-cad00b269361",
+        "type": "message",
+        "text": "Update: we are currently running about 10 min behind schedule :v:",
+        "user": "U01RSRE0N3D",
+        "ts": "1620894549.041300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "28LLO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update: we are currently running about 10 min behind schedule "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620894549.041300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1620898751.046200",
+        "reply_users": [
+            "U01RRV4JX6Z",
+            "U01RN7BVD1C"
+        ],
+        "replies": [
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620895842.043700"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1620898751.046200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620898751.046200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01SK96QF5E",
+                    "U01RRV4JX6Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0339af4-1164-4f9e-9876-7b2dd4baaa27",
+        "type": "message",
+        "text": "to help us help you… please *try* to be succinct about the aim of your project today. what are you trying to find out? what skills\/techniques from the course will you be using?",
+        "user": "U01RW140HBP",
+        "ts": "1620895217.043100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mdcab",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to help us help you… please "
+                            },
+                            {
+                                "type": "text",
+                                "text": "try",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to be succinct about the aim of your project today. what are you trying to find out? what skills\/techniques from the course will you be using?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01RRV4JX6Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a220ece5-72ac-4fbf-bfc4-51e949ce4eea",
+        "type": "message",
+        "text": "I mislooked my time",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620895842.043700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hN4AX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mislooked my time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620894549.041300",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "26e7b2f7-d117-43de-9c2c-bbe856c83c8e",
+        "type": "message",
+        "text": "Also, please wait for us to call you in the breakout room :v:",
+        "user": "U01RSRE0N3D",
+        "ts": "1620896430.044600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s2p7R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, please wait for us to call you in the breakout room "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8f9a32b-915c-4fd5-9226-430b37f85c29",
+        "type": "message",
+        "text": "\"Ludwig aims to democratize machine learning, making it accessible to coders and non-coders alike\" - music to my ears: <https:\/\/eng.uber.com\/introducing-ludwig\/>",
+        "user": "U01S133DZ9A",
+        "ts": "1620897933.045900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Uber Engineering Blog",
+                "title": "Introducing Ludwig, a Code-Free Deep Learning Toolbox",
+                "title_link": "https:\/\/eng.uber.com\/introducing-ludwig\/",
+                "text": "Uber AI developed Ludwig, a code-free deep learning toolbox, to make deep learning more accessible to non-experts and enable faster model iteration cycles.",
+                "fallback": "Uber Engineering Blog: Introducing Ludwig, a Code-Free Deep Learning Toolbox",
+                "image_url": "https:\/\/eng.uber.com\/wp-content\/uploads\/2019\/02\/Ludwig-Header.png",
+                "image_width": 584,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Piero Molino",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "12 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1549893647,
+                "from_url": "https:\/\/eng.uber.com\/introducing-ludwig\/",
+                "image_bytes": 398437,
+                "service_icon": "https:\/\/1fykyq3mdn5r21tpna3wkdyi-wpengine.netdna-ssl.com\/wp-content\/uploads\/2019\/02\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/eng.uber.com\/introducing-ludwig\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FqMQb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Ludwig aims to democratize machine learning, making it accessible to coders and non-coders alike\" - music to my ears: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eng.uber.com\/introducing-ludwig\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "the_horns",
+                "users": [
+                    "U01SK96QF5E",
+                    "U01RXCQHMHT"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70ab4358-8867-4b28-9944-7e675da0f678",
+        "type": "message",
+        "text": "Are we still 10 min behind?",
+        "user": "U01RN7BVD1C",
+        "ts": "1620898751.046200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XoOF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are we still 10 min behind?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620894549.041300",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff26d77a-6f67-4944-8d2a-d74bd020aaa1",
+        "type": "message",
+        "text": "*Indexing question*\nI want to iterate through a dictionary and retrieve values where they exist. But the key only appears in some of the items. So if I just include it in the for loop it breaks the code (looking for a key that does not exist).\nI need smth that says:\n\nif textlist[0]['reply_count'] is in the item then\n    give me it\nelse:\n    don't\n\n*Any ideas?* ",
+        "user": "U01S133DZ9A",
+        "ts": "1620927526.049600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WlcF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Indexing question",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI want to iterate through a dictionary and retrieve values where they exist. But the key only appears in some of the items. So if I just include it in the for loop it breaks the code (looking for a key that does not exist).\nI need smth that says:\n\nif textlist[0]['reply_count'] is in the item then\n    give me it\nelse:\n    don't\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Any ideas? ",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620927526.049600",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1620931071.050500",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01S133DZ9A"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620928399.049700"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1620930137.050000"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1620930150.050200"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620931071.050500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "394303a5-a755-4f88-872b-da3e1e81be4f",
+        "type": "message",
+        "text": "<https:\/\/www.w3schools.com\/python\/python_try_except.asp>\n\nsomething like that? It came up on zoom so i cant copy and paste\n\nbasically ’try (something)\n\nexcept (when something doesnt work)\n     continue….",
+        "user": "U01S7KCL3DF",
+        "ts": "1620928399.049700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Python Try Except",
+                "title_link": "https:\/\/www.w3schools.com\/python\/python_try_except.asp",
+                "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java and XML.",
+                "fallback": "Python Try Except",
+                "from_url": "https:\/\/www.w3schools.com\/python\/python_try_except.asp",
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "service_name": "w3schools.com",
+                "id": 1,
+                "original_url": "https:\/\/www.w3schools.com\/python\/python_try_except.asp"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qUb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com\/python\/python_try_except.asp"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nsomething like that? It came up on zoom so i cant copy and paste\n\nbasically ’try (something)\n\nexcept (when something doesnt work)\n     continue…."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620927526.049600",
+        "parent_user_id": "U01S133DZ9A"
+    },
+    {
+        "client_msg_id": "8b9ee2b9-b415-4af1-834e-fb8a07d027d1",
+        "type": "message",
+        "text": "It worked!",
+        "user": "U01S133DZ9A",
+        "ts": "1620930137.050000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3NJQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It worked!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620927526.049600",
+        "parent_user_id": "U01S133DZ9A"
+    },
+    {
+        "client_msg_id": "74b9070f-6765-4284-b930-ba86f6e1aa8f",
+        "type": "message",
+        "text": "Nice one Sam - you saved my evening :wink:",
+        "user": "U01S133DZ9A",
+        "ts": "1620930150.050200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bQM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice one Sam - you saved my evening "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620927526.049600",
+        "parent_user_id": "U01S133DZ9A",
+        "reactions": [
+            {
+                "name": "dimitri",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b889f980-dc2f-45a0-b996-238d662d548e",
+        "type": "message",
+        "text": "This is all thanks to Alex",
+        "user": "U01S7KCL3DF",
+        "ts": "1620931071.050500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9NBcb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is all thanks to Alex"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620927526.049600",
+        "parent_user_id": "U01S133DZ9A"
+    }
+]

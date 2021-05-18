@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "c097123a-a43a-47a7-8d6b-c4ed6574b2c6",
+        "type": "message",
+        "text": "A thematic name for a playlist\n\n<https:\/\/soundcloud.com\/ryan-celsius\/study-or-die>",
+        "user": "U01RXCQHMHT",
+        "ts": "1620899613.001400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RXCQHMHT",
+            "ts": "1620899639.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "https:\/\/soundcloud.com",
+                "title": "ＳＴＵＤＹ  ＯＲ  ＤＩＥ by R y a n   C e l s i u s °",
+                "title_link": "https:\/\/soundcloud.com\/ryan-celsius\/study-or-die",
+                "author_name": "R y a n   C e l s i u s °",
+                "author_link": "https:\/\/soundcloud.com\/ryan-celsius",
+                "thumb_url": "https:\/\/i1.sndcdn.com\/artworks-I9myFWxXQ5ZUOt38-aoYQuw-t500x500.jpg",
+                "text": "-      STUDY OR DIE      -\nChill phonk and lofi mix\n        \n-x-x-x-x-  Tracklist  -x-x-x-x-\n0:00 CALL MARBY - dusk.\n2:03 shisvi - JOURNEY\n4:48 Kamiya - Fell Off\n6:54 antXres - WAR\n10:15 DJ Per Ohlin - FUNERAL MELANCHOLIC\n12:06 CALL MARBY - nite-trip\n15:35 cumulus frisbee - becomer [error404 edit]\n19:46 KEMURI NINE4 - BIG CITY AMBITIONS\n22:25 SHADOWSTAR - ENTER THE DARKSIDE\n24:47 YUNGMAPLE - WE AINT STRESSIN BOUT THE LOOT\n27:27 R3APER - EVERYWHERE I GO \n29:46 SHADOWSTAR - NIGHTMARES TO REALITY\n31:56 root - dream patrol\n35:41 akiba - ocean\n39:11 ile flottante - warp break\n41:22 Sov - Purgatory (jibun flip)",
+                "fallback": "SoundCloud Audio: ＳＴＵＤＹ  ＯＲ  ＤＩＥ by R y a n   C e l s i u s °",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F947090416&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/ryan-celsius\/study-or-die",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/soundcloud.com\/ryan-celsius\/study-or-die"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RPjlQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A thematic name for a playlist\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/soundcloud.com\/ryan-celsius\/study-or-die"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U01S0E0MRJ7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

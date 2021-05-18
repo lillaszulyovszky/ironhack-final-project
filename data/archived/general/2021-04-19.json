@@ -1,0 +1,503 @@
+[
+    {
+        "client_msg_id": "a588a75c-5da8-4bbc-8ccc-46ac4c062fe3",
+        "type": "message",
+        "text": "danke! all the presentations on project tips are under the Kanban\/Agile entry on Notion right?\n\n<https:\/\/www.notion.so\/Berlin-data-classroom-5f8f3ff27075492b8b457677368fda2d?p=952fb66992364a2d9f006326548dfaad>",
+        "user": "U01S7KCL3DF",
+        "ts": "1618816397.004800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ironhack on Notion",
+                "title": "Kanban\/Agile - how to use it to help with your project",
+                "title_link": "https:\/\/www.notion.so\/Berlin-data-classroom-5f8f3ff27075492b8b457677368fda2d?p=952fb66992364a2d9f006326548dfaad",
+                "text": "<https:\/\/docs.google.com\/presentation\/d\/11zH45vyg7O7YISSN-dpSXKxSyuZ53mf-VzGWwvXRaQM\/edit#slide=id.g91409a120c_0_1093>",
+                "fallback": "ironhack on Notion: Kanban\/Agile - how to use it to help with your project",
+                "from_url": "https:\/\/www.notion.so\/Berlin-data-classroom-5f8f3ff27075492b8b457677368fda2d?p=952fb66992364a2d9f006326548dfaad",
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/Berlin-data-classroom-5f8f3ff27075492b8b457677368fda2d?p=952fb66992364a2d9f006326548dfaad"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LI1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "danke! all the presentations on project tips are under the Kanban\/Agile entry on Notion right?\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Berlin-data-classroom-5f8f3ff27075492b8b457677368fda2d?p=952fb66992364a2d9f006326548dfaad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618815357.004400",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "e6bf367b-d504-4b52-9598-7e289ae16263",
+        "type": "message",
+        "text": "A few students forgot to complete their weekly survey last week. I am glad to report that <@U01S133DZ9A> has made it onto the list again - great run of form Simon :joy:, also joined by <@U01RV3K524T> <@U01SK96QF5E> <@U01S0P26NKD> <@U01S65G72SY> and <@U01SD3CDH9P>\nplease take 5 mins this morning to do your survey from the end of last week - it will be sitting in your student portal demanding your attention!",
+        "user": "U01RW140HBP",
+        "ts": "1618818426.007000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f+hy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A few students forgot to complete their weekly survey last week. I am glad to report that "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S133DZ9A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has made it onto the list again - great run of form Simon "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", also joined by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RV3K524T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SK96QF5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S0P26NKD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S65G72SY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SD3CDH9P"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nplease take 5 mins this morning to do your survey from the end of last week - it will be sitting in your student portal demanding your attention!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01S65G72SY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ef93622-748e-425c-ab4d-bb0117f4e3ed",
+        "type": "message",
+        "text": "not sure what you mean about presentations on project tips, I dont think we shared anything like that - but everything we have shared for the project will be found on notion, yes",
+        "user": "U01RW140HBP",
+        "ts": "1618818789.007100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vFTr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not sure what you mean about presentations on project tips, I dont think we shared anything like that - but everything we have shared for the project will be found on notion, yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618815357.004400",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "ea53ecfe-2bea-445d-8b9e-ba20d7f6dd4a",
+        "type": "message",
+        "text": "a reminder to all <!channel> of our ironhack code of conduct. if you have moments this week of feeling lost, frustrated or falling out with your group for any reason… grab a cup of something hot and go read this : <https:\/\/www.notion.so\/ironhack\/Our-Code-of-Conduct-c23f61263a7c4ef3a6b1c46a2ec61e3e>",
+        "user": "U01RW140HBP",
+        "ts": "1618822124.008300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vxe4e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a reminder to all "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " of our ironhack code of conduct. if you have moments this week of feeling lost, frustrated or falling out with your group for any reason… grab a cup of something hot and go read this : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/ironhack\/Our-Code-of-Conduct-c23f61263a7c4ef3a6b1c46a2ec61e3e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01RRV4JX6Z",
+                    "U01S0P26NKD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ae5e182-5b28-445e-bceb-2254978d820d",
+        "type": "message",
+        "text": "THIS MORNING:\n• classroom and breakout rooms will be opened at 9 by one of our TAs \n• :sunrise_over_mountains: morning sunshine 9:40 in the zoom classroom\n• 10 am your stand up calls, same rooms as yesterday Kosta (1), Flo (2), Me (3) \n• 11am optional tableau viz workshop for tips and Q&amp;A on the case study datasets ",
+        "user": "U01RW140HBP",
+        "ts": "1618901442.010100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1618901496.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x3n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "THIS MORNING:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "classroom and breakout rooms will be opened at 9 by one of our TAs "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "sunrise_over_mountains"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " morning sunshine 9:40 in the zoom classroom"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10 am your stand up calls, same rooms as yesterday Kosta (1), Flo (2), Me (3) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "11am optional tableau viz workshop for tips and Q&A on the case study datasets "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S1CWGTU4",
+                    "U01RXCQHMHT",
+                    "U01RN7BVD1C",
+                    "U01S6L7HLUC"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "wake up",
+        "user": "U01RW140HBP",
+        "ts": "1618901576.010800",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "CKA5",
+                "image_url": "https:\/\/media3.giphy.com\/media\/d3erWmTEGXoiYVgY\/giphy.gif?cid=6104955e55706525478313c0523548bfac5da9c8e0047d5b&rid=giphy.gif&ct=g",
+                "alt_text": "wake up",
+                "title": {
+                    "type": "plain_text",
+                    "text": "wake up",
+                    "emoji": true
+                },
+                "fallback": "480x360px image",
+                "image_width": 480,
+                "image_height": 360,
+                "image_bytes": 273098,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "Qlm6Z",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/redandhowling\/|Red &amp; Howling>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618901576.010800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1618901663.011100",
+        "reply_users": [
+            "U01RXCQHMHT"
+        ],
+        "replies": [
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1618901663.011100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U01RW2X7S9Z",
+                    "U01SK96QF5E",
+                    "U01S7BM4N81",
+                    "U01S0MFJ3HR",
+                    "U01S081EULS"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "sherlock",
+        "user": "U01RXCQHMHT",
+        "ts": "1618901663.011100",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "=by5k",
+                "image_url": "https:\/\/media1.giphy.com\/media\/Mfvjabj51UiQM\/giphy.gif?cid=6104955e7b0d99fbc1184c16910c416244240244caa68a3f&rid=giphy.gif&ct=g",
+                "alt_text": "sherlock",
+                "title": {
+                    "type": "plain_text",
+                    "text": "sherlock",
+                    "emoji": true
+                },
+                "fallback": "300x169px image",
+                "image_width": 300,
+                "image_height": 169,
+                "image_bytes": 258300,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "IUQ\/",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618901576.010800",
+        "parent_user_id": "U01RW140HBP"
+    }
+]

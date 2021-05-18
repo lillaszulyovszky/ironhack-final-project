@@ -1,0 +1,1223 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Is Data singular or plural?",
+        "ts": "1620748116.007400",
+        "bot_id": "B021CKC7HHU",
+        "thread_ts": "1620748116.007400",
+        "reply_count": 20,
+        "reply_users_count": 6,
+        "latest_reply": "1620760840.013500",
+        "reply_users": [
+            "U01RXCQHMHT",
+            "U01S7KCL3DF",
+            "U01RW2X7S9Z",
+            "U01S0E0MRJ7",
+            "U01RKN0EGDV",
+            "U01RRV4JX6Z"
+        ],
+        "replies": [
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1620748144.008000"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620748155.008200"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620748178.008400"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620748184.008700"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620748186.008900"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620748201.009200"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620748220.009400"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620748222.009600"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620748237.009800"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620748241.010000"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620748257.010200"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620748267.010400"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620748326.010700"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620748458.010900"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1620748467.011100"
+            },
+            {
+                "user": "U01RKN0EGDV",
+                "ts": "1620748635.011500"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620748718.011700"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620756584.012500"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620756761.012800"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620760840.013500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-21eb2feb-6735-4623-9d4d-f4c5ace2a6b5-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Is Data singular or plural?*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: View info",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":pushpin: Capture Decision from Poll",
+                                "emoji": true
+                            },
+                            "value": "capture_decision_from_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":house: Go to Simple Poll Home",
+                                "emoji": true
+                            },
+                            "value": "go_to_app_home",
+                            "url": "slack:\/\/app?team=T01RBRV5F7H&id=A0HFW7MR6&tab=home"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":bar_chart: Create new Poll",
+                                "emoji": true
+                            },
+                            "value": "create_new_poll"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-21eb2feb-6735-4623-9d4d-f4c5ace2a6b5-vote-1",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Singular, you fool    `1`\n<@U01S7KCL3DF>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-1",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-21eb2feb-6735-4623-9d4d-f4c5ace2a6b5-vote-2",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: Plural, definitely    `5`\n<@U01RW2X7S9Z>, <@U01S79YDELR>, <@U01S0E0MRJ7>, <@U01RKN0EGDV>, <@U01RW140HBP>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-2",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-21eb2feb-6735-4623-9d4d-f4c5ace2a6b5-vote-3",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: Both    `2`\n<@U01RRV4JX6Z>, <@U01S081EULS>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-3",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "add_option_to_poll&21eb2feb-6735-4623-9d4d-f4c5ace2a6b5",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "add_option",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Add option",
+                            "emoji": true
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "pqd",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U01S7KCL3DF> with \/poll    (some options contributed by others)",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "B021CKC7HHU",
+            "ts": "1620980917.000000"
+        }
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "math",
+        "user": "U01RXCQHMHT",
+        "ts": "1620748144.008000",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "pIbdi",
+                "image_url": "https:\/\/media2.giphy.com\/media\/3owzW5c1tPq63MPmWk\/giphy-downsized.gif?cid=6104955e947e8b5dadeae288ecf1c70ba9ec75ace94f2e8f&rid=giphy-downsized.gif&ct=g&cid=6104955e947e8b5dadeae288ecf1c70ba9ec75ace94f2e8f&rid=giphy-downsized.gif&ct=g",
+                "alt_text": "math",
+                "title": {
+                    "type": "plain_text",
+                    "text": "math",
+                    "emoji": true
+                },
+                "fallback": "480x202px image",
+                "image_width": 480,
+                "image_height": 202,
+                "image_bytes": 1867935,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "JvGl",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400",
+        "reactions": [
+            {
+                "name": "see_no_evil",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6edbead-7aab-4c64-b029-3ed455c7e836",
+        "type": "message",
+        "text": "Y’ALL CRAZY",
+        "user": "U01S7KCL3DF",
+        "ts": "1620748155.008200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dwfp5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y’ALL CRAZY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "d23e4beb-5dc7-4aa3-8f82-2085db537e76",
+        "type": "message",
+        "text": "what if it's and adjective and not a subject?",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620748178.008400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J652u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what if it's and adjective and not a subject?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "a50348c1-fa68-49aa-beb2-776080a6b4bb",
+        "type": "message",
+        "text": "“My data *were* corrupted”\n\nwould you say that?",
+        "user": "U01S7KCL3DF",
+        "ts": "1620748184.008700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S4XR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“My data "
+                            },
+                            {
+                                "type": "text",
+                                "text": "were",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " corrupted”\n\nwould you say that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "mindblown",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620748186.008900",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "cMH",
+                "image_url": "https:\/\/media3.giphy.com\/media\/wbcMnfHqOJX9K\/giphy.gif?cid=6104955ec75cc6d609f25545017bd92cfecdc59e2f17967e&rid=giphy.gif&ct=g&cid=6104955ec75cc6d609f25545017bd92cfecdc59e2f17967e&rid=giphy.gif&ct=g",
+                "alt_text": "mindblown",
+                "title": {
+                    "type": "plain_text",
+                    "text": "mindblown",
+                    "emoji": true
+                },
+                "fallback": "250x138px image",
+                "image_width": 250,
+                "image_height": 138,
+                "image_bytes": 339734,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "P8\/Ew",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "c4692ea1-cdb8-434e-ace4-a667d80f954c",
+        "type": "message",
+        "text": "you say data set, and data point",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620748201.009200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mC2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you say data set, and data point"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "672fb963-6af5-464e-8c8d-8a690ef0f2c3",
+        "type": "message",
+        "text": "Just to confirm that both the Guardian and AP stye guides confirm I am wrong :cool-doge:",
+        "user": "U01S7KCL3DF",
+        "ts": "1620748220.009400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dHdCT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just to confirm that both the Guardian and AP stye guides confirm I am wrong "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cool-doge"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "7764b250-089c-4994-9bdd-a8e2ac8b3350",
+        "type": "message",
+        "text": "you dont say my data or this data as a singular data point right?",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620748222.009600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rZr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you dont say my data or this data as a singular data point right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "aaa29b2b-f94b-4af5-86a8-958d4b27d20a",
+        "type": "message",
+        "text": "YES I DO",
+        "user": "U01S7KCL3DF",
+        "ts": "1620748237.009800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pEY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YES I DO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "c822755e-aa6c-4aa4-847f-200414c89319",
+        "type": "message",
+        "text": "xD",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620748241.010000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "573d32a4-5aab-4e7b-8704-ab9df180a0c9",
+        "type": "message",
+        "text": "in every case i read it plural! the data, this data, my data",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620748257.010200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLY5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in every case i read it plural! the data, this data, my data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "adc874e3-95d3-4b86-9996-26eedb04c007",
+        "type": "message",
+        "text": "and you can't say a data right?",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620748267.010400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wy7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and you can't say a data right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "a9083721-8511-4641-bc8e-664a3d9aa6e3",
+        "type": "message",
+        "text": "the data, this data, my data\n\nthat’s all fine\n\nbut the “data IS crap” … yes\n\n“the data ARE crap” SURELY NOT",
+        "user": "U01S7KCL3DF",
+        "ts": "1620748326.010700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KZJr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the data, this data, my data\n\nthat’s all fine\n\nbut the “data IS crap” … yes\n\n“the data ARE crap” SURELY NOT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RRV4JX6Z",
+                    "U01S7BM4N81"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F021Y2LG46M",
+                "created": 1620748455,
+                "timestamp": 1620748455,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7KCL3DF",
+                "editable": false,
+                "size": 486915,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021Y2LG46M\/image.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021Y2LG46M\/download\/image.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Y2LG46M-c2b56f0d24\/image_64.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Y2LG46M-c2b56f0d24\/image_80.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Y2LG46M-c2b56f0d24\/image_360.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 315,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Y2LG46M-c2b56f0d24\/image_480.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 420,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Y2LG46M-c2b56f0d24\/image_160.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "original_w": 534,
+                "original_h": 467,
+                "thumb_tiny": "AwApADCgelOiO1lJGQDnHrQVB9acF24IqblFg3MKKB5AzjHbPSg3cXe3x+VFoitIWYD5addBcHgU7hYpuQzMR3OcUygYzTsc0AiYJRICoX6VaCZPpk1HKUJ6ggccVmrsBYD+6IIySahuGzIwxgDjFSp90lOCpqsUZ5MNx9KtBcaqd\/WnbeTQsmz5GXkVMuGc4ORgVLbQ1Ykt1OxXMnzHsccU4QqAT5ykke1RD7j\/AO7UHY\/WrJLQhQKSJwAcemev1pqwx5C78sSSD37H+tVH\/i+gp1v\/AMfEf+8KYFt7aMyhjKvXmmTQxoDKkq8Y+UfWoLr77fWoO1ID\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7KCL3DF\/F021Y2LG46M\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F021Y2LG46M-227ff89f31",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01S7KCL3DF",
+        "display_as_bot": false,
+        "ts": "1620748458.010900",
+        "thread_ts": "1620748116.007400",
+        "reactions": [
+            {
+                "name": "screaming_jonah",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d690d615-e562-42aa-b96e-7f82a22b657c",
+        "type": "message",
+        "text": "graffiti is also plural btw lol",
+        "user": "U01S0E0MRJ7",
+        "ts": "1620748467.011100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNA4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "graffiti is also plural btw lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "9d63a7c2-9577-4190-9c8a-ad9f53d5d53d",
+        "type": "message",
+        "text": "hahahahah",
+        "user": "U01RKN0EGDV",
+        "ts": "1620748635.011500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1+=jO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hahahahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "3ab2daeb-62ae-495d-a603-b09863838c7d",
+        "type": "message",
+        "text": "<@U01RW2X7S9Z> I wanna hear this on zoom\n\n“the data suggest” “the data say”",
+        "user": "U01S7KCL3DF",
+        "ts": "1620748718.011700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "63Ol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RW2X7S9Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I wanna hear this on zoom\n\n“the data suggest” “the data say”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "524a49b0-f62b-446d-be03-42e7a8c4f538",
+        "type": "message",
+        "text": "<@U01S7KCL3DF> there seem to be some solid viewpoints that acknowledge them as both.",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620756584.012500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RRV4JX6Z",
+            "ts": "1620756746.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uv0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S7KCL3DF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " there seem to be some solid viewpoints that acknowledge them as both."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "5ce15e9c-d831-4e9a-a22f-e00791e6b91c",
+        "type": "message",
+        "text": "As you say, language is evolving.",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620756761.012800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KIicn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As you say, language is evolving."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400"
+    },
+    {
+        "client_msg_id": "25de2065-a927-44ba-9009-40d3c1607678",
+        "type": "message",
+        "text": "Both yes! Sorry was on my phone and couldn't edit. <@U01RRV4JX6Z> wins",
+        "user": "U01S7KCL3DF",
+        "ts": "1620760840.013500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fscv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Both yes! Sorry was on my phone and couldn't edit. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RRV4JX6Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " wins"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748116.007400",
+        "reactions": [
+            {
+                "name": "antonio",
+                "users": [
+                    "U01RRV4JX6Z",
+                    "U01S7BM4N81"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f59bfd4-593d-4f62-8cfe-0be7947c3bb5",
+        "type": "message",
+        "text": "That's a story! Imagine it with data.. <https:\/\/www.theplayerstribune.com\/posts\/adriano-has-a-story-to-tell-soccer|https:\/\/www.theplayerstribune.com\/posts\/adriano-has-a-story-to-tell-soccer>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620799590.014100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The Players' Tribune",
+                "title": "Adriano Has A Story to Tell | By Adriano",
+                "title_link": "https:\/\/www.theplayerstribune.com\/posts\/adriano-has-a-story-to-tell-soccer",
+                "text": "Do you want to hear the truth? Straight from me? No bullshit? Well, pull up a chair then, brother.",
+                "fallback": "The Players' Tribune: Adriano Has A Story to Tell | By Adriano",
+                "image_url": "https:\/\/images2.minutemediacdn.com\/image\/upload\/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto\/shape\/cover\/sport\/Adriano-Has-a-Story-To-Tell-TW-5ce1150aa690eb31565a2983b46e504a.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/www.theplayerstribune.com\/posts\/adriano-has-a-story-to-tell-soccer",
+                "image_bytes": 43286,
+                "service_icon": "https:\/\/images2.minutemediacdn.com\/image\/upload\/frontier\/favicons\/tpt-favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.theplayerstribune.com\/posts\/adriano-has-a-story-to-tell-soccer"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hZo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's a story! Imagine it with data.. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.theplayerstribune.com\/posts\/adriano-has-a-story-to-tell-soccer",
+                                "text": "https:\/\/www.theplayerstribune.com\/posts\/adriano-has-a-story-to-tell-soccer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620799590.014100",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1620822538.014500",
+        "reply_users": [
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620822427.014300"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620822538.014500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "f93e1950-3752-4b31-aa05-57c3793fb411",
+        "type": "message",
+        "text": "<https:\/\/www.nytimes.com\/2021\/04\/16\/business\/artificial-intelligence-regulation.html> worth keeping an eye on",
+        "user": "U01RW140HBP",
+        "ts": "1619084326.000300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The New York Times",
+                "service_url": "https:\/\/www.nytimes.com",
+                "title": "Europe Proposes Strict Rules for Artificial Intelligence",
+                "title_link": "https:\/\/www.nytimes.com\/2021\/04\/16\/business\/artificial-intelligence-regulation.html",
+                "author_name": "By Adam Satariano",
+                "thumb_url": "https:\/\/static01.nyt.com\/images\/2021\/04\/21\/business\/21economy-briefing-eu-ai\/21economy-briefing-eu-ai-largeHorizontalJumbo.jpg",
+                "thumb_width": 1024,
+                "thumb_height": 682,
+                "text": "The regulations would have far-reaching implications for tech firms like Amazon, Google, Facebook and Microsoft, which have poured resources into developing the technology.",
+                "fallback": "The New York Times Europe Proposes Strict Rules for Artificial Intelligence",
+                "from_url": "https:\/\/www.nytimes.com\/2021\/04\/16\/business\/artificial-intelligence-regulation.html",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/nytimes.png",
+                "id": 1,
+                "original_url": "https:\/\/www.nytimes.com\/2021\/04\/16\/business\/artificial-intelligence-regulation.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gQfw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nytimes.com\/2021\/04\/16\/business\/artificial-intelligence-regulation.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": " worth keeping an eye on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,3436 @@
+[
+    {
+        "client_msg_id": "fd4f3bd3-abf4-4fc4-b6eb-9165e3bfbbcc",
+        "type": "message",
+        "text": "Time Zone :dancing_dog:\n\n<https:\/\/www.youtube.com\/watch?v=B5S-q1gRxvw&amp;ab_channel=happyendy>",
+        "user": "U01S7KCL3DF",
+        "ts": "1620979566.000300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Time Zone (Afrika Bambaataa feat.John Lydon) - World Destruction",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=B5S-q1gRxvw&amp;ab_channel=happyendy",
+                "author_name": "happyendy",
+                "author_link": "https:\/\/www.youtube.com\/user\/happyendy",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/B5S-q1gRxvw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 358,
+                "fallback": "YouTube Video: Time Zone (Afrika Bambaataa feat.John Lydon) - World Destruction",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/B5S-q1gRxvw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=B5S-q1gRxvw&amp;ab_channel=happyendy",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=B5S-q1gRxvw&amp;ab_channel=happyendy"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EX1k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Time Zone "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dancing_dog"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=B5S-q1gRxvw&ab_channel=happyendy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "boludo",
+                "users": [
+                    "U01S1CWGTU4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17649102-bb22-4e8e-b2b9-f72ad329a2a4",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=8Uee_mcxvrw>",
+        "user": "U01S1CWGTU4",
+        "ts": "1620979914.000800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "'I FINK U FREEKY' by DIE ANTWOORD (Official)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=8Uee_mcxvrw",
+                "author_name": "Die Antwoord",
+                "author_link": "https:\/\/www.youtube.com\/user\/ZEFRECORDZ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/8Uee_mcxvrw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 'I FINK U FREEKY' by DIE ANTWOORD (Official)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/8Uee_mcxvrw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=8Uee_mcxvrw",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=8Uee_mcxvrw"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X9u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=8Uee_mcxvrw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93ac8107-afd9-4dc0-a078-5c39318e9a8e",
+        "type": "message",
+        "text": "<@U01S7KCL3DF> <https:\/\/www.youtube.com\/watch?v=RcYqLBsm4Pc>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620980124.001300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Supla - Garota de Berlim (Clipe Oficial)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=RcYqLBsm4Pc",
+                "author_name": "Supla",
+                "author_link": "https:\/\/www.youtube.com\/c\/Suplazoo",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/RcYqLBsm4Pc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Supla - Garota de Berlim (Clipe Oficial)",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/RcYqLBsm4Pc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=RcYqLBsm4Pc",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=RcYqLBsm4Pc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jUF\/1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S7KCL3DF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=RcYqLBsm4Pc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980124.001300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1620980363.002100",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01S1CWGTU4"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620980227.001500"
+            },
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1620980363.002100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "00ffbf85-6736-48b9-a3ed-daad31791fea",
+        "type": "message",
+        "text": "show de bola :dancing_dog:  …. looks like the Brazillian Billy Idolzinho",
+        "user": "U01S7KCL3DF",
+        "ts": "1620980227.001500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v2Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "show de bola "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dancing_dog"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  …. looks like the Brazillian Billy Idolzinho"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980124.001300",
+        "parent_user_id": "U01RRV4JX6Z",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01RRV4JX6Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d6feeb5-9b7b-4473-9aba-3b7cb6cc29c7",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=2Ld2tBmy95U>",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620980335.001900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Volare",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=2Ld2tBmy95U",
+                "author_name": "Jimmy Sabater - Topic",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCXsC5eLcfyRkCNtAv2_RmoQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/2Ld2tBmy95U\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Volare",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/2Ld2tBmy95U?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=2Ld2tBmy95U",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=2Ld2tBmy95U"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eIl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=2Ld2tBmy95U"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980335.001900",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1620980772.004800",
+        "reply_users": [
+            "U01RRV4JX6Z",
+            "U01S1CWGTU4",
+            "U01RW2X7S9Z"
+        ],
+        "replies": [
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620980515.002300"
+            },
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1620980614.002700"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620980772.004800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "43200da8-d771-4386-ad61-7eca9f5e745d",
+        "type": "message",
+        "text": "nice one!",
+        "user": "U01S1CWGTU4",
+        "ts": "1620980363.002100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DXate",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice one!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980124.001300",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "e33f0d59-077e-40f3-846e-68e1923940db",
+        "type": "message",
+        "text": "This song reminds me of the time I was 8-10 and lived in the Dominican Republic! <https:\/\/www.youtube.com\/watch?v=qmbx4_TQbkA>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620980515.002300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Gipsy Kings - Volare (Official Video)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=qmbx4_TQbkA",
+                "author_name": "gipsykingsVEVO",
+                "author_link": "https:\/\/www.youtube.com\/user\/gipsykingsVEVO",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/qmbx4_TQbkA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Gipsy Kings - Volare (Official Video)",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/qmbx4_TQbkA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=qmbx4_TQbkA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=qmbx4_TQbkA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "smcW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This song reminds me of the time I was 8-10 and lived in the Dominican Republic! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=qmbx4_TQbkA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980335.001900",
+        "parent_user_id": "U01RW2X7S9Z"
+    },
+    {
+        "client_msg_id": "c371c58e-bc9d-4750-86e7-429cd29da5c0",
+        "type": "message",
+        "text": "Que bueno esto <@U01RW2X7S9Z>!!!!!! lo q suena!!!!",
+        "user": "U01S1CWGTU4",
+        "ts": "1620980614.002700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+u87c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Que bueno esto "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RW2X7S9Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!!!!! lo q suena!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980335.001900",
+        "parent_user_id": "U01RW2X7S9Z"
+    },
+    {
+        "client_msg_id": "14f4eb26-85d1-40aa-9010-0055bf7bcfa8",
+        "type": "message",
+        "text": "Like to listen to The Expanse's theme song on an infinite loop: <https:\/\/www.youtube.com\/watch?v=YLMQnoO5Uik&amp;list=RDYLMQnoO5Uik&amp;start_radio=1>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620980632.003300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "The Expanse title theme 10 minutes long extended",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=YLMQnoO5Uik&amp;list=RDYLMQnoO5Uik&amp;start_radio=1",
+                "author_name": "JAG - the Trekkie - GEMINI",
+                "author_link": "https:\/\/www.youtube.com\/user\/JAGTHEGEMINI",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/YLMQnoO5Uik\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: The Expanse title theme 10 minutes long extended",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/YLMQnoO5Uik?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=YLMQnoO5Uik&amp;list=RDYLMQnoO5Uik&amp;start_radio=1",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=YLMQnoO5Uik&amp;list=RDYLMQnoO5Uik&amp;start_radio=1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+u2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like to listen to The Expanse's theme song on an infinite loop: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=YLMQnoO5Uik&list=RDYLMQnoO5Uik&start_radio=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980632.003300",
+        "reply_count": 12,
+        "reply_users_count": 3,
+        "latest_reply": "1620980945.006100",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01RRV4JX6Z",
+            "U01S0E0MRJ7"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620980678.003500"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620980693.003700"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620980710.004000"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1620980719.004200"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620980731.004400"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1620980735.004600"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620980784.005100"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620980797.005300"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1620980904.005500"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620980911.005700"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620980919.005900"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620980945.006100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U01S0E0MRJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab214154-7fd3-4eeb-94df-f1df31a4e8d9",
+        "type": "message",
+        "text": "how is the show? haven't seen it, but looks fine!",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620980678.003500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6HJd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how is the show? haven't seen it, but looks fine!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980632.003300",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "343c1a2c-bfbf-496b-9a91-500d0d23803e",
+        "type": "message",
+        "text": "It's amazing! Mindblowing...",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620980693.003700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "880\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's amazing! Mindblowing..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980632.003300",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "fd26a52b-bac7-4e58-b612-a4eadb7fe869",
+        "type": "message",
+        "text": "i'm getting out of netflix this month, and probably will subscribe to prime haha",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620980710.004000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7EkT2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'm getting out of netflix this month, and probably will subscribe to prime haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980632.003300",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "20aec065-e415-41be-9bc8-489256853e6a",
+        "type": "message",
+        "text": "last 2 seasons kinda suck tho",
+        "user": "U01S0E0MRJ7",
+        "ts": "1620980719.004200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KmWi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "last 2 seasons kinda suck tho"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980632.003300",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "245f0c48-b9da-4abb-bfca-0aefcf1350c8",
+        "type": "message",
+        "text": "I liked all of them :slightly_smiling_face:",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620980731.004400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ygx5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I liked all of them "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980632.003300",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "031b7ebe-28d9-456b-8bca-315ab970ef61",
+        "type": "message",
+        "text": "1st 2 agree",
+        "user": "U01S0E0MRJ7",
+        "ts": "1620980735.004600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uU9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1st 2 agree"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980632.003300",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "4bd82eaf-43a6-421c-a1e2-dd6828721db1",
+        "type": "message",
+        "text": "para quedarse en la vibra: <https:\/\/open.spotify.com\/playlist\/37i9dQZF1E8IxWR0vunUR6?si=d8553e4f37924550>",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620980772.004800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Volare Radio",
+                "title_link": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1E8IxWR0vunUR6?si=d8553e4f37924550",
+                "thumb_url": "https:\/\/seeded-session-images.scdn.co\/v1\/img\/track\/4uLTLbh4R5RHww4hJdnVMv\/en",
+                "thumb_width": 640,
+                "thumb_height": 640,
+                "fallback": "Spotify Audio: Volare Radio",
+                "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Volare Radio\" src=\"https:\/\/open.spotify.com\/embed\/playlist\/37i9dQZF1E8IxWR0vunUR6?si=d8553e4f37924550\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1E8IxWR0vunUR6?si=d8553e4f37924550",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1E8IxWR0vunUR6?si=d8553e4f37924550"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=3O7l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "para quedarse en la vibra: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1E8IxWR0vunUR6?si=d8553e4f37924550"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980335.001900",
+        "parent_user_id": "U01RW2X7S9Z"
+    },
+    {
+        "client_msg_id": "696a5141-5b07-4b47-86cd-465ac651e64f",
+        "type": "message",
+        "text": "As a whole, i dont think that Amazon Prime Video is good",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620980784.005100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z9uN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As a whole, i dont think that Amazon Prime Video is good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980632.003300",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "aee93ae7-4ba1-495a-80d6-e19987aa4847",
+        "type": "message",
+        "text": "Netflix is much better",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620980797.005300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zciWb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Netflix is much better"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980632.003300",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "d2e48e66-a910-4d08-a680-4f38e329681a",
+        "type": "message",
+        "text": "half of the movies on amazon are only in dubbed german :face_with_rolling_eyes:",
+        "user": "U01S0E0MRJ7",
+        "ts": "1620980904.005500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ooI5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "half of the movies on amazon are only in dubbed german "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_rolling_eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980632.003300",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "ec05c0c7-5c87-48fe-8d32-226a8cdcc5b3",
+        "type": "message",
+        "text": "I wouldnt sign it up. Because I'm enrolled at an university as a PhD candidate, I got Amazon prime for free out of the blue as a promotion. But I dont really like it besides The Expanse",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620980911.005700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UIUYB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wouldnt sign it up. Because I'm enrolled at an university as a PhD candidate, I got Amazon prime for free out of the blue as a promotion. But I dont really like it besides The Expanse"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980632.003300",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "68854fa4-8df1-4dcf-a2da-27261fb8bd9e",
+        "type": "message",
+        "text": "Yeah, this sucks very much",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620980919.005900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O8x1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, this sucks very much"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980632.003300",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "62f8ada1-c7e5-4a76-89f9-57c56df9c625",
+        "type": "message",
+        "text": "Germans are so cultured people. I dont know why they like dubbed movies",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620980945.006100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gnllJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Germans are so cultured people. I dont know why they like dubbed movies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620980632.003300",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "dc9129fd-a21a-4b62-aeed-a3cd2b07410a",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=2L5I3l3vZ0w>",
+        "user": "U01S1CWGTU4",
+        "ts": "1620981270.006400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "zucchero feat.cheb mami cosi celeste(original) full version",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=2L5I3l3vZ0w",
+                "author_name": "piffy85",
+                "author_link": "https:\/\/www.youtube.com\/user\/piffy85",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/2L5I3l3vZ0w\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: zucchero feat.cheb mami cosi celeste(original) full version",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/2L5I3l3vZ0w?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=2L5I3l3vZ0w",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=2L5I3l3vZ0w"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ol+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=2L5I3l3vZ0w"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30863440-8832-4d23-88a7-7cdb20578954",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=fCPFkR87uRE>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620981548.006700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "bill evans- In a sentimental mood (1967)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=fCPFkR87uRE",
+                "author_name": "esperipoctialito",
+                "author_link": "https:\/\/www.youtube.com\/c\/esperipoctialitogoogleargentina",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/fCPFkR87uRE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: bill evans- In a sentimental mood (1967)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/fCPFkR87uRE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=fCPFkR87uRE",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=fCPFkR87uRE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WfF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=fCPFkR87uRE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cfc64c08-530d-4ea5-9989-2b75f12a99e9",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=eZ6F_Lphrho>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620981977.007100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Samba de Orly - Toquinho &amp; Vinícius",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=eZ6F_Lphrho",
+                "author_name": "EdgarRodrigues",
+                "author_link": "https:\/\/www.youtube.com\/user\/EdgarRodrigues",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/eZ6F_Lphrho\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Samba de Orly - Toquinho & Vinícius",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/eZ6F_Lphrho?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=eZ6F_Lphrho",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=eZ6F_Lphrho"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I74",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=eZ6F_Lphrho"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31fa5c3f-8ee3-4506-8bd3-faebec84d49c",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/vO5kmgKrQzA>",
+        "user": "U01RKN0EGDV",
+        "ts": "1620986905.007400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "abe46e9352ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1878427345639_abe46e9352ee26531094_72.jpg",
+            "first_name": "Marian",
+            "real_name": "Marian Moreno",
+            "display_name": "Marian (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "marimor62",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Lágrimas de Sangre - Quemar el mar (Videoclip oficial)",
+                "title_link": "https:\/\/youtu.be\/vO5kmgKrQzA",
+                "author_name": "Lágrimas de Sangre",
+                "author_link": "https:\/\/www.youtube.com\/c\/LágrimasDeSangre",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/vO5kmgKrQzA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Lágrimas de Sangre - Quemar el mar (Videoclip oficial)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/vO5kmgKrQzA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/vO5kmgKrQzA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/vO5kmgKrQzA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pe8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/vO5kmgKrQzA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U01S1CWGTU4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67276c81-60d8-427d-a254-5b479b1b81af",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=cg1wDc9JVB4>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620987986.007700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Jorge Drexler - Al otro lado del rio (video clip)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=cg1wDc9JVB4",
+                "author_name": "Jorge Drexler",
+                "author_link": "https:\/\/www.youtube.com\/c\/oficialjorgedrexler",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/cg1wDc9JVB4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Jorge Drexler - Al otro lado del rio (video clip)",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/cg1wDc9JVB4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=cg1wDc9JVB4",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=cg1wDc9JVB4"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n9Hl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=cg1wDc9JVB4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fca4dd95-9319-4f1c-a3bf-c38919036e57",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=9MzeJLs6yj0>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620988272.008000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Acústico MTV Titãs - Go Back - Sérgio Britto e Torquato Neto -  Fito Paez",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=9MzeJLs6yj0",
+                "author_name": "Flavio Morais",
+                "author_link": "https:\/\/www.youtube.com\/user\/madeinpiaui",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/9MzeJLs6yj0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Acústico MTV Titãs - Go Back - Sérgio Britto e Torquato Neto -  Fito Paez",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/9MzeJLs6yj0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=9MzeJLs6yj0",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=9MzeJLs6yj0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9MzeJLs6yj0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "reply_count": 14,
+        "reply_users_count": 3,
+        "latest_reply": "1621014322.016700",
+        "reply_users": [
+            "U01S1CWGTU4",
+            "U01RRV4JX6Z",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1620988413.008200"
+            },
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1620988506.008500"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620988668.009100"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620988821.009300"
+            },
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1620989057.009600"
+            },
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1620989968.011200"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620998012.014200"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620998153.014400"
+            },
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1620999682.014800"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1621000014.015000"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1621000183.015300"
+            },
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1621000863.015600"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1621003335.016200"
+            },
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1621014322.016700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5d8a7dad-7816-4bf5-9090-193fd8c66b32",
+        "type": "message",
+        "text": "Fito :heart:",
+        "user": "U01S1CWGTU4",
+        "ts": "1620988413.008200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iP5Px",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fito "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "parent_user_id": "U01RRV4JX6Z",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01RRV4JX6Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aceb3c4f-ec87-4bdf-a7af-dc2d0589f2b6",
+        "type": "message",
+        "text": "\"El amor despues del amor\", one of the best CDs I know.",
+        "user": "U01S1CWGTU4",
+        "ts": "1620988506.008500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kw5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"El amor despues del amor\", one of the best CDs I know."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "2725deff-ef4f-4162-8a28-428c0eca3333",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=XGSs_toCZeE>",
+        "user": "U01S1CWGTU4",
+        "ts": "1620988598.008800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Fito Paez - La Rueda Mágica (En Vivo)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=XGSs_toCZeE",
+                "author_name": "FitoPaezVEVO",
+                "author_link": "https:\/\/www.youtube.com\/user\/FitoPaezVEVO",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/XGSs_toCZeE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Fito Paez - La Rueda Mágica (En Vivo)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/XGSs_toCZeE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=XGSs_toCZeE",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=XGSs_toCZeE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CCEkp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=XGSs_toCZeE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RRV4JX6Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9fa611b0-d9a3-42e4-94ca-89dcaefbe3ef",
+        "type": "message",
+        "text": "This was a magical encounter of the Brazilian band Titas and Fito",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620988668.009100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U=hcd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This was a magical encounter of the Brazilian band Titas and Fito"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "parent_user_id": "U01RRV4JX6Z",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S1CWGTU4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8fdf7cd4-e6ae-479a-8174-09be76f4f2c8",
+        "type": "message",
+        "text": "Do you miss Argentina when you hear these songs?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620988821.009300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r=s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you miss Argentina when you hear these songs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "2cfa9604-2bc1-49a1-9348-d8e0cb1da5fb",
+        "type": "message",
+        "text": "I always miss argentinean passion haha",
+        "user": "U01S1CWGTU4",
+        "ts": "1620989057.009600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z=Ld5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I always miss argentinean passion haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "b11f7ec4-f8e0-4677-a6cf-eb07ed30974e",
+        "type": "message",
+        "text": "<https:\/\/open.spotify.com\/album\/3eWQoEXNDLkfUadLYhdzEV?si=r2n4Ax_YQ8ez_7y2eUj-Lg>",
+        "user": "U01RW140HBP",
+        "ts": "1620989435.010000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "A Tuba to Cuba",
+                "title_link": "https:\/\/open.spotify.com\/album\/3eWQoEXNDLkfUadLYhdzEV?si=r2n4Ax_YQ8ez_7y2eUj-Lg",
+                "thumb_url": "https:\/\/i.scdn.co\/image\/ab67616d00001e029a6fda36950cce6653f8f9e3",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: A Tuba to Cuba",
+                "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: A Tuba to Cuba\" src=\"https:\/\/open.spotify.com\/embed\/album\/3eWQoEXNDLkfUadLYhdzEV?si=r2n4Ax_YQ8ez_7y2eUj-Lg\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/album\/3eWQoEXNDLkfUadLYhdzEV?si=r2n4Ax_YQ8ez_7y2eUj-Lg",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/album\/3eWQoEXNDLkfUadLYhdzEV?si=r2n4Ax_YQ8ez_7y2eUj-Lg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RVxy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/album\/3eWQoEXNDLkfUadLYhdzEV?si=r2n4Ax_YQ8ez_7y2eUj-Lg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d27f81e-6e4f-407a-9e09-0183eaff80d3",
+        "type": "message",
+        "text": "<@U01RW140HBP> you might like this one <https:\/\/www.youtube.com\/watch?v=dldKppY1Lj0>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620989473.010400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Afrocubism - Afrocubism (Full Album)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=dldKppY1Lj0",
+                "author_name": "World Circuit Records",
+                "author_link": "https:\/\/www.youtube.com\/c\/WorldCircuitRecords",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/dldKppY1Lj0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Afrocubism - Afrocubism (Full Album)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/dldKppY1Lj0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=dldKppY1Lj0",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=dldKppY1Lj0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IwW7x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RW140HBP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you might like this one "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=dldKppY1Lj0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989473.010400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1620989586.010600",
+        "reply_users": [
+            "U01RRV4JX6Z"
+        ],
+        "replies": [
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620989586.010600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb386e31-4626-47a3-8ece-45f4f932fe54",
+        "type": "message",
+        "text": "<@U01RVSTNRRT>, i am big fan of music from Mali. Do you know if there is an influence of music from Nigeria on music from Mali or vice versa?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620989586.010600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TGqn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RVSTNRRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", i am big fan of music from Mali. Do you know if there is an influence of music from Nigeria on music from Mali or vice versa?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989473.010400",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "1504aa70-6207-42c7-a411-88aef219711b",
+        "type": "message",
+        "text": "Fatoumata Diawara, she's awesome: <https:\/\/www.youtube.com\/watch?v=wnIuewiR-1Q&amp;list=PLetv3SCC-r3YFYYCpNmQXv7bC561HnDac>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620989939.011000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Fatoumata Diawara - Bissa (Official Audio)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=wnIuewiR-1Q",
+                "author_name": "World Circuit Records",
+                "author_link": "https:\/\/www.youtube.com\/c\/WorldCircuitRecords",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/wnIuewiR-1Q\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Fatoumata Diawara - Bissa (Official Audio)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/wnIuewiR-1Q?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=wnIuewiR-1Q",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=wnIuewiR-1Q&amp;list=PLetv3SCC-r3YFYYCpNmQXv7bC561HnDac"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HYOt=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fatoumata Diawara, she's awesome: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=wnIuewiR-1Q&list=PLetv3SCC-r3YFYYCpNmQXv7bC561HnDac"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989939.011000",
+        "reply_count": 13,
+        "reply_users_count": 3,
+        "latest_reply": "1620995326.014000",
+        "reply_users": [
+            "U01S1CWGTU4",
+            "U01RW140HBP",
+            "U01RRV4JX6Z"
+        ],
+        "replies": [
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1620990748.011600"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620991804.011800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620991863.012000"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620992790.012200"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620992857.012400"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620993037.012600"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620993180.012800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620993273.013000"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620993368.013200"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620993494.013400"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620993528.013600"
+            },
+            {
+                "user": "U01S1CWGTU4",
+                "ts": "1620994966.013800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620995326.014000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "10882edb-cedb-4e51-962a-1c3d66475ae9",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=fGwPjLfTuk4> I love this guy from brasil, not just because he is playing an argentinean song hahaha .... he is great!",
+        "user": "U01S1CWGTU4",
+        "ts": "1620989968.011200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Yamandu toca Chacarera (La Pesada) Luís Salinas",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=fGwPjLfTuk4",
+                "author_name": "Yamandu Costa",
+                "author_link": "https:\/\/www.youtube.com\/c\/yamandutube",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/fGwPjLfTuk4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Yamandu toca Chacarera (La Pesada) Luís Salinas",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/fGwPjLfTuk4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=fGwPjLfTuk4",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=fGwPjLfTuk4"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ti2WF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=fGwPjLfTuk4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I love this guy from brasil, not just because he is playing an argentinean song hahaha .... he is great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "c7c8dfd5-680d-4105-9fc2-4c4bfff4379c",
+        "type": "message",
+        "text": "Wow!!!! :raised_hands:",
+        "user": "U01S1CWGTU4",
+        "ts": "1620990748.011600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9xcGN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow!!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989939.011000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "348d844e-f83c-433f-a7b2-72857eff1c4c",
+        "type": "message",
+        "text": ":heart: beautiful",
+        "user": "U01RW140HBP",
+        "ts": "1620991804.011800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tY=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            },
+                            {
+                                "type": "text",
+                                "text": " beautiful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989939.011000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "3ab7474e-38df-4e9d-95b5-13a688062a48",
+        "type": "message",
+        "text": "this is not the first time in this course i have yearned to explore some countries in the continent of africa, but i guess now i should add Mali to the list :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1620991863.012000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wzR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is not the first time in this course i have yearned to explore some countries in the continent of africa, but i guess now i should add Mali to the list "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989939.011000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "8b5fb8ee-e3ba-4e99-a99f-206cad6ac876",
+        "type": "message",
+        "text": "I always wanted to go to Mali for the music and also their fabulous ancient culture (Timbuktu), but unfortunately they are amidst a terrible war, I think",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620992790.012200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WB5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I always wanted to go to Mali for the music and also their fabulous ancient culture (Timbuktu), but unfortunately they are amidst a terrible war, I think"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989939.011000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "4d7b5924-c34b-47a5-ae27-b1140e74b7c9",
+        "type": "message",
+        "text": "Next to my house there is a bookshop called Timbooktu",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620992857.012400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ew=el",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Next to my house there is a bookshop called Timbooktu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989939.011000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "adfe2da1-c7ca-48cc-8264-b253445cc16e",
+        "type": "message",
+        "text": "i didnt know there was a war going on :disappointed:\ngreat news about the bookshop though - can you take a photo next time youre passing? i love book shops",
+        "user": "U01RW140HBP",
+        "ts": "1620993037.012600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d4cMo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i didnt know there was a war going on "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ngreat news about the bookshop though - can you take a photo next time youre passing? i love book shops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989939.011000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "eba80bf5-33ad-4ad1-b834-da4144202ed3",
+        "type": "message",
+        "text": "Me too! Have you been to \"Curious Fox\" when here in Berlin?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620993180.012800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O113s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me too! Have you been to \"Curious Fox\" when here in Berlin?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989939.011000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "95b3d9d9-2f5b-4a47-968a-c3071c3e6d00",
+        "type": "message",
+        "text": "i did! my first airbnb  in berlin was not too far from there",
+        "user": "U01RW140HBP",
+        "ts": "1620993273.013000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0OQ=V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i did! my first airbnb  in berlin was not too far from there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989939.011000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "43ce8462-b91a-40c6-8f06-89c9d89fb9d4",
+        "type": "message",
+        "text": "im heading to hay on wye during my break between bootcamps … it has 1500 people and 20+ bookshops :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1620993368.013200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aQce",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "im heading to hay on wye during my break between bootcamps … it has 1500 people and 20+ bookshops "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989939.011000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "b6ddb145-5a8b-446c-9c16-6ffb66afd165",
+        "type": "message",
+        "text": "Amazing! Buenos Aires is another paradise what regards bookshops per capita, right <@U01S1CWGTU4> ?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620993494.013400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BwM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing! Buenos Aires is another paradise what regards bookshops per capita, right "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S1CWGTU4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989939.011000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "96c2a6b2-fffd-4ff3-8fc3-0268737fd1b9",
+        "type": "message",
+        "text": "cool !",
+        "user": "U01RW140HBP",
+        "ts": "1620993528.013600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VV3O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989939.011000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "type": "message",
+        "text": "I think so. There is a beautiful one in a ex theater",
+        "files": [
+            {
+                "id": "F021UMUHZ61",
+                "created": 1620994946,
+                "timestamp": 1620994946,
+                "name": "ateneo.jpeg",
+                "title": "ateneo.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01S1CWGTU4",
+                "editable": false,
+                "size": 424046,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021UMUHZ61\/ateneo.jpeg?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021UMUHZ61\/download\/ateneo.jpeg?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021UMUHZ61-430fcef9f6\/ateneo_64.jpg?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021UMUHZ61-430fcef9f6\/ateneo_80.jpg?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021UMUHZ61-430fcef9f6\/ateneo_360.jpg?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 241,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021UMUHZ61-430fcef9f6\/ateneo_480.jpg?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 321,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021UMUHZ61-430fcef9f6\/ateneo_160.jpg?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021UMUHZ61-430fcef9f6\/ateneo_720.jpg?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 482,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021UMUHZ61-430fcef9f6\/ateneo_800.jpg?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 536,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021UMUHZ61-430fcef9f6\/ateneo_960.jpg?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 643,
+                "original_w": 1023,
+                "original_h": 685,
+                "thumb_tiny": "AwAgADCoY8HBU0oQHqCKsAknjn8aTIJ5JI747Vnc0ICqAdaAqYyCfzpJ1ycqpAwOaWBQCd6nBHFHS4dQMYz0JoWMlhhTU+eW5PoAe9I7HIB\/nwaAEDZOOQB6UjvgdsA5xSROCOOtMmIJBGc9waEgbJfKkkjBJAB6D1prxvGgbO5fantcjCFQM+hppuP9HYHGWpiuIpyo\/uHmgnAZabDwOCfwFErAsaLDP\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S1CWGTU4\/F021UMUHZ61\/ateneo.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F021UMUHZ61-dc81d89c17",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vLHBg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think so. There is a beautiful one in a ex theater"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S1CWGTU4",
+        "display_as_bot": false,
+        "ts": "1620994966.013800",
+        "thread_ts": "1620989939.011000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "995487aa-2761-4ec6-afb0-2c408e9c664c",
+        "type": "message",
+        "text": "wowsers !!",
+        "user": "U01RW140HBP",
+        "ts": "1620995326.014000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dymA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wowsers !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620989939.011000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "e05afb9d-a678-4c51-b68a-8c301c0d8d51",
+        "type": "message",
+        "text": "<@U01S1CWGTU4> you and the epitome of PASIÓN\/PAIXĀO to all of us :boludo:",
+        "user": "U01S7KCL3DF",
+        "ts": "1620998012.014200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bf7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S1CWGTU4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you and the epitome of PASIÓN\/PAIXĀO to all of us "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "boludo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "parent_user_id": "U01RRV4JX6Z",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U01S1CWGTU4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b33521be-114d-4975-9459-a6e0ddd3250a",
+        "type": "message",
+        "text": "some of the greatest brazilian\/argentinean crossovers I’ve seen outside of a Skol ad\n\n<https:\/\/www.youtube.com\/watch?v=9Q7aHfan3A0&amp;ab_channel=fnazcasp>",
+        "user": "U01S7KCL3DF",
+        "ts": "1620998153.014400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Skol - Argentinos do Samba",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=9Q7aHfan3A0&amp;ab_channel=fnazcasp",
+                "author_name": "fnazcasp",
+                "author_link": "https:\/\/www.youtube.com\/user\/fnazcasp",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/9Q7aHfan3A0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Skol - Argentinos do Samba",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/9Q7aHfan3A0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=9Q7aHfan3A0&amp;ab_channel=fnazcasp",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=9Q7aHfan3A0&amp;ab_channel=fnazcasp"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m=O4J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "some of the greatest brazilian\/argentinean crossovers I’ve seen outside of a Skol ad\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9Q7aHfan3A0&ab_channel=fnazcasp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "parent_user_id": "U01RRV4JX6Z",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01RRV4JX6Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d75d604-a601-4202-b06f-c0ca33308630",
+        "type": "message",
+        "text": "hahahahhahaha",
+        "user": "U01S1CWGTU4",
+        "ts": "1620999682.014800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3qtT5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hahahahhahaha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "0d0b9ce0-8b2d-42a4-9120-6183cb4b22d4",
+        "type": "message",
+        "text": "now i havent had a haircut in so long i’m starting to look Argentino :ok_hand:",
+        "user": "U01S7KCL3DF",
+        "ts": "1621000014.015000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U9d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "now i havent had a haircut in so long i’m starting to look Argentino "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "d2a94f6d-7699-4bfc-b37e-3af2b99c5783",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=JG2rdC-nDAA>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1621000183.015300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Comercial Conti Bier - Brasil x Argentina",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=JG2rdC-nDAA",
+                "author_name": "Blog da Propaganda",
+                "author_link": "https:\/\/www.youtube.com\/c\/PropagandaBlogBr",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/JG2rdC-nDAA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Comercial Conti Bier - Brasil x Argentina",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/JG2rdC-nDAA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=JG2rdC-nDAA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=JG2rdC-nDAA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mIe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=JG2rdC-nDAA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "ae5065f5-8a5c-467b-b500-be9c8f6296ed",
+        "type": "message",
+        "text": "hahahahahaa es muy buena!!",
+        "user": "U01S1CWGTU4",
+        "ts": "1621000863.015600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UXIb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hahahahahaa es muy buena!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "275f326e-a04f-47d1-9815-9e81d78dca7a",
+        "type": "message",
+        "text": "An amazing song from one of my favorite movies... <https:\/\/www.youtube.com\/watch?v=rVoPzA0g3Ac>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1621001481.016000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Talking Heads \/ David Byrne - This Must Be The Place (Naive Melody)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=rVoPzA0g3Ac",
+                "author_name": "Kilgore Trout",
+                "author_link": "https:\/\/www.youtube.com\/user\/merkakkis",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/rVoPzA0g3Ac\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Talking Heads \/ David Byrne - This Must Be The Place (Naive Melody)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/rVoPzA0g3Ac?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=rVoPzA0g3Ac",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=rVoPzA0g3Ac"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yzk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "An amazing song from one of my favorite movies... "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=rVoPzA0g3Ac"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42eb9046-4373-46ca-bb34-dce47866ed56",
+        "type": "message",
+        "text": "you talkin bout the propaganda or something else :boludo:",
+        "user": "U01S7KCL3DF",
+        "ts": "1621003335.016200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jhlft",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you talkin bout the propaganda or something else "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "boludo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "0ca4d58b-0578-47af-99b7-838268ff1d27",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=1AnG04qnLqI>",
+        "user": "U01RSRE0N3D",
+        "ts": "1621008565.016500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Mufasa- its friday then.",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=1AnG04qnLqI",
+                "author_name": "Nicholashki",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCpJ9wxRuDnq1DxMDoKHrJlg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/1AnG04qnLqI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Mufasa- its friday then.",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/1AnG04qnLqI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=1AnG04qnLqI",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=1AnG04qnLqI"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T9r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=1AnG04qnLqI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a4232fe6-9e5d-45be-b20c-0c40bc0891e6",
+        "type": "message",
+        "text": "about the propaganda of course :eyes:",
+        "user": "U01S1CWGTU4",
+        "ts": "1621014322.016700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "09076999792d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1868032103895_09076999792d539af81c_72.png",
+            "first_name": "",
+            "real_name": "Antonio Saleme Sastre",
+            "display_name": "Antonio Saleme Sastre",
+            "team": "T01RBRV5F7H",
+            "name": "salemesastre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aY7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "about the propaganda of course "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620988272.008000",
+        "parent_user_id": "U01RRV4JX6Z"
+    }
+]

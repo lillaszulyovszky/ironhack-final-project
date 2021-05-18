@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "688c219f-d79d-4d97-90b1-4775ca9fc066",
+        "type": "message",
+        "text": "or ask one of the TAs to do the same with you, whatever you prefer",
+        "user": "U01RW140HBP",
+        "ts": "1617692873.000500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qRnzS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or ask one of the TAs to do the same with you, whatever you prefer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617638645.009400",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "8379b0d9-3f32-4640-b862-bfc145490afa",
+        "type": "message",
+        "text": "Just saw this. Thanks",
+        "user": "U01S133DZ9A",
+        "ts": "1617727380.000700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "91f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just saw this. Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617638645.009400",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "2e58f4f3-c217-424a-a2bf-b5e8ae0599ae",
+        "type": "message",
+        "text": "I'll have a think. Need to develop a strategy to get this Python thing to sink in.",
+        "user": "U01S133DZ9A",
+        "ts": "1617727460.000900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W=j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll have a think. Need to develop a strategy to get this Python thing to sink in."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617638645.009400",
+        "parent_user_id": "U01RW140HBP"
+    }
+]

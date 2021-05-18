@@ -1,4 +1,9 @@
 [
+{"user_id":"U01RP2K1606","user_name":"jalalkrmv","date":"1620976088","change_type":"added","app_type":"Miro","app_id":"A8VK125AS","scope":"identity.basic,identity.email,identity.avatar,identity.team"},
+{"user_id":"U01RNEU3SNA","user_name":"petergeorge649","date":"1620975661","change_type":"expanded","app_type":"Miro","app_id":"A8VK125AS","scope":"identity.basic,identity.email,identity.avatar,identity.team"},
+{"user_id":"U01S0MFJ3HR","user_name":"anja.fechner","date":"1620975647","change_type":"added","app_type":"Miro","app_id":"A8VK125AS","scope":"identity.basic,identity.email,identity.avatar,identity.team"},
+{"user_id":"U01S7KCL3DF","user_name":"samkatterfield","date":"1620747997","change_type":"added","app_type":"Simple Poll","app_id":"A0HFW7MR6"},
+{"user_id":"U01S7KCL3DF","user_name":"samkatterfield","date":"1620747996","change_type":"added","app_type":"Simple Poll","app_id":"A0HFW7MR6","scope":"identity.basic,identity.email"},
 {"user_id":"U01S081EULS","user_name":"defe_fg","date":"1620371558","change_type":"expanded","app_type":"Miro","app_id":"A8VK125AS","scope":"identity.basic,identity.email,identity.avatar,identity.team"},
 {"user_id":"U01RKN0EGDV","user_name":"marimor62","date":"1620371101","change_type":"added","app_type":"Miro","app_id":"A8VK125AS","scope":"identity.basic,identity.email,identity.avatar,identity.team"},
 {"user_id":"U01S79YDELR","user_name":"karina.condeixa","date":"1620370963","change_type":"added","app_type":"Miro","app_id":"A8VK125AS","scope":"identity.basic,identity.email,identity.avatar,identity.team"},
@@ -21,7 +26,7 @@
 {"user_id":"U01RXCQHMHT","user_name":"tony.hathuc","date":"1616746302","change_type":"added","app_type":"Miro","app_id":"A8VK125AS","scope":"identity.basic,identity.email,identity.avatar"},
 {"user_id":"U01S0E0MRJ7","user_name":"d.pudans","date":"1616746118","change_type":"added","app_type":"Miro","app_id":"A8VK125AS","scope":"identity.basic,identity.email,identity.avatar"},
 {"user_id":"U01S081EULS","user_name":"defe_fg","date":"1616746029","change_type":"added","app_type":"Miro","app_id":"A8VK125AS","scope":"identity.basic,identity.email,identity.avatar,identity.team"},
-{"user_id":"U01RNEU3SNA","user_name":"petergeorge649","date":"1616745999","change_type":"added","app_type":"Miro","app_id":"A8VK125AS","scope":"identity.basic,identity.email,identity.avatar"},
+{"user_id":"U01RNEU3SNA","user_name":"petergeorge649","date":"1616745999","change_type":"added","app_type":"Miro","app_id":"A8VK125AS","scope":"identity.basic,identity.email,identity.avatar,identity.team"},
 {"user_id":"U01S7KCL3DF","user_name":"samkatterfield","date":"1616745958","change_type":"added","app_type":"Miro","app_id":"A8VK125AS","scope":"identity.basic,identity.email,identity.avatar"},
 {"user_id":"U01SJKB2MG8","user_name":"florian.titze","date":"1616745009","change_type":"added","app_type":"Miro","app_id":"A8VK125AS","scope":"identify,users:read,users:read.email,im:write"},
 {"user_id":"U01S081EULS","user_name":"defe_fg","date":"1616427019","change_type":"wildcard_resource_grant_created","service_id":1871012624167,"service_type":"App","scope":null,"app_type":"GitHub (Legacy)","app_id":"A8GBNUWU8"},

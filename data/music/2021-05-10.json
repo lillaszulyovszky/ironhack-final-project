@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "06b7c769-21d7-4ef2-8c69-b1d05b189874",
+        "type": "message",
+        "text": "learn tableau and enjoy music in one go ? yes please <https:\/\/learn.toanhoang.com\/courses\/tableau-with-music>",
+        "user": "U01RW140HBP",
+        "ts": "1620654168.000400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Upskilling in Data Analytics and Visualization",
+                "title": "Tableau with Music",
+                "title_link": "https:\/\/learn.toanhoang.com\/courses\/tableau-with-music",
+                "text": "This is my Tableau with Music series where I build some amazing data visualisations to a fine selection of music",
+                "fallback": "Upskilling in Data Analytics and Visualization: Tableau with Music",
+                "image_url": "https:\/\/import.cdn.thinkific.com\/199424\/courses\/1180199\/lpO6yJ9VQKq0p31hoIou_c-d-x-PDX_a_82obo-unsplash.jpg",
+                "from_url": "https:\/\/learn.toanhoang.com\/courses\/tableau-with-music",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 673051,
+                "service_icon": "https:\/\/import.cdn.thinkific.com\/199424\/zh2sj9jQtSFUyIRFg3K2_icons8_combo_chart_64_png",
+                "id": 1,
+                "original_url": "https:\/\/learn.toanhoang.com\/courses\/tableau-with-music"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fg0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "learn tableau and enjoy music in one go ? yes please "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learn.toanhoang.com\/courses\/tableau-with-music"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RXCQHMHT",
+                    "U01RKN0EGDV"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

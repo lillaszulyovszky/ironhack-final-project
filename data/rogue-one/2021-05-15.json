@@ -1,0 +1,17 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621090127.000200",
+        "user": "U01SJKB2MG8",
+        "text": "<@U01SJKB2MG8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1621090127.000300",
+        "user": "U01SJKB2MG8",
+        "text": "<@U01SJKB2MG8> set the channel description: Flo's week9 standup group",
+        "purpose": "Flo's week9 standup group"
+    }
+]

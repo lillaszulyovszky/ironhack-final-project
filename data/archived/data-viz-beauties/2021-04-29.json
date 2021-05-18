@@ -1,0 +1,521 @@
+[
+    {
+        "client_msg_id": "6162f9f2-77a6-4df5-bfea-ed64f6c46143",
+        "type": "message",
+        "text": "Hi there, I just build the recycling map from the Tuesday lab here: <https:\/\/public.tableau.com\/profile\/josephine.biedermann#!\/vizhome\/LondonRecyclingratesperborough2003-20\/RecyclingratesperLondonborough2003-20?publish=yes|https:\/\/public.tableau.com\/profile\/josephine.biedermann#!\/vizhome\/LondonRecyclingratesperborough2003[…]clingratesperLondonborough2003-20?publish=yes>\nTried to make the development over the years dynamic :)",
+        "user": "U01RN7BVD1C",
+        "ts": "1619686877.001500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=fY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi there, I just build the recycling map from the Tuesday lab here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/profile\/josephine.biedermann#!\/vizhome\/LondonRecyclingratesperborough2003-20\/RecyclingratesperLondonborough2003-20?publish=yes",
+                                "text": "https:\/\/public.tableau.com\/profile\/josephine.biedermann#!\/vizhome\/LondonRecyclingratesperborough2003[…]clingratesperLondonborough2003-20?publish=yes"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTried to make the development over the years dynamic :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619686877.001500",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1619700438.004000",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01RN7BVD1C",
+            "U01RRV4JX6Z",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1619686959.001800"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619686983.002200"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1619687278.002700"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1619687705.002900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619700392.003800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1619700438.004000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S0E0MRJ7",
+                    "U01S7BM4N81",
+                    "U01SD3CDH9P"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U01S7KCL3DF",
+                    "U01RW140HBP",
+                    "U01SD3CDH9P"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ed2a02d-ca46-41f8-8157-c55c866a85a4",
+        "type": "message",
+        "text": "Looks good, really like the color scheme :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1619686959.001800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MVr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks good, really like the color scheme "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619686877.001500",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "cb40c065-8ded-4005-b4af-0c76ba06a81a",
+        "type": "message",
+        "text": "here you go - ours: <https:\/\/public.tableau.com\/profile\/josephine.biedermann#!\/vizhome\/ProjectStoryTelling\/Story1>",
+        "user": "U01RN7BVD1C",
+        "ts": "1619686968.002000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rv8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here you go - ours: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/profile\/josephine.biedermann#!\/vizhome\/ProjectStoryTelling\/Story1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619624590.059700",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5fcdd3f7-a6e0-499a-9519-afae16224a20",
+        "type": "message",
+        "text": "thanks Thamo!",
+        "user": "U01RN7BVD1C",
+        "ts": "1619686983.002200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sPz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks Thamo!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619686877.001500",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "3be5e7da-e349-46c4-8819-c8563a309c79",
+        "type": "message",
+        "text": "I like it too. I'm curious though to know how it would look with little balls or bars on each district.",
+        "user": "U01RRV4JX6Z",
+        "ts": "1619687278.002700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CnN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like it too. I'm curious though to know how it would look with little balls or bars on each district."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619686877.001500",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "21ab44c3-d05b-4a2d-aeac-86f22bc35000",
+        "type": "message",
+        "text": "good idea, if i have time i will try that out francisco",
+        "user": "U01RN7BVD1C",
+        "ts": "1619687705.002900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uepV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good idea, if i have time i will try that out francisco"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619686877.001500",
+        "parent_user_id": "U01RN7BVD1C",
+        "reactions": [
+            {
+                "name": "cattyping",
+                "users": [
+                    "U01RRV4JX6Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f33b93f0-667b-47ac-91d5-598f5fe5787f",
+        "type": "message",
+        "text": "Thanks Sian, I am still struggling with lots of things in Tableau, i will continue to read up and practice to get better.",
+        "user": "U01RVSTNRRT",
+        "ts": "1619693964.003300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "3ce348bd9187",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1879911825477_3ce348bd91874d798a3f_72.jpg",
+            "first_name": "",
+            "real_name": "Olubunmi Abimbola Haastrup",
+            "display_name": "Olubunmi Abimbola Haastrup",
+            "team": "T01RBRV5F7H",
+            "name": "haastrupabimbola",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DBKyL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Sian, I am still struggling with lots of things in Tableau, i will continue to read up and practice to get better."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619547766.035200",
+        "parent_user_id": "U01RVSTNRRT"
+    },
+    {
+        "client_msg_id": "20506ccc-2a47-4461-9f5e-c52a1643db34",
+        "type": "message",
+        "text": "Thank you for the feedback <@U01RW140HBP> i will work on them",
+        "user": "U01RNEU3SNA",
+        "ts": "1619694002.003500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ddcfccb1de00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-01\/1944455459184_ddcfccb1de00850a76e1_72.jpg",
+            "first_name": "peter.geo",
+            "real_name": "peter.geo DAFT MAR2020",
+            "display_name": "Peter George",
+            "team": "T01RBRV5F7H",
+            "name": "petergeorge649",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zkwVV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for the feedback "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RW140HBP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i will work on them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619548356.037700",
+        "parent_user_id": "U01RNEU3SNA"
+    },
+    {
+        "client_msg_id": "f391769c-d05c-465c-8fb5-e1a39fdbc938",
+        "type": "message",
+        "text": "viz in tool tip :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1619700392.003800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hkt9t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "viz in tool tip "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619686877.001500",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "73a2b7de-5b1c-44a4-95e4-503c6296a46f",
+        "type": "message",
+        "text": "well done on getting the spatial map working from scratch Phine! i wonder if it might be nice to use a green colour scheme, as its normally associated with recycling, right ?",
+        "user": "U01RW140HBP",
+        "ts": "1619700438.004000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9fF35",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "well done on getting the spatial map working from scratch Phine! i wonder if it might be nice to use a green colour scheme, as its normally associated with recycling, right ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619686877.001500",
+        "parent_user_id": "U01RN7BVD1C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RN7BVD1C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

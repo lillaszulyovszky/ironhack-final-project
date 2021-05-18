@@ -1,0 +1,1951 @@
+[
+    {
+        "client_msg_id": "507f890c-a69e-43df-9eb7-b6f5f06ff76b",
+        "type": "message",
+        "text": "Where can I find datasets of real state in Berlin? Such as historical data. The current data I can find in real state companies, for example.",
+        "user": "U01S79YDELR",
+        "ts": "1620889340.052900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1620889363.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N+b4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where can I find datasets of real state in Berlin? Such as historical data. The current data I can find in real state companies, for example."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620889340.052900",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1620889605.055900",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01S79YDELR"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620889419.053100"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620889488.054100"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620889512.054400"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620889527.054800"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620889546.055200"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620889568.055600"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620889605.055900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "23d79d05-14f3-44f1-8de2-76762df63d97",
+        "type": "message",
+        "text": "Homelike and homeday have some great studys on the markets year on year",
+        "user": "U01S7BM4N81",
+        "ts": "1620889419.053100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xJ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Homelike and homeday have some great studys on the markets year on year"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620889340.052900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "e841a79e-a7da-4276-97b1-82d4d64487b7",
+        "type": "message",
+        "text": "this is not a public holiday for students or teachers Im afraid… please join us on zoom, you are late <!channel>",
+        "user": "U01RW140HBP",
+        "ts": "1620889449.053900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kxOb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is not a public holiday for students or teachers Im afraid… please join us on zoom, you are late "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54018caa-6538-4df7-9b34-6d3f1bd9eedd",
+        "type": "message",
+        "text": "<https:\/\/www.homeday.de\/de\/preisatlas>",
+        "user": "U01S7BM4N81",
+        "ts": "1620889488.054100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Preisatlas Homeday | Aktuelle Quadratmeterpreise in über 2000 Städten",
+                "title_link": "https:\/\/www.homeday.de\/de\/preisatlas",
+                "text": "Alle wichtigen Infos über Verkaufs- und Mietpreise sowie Immobilien-Preistrends in Deutschland. Erfahren Sie mehr über die Quadratmeterpreise für Häuser und Wohnungen in Ihrer Umgebung!",
+                "fallback": "Preisatlas Homeday | Aktuelle Quadratmeterpreise in über 2000 Städten",
+                "image_url": "https:\/\/www.homeday.de\/ppe\/static\/share.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/www.homeday.de\/de\/preisatlas",
+                "image_bytes": 93661,
+                "service_icon": "https:\/\/www.homeday.de\/ppe\/static\/favicon.png",
+                "service_name": "homeday.de",
+                "id": 1,
+                "original_url": "https:\/\/www.homeday.de\/de\/preisatlas"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FOEz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.homeday.de\/de\/preisatlas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620889340.052900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "31b79687-0662-463d-a48c-f1bdeacaad0f",
+        "type": "message",
+        "text": "<https:\/\/tradingeconomics.com\/germany\/housing-index>",
+        "user": "U01S7BM4N81",
+        "ts": "1620889512.054400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "  Germany House Price Index | 1991-2021 Data | 2022-2023 Forecast | Historical | Chart ",
+                "title_link": "https:\/\/tradingeconomics.com\/germany\/housing-index",
+                "text": "Housing Index in Germany increased to 194.29 points in March from 191.56 points in February of 2021. Housing Index in Germany averaged 121.32 points from 1991 until 2021, reaching an all time high of 194.29 points in March of 2021 and a record low of 95.50 points in May of 2009. This page provides the latest reported value for - Germany House Price Index - plus previous releases, historical high and low, short-term forecast and long-term prediction, economic calendar, survey consensus and news.",
+                "fallback": "  Germany House Price Index | 1991-2021 Data | 2022-2023 Forecast | Historical | Chart ",
+                "from_url": "https:\/\/tradingeconomics.com\/germany\/housing-index",
+                "service_icon": "https:\/\/tradingeconomics.com\/favicon.ico?v=20201212",
+                "service_name": "tradingeconomics.com",
+                "id": 1,
+                "original_url": "https:\/\/tradingeconomics.com\/germany\/housing-index"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eQO2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tradingeconomics.com\/germany\/housing-index"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620889340.052900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "51056573-9e57-424a-bb28-4edb81372deb",
+        "type": "message",
+        "text": "<https:\/\/www.economy.com\/germany\/house-price-index>",
+        "user": "U01S7BM4N81",
+        "ts": "1620889527.054800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7BM4N81",
+            "ts": "1620889533.000000"
+        },
+        "attachments": [
+            {
+                "title": "Germany  House Price Index | Moody's Analytics",
+                "title_link": "https:\/\/www.economy.com\/germany\/house-price-index",
+                "text": "House Price Index for Germany from The Hypoport Group for the Hypoport House Price Index release. This page provides forecast and historical data, charts, statistics, news and updates for Germany House Price Index.",
+                "fallback": "Germany  House Price Index | Moody's Analytics",
+                "from_url": "https:\/\/www.economy.com\/germany\/house-price-index",
+                "service_icon": "https:\/\/www.economy.com\/favicon.ico",
+                "service_name": "economy.com",
+                "id": 1,
+                "original_url": "https:\/\/www.economy.com\/germany\/house-price-index"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rRP8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.economy.com\/germany\/house-price-index"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620889340.052900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "6784d26f-93de-4acd-aad0-64388d0699ab",
+        "type": "message",
+        "text": "<https:\/\/data.oecd.org\/price\/housing-prices.htm>",
+        "user": "U01S7BM4N81",
+        "ts": "1620889546.055200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "theOECD",
+                "title": "Prices - Housing prices - OECD Data",
+                "title_link": "https:\/\/data.oecd.org\/price\/housing-prices.htm",
+                "text": "Find, compare and share OECD data by indicator.",
+                "fallback": "theOECD: Prices - Housing prices - OECD Data",
+                "thumb_url": "http:\/\/data.oecd.org\/media\/dataportal\/custom\/OECD_110x110.png",
+                "from_url": "https:\/\/data.oecd.org\/price\/housing-prices.htm",
+                "thumb_width": 110,
+                "thumb_height": 110,
+                "service_icon": "https:\/\/data.oecd.org\/media\/dataportal\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/data.oecd.org\/price\/housing-prices.htm"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wToQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/data.oecd.org\/price\/housing-prices.htm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620889340.052900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "c58192e7-4fe0-42bd-85d6-ec7329c96cac",
+        "type": "message",
+        "text": "Data about single unit or berlin not aggregated is hart to come by though, lot’s of market players keep it secret to not loose their edge",
+        "user": "U01S7BM4N81",
+        "ts": "1620889568.055600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hp9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Data about single unit or berlin not aggregated is hart to come by though, lot’s of market players keep it secret to not loose their edge"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620889340.052900",
+        "parent_user_id": "U01S79YDELR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e28a5ac2-682a-40ab-90e6-49893030a21f",
+        "type": "message",
+        "text": "ok, thanks a lot, Thamo!",
+        "user": "U01S79YDELR",
+        "ts": "1620889605.055900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yaBa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, thanks a lot, Thamo!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620889340.052900",
+        "parent_user_id": "U01S79YDELR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1430109-7945-4c64-b3e0-4aba48b3d9ca",
+        "type": "message",
+        "text": "<@U01SD3CDH9P> <@U01S133DZ9A> can you let me know directly if you do not plan to submit the computervision lab from tuesday ?",
+        "user": "U01RW140HBP",
+        "ts": "1620890786.057000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2jZe+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01SD3CDH9P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S133DZ9A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you let me know directly if you do not plan to submit the computervision lab from tuesday ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620890786.057000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1620891454.058600",
+        "reply_users": [
+            "U01SD3CDH9P",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01SD3CDH9P",
+                "ts": "1620891364.058400"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620891454.058600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ace34600-6098-4b04-bf46-aa2858bce401",
+        "type": "message",
+        "text": "<@U01S65G72SY> <@U01S0P26NKD> <@U01RVSTNRRT> <@U01S133DZ9A> can you let me know directly if you do not plan to submit the tree based models lab from yesterday please ?",
+        "user": "U01RW140HBP",
+        "ts": "1620890931.058300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X2re",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S65G72SY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S0P26NKD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RVSTNRRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S133DZ9A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you let me know directly if you do not plan to submit the tree based models lab from yesterday please ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2ac1b6a0-c954-4500-bb55-7979025fd304",
+        "type": "message",
+        "text": "Hi Siand, will update both comp.vision and tree labs today!",
+        "user": "U01SD3CDH9P",
+        "ts": "1620891364.058400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "735d50ad8f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-15\/1962810903269_735d50ad8f345a94bd76_72.jpg",
+            "first_name": "",
+            "real_name": "Andrea Tognoli",
+            "display_name": "Andrea Tognoli",
+            "team": "T01RBRV5F7H",
+            "name": "andreatognoli001",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LUIy=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Siand, will update both comp.vision and tree labs today!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620890786.057000",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "05c654b3-5593-41f4-9e26-e5302eb6d544",
+        "type": "message",
+        "text": "thanks Andrea!",
+        "user": "U01RW140HBP",
+        "ts": "1620891454.058600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vyfG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks Andrea!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620890786.057000",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "4b9f6515-f43c-4548-b55f-a2aabb1bb865",
+        "type": "message",
+        "text": "thanks for your comments, I agreed with Ironhacks decision as I wasnt keeping up, a tough course",
+        "user": "U01RS9Y6UJH",
+        "ts": "1620892602.059100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SUrj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks for your comments, I agreed with Ironhacks decision as I wasnt keeping up, a tough course"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620880149.045700",
+        "parent_user_id": "U01RS9Y6UJH"
+    },
+    {
+        "client_msg_id": "e8a4e443-e56e-40da-bef0-61d52f1110d0",
+        "type": "message",
+        "text": "Ah - yes. I have a half completed JN, i was planning to submit - I hope that is sufficient.",
+        "user": "U01S133DZ9A",
+        "ts": "1620894321.060000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6sv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah - yes. I have a half completed JN, i was planning to submit - I hope that is sufficient."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87c41eb5-cbaf-4bba-9cca-97959f96df73",
+        "type": "message",
+        "text": "absolutely chuckin it down in p’berg. excellent coding weather :success-kid:",
+        "user": "U01S7KCL3DF",
+        "ts": "1620894667.060100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vQHnP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "absolutely chuckin it down in p’berg. excellent coding weather "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "success-kid"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620825567.040100",
+        "parent_user_id": "U01S133DZ9A"
+    },
+    {
+        "client_msg_id": "5f16c8ca-052d-462b-9d92-f6f54764e509",
+        "type": "message",
+        "text": "do we still have 9am check-ins\/coffee chats\/morning sunshines next week? Or do we arrange our stand ups with a TA ourselves?",
+        "user": "U01S7KCL3DF",
+        "ts": "1620903121.061000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JWn0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do we still have 9am check-ins\/coffee chats\/morning sunshines next week? Or do we arrange our stand ups with a TA ourselves?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620903121.061000",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1620909114.062100",
+        "reply_users": [
+            "U01SK96QF5E",
+            "U01S7KCL3DF",
+            "U01S133DZ9A",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1620904059.061100"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620905298.061300"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1620907060.061600"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620909089.061900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620909114.062100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "07800b9a-bb69-4225-9c8d-9941a278c536",
+        "type": "message",
+        "text": "I miss the coffee chats :disappointed:",
+        "user": "U01SK96QF5E",
+        "ts": "1620904059.061100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wv4T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I miss the coffee chats "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620903121.061000",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "ce168427-7a31-4f60-b0b4-97daeffd1754",
+        "type": "message",
+        "text": "we can all form our own tea chat :coffee:",
+        "user": "U01S7KCL3DF",
+        "ts": "1620905298.061300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PcUR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we can all form our own tea chat "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "coffee"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620903121.061000",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "kosta",
+                "users": [
+                    "U01SK96QF5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3168368f-ff8a-421f-984e-f3e216097296",
+        "type": "message",
+        "text": "Me too",
+        "user": "U01S133DZ9A",
+        "ts": "1620907060.061600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w14k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620903121.061000",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "b20556ea-b774-4af3-91a1-c2bf17d6dcbe",
+        "type": "message",
+        "text": "no more morning sunshines folks.. we will open the zoom at 9 and open breakout rooms for you each day though, so you can form your own coffee breaks",
+        "user": "U01RW140HBP",
+        "ts": "1620909089.061900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TE5mq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no more morning sunshines folks.. we will open the zoom at 9 and open breakout rooms for you each day though, so you can form your own coffee breaks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620903121.061000",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "51c56885-3906-4444-b512-727732e649e1",
+        "type": "message",
+        "text": "and we will give you a project mentor for stand up calls too - assignments announcement tomorrow after the retro",
+        "user": "U01RW140HBP",
+        "ts": "1620909114.062100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dhbAE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and we will give you a project mentor for stand up calls too - assignments announcement tomorrow after the retro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620903121.061000",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RN7BVD1C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74b95284-9650-40bb-a9f5-ca00573d45f3",
+        "type": "message",
+        "text": "lecture will start at 3.15 as we are overunning on the elevator pitches",
+        "user": "U01RW140HBP",
+        "ts": "1620910179.062600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L1Kd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lecture will start at 3.15 as we are overunning on the elevator pitches"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620910179.062600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1620911636.063500",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620910595.062900"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620911636.063500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01SK96QF5E",
+                    "U01S0MFJ3HR",
+                    "U01S7KCL3DF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ebdf8665-3206-4e94-bb8b-71ce7d4a2eb9",
+        "type": "message",
+        "text": "that was a long elevator ride!",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620910595.062900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XzkJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that was a long elevator ride!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620910179.062600",
+        "parent_user_id": "U01RW140HBP",
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U01S0E0MRJ7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "girl-grin",
+                "users": [
+                    "U01RN7BVD1C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64025879-47b9-413d-a736-d730d90233d9",
+        "type": "message",
+        "text": "i think it was the willy wonka elevator",
+        "user": "U01RW140HBP",
+        "ts": "1620911636.063500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZhrI\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think it was the willy wonka elevator"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620910179.062600",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0226CAKJSD",
+                "created": 1620911842,
+                "timestamp": 1620911842,
+                "name": "AWBackup.sql",
+                "title": "AWBackup.sql",
+                "mimetype": "text\/plain",
+                "filetype": "sql",
+                "pretty_type": "SQL",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 89537364,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0226CAKJSD\/awbackup.sql?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0226CAKJSD\/download\/awbackup.sql?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F0226CAKJSD\/awbackup.sql",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F0226CAKJSD-10430e0c85",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1620911892.063800"
+    },
+    {
+        "client_msg_id": "3778240a-a875-40f1-ae69-4bb0a121698f",
+        "type": "message",
+        "text": "<!channel>,\nregarding your *final projects* next week: As we announced, we're going to have *morning stand up sessions* in the morning from Monday until Thursday. These will happen in groups and Kosta, Sian and me will each mentor one stand up group. We distributed you into these groups:\n• Sian: <@U01S0MFJ3HR>, <@U01S081EULS>, <@U01S65G72SY>, <@U01S6LCPM0C>, <@U01RNEU3SNA>, <@U01S6L7HLUC>, <@U01RXCQHMHT> \n• Kosta: <@U01RW2X7S9Z>, <@U01SD3CDH9P>, <@U01S1CWGTU4>, <@U01S0E0MRJ7>, <@U01RP2K1606>, <@U01RN7BVD1C>, <@U01RKN0EGDV>, <@U01S133DZ9A> \n• Flo: <@U01S7BM4N81>, <@U01RRV4JX6Z>, <@U01S0P26NKD>, <@U01S79YDELR>, <@U01SK96QF5E>, <@U01RV3K524T> \/ <@U01RVSTNRRT>, <@U01S7KCL3DF> \nThe mentors will contact you \/ invite you to dedicated channels to coordinate the further meetings. Keep in mind, these are just groups for the stand up and it doesn't mean you just have to direct your questions to your \"mentor\". Of course you can still make use of the expertise of the whole teaching team and as we mentioned after the previous projects, place your questions first in the <#C0215VDBWPQ|final-project> channel, which ensures that you get help as fast as possible and by the LT\/TA who is most knowledgeable (we all have our special fields of interest you might know by now :slightly_smiling_face:)",
+        "user": "U01SJKB2MG8",
+        "ts": "1620917670.073700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SJKB2MG8",
+            "ts": "1620917809.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l\/k2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nregarding your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "final projects",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " next week: As we announced, we're going to have "
+                            },
+                            {
+                                "type": "text",
+                                "text": "morning stand up sessions",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the morning from Monday until Thursday. These will happen in groups and Kosta, Sian and me will each mentor one stand up group. We distributed you into these groups:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sian: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01S0MFJ3HR"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01S081EULS"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01S65G72SY"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01S6LCPM0C"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01RNEU3SNA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01S6L7HLUC"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01RXCQHMHT"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Kosta: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01RW2X7S9Z"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01SD3CDH9P"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01S1CWGTU4"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01S0E0MRJ7"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01RP2K1606"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01RN7BVD1C"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01RKN0EGDV"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01S133DZ9A"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Flo: "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01S7BM4N81"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01RRV4JX6Z"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01S0P26NKD"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01S79YDELR"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01SK96QF5E"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01RV3K524T"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " \/ "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01RVSTNRRT"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01S7KCL3DF"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nThe mentors will contact you \/ invite you to dedicated channels to coordinate the further meetings. Keep in mind, these are just groups for the stand up and it doesn't mean you just have to direct your questions to your \"mentor\". Of course you can still make use of the expertise of the whole teaching team and as we mentioned after the previous projects, place your questions first in the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0215VDBWPQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel, which ensures that you get help as fast as possible and by the LT\/TA who is most knowledgeable (we all have our special fields of interest you might know by now "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01RNEU3SNA",
+                    "U01S081EULS",
+                    "U01RN7BVD1C",
+                    "U01S7KCL3DF",
+                    "U01SK96QF5E",
+                    "U01S0P26NKD",
+                    "U01S7BM4N81",
+                    "U01S0MFJ3HR",
+                    "U01S79YDELR"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "client_msg_id": "493637AE-2BEB-4A16-ADEA-1EE2798EF8A9",
+        "type": "message",
+        "text": "Are stand ups at 9 or 10? ",
+        "user": "U01S7BM4N81",
+        "ts": "1620974213.000500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J=X0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are stand ups at 9 or 10? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620974213.000500",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1620975156.001600",
+        "reply_users": [
+            "U01RN7BVD1C",
+            "U01S7BM4N81",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1620975015.000600"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620975043.001100"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1620975094.001300"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1620975156.001600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b791d7d3-72b3-4a4e-b065-8e8d298a2fab",
+        "type": "message",
+        "text": "I think today is normal retro at 9\nThe whole stand up thing, I think is from next week on.",
+        "user": "U01RN7BVD1C",
+        "ts": "1620975015.000600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a2A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think today is normal retro at 9\nThe whole stand up thing, I think is from next week on."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620974213.000500",
+        "parent_user_id": "U01S7BM4N81",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01SJKB2MG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93DAC0AC-1CCC-4251-9D34-3540797B310D",
+        "type": "message",
+        "text": "Thank you phine :blush:",
+        "user": "U01S7BM4N81",
+        "ts": "1620975043.001100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rNs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you phine "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620974213.000500",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "b7f10af9-c87b-4246-a570-1c9d36630af5",
+        "type": "message",
+        "text": ":slightly_smiling_face: I hope I'm correct though. But i guess we will see if its just us 2 in zoom at 9 haha",
+        "user": "U01RN7BVD1C",
+        "ts": "1620975094.001300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eb1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I hope I'm correct though. But i guess we will see if its just us 2 in zoom at 9 haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620974213.000500",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "23a4dd4a-3d6d-458a-bc1e-7bc43fa6fdd2",
+        "type": "message",
+        "text": "You are correct, Phine!",
+        "user": "U01SJKB2MG8",
+        "ts": "1620975156.001600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GSo6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You are correct, Phine!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620974213.000500",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "client_msg_id": "c94662c7-e5c1-466f-aec5-a5bc1ecaae9b",
+        "type": "message",
+        "text": "<!channel>,\ngood morning! It's Friday - that means, Retro time! And it's our last retro!\nSo please join us on this Miro board: <https:\/\/miro.com\/welcomeonboard\/y4u0LjUTSzUInNm3uJXUXe0GAX3HW4oHIBZZrh2r9ikgOULWEMqnJS2ZMwLTQsyK>",
+        "user": "U01SJKB2MG8",
+        "ts": "1620975399.003000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "phM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\ngood morning! It's Friday - that means, Retro time! And it's our last retro!\nSo please join us on this Miro board: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/miro.com\/welcomeonboard\/y4u0LjUTSzUInNm3uJXUXe0GAX3HW4oHIBZZrh2r9ikgOULWEMqnJS2ZMwLTQsyK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

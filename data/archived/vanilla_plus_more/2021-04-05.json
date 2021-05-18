@@ -1,0 +1,902 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617636971.000200",
+        "user": "U01RW140HBP",
+        "text": "<@U01RW140HBP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1617636971.000300",
+        "user": "U01RW140HBP",
+        "text": "<@U01RW140HBP> set the channel description: this channel is to continue learning reinforcement of the basic concepts in python, small challenges, extra optional labs, workshops",
+        "purpose": "this channel is to continue learning reinforcement of the basic concepts in python, small challenges, extra optional labs, workshops"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617636980.000500",
+        "user": "U01SJKB2MG8",
+        "text": "<@U01SJKB2MG8> has joined the channel",
+        "inviter": "U01RW140HBP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01SJKB2MG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617636980.000700",
+        "user": "U01RSRE0N3D",
+        "text": "<@U01RSRE0N3D> has joined the channel",
+        "inviter": "U01RW140HBP"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01TAJLFNMR",
+                "created": 1617637052,
+                "timestamp": 1617637052,
+                "name": "maxresdefault.jpg",
+                "title": "maxresdefault.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01SJKB2MG8",
+                "editable": false,
+                "size": 151454,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TAJLFNMR\/maxresdefault.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TAJLFNMR\/download\/maxresdefault.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TAJLFNMR-54e89053bf\/maxresdefault_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TAJLFNMR-54e89053bf\/maxresdefault_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TAJLFNMR-54e89053bf\/maxresdefault_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TAJLFNMR-54e89053bf\/maxresdefault_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TAJLFNMR-54e89053bf\/maxresdefault_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TAJLFNMR-54e89053bf\/maxresdefault_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TAJLFNMR-54e89053bf\/maxresdefault_800.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TAJLFNMR-54e89053bf\/maxresdefault_960.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TAJLFNMR-54e89053bf\/maxresdefault_1024.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1280,
+                "original_h": 720,
+                "thumb_tiny": "AwAbADCjbRCWYBvugZNXf3ZZoyikAcjGP8mq9oAqO578CpFQRymQSAYHQj9Kl6jKcqbJCvXB496uQQLFF5rgFj0B6CnyuqkyfIWXocf\/AF\/ehk3DDSJ6Y7deKNQ0AOsqlcB1B\/u\/1qlOgjmZRnAPGav7mGQDGF9cD09M1msSzEt1PWhJoGW7SaNY9j4BGevekMEDkiOU7uwPSqlSRHEgx607dQGEFHwRyDVzzLcssmen8NUmOWJPWii1xFi2lRZT5qgoTzxmpLqGBkM1u4A7p\/hVOimB\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SJKB2MG8\/F01TAJLFNMR\/maxresdefault.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TAJLFNMR-4f91e22633",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01SJKB2MG8",
+        "display_as_bot": false,
+        "ts": "1617637055.000900",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617637336.002200",
+        "user": "U01RKN0EGDV",
+        "text": "<@U01RKN0EGDV> has joined the channel"
+    },
+    {
+        "client_msg_id": "4fa27f27-ab48-484f-a533-618372e1fc2a",
+        "type": "message",
+        "text": "Pandas intro on Kaggle - this is a great little add on I had as a bonus lab in week 1 - but it probably got buried! So for getting comfortable with pandas, data types, etc - <https:\/\/www.kaggle.com\/learn\/pandas>",
+        "user": "U01RW140HBP",
+        "ts": "1617637343.002400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Learn Pandas Tutorials",
+                "title_link": "https:\/\/www.kaggle.com\/learn\/pandas",
+                "text": "Solve short hands-on challenges to perfect your data manipulation skills.",
+                "fallback": "Learn Pandas Tutorials",
+                "from_url": "https:\/\/www.kaggle.com\/learn\/pandas",
+                "service_name": "kaggle.com",
+                "id": 1,
+                "original_url": "https:\/\/www.kaggle.com\/learn\/pandas"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mif",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pandas intro on Kaggle - this is a great little add on I had as a bonus lab in week 1 - but it probably got buried! So for getting comfortable with pandas, data types, etc - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kaggle.com\/learn\/pandas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617637343.002400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617637354.002500",
+        "reply_users": [
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617637354.002500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "dancing_dog",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01S7KCL3DF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "kaggle",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S133DZ9A",
+                    "U01SD3CDH9P",
+                    "U01S7KCL3DF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee7a5ff1-78a3-405f-9708-cdd1341e63fe",
+        "type": "message",
+        "text": "might be good for you <@U01S79YDELR>",
+        "user": "U01RW140HBP",
+        "ts": "1617637354.002500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p39u4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "might be good for you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S79YDELR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617637343.002400",
+        "parent_user_id": "U01RW140HBP",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617637360.002800",
+        "user": "U01S79YDELR",
+        "text": "<@U01S79YDELR> has joined the channel",
+        "inviter": "U01RW140HBP"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617637497.003300",
+        "user": "U01S7KCL3DF",
+        "text": "<@U01S7KCL3DF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617637871.005600",
+        "user": "U01S133DZ9A",
+        "text": "<@U01S133DZ9A> has joined the channel"
+    },
+    {
+        "client_msg_id": "d4dbab7e-4cf4-41b2-a757-cb742906e69c",
+        "type": "message",
+        "text": "if you find yourself asking: “what are these *data types* you keep talking about??”\nI have tracked down a couple of handy summaries, one for each of our tools, a <https:\/\/www.bbc.co.uk\/bitesize\/guides\/zghbgk7\/revision\/1|bbc bitesize> revision session and a <https:\/\/holypython.com\/beginner-python-lessons\/lesson-3-data-types\/|nice little tutorial t>o walk through- if you find other nice ones, add them to this thread",
+        "user": "U01RW140HBP",
+        "ts": "1617637982.006900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1617638000.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ShSTK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you find yourself asking: “what are these "
+                            },
+                            {
+                                "type": "text",
+                                "text": "data types ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "you keep talking about??”\nI have tracked down a couple of handy summaries, one for each of our tools, a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bbc.co.uk\/bitesize\/guides\/zghbgk7\/revision\/1",
+                                "text": "bbc bitesize"
+                            },
+                            {
+                                "type": "text",
+                                "text": " revision session and a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/holypython.com\/beginner-python-lessons\/lesson-3-data-types\/",
+                                "text": "nice little tutorial t"
+                            },
+                            {
+                                "type": "text",
+                                "text": "o walk through- if you find other nice ones, add them to this thread"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617637982.006900",
+        "reply_count": 4,
+        "reply_users_count": 1,
+        "latest_reply": "1617638082.008500",
+        "reply_users": [
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617638007.007300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617638027.007700"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617638061.008100"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617638082.008500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "generic dtypes :",
+        "files": [
+            {
+                "id": "F01U0824G2C",
+                "created": 1617637988,
+                "timestamp": 1617637988,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 121506,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01U0824G2C\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01U0824G2C\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U0824G2C-aeffefa5df\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U0824G2C-aeffefa5df\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U0824G2C-aeffefa5df\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 93,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U0824G2C-aeffefa5df\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 124,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U0824G2C-aeffefa5df\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U0824G2C-aeffefa5df\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 186,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U0824G2C-aeffefa5df\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 206,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U0824G2C-aeffefa5df\/image_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 248,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01U0824G2C-aeffefa5df\/image_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 264,
+                "original_w": 1148,
+                "original_h": 296,
+                "thumb_tiny": "AwAMADDRz82KGOPWj+KkYnOO1ACqaO+MmkUnOKfQA1vqcUi5z1NOPX8KB2oA\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F01U0824G2C\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01U0824G2C-9908efd953",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lmx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "generic dtypes :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1617638007.007300",
+        "thread_ts": "1617637982.006900",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "type": "message",
+        "text": "python dtypes :",
+        "files": [
+            {
+                "id": "F01TP2MKEGZ",
+                "created": 1617638025,
+                "timestamp": 1617638025,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 163871,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TP2MKEGZ\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TP2MKEGZ\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TP2MKEGZ-53b0269f97\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TP2MKEGZ-53b0269f97\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TP2MKEGZ-53b0269f97\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 221,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TP2MKEGZ-53b0269f97\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 295,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TP2MKEGZ-53b0269f97\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TP2MKEGZ-53b0269f97\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 442,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TP2MKEGZ-53b0269f97\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 491,
+                "original_w": 822,
+                "original_h": 505,
+                "thumb_tiny": "AwAdADDSAGKDgdaM4XpmkJ46GgBN6eoo3p6il7fdNHbODQAowaCBikJIGQDS5yvTFACYOBz+lG7nGKN2OKN3tQAoBB60EEnrSbvajd7UAL36UYIzzSbvagkn2oA\/\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F01TP2MKEGZ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TP2MKEGZ-d3b44f7314",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r+sNi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "python dtypes :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1617638027.007700",
+        "thread_ts": "1617637982.006900",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "type": "message",
+        "text": "mysql dtypes :",
+        "files": [
+            {
+                "id": "F01T7BP5FUM",
+                "created": 1617638049,
+                "timestamp": 1617638049,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 243563,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T7BP5FUM\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T7BP5FUM\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7BP5FUM-4e77db2b74\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7BP5FUM-4e77db2b74\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7BP5FUM-4e77db2b74\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 249,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7BP5FUM-4e77db2b74\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 332,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7BP5FUM-4e77db2b74\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7BP5FUM-4e77db2b74\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 498,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7BP5FUM-4e77db2b74\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 554,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7BP5FUM-4e77db2b74\/image_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 665,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T7BP5FUM-4e77db2b74\/image_1024.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 709,
+                "original_w": 1040,
+                "original_h": 720,
+                "thumb_tiny": "AwAhADDR3c4xSlhnFNGcn0oY8igBAp\/56sfwFJgn+N\/rxT1OR2pFPJoAUSLil3r61Hz2NKuc8\/zoAT+IgEdaVvvDpTgCG70jA7hjNACIeccUL1PSlUEdWpR9TQAwdeMGnr9APwpApPc04AjvQAtFFFACUUUUALRRRQB\/\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F01T7BP5FUM\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01T7BP5FUM-c1a35d68f2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NeAr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mysql dtypes :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1617638061.008100",
+        "thread_ts": "1617637982.006900",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "type": "message",
+        "text": "tableau dtypes :",
+        "files": [
+            {
+                "id": "F01T3LK5GPQ",
+                "created": 1617638080,
+                "timestamp": 1617638080,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 26276,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T3LK5GPQ\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01T3LK5GPQ\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T3LK5GPQ-e756154879\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T3LK5GPQ-e756154879\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T3LK5GPQ-e756154879\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 192,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T3LK5GPQ-e756154879\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 256,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01T3LK5GPQ-e756154879\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 600,
+                "original_h": 320,
+                "thumb_tiny": "AwAZADC82d\/3j9MihCeR978RStncev4Ckye278qAHjJ6jFL\/AJ6Ui5xyaX\/PWgBrdOuKUDAHOfehulLQBG4G7\/62aNo6d\/8AdqSigBBnHJzS\/wCetFFADW6U70\/xoo70Af\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F01T3LK5GPQ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01T3LK5GPQ-896d9cc434",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aeLWT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tableau dtypes :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1617638082.008500",
+        "thread_ts": "1617637982.006900",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617638461.009000",
+        "user": "U01S0MFJ3HR",
+        "text": "<@U01S0MFJ3HR> has joined the channel"
+    },
+    {
+        "client_msg_id": "91408448-9d71-4e9c-b843-027ac87d700a",
+        "type": "message",
+        "text": "a quick bonus lab on STRINGS <https:\/\/github.com\/student-IH-labs-and-stuff\/BER-DAFT-MAR21\/blob\/main\/Labs\/Python_strings.ipynb|here>",
+        "user": "U01RW140HBP",
+        "ts": "1617638645.009400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW140HBP",
+            "ts": "1617638650.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TtHy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a quick bonus lab on STRINGS "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/student-IH-labs-and-stuff\/BER-DAFT-MAR21\/blob\/main\/Labs\/Python_strings.ipynb",
+                                "text": "here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617638645.009400",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1617727460.000900",
+        "reply_users": [
+            "U01S133DZ9A",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1617658367.010600"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617691888.000300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617692873.000500"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1617727380.000700"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1617727460.000900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617644164.009800",
+        "user": "U01RV3K524T",
+        "text": "<@U01RV3K524T> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617644376.010000",
+        "user": "U01SD3CDH9P",
+        "text": "<@U01SD3CDH9P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617651983.010500",
+        "user": "U01RP2K1606",
+        "text": "<@U01RP2K1606> has joined the channel"
+    },
+    {
+        "client_msg_id": "7d6a7c94-05cd-4f77-90cd-b0ea898dcf51",
+        "type": "message",
+        "text": "1.5 hours in. I'm struggling with Question 2. An accurate reflection of where I'm at with Python :see_no_evil:.#",
+        "user": "U01S133DZ9A",
+        "ts": "1617658367.010600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Llnm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1.5 hours in. I'm struggling with Question 2. An accurate reflection of where I'm at with Python "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617638645.009400",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617690747.000200",
+        "user": "U01RN7BVD1C",
+        "text": "<@U01RN7BVD1C> has joined the channel"
+    },
+    {
+        "client_msg_id": "bf443b38-0344-4475-8566-cff212d62e95",
+        "type": "message",
+        "text": "thats ok… we can do a breakout call and go through it together if you would like ?",
+        "user": "U01RW140HBP",
+        "ts": "1617691888.000300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vjgzd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thats ok… we can do a breakout call and go through it together if you would like ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617638645.009400",
+        "parent_user_id": "U01RW140HBP"
+    }
+]

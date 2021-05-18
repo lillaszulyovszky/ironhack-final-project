@@ -1,0 +1,606 @@
+[
+    {
+        "client_msg_id": "056f7ae7-1c94-4af2-9d63-d70007b7d202",
+        "type": "message",
+        "text": "If i save my unfinished charts to Tableau public, will I be able to update it later? I didnt quite follow the differences between the saving of the public and that other one.",
+        "user": "U01S0E0MRJ7",
+        "ts": "1617206705.002000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PHM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If i save my unfinished charts to Tableau public, will I be able to update it later? I didnt quite follow the differences between the saving of the public and that other one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617206705.002000",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1617211030.004400",
+        "reply_users": [
+            "U01RSRE0N3D",
+            "U01S7BM4N81",
+            "U01S0E0MRJ7",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1617206738.002100"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617206741.002300"
+            },
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1617206762.002900"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1617206934.003100"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617211014.004200"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617211030.004400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617211030.004400"
+    },
+    {
+        "client_msg_id": "05be3b16-b130-4fbf-b56e-9ce08de31e34",
+        "type": "message",
+        "text": "yes, you can always go back and finish them",
+        "user": "U01RSRE0N3D",
+        "ts": "1617206738.002100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BIB7Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, you can always go back and finish them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617206705.002000",
+        "parent_user_id": "U01S0E0MRJ7",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01S0E0MRJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4239db92-c3cc-4a40-bf3b-926b9eec4527",
+        "type": "message",
+        "text": "Yes, just save with the same name later, it will overwrite the old file with the new one :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1617206741.002300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7BM4N81",
+            "ts": "1617206754.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7M3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, just save with the same name later, it will overwrite the old file with the new one "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617206705.002000",
+        "parent_user_id": "U01S0E0MRJ7",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01S0E0MRJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "flash",
+        "user": "U01RSRE0N3D",
+        "ts": "1617206762.002900",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "WJS",
+                "image_url": "https:\/\/media2.giphy.com\/media\/xUOxeZUc8UFwMgH2MM\/giphy-downsized.gif?cid=6104955e492c5e13c0771a05a221fc0c1a413a1766375a07&rid=giphy-downsized.gif&ct=g",
+                "alt_text": "flash",
+                "title": {
+                    "type": "plain_text",
+                    "text": "flash",
+                    "emoji": true
+                },
+                "fallback": "250x250px image",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 1630738,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "TWV",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/foxnederland\/|FOX Nederland &amp; België>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617206705.002000",
+        "parent_user_id": "U01S0E0MRJ7"
+    },
+    {
+        "client_msg_id": "e4e2c39b-95b6-40c2-8d5a-23f0a8a35ae0",
+        "type": "message",
+        "text": "wait no. I mean how will I reopen the old one tomorrow? i need to download it from the website? because i cant save it locally now",
+        "user": "U01S0E0MRJ7",
+        "ts": "1617206934.003100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MCkcM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wait no. I mean how will I reopen the old one tomorrow? i need to download it from the website? because i cant save it locally now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617206705.002000",
+        "parent_user_id": "U01S0E0MRJ7"
+    },
+    {
+        "client_msg_id": "929b4193-526b-4c1e-8552-2405fdbed329",
+        "type": "message",
+        "text": "Did someone find out how to have 3 bar charts in 1 sheet? Didnt find it in google :confused:",
+        "user": "U01RN7BVD1C",
+        "ts": "1617209011.003900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "239q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did someone find out how to have 3 bar charts in 1 sheet? Didnt find it in google "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617209011.003900",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1617260767.007100",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01RW140HBP",
+            "U01RS9Y6UJH"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1617209294.004000"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617211167.004600"
+            },
+            {
+                "user": "U01RS9Y6UJH",
+                "ts": "1617258464.005400"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617260767.007100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cf416153-c8e6-4fa8-9a40-2a135770637c",
+        "type": "message",
+        "text": "No :disappointed: I went with the color coding instead.\nIf anyone finds it, I'd like to have it too!",
+        "user": "U01S7BM4N81",
+        "ts": "1617209294.004000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yqPw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I went with the color coding instead.\nIf anyone finds it, I'd like to have it too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617209011.003900",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "ed39440f-785c-4440-9360-3e10631c8ff2",
+        "type": "message",
+        "text": "you can open tomorrow from tableau public (either download or connect to the version you published)",
+        "user": "U01RW140HBP",
+        "ts": "1617211014.004200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QmA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can open tomorrow from tableau public (either download or connect to the version you published)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617206705.002000",
+        "parent_user_id": "U01S0E0MRJ7"
+    },
+    {
+        "client_msg_id": "d2b1bb5f-ac70-4b6e-8770-c6c45a411aa0",
+        "type": "message",
+        "text": "dont worry you wont lose it as long as its saved either locally or on tableau public",
+        "user": "U01RW140HBP",
+        "ts": "1617211030.004400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RzaIB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dont worry you wont lose it as long as its saved either locally or on tableau public"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617206705.002000",
+        "parent_user_id": "U01S0E0MRJ7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S0E0MRJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "we can go through it in the morning but think about whats on your columns … if i want to see one bar chart for each category next to eachother, ie a new imaginary column for each bar chart i would go for this arrangement",
+        "files": [
+            {
+                "id": "F01SZ5RGMJ6",
+                "created": 1617211154,
+                "timestamp": 1617211154,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW140HBP",
+                "editable": false,
+                "size": 19165,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SZ5RGMJ6\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01SZ5RGMJ6\/download\/image.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SZ5RGMJ6-33a86f0f24\/image_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SZ5RGMJ6-33a86f0f24\/image_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SZ5RGMJ6-33a86f0f24\/image_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 69,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SZ5RGMJ6-33a86f0f24\/image_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 93,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SZ5RGMJ6-33a86f0f24\/image_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SZ5RGMJ6-33a86f0f24\/image_720.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 139,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SZ5RGMJ6-33a86f0f24\/image_800.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 154,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01SZ5RGMJ6-33a86f0f24\/image_960.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 185,
+                "original_w": 974,
+                "original_h": 188,
+                "thumb_tiny": "AwAJADDR796R87DjOfbrTx0ooArHf6S\/pTkVmzkyL9cVPRTuKxF5R\/56vTkXaMFi31p9FILI\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW140HBP\/F01SZ5RGMJ6\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01SZ5RGMJ6-c3755a0ef6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ELS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we can go through it in the morning but think about whats on your columns … if i want to see one bar chart for each category next to eachother, ie a new imaginary column for each bar chart i would go for this arrangement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RW140HBP",
+        "display_as_bot": false,
+        "ts": "1617211167.004600",
+        "thread_ts": "1617209011.003900",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "dd266a33-7b3f-4762-b20c-ee2a0559a3ab",
+        "type": "message",
+        "text": "I also couldnt import the data for this so maybe it would be something for a breakout room",
+        "user": "U01RS9Y6UJH",
+        "ts": "1617258464.005400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I6n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also couldnt import the data for this so maybe it would be something for a breakout room"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617209011.003900",
+        "parent_user_id": "U01RN7BVD1C"
+    }
+]

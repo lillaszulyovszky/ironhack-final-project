@@ -1,0 +1,530 @@
+[
+    {
+        "client_msg_id": "59f29284-0dae-45e5-b08b-6e9925d09704",
+        "type": "message",
+        "text": "30 days of eeeeeerything or just one course?\n\ngonna be a fun june :smile: :dancing_dog:",
+        "user": "U01S7KCL3DF",
+        "ts": "1620979324.005300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7KCL3DF",
+            "ts": "1620979344.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UG=\/3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "30 days of eeeeeerything or just one course?\n\ngonna be a fun june "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dancing_dog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620972553.004000",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "091a913f-8a93-41a4-89a1-35dacc6c950b",
+        "type": "message",
+        "text": "good question, I think you can do multiple :slightly_smiling_face:",
+        "user": "U01SK96QF5E",
+        "ts": "1620979848.005600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KV=I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good question, I think you can do multiple "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620972553.004000",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "c1d571b0-7e29-43b5-a45c-9e86456b3afd",
+        "type": "message",
+        "text": "<https:\/\/interworks.com\/blog\/2021\/02\/23\/introducing-amazon-sagemaker-integration-for-tableau\/>",
+        "user": "U01RW140HBP",
+        "ts": "1620983245.005900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "InterWorks",
+                "title": "Introducing the Amazon SageMaker Integration for Tableau | InterWorks",
+                "title_link": "https:\/\/interworks.com\/blog\/2021\/02\/23\/introducing-amazon-sagemaker-integration-for-tableau\/",
+                "text": "As 2020 was coming to a close at InterWorks, we were approached with a unique problem from an organization we greatly respect. Amazon has been at the forefront of cloud computing for the better part of my career, and in recent years, they have been...",
+                "fallback": "InterWorks: Introducing the Amazon SageMaker Integration for Tableau | InterWorks",
+                "image_url": "https:\/\/interworks.com\/wp-content\/uploads\/2021\/02\/introducing_amazon_sagemaker_integration_tableau_blog_header-01-1.png",
+                "image_width": 460,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Holt Calder",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "9 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1614037863,
+                "from_url": "https:\/\/interworks.com\/blog\/2021\/02\/23\/introducing-amazon-sagemaker-integration-for-tableau\/",
+                "image_bytes": 332417,
+                "service_icon": "https:\/\/interworks.com\/wp-content\/uploads\/2017\/08\/foundation-dark.png",
+                "id": 1,
+                "original_url": "https:\/\/interworks.com\/blog\/2021\/02\/23\/introducing-amazon-sagemaker-integration-for-tableau\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+pMe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/interworks.com\/blog\/2021\/02\/23\/introducing-amazon-sagemaker-integration-for-tableau\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01S0MFJ3HR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c4a61e9-f67e-4dce-a90e-0f686558e75e",
+        "type": "message",
+        "text": "<https:\/\/cloud.google.com\/automl?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=emea-emea-all-en-dr-bkws-all-all-trial-e-gcp-1010042&amp;utm_content=text-ad-LE-any-DEV_c-CRE_501992939274-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20AI%20%26%20ML%20~%20AutoML-KWID_43700061603808413-kwd-475108775409-userloc_9063014&amp;utm_term=KW_google%20automl-NET_g-PLAC_&amp;gclid=CjwKCAjwv_iEBhASEiwARoemvJmx19k2T_OaUKU6T1IOgQlNp2P7YqS7I83niZoaonW6uKd1v_OvYxoCTsQQAvD_BwE&amp;gclsrc=aw.ds|https:\/\/cloud.google.com\/automl?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=emea-em[…]gQlNp2P7YqS7I83niZoaonW6uKd1v_OvYxoCTsQQAvD_BwE&amp;gclsrc=aw.ds>",
+        "user": "U01SK96QF5E",
+        "ts": "1621015322.006500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Google Cloud",
+                "title": "Cloud AutoML Custom Machine Learning Models  |  Google Cloud",
+                "title_link": "https:\/\/cloud.google.com\/automl?utm_source=google&utm_medium=cpc&utm_campaign=emea-emea-all-en-dr-bkws-all-all-trial-e-gcp-1010042&utm_content=text-ad-LE-any-DEV_c-CRE_501992939274-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20AI%20%26%20ML%20~%20AutoML-KWID_43700061603808413-kwd-475108775409-userloc_9063014&utm_term=KW_google%20automl-NET_g-PLAC_&gclid=CjwKCAjwv_iEBhASEiwARoemvJmx19k2T_OaUKU6T1IOgQlNp2P7YqS7I83niZoaonW6uKd1v_OvYxoCTsQQAvD_BwE&gclsrc=aw.ds",
+                "text": "Cloud AutoML helps you easily build high quality custom machine learning models with limited machine learning expertise needed.",
+                "fallback": "Google Cloud: Cloud AutoML Custom Machine Learning Models  |  Google Cloud",
+                "image_url": "https:\/\/cloud.google.com\/_static\/cloud\/images\/social-icon-google-cloud-1200-630.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/cloud.google.com\/automl?utm_source=google&utm_medium=cpc&utm_campaign=emea-emea-all-en-dr-bkws-all-all-trial-e-gcp-1010042&utm_content=text-ad-LE-any-DEV_c-CRE_501992939274-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20AI%20%26%20ML%20~%20AutoML-KWID_43700061603808413-kwd-475108775409-userloc_9063014&utm_term=KW_google%20automl-NET_g-PLAC_&gclid=CjwKCAjwv_iEBhASEiwARoemvJmx19k2T_OaUKU6T1IOgQlNp2P7YqS7I83niZoaonW6uKd1v_OvYxoCTsQQAvD_BwE&gclsrc=aw.ds",
+                "image_bytes": 17405,
+                "service_icon": "https:\/\/www.gstatic.com\/devrel-devsite\/prod\/v1674d466be3b1154327dd11cf186e748303b1e92ae31ff35df0f5192fbd777ea\/cloud\/images\/favicons\/onecloud\/super_cloud.png",
+                "id": 1,
+                "original_url": "https:\/\/cloud.google.com\/automl?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=emea-emea-all-en-dr-bkws-all-all-trial-e-gcp-1010042&amp;utm_content=text-ad-LE-any-DEV_c-CRE_501992939274-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20AI%20%26%20ML%20~%20AutoML-KWID_43700061603808413-kwd-475108775409-userloc_9063014&amp;utm_term=KW_google%20automl-NET_g-PLAC_&amp;gclid=CjwKCAjwv_iEBhASEiwARoemvJmx19k2T_OaUKU6T1IOgQlNp2P7YqS7I83niZoaonW6uKd1v_OvYxoCTsQQAvD_BwE&amp;gclsrc=aw.ds"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GH9N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cloud.google.com\/automl?utm_source=google&utm_medium=cpc&utm_campaign=emea-emea-all-en-dr-bkws-all-all-trial-e-gcp-1010042&utm_content=text-ad-LE-any-DEV_c-CRE_501992939274-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20AI%20%26%20ML%20~%20AutoML-KWID_43700061603808413-kwd-475108775409-userloc_9063014&utm_term=KW_google%20automl-NET_g-PLAC_&gclid=CjwKCAjwv_iEBhASEiwARoemvJmx19k2T_OaUKU6T1IOgQlNp2P7YqS7I83niZoaonW6uKd1v_OvYxoCTsQQAvD_BwE&gclsrc=aw.ds",
+                                "text": "https:\/\/cloud.google.com\/automl?utm_source=google&utm_medium=cpc&utm_campaign=emea-em[…]gQlNp2P7YqS7I83niZoaonW6uKd1v_OvYxoCTsQQAvD_BwE&gclsrc=aw.ds"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621015322.006500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1621015920.006700",
+        "reply_users": [
+            "U01RRV4JX6Z"
+        ],
+        "replies": [
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1621015920.006700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6d09530f-49b0-4842-a235-aa4341733960",
+        "type": "message",
+        "text": "I'm kind of afraid of this stuff. That it will eventually fulfil the prediction that in 10 years data scientists will no longer be needed... <@U01S7KCL3DF>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1621015920.006700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HTI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm kind of afraid of this stuff. That it will eventually fulfil the prediction that in 10 years data scientists will no longer be needed... "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S7KCL3DF"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621015322.006500",
+        "parent_user_id": "U01SK96QF5E",
+        "reactions": [
+            {
+                "name": "robot_face",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7ea8d56-696c-41bb-9a9b-d9b7d3fcec98",
+        "type": "message",
+        "text": "<https:\/\/developers.notion.com\/>",
+        "user": "U01S79YDELR",
+        "ts": "1621017784.007000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Notion API",
+                "title_link": "https:\/\/developers.notion.com\/",
+                "text": "Connect Notion pages and databases to the tools you use every day, creating powerful workflows.",
+                "fallback": "Notion API",
+                "thumb_url": "https:\/\/files.readme.io\/9b62491-develeper-portal-meta.png",
+                "from_url": "https:\/\/developers.notion.com\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_name": "developers.notion.com",
+                "id": 1,
+                "original_url": "https:\/\/developers.notion.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+aSd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developers.notion.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621017784.007000",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1621032762.007700",
+        "reply_users": [
+            "U01SJKB2MG8",
+            "U01SK96QF5E",
+            "U01S79YDELR"
+        ],
+        "replies": [
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1621022384.007200"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1621022773.007500"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1621032762.007700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U01SJKB2MG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9f968ab-593b-4cc4-83b2-899d40f3d089",
+        "type": "message",
+        "text": "it's brandnew, right? Read about it yesterday!",
+        "user": "U01SJKB2MG8",
+        "ts": "1621022384.007200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iMWRp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's brandnew, right? Read about it yesterday!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621017784.007000",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "dfd1cd5a-3b93-48d5-b686-a98940a24d26",
+        "type": "message",
+        "text": "does this mean we can get all the links? :heart_eyes:",
+        "user": "U01SK96QF5E",
+        "ts": "1621022773.007500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ejC7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "does this mean we can get all the links? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621017784.007000",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "01ab81ba-7f55-44be-b75d-6ee234a324dc",
+        "type": "message",
+        "text": "Yes, it seems to be a novelty <@U01SJKB2MG8> I saw in Linkedin . <@U01SK96QF5E> I hope so, could be better than download everything.",
+        "user": "U01S79YDELR",
+        "ts": "1621032762.007700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d37",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, it seems to be a novelty "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I saw in Linkedin . "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SK96QF5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I hope so, could be better than download everything."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621017784.007000",
+        "parent_user_id": "U01S79YDELR"
+    }
+]

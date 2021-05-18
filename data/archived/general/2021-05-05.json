@@ -1,0 +1,1492 @@
+[
+    {
+        "client_msg_id": "fb03c477-77a7-4202-bd28-0e54ce26005b",
+        "type": "message",
+        "text": "some spotipy resources for reference today :\n<https:\/\/medium.com\/@maxtingle\/getting-started-with-spotifys-api-spotipy-197c3dc6353b> (nice walk through on medium)\n<https:\/\/github.com\/topics\/spotipy> (examples of use)\n<https:\/\/spotipy.readthedocs.io\/en\/2.18.0\/> (documentation)",
+        "user": "U01RW140HBP",
+        "ts": "1620201933.072000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l4L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "some spotipy resources for reference today :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/@maxtingle\/getting-started-with-spotifys-api-spotipy-197c3dc6353b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (nice walk through on medium)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/topics\/spotipy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (examples of use)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/spotipy.readthedocs.io\/en\/2.18.0\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (documentation)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rose",
+                "users": [
+                    "U01S1CWGTU4",
+                    "U01RKN0EGDV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d4577ed-d6d2-4f05-b643-2bff64047621",
+        "type": "message",
+        "text": "who are your favourite artists - copy paste your artist list on this thread",
+        "user": "U01RW140HBP",
+        "ts": "1620204018.073300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UhE8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "who are your favourite artists - copy paste your artist list on this thread"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "reply_count": 19,
+        "reply_users_count": 4,
+        "latest_reply": "1620205647.078600",
+        "reply_users": [
+            "U01RW140HBP",
+            "U01RW2X7S9Z",
+            "U01RXCQHMHT",
+            "U01RRV4JX6Z"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620204130.073400"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620204738.073600"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620204821.073800"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1620204859.074000"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620205043.074200"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620205063.074500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620205063.074700"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620205099.074900"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620205156.075100"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620205158.075300"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620205159.075500"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620205160.075800"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620205215.076100"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620205258.076300"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620205392.076600"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620205401.076800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620205411.077000"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620205633.078300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620205647.078600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "799c0731-9a6f-4ac4-a4ed-2b48f916f795",
+        "type": "message",
+        "text": "artists = [‘Queen’, ‘Morcheeba’, ‘The Cat Empire’, ‘ACDC’, ‘Louis Armstrong’, ‘Tom Jones’]",
+        "user": "U01RW140HBP",
+        "ts": "1620204130.073400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kz4I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "artists = [‘Queen’, ‘Morcheeba’, ‘The Cat Empire’, ‘ACDC’, ‘Louis Armstrong’, ‘Tom Jones’]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "8b2e3005-1d3a-47fd-b069-2fc168704bde",
+        "type": "message",
+        "text": "Focused in one playlist I have so it's fav artists in this very category:\n\nartists = [\"Kyuss\",\n           \"Tame Impala\",\n           \"Uncle Acid &amp; The Deadbeats\",\n           \"Elder\",\"Colour Haze\",\n           \"Electric Wizard\",\n           \"Witch\",\n           \"Electric Octopus\",\n           \"All Them Witches\",\n           \"Dead Meadow\",\n           \"OM\",\n           \"Red Fang\",\n           \"Sleep\",\n           \"The Sword\",\n           \"Fu Manchu\",\n           \"Kadavar\",\n           \"Witchcraft\",\n           \"Pentagram\",\n           \"Black Sabbath\",\n           \"Orange Goblin\"]",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620204738.073600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S1T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Focused in one playlist I have so it's fav artists in this very category:\n\nartists = [\"Kyuss\",\n           \"Tame Impala\",\n           \"Uncle Acid & The Deadbeats\",\n           \"Elder\",\"Colour Haze\",\n           \"Electric Wizard\",\n           \"Witch\",\n           \"Electric Octopus\",\n           \"All Them Witches\",\n           \"Dead Meadow\",\n           \"OM\",\n           \"Red Fang\",\n           \"Sleep\",\n           \"The Sword\",\n           \"Fu Manchu\",\n           \"Kadavar\",\n           \"Witchcraft\",\n           \"Pentagram\",\n           \"Black Sabbath\",\n           \"Orange Goblin\"]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "96bea3ee-c725-4705-bf44-58232389a166",
+        "type": "message",
+        "text": "had to be 20 artists or did i hear that wrong? :sweat_smile:",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620204821.073800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GHyz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "had to be 20 artists or did i hear that wrong? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "1fef11f7-9fbe-4ece-a977-bf3b0eaaf2ee",
+        "type": "message",
+        "text": "aaaaaaaaa Morcheeeeba",
+        "user": "U01RXCQHMHT",
+        "ts": "1620204859.074000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Llr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aaaaaaaaa Morcheeeeba"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59249f52-a919-48ee-8cba-17e62c4abd18",
+        "type": "message",
+        "text": "well i would struggle to correctly type 20 <@U01RW2X7S9Z> im a terrible typist… so i went for an eclectic 6",
+        "user": "U01RW140HBP",
+        "ts": "1620205043.074200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wjlv2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "well i would struggle to correctly type 20 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RW2X7S9Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " im a terrible typist… so i went for an eclectic 6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "cab02abb-d19a-4015-99ca-5301462e53f0",
+        "type": "message",
+        "text": "artists = [‘Angra’, ‘Viper’, ‘Andre Matos’, ‘Dream Theater’, ‘Yes’, ‘King Crimson’]",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620205063.074500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+eTI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "artists = [‘Angra’, ‘Viper’, ‘Andre Matos’, ‘Dream Theater’, ‘Yes’, ‘King Crimson’]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "fc4bf225-17c7-4eb3-8355-b78496b672c3",
+        "type": "message",
+        "text": "this is how i find out about bands ive never heard of !",
+        "user": "U01RW140HBP",
+        "ts": "1620205063.074700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HWK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is how i find out about bands ive never heard of !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "24a389a3-00bb-4cdc-87e7-20f971ca6e93",
+        "type": "message",
+        "text": "oooh Francisco, all new on me :ok_hand:",
+        "user": "U01RW140HBP",
+        "ts": "1620205099.074900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eW3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oooh Francisco, all new on me "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "2f85411b-12e4-4167-b4c8-0e1c39e8fe36",
+        "type": "message",
+        "text": "Yes is very famous",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620205156.075100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hK+=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes is very famous"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "c63d6fce-b1a5-4386-aac0-069ed83a54e8",
+        "type": "message",
+        "text": "!",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620205158.075300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NwFd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "af5aa580-3894-4d2b-a60d-1f561a4bdb54",
+        "type": "message",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/Yes_(band)>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620205159.075500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/93\/Yes_concert.jpg\/1200px-Yes_concert.jpg",
+                "image_width": 1200,
+                "image_height": 812,
+                "image_bytes": 111452,
+                "title": "Yes (band)",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Yes_(band)",
+                "from_url": "https:\/\/en.wikipedia.org\/wiki\/Yes_(band)",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/",
+                "text": "Yes are  an English progressive rock band formed in London in 1968 by singer Jon Anderson, bassist Chris Squire, guitarist Peter Banks, keyboardist Tony Kaye, and drummer Bill Bruford. The band has undergone numerous formations throughout its history; nineteen musicians have been full-time members. Since June 2015, it has consisted of guitarist Steve Howe, drummer Alan White, keyboardist Geoff Downes, singer Jon Davison, and bassist Billy Sherwood. Yes have explored several musical styles over the years, and are most notably regarded as progressive rock pioneers.\nYes began performing original songs and rearranged covers of rock, pop, blues and jazz songs, as evident on their first two albums. A change of direction in 1970 led to a series of successful progressive rock albums until their disbanding in 1981, their most successful being The Yes Album (1971), Fragile (1971) and Close to the Edge (1972). Yes toured as a major rock act that earned the band a reputation for their elaborate stage sets, light displays, and album covers designed by Roger Dean. The success of \"Roundabout\", the single from Fragile, cemented their popularity across the decade and beyond.\nIn 1983, Yes reformed with a new line-up that included Trevor Rabin and a more commercial and pop-oriented musical direction. The result was 90125 (1983), their highest-selling album, which contained the U.S. number-one single \"Owner of a Lonely Heart\". From 1990 to 1992, Yes were an eight-member formation after they merged with Anderson Bruford Wakeman Howe for Union (1991) and its tour. Since 1994, Yes have released albums with varied levels of success and completed tours from 1994 to 2004. After a four-year hiatus, they resumed touring in 2008 and continue to release albums; their most recent is Heaven &amp; Earth (2014). In 2016, a new group of former Yes members began touring and named themselves Yes Featuring Jon Anderson, Trevor Rabin, Rick Wakeman.\nYes are one of the most successful, influential, and longest-lasting progressive rock bands. They have sold 13.5 million RIAA-certified albums in the US. In 1985, they won a Grammy Award for Best Rock Instrumental Performance with \"Cinema\", and received five Grammy nominations between 1985 and 1992. They were ranked No. 94 on VH1's 100 Greatest Artists of Hard Rock. Yes have headlined annual progressive rock-themed cruises since 2013 named Cruise to the Edge. Their discography spans 21 studio albums. In April 2017, Yes were inducted into the Rock and Roll Hall of Fame, which chose to induct current and former members Anderson, Squire, Bruford, Kaye, Howe, Wakeman, White and Rabin.",
+                "fallback": "wikipedia: Yes (band)",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/en.wikipedia.org\/wiki\/Yes_(band)"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wp6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Yes_(band)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "b5d3a6fb-5d1a-4eb1-baa0-2a2b9bd2f122",
+        "type": "message",
+        "text": "like two weeks ago i played the full metropolis pt 2 album from dream theater, after like 5 years without listening to them",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620205160.075800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6z6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like two weeks ago i played the full metropolis pt 2 album from dream theater, after like 5 years without listening to them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP",
+        "reactions": [
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U01RRV4JX6Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b524a160-af55-4d7a-8d36-4dbcc42f4442",
+        "type": "message",
+        "text": "i was really into mike portnoy's drumming, he goes completely bananas",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620205215.076100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qvC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i was really into mike portnoy's drumming, he goes completely bananas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "192d7d5b-514e-4681-bf49-09bdf0b27586",
+        "type": "message",
+        "text": "<@U01RW140HBP>, you surely know this: <https:\/\/www.youtube.com\/watch?v=SVOuYquXuuc>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620205258.076300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "YES - Owner of a Lonely Heart (Official Music Video)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=SVOuYquXuuc",
+                "author_name": "yesofficial",
+                "author_link": "https:\/\/www.youtube.com\/user\/yesofficial",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/SVOuYquXuuc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: YES - Owner of a Lonely Heart (Official Music Video)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/SVOuYquXuuc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=SVOuYquXuuc",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=SVOuYquXuuc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mlf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RW140HBP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", you surely know this: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=SVOuYquXuuc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "1a0dfe2b-e980-4407-b456-0863970382e5",
+        "type": "message",
+        "text": "You probably have already heard it in an elevator or in a taxi",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620205392.076600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n81g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You probably have already heard it in an elevator or in a taxi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "4387710e-025c-464e-a606-54e723d7a323",
+        "type": "message",
+        "text": ":joy:",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620205401.076800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c=6J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "0dcf63fb-4ccf-4e63-bc1e-e3b8585e5be6",
+        "type": "message",
+        "text": "haha ok i did know that one but didnt know the name of the band hehe",
+        "user": "U01RW140HBP",
+        "ts": "1620205411.077000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eA8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha ok i did know that one but didnt know the name of the band hehe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "type": "message",
+        "text": "<!channel>, current lecture notebookj",
+        "files": [
+            {
+                "id": "F0214568NDA",
+                "created": 1620205585,
+                "timestamp": 1620205585,
+                "name": "8_05_api_wrappers_lecture.ipynb",
+                "title": "8_05_api_wrappers_lecture.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U01SJKB2MG8",
+                "editable": false,
+                "size": 1374189,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0214568NDA\/8_05_api_wrappers_lecture.ipynb?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0214568NDA\/download\/8_05_api_wrappers_lecture.ipynb?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SJKB2MG8\/F0214568NDA\/8_05_api_wrappers_lecture.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F0214568NDA-cd7ba991ba",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zv8NL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", current lecture notebookj"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01SJKB2MG8",
+        "display_as_bot": false,
+        "ts": "1620205597.078200"
+    },
+    {
+        "client_msg_id": "bc77f5ff-c38c-4809-ad10-00349c3fbd29",
+        "type": "message",
+        "text": "<@U01RW2X7S9Z>, this is a very nice song from their last album <https:\/\/www.youtube.com\/watch?v=TlaeRqgXKVs>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620205633.078300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Dream Theater - Barstool Warrior",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=TlaeRqgXKVs",
+                "author_name": "Progressive Music Planet",
+                "author_link": "https:\/\/www.youtube.com\/c\/ProgressiveMusicPlanet",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/TlaeRqgXKVs\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Dream Theater - Barstool Warrior",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/TlaeRqgXKVs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=TlaeRqgXKVs",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=TlaeRqgXKVs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bfl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RW2X7S9Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", this is a very nice song from their last album "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=TlaeRqgXKVs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "client_msg_id": "83318f6e-7403-4380-9f6a-7265b8fc9c50",
+        "type": "message",
+        "text": "thanks ! ill check that out",
+        "user": "U01RW140HBP",
+        "ts": "1620205647.078600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GE+Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks ! ill check that out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620204018.073300",
+        "parent_user_id": "U01RW140HBP"
+    },
+    {
+        "type": "message",
+        "text": "<!channel>, final lecture notebook for today",
+        "files": [
+            {
+                "id": "F020RGFRL4E",
+                "created": 1620212403,
+                "timestamp": 1620212403,
+                "name": "8_05_api_wrappers_lecture_final.ipynb",
+                "title": "8_05_api_wrappers_lecture_final.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U01SJKB2MG8",
+                "editable": false,
+                "size": 1589986,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020RGFRL4E\/8_05_api_wrappers_lecture_final.ipynb?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020RGFRL4E\/download\/8_05_api_wrappers_lecture_final.ipynb?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SJKB2MG8\/F020RGFRL4E\/8_05_api_wrappers_lecture_final.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020RGFRL4E-d96725e759",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F020HGM07DM",
+                "created": 1620212410,
+                "timestamp": 1620212410,
+                "name": "gnod_1st_prototype.jpg",
+                "title": "gnod_1st_prototype.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01SJKB2MG8",
+                "editable": false,
+                "size": 25112,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020HGM07DM\/gnod_1st_prototype.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F020HGM07DM\/download\/gnod_1st_prototype.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020HGM07DM-e89f55488b\/gnod_1st_prototype_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020HGM07DM-e89f55488b\/gnod_1st_prototype_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020HGM07DM-e89f55488b\/gnod_1st_prototype_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020HGM07DM-e89f55488b\/gnod_1st_prototype_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020HGM07DM-e89f55488b\/gnod_1st_prototype_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020HGM07DM-e89f55488b\/gnod_1st_prototype_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020HGM07DM-e89f55488b\/gnod_1st_prototype_800.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F020HGM07DM-e89f55488b\/gnod_1st_prototype_960.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "original_w": 960,
+                "original_h": 540,
+                "thumb_tiny": "AwAbADDR2D1b86AgBzlvzp1FADC+DjIpwb6\/lRgUdKABWyTkYwcfWlpnmLTwcjNABTdh3ZJp1FADSmWzk0MSOAM06igBi5J5UD8KfRRQB\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SJKB2MG8\/F020HGM07DM\/gnod_1st_prototype.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F020HGM07DM-bbff964a0a",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F021N43T2KS",
+                "created": 1620212412,
+                "timestamp": 1620212412,
+                "name": "gnod_2nd_prototype.jpg",
+                "title": "gnod_2nd_prototype.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01SJKB2MG8",
+                "editable": false,
+                "size": 38154,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021N43T2KS\/gnod_2nd_prototype.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021N43T2KS\/download\/gnod_2nd_prototype.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N43T2KS-3060515a74\/gnod_2nd_prototype_64.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N43T2KS-3060515a74\/gnod_2nd_prototype_80.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N43T2KS-3060515a74\/gnod_2nd_prototype_360.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N43T2KS-3060515a74\/gnod_2nd_prototype_480.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N43T2KS-3060515a74\/gnod_2nd_prototype_160.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N43T2KS-3060515a74\/gnod_2nd_prototype_720.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N43T2KS-3060515a74\/gnod_2nd_prototype_800.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N43T2KS-3060515a74\/gnod_2nd_prototype_960.jpg?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "original_w": 960,
+                "original_h": 540,
+                "thumb_tiny": "AwAbADDQUK2drE4PODR8qt1bj3NKEAz7+nFBXP8A+ugBSeOM0A0hXIHt70AY7\/rQAu4Zx3ozSEbhj+tCrj\/9dAAd+7jpSHfuGOlPooAazAdaaFUnjNSYzRgelMBm9RxTgcjNLgegopAf\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01SJKB2MG8\/F021N43T2KS\/gnod_2nd_prototype.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F021N43T2KS-b729c2562d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dB=V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", final lecture notebook for today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01SJKB2MG8",
+        "ts": "1620212417.079200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR",
+                    "U01RW140HBP",
+                    "U01SD3CDH9P",
+                    "U01S133DZ9A",
+                    "U01S1CWGTU4"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5366a532-70dd-4333-a510-b8162a89c682",
+        "type": "message",
+        "text": "Hey <!channel>, please enter the Zoom for a quick poll :v:",
+        "user": "U01RSRE0N3D",
+        "ts": "1620216021.080600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h2a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", please enter the Zoom for a quick poll "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620216021.080600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1620217385.081000",
+        "reply_users": [
+            "U01S7BM4N81"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620217385.081000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620217385.081000",
+        "reactions": [
+            {
+                "name": "alert",
+                "users": [
+                    "U01SJKB2MG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25041E10-F3B0-4FE0-AED6-C940AD63563D",
+        "type": "message",
+        "text": "What did I miss?",
+        "user": "U01S7BM4N81",
+        "ts": "1620217385.081000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "82JRw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What did I miss?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620216021.080600",
+        "parent_user_id": "U01RSRE0N3D"
+    },
+    {
+        "client_msg_id": "a442d2d0-0507-44ba-88c2-855f5e1de5c4",
+        "type": "message",
+        "text": "<!channel>,\nI would be in *room 12* for all things :spotify: API!",
+        "user": "U01SJKB2MG8",
+        "ts": "1620222469.081800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SG2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nI would be in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "room 12",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for all things "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spotify"
+                            },
+                            {
+                                "type": "text",
+                                "text": " API!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S1CWGTU4",
+                    "U01S7BM4N81"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "0d7110a4-bfce-49fe-80f6-e0bdc3786252",
+        "type": "message",
+        "text": "I know that feeling",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619162667.000400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ixur",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know that feeling"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e98e3b2d-afec-4a4f-9aae-dd8777c0d616",
+        "type": "message",
+        "text": "what are the rules now on actually meeting up in person, Im sure a picknik in the park would be great, itll be warmer soon… famous last words",
+        "user": "U01RS9Y6UJH",
+        "ts": "1619162773.002100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "g7e6abc9bdfa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0b6817bbfcc61df49d13ad0519e4d67e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "Neil Corteen",
+            "display_name": "",
+            "team": "T01RBRV5F7H",
+            "name": "neilcorteen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mdYH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what are the rules now on actually meeting up in person, Im sure a picknik in the park would be great, itll be warmer soon… famous last words"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

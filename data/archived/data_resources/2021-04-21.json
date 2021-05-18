@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "6d6a8846-ad8c-4e02-a52a-8b9a2ef9a8de",
+        "type": "message",
+        "text": "interesting use case for AI plus SQL - turning business questions into SQL queries <https:\/\/blog.seekwell.io\/gpt3>",
+        "user": "U01RW140HBP",
+        "ts": "1618999895.001000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Automating my job by using GPT-3 to generate database-ready SQL to answer business questions",
+                "title_link": "https:\/\/blog.seekwell.io\/gpt3",
+                "text": "SeekWell blog",
+                "fallback": "Automating my job by using GPT-3 to generate database-ready SQL to answer business questions",
+                "image_url": "https:\/\/s3.amazonaws.com\/super-notion\/images\/707d9225-8f86-489c-9ecc-795816aa2998.png",
+                "from_url": "https:\/\/blog.seekwell.io\/gpt3",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 13980,
+                "service_icon": "https:\/\/s3.amazonaws.com\/super-notion\/images\/0a591b81-71bb-44f8-a887-2828473a665a.png",
+                "service_name": "blog.seekwell.io",
+                "id": 1,
+                "original_url": "https:\/\/blog.seekwell.io\/gpt3"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4cB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "interesting use case for AI plus SQL - turning business questions into SQL queries "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.seekwell.io\/gpt3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616336527.003400",
+        "user": "U01RVSTNRRT",
+        "text": "<@U01RVSTNRRT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616346192.003600",
+        "user": "U01RW140HBP",
+        "text": "<@U01RW140HBP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616394759.000200",
+        "user": "U01S65G72SY",
+        "text": "<@U01S65G72SY> has joined the channel"
+    }
+]

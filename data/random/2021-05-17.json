@@ -1,0 +1,218 @@
+[
+    {
+        "client_msg_id": "f332d9dc-c452-4e40-986f-a63831b608e9",
+        "type": "message",
+        "text": "should I short this? <@U01RRV4JX6Z>\n<https:\/\/www.coindesk.com\/new-ftx-derivative-lets-traders-bet-on-re-election-of-brazils-bolsonaro>",
+        "user": "U01S7BM4N81",
+        "ts": "1621268052.000400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CoinDesk",
+                "title": "New FTX Derivative Lets Traders Bet on Re-Election of Brazil’s Bolsonaro - CoinDesk",
+                "title_link": "https:\/\/www.coindesk.com\/new-ftx-derivative-lets-traders-bet-on-re-election-of-brazils-bolsonaro",
+                "text": "Cryptocurrency derivatives exchange FTX now offers a futures contract on the re-election or otherwise of Brazilian President Jair Bolsonaro.",
+                "fallback": "CoinDesk: New FTX Derivative Lets Traders Bet on Re-Election of Brazil’s Bolsonaro - CoinDesk",
+                "image_url": "https:\/\/static.coindesk.com\/wp-content\/uploads\/2021\/05\/GettyImages-1232913224-1200x628.jpg",
+                "ts": 1621262511,
+                "from_url": "https:\/\/www.coindesk.com\/new-ftx-derivative-lets-traders-bet-on-re-election-of-brazils-bolsonaro",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 419306,
+                "service_icon": "https:\/\/www.coindesk.com\/favicons\/192x192.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coindesk.com\/new-ftx-derivative-lets-traders-bet-on-re-election-of-brazils-bolsonaro"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/=mRi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "should I short this? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RRV4JX6Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.coindesk.com\/new-ftx-derivative-lets-traders-bet-on-re-election-of-brazils-bolsonaro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621268052.000400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1621271066.001100",
+        "reply_users": [
+            "U01RRV4JX6Z",
+            "U01S7BM4N81"
+        ],
+        "replies": [
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1621270837.000900"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1621271066.001100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01SJKB2MG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "449817b1-5ace-4400-81cd-87e1cebdd898",
+        "type": "message",
+        "text": "Even Brazilians, who were stupid enough to elect this moron, are tired of him...",
+        "user": "U01RRV4JX6Z",
+        "ts": "1621270837.000900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G44",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even Brazilians, who were stupid enough to elect this moron, are tired of him..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621268052.000400",
+        "parent_user_id": "U01S7BM4N81"
+    },
+    {
+        "type": "message",
+        "text": "And traders dont seem to want to take the bet…",
+        "files": [
+            {
+                "id": "F022B7RG86Q",
+                "created": 1621271057,
+                "timestamp": 1621271057,
+                "name": "Bildschirmfoto 2021-05-17 um 19.04.14.png",
+                "title": "Bildschirmfoto 2021-05-17 um 19.04.14.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7BM4N81",
+                "editable": false,
+                "size": 175586,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F022B7RG86Q\/bildschirmfoto_2021-05-17_um_19.04.14.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F022B7RG86Q\/download\/bildschirmfoto_2021-05-17_um_19.04.14.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F022B7RG86Q-56b4c0ed30\/bildschirmfoto_2021-05-17_um_19.04.14_64.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F022B7RG86Q-56b4c0ed30\/bildschirmfoto_2021-05-17_um_19.04.14_80.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F022B7RG86Q-56b4c0ed30\/bildschirmfoto_2021-05-17_um_19.04.14_360.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 301,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F022B7RG86Q-56b4c0ed30\/bildschirmfoto_2021-05-17_um_19.04.14_480.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 401,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F022B7RG86Q-56b4c0ed30\/bildschirmfoto_2021-05-17_um_19.04.14_160.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F022B7RG86Q-56b4c0ed30\/bildschirmfoto_2021-05-17_um_19.04.14_720.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 601,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F022B7RG86Q-56b4c0ed30\/bildschirmfoto_2021-05-17_um_19.04.14_800.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 668,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F022B7RG86Q-56b4c0ed30\/bildschirmfoto_2021-05-17_um_19.04.14_960.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 802,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F022B7RG86Q-56b4c0ed30\/bildschirmfoto_2021-05-17_um_19.04.14_1024.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 855,
+                "original_w": 1300,
+                "original_h": 1086,
+                "thumb_tiny": "AwAoADCjnjkUmR6GkpccZpgGR6UcelJRQAufalGPSm0o60AJTg2AB6U3FFABRRRQAU5cZ5OKbSigAOR3oopRQA2ilooASlFFFAH\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7BM4N81\/F022B7RG86Q\/bildschirmfoto_2021-05-17_um_19.04.14.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F022B7RG86Q-7233dc84f6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S47",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And traders dont seem to want to take the bet…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S7BM4N81",
+        "display_as_bot": false,
+        "ts": "1621271066.001100",
+        "thread_ts": "1621268052.000400",
+        "parent_user_id": "U01S7BM4N81"
+    }
+]

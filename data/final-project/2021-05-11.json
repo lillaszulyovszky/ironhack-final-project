@@ -1,0 +1,313 @@
+[
+    {
+        "client_msg_id": "e4010c1e-47b4-4b62-9848-772d66801183",
+        "type": "message",
+        "text": "<@U01RW140HBP>, <@U01RSRE0N3D> &amp; <@U01SJKB2MG8> What do you expect us to show in the elevator pitch on thursday?\nLike: Research questions, 0 Hypothesis, etc ?\nDidn't find something on this in Notion or the GitHub materials.",
+        "user": "U01RN7BVD1C",
+        "ts": "1620729257.010400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T8TsX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RW140HBP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RSRE0N3D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What do you expect us to show in the elevator pitch on thursday?\nLike: Research questions, 0 Hypothesis, etc ?\nDidn't find something on this in Notion or the GitHub materials."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620729257.010400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1620737230.011700",
+        "reply_users": [
+            "U01RSRE0N3D",
+            "U01RN7BVD1C",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1620729871.011000"
+            },
+            {
+                "user": "U01RN7BVD1C",
+                "ts": "1620730470.011300"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1620737230.011700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620737230.011700",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01RP2K1606",
+                    "U01S79YDELR",
+                    "U01S0P26NKD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6b52ffd-6083-42f6-9acb-63b2bf268f12",
+        "type": "message",
+        "text": "No need to draft a pitch, just an outline. Be sure you can answer the following questions:\n1. Which advanced analysis or data scientist techniques will you be applying?\n2. Do you have a specific research question or hypothesis you want to test? If yes, what is it?\n3. What potential challenges are you anticipating?",
+        "user": "U01RSRE0N3D",
+        "ts": "1620729871.011000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lmqte",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No need to draft a pitch, just an outline. Be sure you can answer the following questions:\n1. Which advanced analysis or data scientist techniques will you be applying?\n2. Do you have a specific research question or hypothesis you want to test? If yes, what is it?\n3. What potential challenges are you anticipating?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620729257.010400",
+        "parent_user_id": "U01RN7BVD1C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RN7BVD1C",
+                    "U01S0P26NKD",
+                    "U01RW140HBP",
+                    "U01SK96QF5E"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "524c04d8-0ec2-423b-adb8-29659ffb8c22",
+        "type": "message",
+        "text": "Perfect, thank you!",
+        "user": "U01RN7BVD1C",
+        "ts": "1620730470.011300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "55e0c1b57456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1882033802643_55e0c1b574562994417f_72.jpg",
+            "first_name": "Josephine",
+            "real_name": "Josephine Biedermann",
+            "display_name": "Phine",
+            "team": "T01RBRV5F7H",
+            "name": "josephinebiedermann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tuQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect, thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620729257.010400",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "7d1df4a6-7cf8-40ad-bb67-e85b006927c7",
+        "type": "message",
+        "text": "regarding 3. in particular: _How hard\/easy do you think it will be to get the data? Do you already have some?_",
+        "user": "U01SJKB2MG8",
+        "ts": "1620737230.011700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iqH7K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "regarding 3. in particular: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "How hard\/easy do you think it will be to get the data? Do you already have some?",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620729257.010400",
+        "parent_user_id": "U01RN7BVD1C"
+    },
+    {
+        "client_msg_id": "40116364-870a-40b2-a14c-109c3ade8392",
+        "type": "message",
+        "text": "Call out for data:  Looking for *transcripts of customer interactions* on the phone or with a chatbot - if you come across anything, let me know",
+        "user": "U01S133DZ9A",
+        "ts": "1620754956.013500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IKHtP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Call out for data:  Looking for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "transcripts of customer interactions",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " on the phone or with a chatbot - if you come across anything, let me know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620754956.013500",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1620820748.019100",
+        "reply_users": [
+            "U01RW140HBP",
+            "U01S133DZ9A"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620806994.018300"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620807056.018500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620810632.018800"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1620820748.019100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

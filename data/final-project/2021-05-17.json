@@ -1,0 +1,1567 @@
+[
+    {
+        "client_msg_id": "9d1be7a9-f097-4608-b775-ae509175bc68",
+        "type": "message",
+        "text": "Hey guys, maybe someone is free now, so I’ll give it a try: I’m trying to concat df’s from which some doesn’t have the same amount of columns as the other one, but most of their columns will match (the values will be different, so I need them to be copied one below each other). I want to fill in the columns which some of them lack with NaN values in the result df. I tried every parameter, none of them returns what I need. :disappointed:\n`result = pd.concat([channel_gen, channel_books,`\n                    `channel_dmemes, channel_dresource,` \n                    `channel_dbootcamp, channel_funcommittee,`\n                    `channel_dvizbeauties, channel_frustrations,` \n                    `channel_finalproject, channel_frustrations,` \n                    `channel_funcommittee, channel_katas,` \n                    `channel_labhelp, channel_music,` \n                    `channel_random, channel_vanilla])`",
+        "user": "U01SK96QF5E",
+        "ts": "1621244326.004500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OBc6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys, maybe someone is free now, so I’ll give it a try: I’m trying to concat df’s from which some doesn’t have the same amount of columns as the other one, but most of their columns will match (the values will be different, so I need them to be copied one below each other). I want to fill in the columns which some of them lack with NaN values in the result df. I tried every parameter, none of them returns what I need. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "result = pd.concat([channel_gen, channel_books,",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "                    channel_dmemes, channel_dresource, ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "                    channel_dbootcamp, channel_funcommittee,",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "                    channel_dvizbeauties, channel_frustrations, ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "                    channel_finalproject, channel_frustrations, ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "                    channel_funcommittee, channel_katas, ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "                    channel_labhelp, channel_music, ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "                    channel_random, channel_vanilla])",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621244326.004500",
+        "reply_count": 12,
+        "reply_users_count": 4,
+        "latest_reply": "1621249064.007000",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01SK96QF5E",
+            "U01RW140HBP",
+            "U01S133DZ9A"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1621244368.004600"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1621244379.004800"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1621244388.005000"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1621244409.005200"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1621244439.005400"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1621244443.005800"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1621244451.006000"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1621244486.006200"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1621244670.006400"
+            },
+            {
+                "user": "U01S133DZ9A",
+                "ts": "1621245421.006600"
+            },
+            {
+                "user": "U01SK96QF5E",
+                "ts": "1621247301.006800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1621249064.007000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "186cceea-b3b7-43e5-82b9-c74dc2a3aa87",
+        "type": "message",
+        "text": "<https:\/\/pandas.pydata.org\/pandas-docs\/stable\/user_guide\/merging.html>",
+        "user": "U01RW2X7S9Z",
+        "ts": "1621244368.004600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WQCh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pandas.pydata.org\/pandas-docs\/stable\/user_guide\/merging.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621244326.004500",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "0a6a7823-f102-4e9f-87bc-7d963aa4cfdc",
+        "type": "message",
+        "text": "check this in the documentation, it shows many many ways that you can combine dataframes",
+        "user": "U01RW2X7S9Z",
+        "ts": "1621244379.004800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fboh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "check this in the documentation, it shows many many ways that you can combine dataframes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621244326.004500",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "9703c5c8-9d3e-492f-8cb7-baadbeca6696",
+        "type": "message",
+        "text": "yeah.. I tried through almost all",
+        "user": "U01SK96QF5E",
+        "ts": "1621244388.005000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lSLS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah.. I tried through almost all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621244326.004500",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "2c82a1aa-19ea-44c0-8b20-5a1e81cc3e17",
+        "type": "message",
+        "text": "did you try to ignore the index?",
+        "user": "U01RW2X7S9Z",
+        "ts": "1621244409.005200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Si9P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "did you try to ignore the index?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621244326.004500",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F022379NKV0",
+                "created": 1621244437,
+                "timestamp": 1621244437,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RW2X7S9Z",
+                "editable": false,
+                "size": 19522,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F022379NKV0\/image.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F022379NKV0\/download\/image.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F022379NKV0-563ad607a7\/image_64.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F022379NKV0-563ad607a7\/image_80.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F022379NKV0-563ad607a7\/image_360.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 107,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F022379NKV0-563ad607a7\/image_480.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 143,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F022379NKV0-563ad607a7\/image_160.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "original_w": 631,
+                "original_h": 188,
+                "thumb_tiny": "AwAOADC+0uGKqMkde1J5pHVMD1zS+V85bPWgxZBGaAE80k5CZHbmm+azk7cLj15p6xbQBnpTFjKluR1oAN0n94flT42ct8xBH0pNppyD5qAP\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RW2X7S9Z\/F022379NKV0\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F022379NKV0-3501242b18",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RW2X7S9Z",
+        "display_as_bot": false,
+        "ts": "1621244439.005400",
+        "thread_ts": "1621244326.004500",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "165f7fdf-37d5-4613-ac96-a0ee96918540",
+        "type": "message",
+        "text": "i think you are trying an outer join right?",
+        "user": "U01RW2X7S9Z",
+        "ts": "1621244443.005800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nCl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think you are trying an outer join right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621244326.004500",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "f9ea9939-53b1-4df8-a907-3bae8d0ecfba",
+        "type": "message",
+        "text": "if columns are not same in all tables",
+        "user": "U01RW2X7S9Z",
+        "ts": "1621244451.006000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z0+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if columns are not same in all tables"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621244326.004500",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "27946e62-c073-4f99-b382-3f750682e365",
+        "type": "message",
+        "text": "can I show you what I mean in a breakout room maybe? it’s a bit hard to explain in writing :stuck_out_tongue:",
+        "user": "U01SK96QF5E",
+        "ts": "1621244486.006200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jD2iw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can I show you what I mean in a breakout room maybe? it’s a bit hard to explain in writing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621244326.004500",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "c8aec088-b46c-46b7-a9a9-bf4b3b83d769",
+        "type": "message",
+        "text": "i think you need to union your dataframes rather than merge = pd.concat([df1, df2], ignore_index=True)\n• do this after setting the column names consistently across the frames. \n• get it right for two data frames before trying multiple data frames in one go \nhappy to join you if alex cant help, but im sure he can",
+        "user": "U01RW140HBP",
+        "ts": "1621244670.006400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DH1T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think you need to union your dataframes rather than merge = pd.concat([df1, df2], ignore_index=True)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "do this after setting the column names consistently across the frames. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "get it right for two data frames before trying multiple data frames in one go "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "happy to join you if alex cant help, but im sure he can"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621244326.004500",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "b0f5e3d6-9626-4bcd-873e-ad99080e1226",
+        "type": "message",
+        "text": "Hey Lilla. Looks like you got a solution - this sounds like a similar issue that was doing my head in all weekend :see_no_evil:.\nIf you are struggling maybe consider joining the  JSON files first (then to DataFrame afterwards). This is how I did it - but it wasn't pretty",
+        "user": "U01S133DZ9A",
+        "ts": "1621245421.006600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "adb8b81e55b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1887337161925_adb8b81e55b5ac488cf1_72.jpg",
+            "first_name": "Simon",
+            "real_name": "Simon Data",
+            "display_name": "Simon Data",
+            "team": "T01RBRV5F7H",
+            "name": "simples707data",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wPfB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Lilla. Looks like you got a solution - this sounds like a similar issue that was doing my head in all weekend "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nIf you are struggling maybe consider joining the  JSON files first (then to DataFrame afterwards). This is how I did it - but it wasn't pretty"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621244326.004500",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "client_msg_id": "9b8e06a8-922a-4f78-b070-e38f5ef51092",
+        "type": "message",
+        "text": "Thanks both! Solved it with Alex, it was an outer join with index set to False - what I did already but to test I was checking the .head instead of .shape. Maybe more coffee will do  :sweat_smile:",
+        "user": "U01SK96QF5E",
+        "ts": "1621247301.006800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "94c1e7ff9e09",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1883381430979_94c1e7ff9e09a95d14cb_72.jpg",
+            "first_name": "Lilla",
+            "real_name": "Lilla Szulyovszky",
+            "display_name": "lilla",
+            "team": "T01RBRV5F7H",
+            "name": "lilla.szulyovszky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "onlhK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks both! Solved it with Alex, it was an outer join with index set to False - what I did already but to test I was checking the .head instead of .shape. Maybe more coffee will do  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621244326.004500",
+        "parent_user_id": "U01SK96QF5E",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S133DZ9A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "808d83eb-dc3e-4683-b70c-4bddfbccd277",
+        "type": "message",
+        "text": "haha coffee and food needed then- well done Lilla and <@U01RW2X7S9Z>",
+        "user": "U01RW140HBP",
+        "ts": "1621249064.007000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F\/A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha coffee and food needed then- well done Lilla and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RW2X7S9Z"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621244326.004500",
+        "parent_user_id": "U01SK96QF5E"
+    },
+    {
+        "type": "message",
+        "text": "Hi, I’m having this error when importing csv to mysql. How should I deal with NaN values?",
+        "files": [
+            {
+                "id": "F0224KLSAUT",
+                "created": 1621263315,
+                "timestamp": 1621263315,
+                "name": "Screenshot 2021-05-17 at 16.55.11.png",
+                "title": "Screenshot 2021-05-17 at 16.55.11.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S79YDELR",
+                "editable": false,
+                "size": 232211,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0224KLSAUT\/screenshot_2021-05-17_at_16.55.11.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F0224KLSAUT\/download\/screenshot_2021-05-17_at_16.55.11.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0224KLSAUT-afaaa522de\/screenshot_2021-05-17_at_16.55.11_64.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0224KLSAUT-afaaa522de\/screenshot_2021-05-17_at_16.55.11_80.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0224KLSAUT-afaaa522de\/screenshot_2021-05-17_at_16.55.11_360.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 249,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0224KLSAUT-afaaa522de\/screenshot_2021-05-17_at_16.55.11_480.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 332,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0224KLSAUT-afaaa522de\/screenshot_2021-05-17_at_16.55.11_160.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0224KLSAUT-afaaa522de\/screenshot_2021-05-17_at_16.55.11_720.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 499,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0224KLSAUT-afaaa522de\/screenshot_2021-05-17_at_16.55.11_800.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 554,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0224KLSAUT-afaaa522de\/screenshot_2021-05-17_at_16.55.11_960.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 665,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F0224KLSAUT-afaaa522de\/screenshot_2021-05-17_at_16.55.11_1024.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 709,
+                "original_w": 1373,
+                "original_h": 951,
+                "thumb_tiny": "AwAhADDQHUj0pwPFNHVuRSjPoKAFz70Zo59BRzQAZ96M+9ICfSl59KAG55J5oG71p23ikwPWgBRn1ox70mB60vFABj3puTnrTvl9qBigBaSlpKACiiigApR0pKUdKAP\/2Q==",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S79YDELR\/F0224KLSAUT\/screenshot_2021-05-17_at_16.55.11.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F0224KLSAUT-eb6d49dba7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pfld",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I’m having this error when importing csv to mysql. How should I deal with NaN values?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S79YDELR",
+        "display_as_bot": false,
+        "ts": "1621263409.009300",
+        "thread_ts": "1621263409.009300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1621264670.009600",
+        "reply_users": [
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1621264670.009600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5ed88d81-9642-4d44-b466-fdf8a3e4f1d8",
+        "type": "message",
+        "text": "have you tried configuring the columns to allow nulls ?",
+        "user": "U01RW140HBP",
+        "ts": "1621264670.009600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hZ99",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "have you tried configuring the columns to allow nulls ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621263409.009300",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "type": "message",
+        "text": "Hi! Why is this happening? I have a range.",
+        "files": [
+            {
+                "id": "F021Q9S9JTZ",
+                "created": 1621271096,
+                "timestamp": 1621271096,
+                "name": "Bildschirmfoto 2021-05-17 um 19.04.32.png",
+                "title": "Bildschirmfoto 2021-05-17 um 19.04.32.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S65G72SY",
+                "editable": false,
+                "size": 48333,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021Q9S9JTZ\/bildschirmfoto_2021-05-17_um_19.04.32.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021Q9S9JTZ\/download\/bildschirmfoto_2021-05-17_um_19.04.32.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Q9S9JTZ-70c307ba3b\/bildschirmfoto_2021-05-17_um_19.04.32_64.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Q9S9JTZ-70c307ba3b\/bildschirmfoto_2021-05-17_um_19.04.32_80.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Q9S9JTZ-70c307ba3b\/bildschirmfoto_2021-05-17_um_19.04.32_360.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 172,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Q9S9JTZ-70c307ba3b\/bildschirmfoto_2021-05-17_um_19.04.32_480.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 230,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Q9S9JTZ-70c307ba3b\/bildschirmfoto_2021-05-17_um_19.04.32_160.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "original_w": 646,
+                "original_h": 309,
+                "thumb_tiny": "AwAWADDQI75NNDHHWn8Hgik4H8R\/OgABP+RTqBzSc9hmgBaKTn0pefSgA70mDn\/69OooATn2\/OloooAKKKKAP\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S65G72SY\/F021Q9S9JTZ\/bildschirmfoto_2021-05-17_um_19.04.32.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F021Q9S9JTZ-06258d11a8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lXRF6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Why is this happening? I have a range."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S65G72SY",
+        "display_as_bot": false,
+        "ts": "1621271177.010200",
+        "thread_ts": "1621271177.010200",
+        "reply_count": 13,
+        "reply_users_count": 3,
+        "latest_reply": "1621273264.012900",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01S65G72SY",
+            "U01RW2X7S9Z"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1621271200.010500"
+            },
+            {
+                "user": "U01S65G72SY",
+                "ts": "1621271233.010700"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1621271237.010900"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1621271327.011100"
+            },
+            {
+                "user": "U01S65G72SY",
+                "ts": "1621271373.011300"
+            },
+            {
+                "user": "U01S65G72SY",
+                "ts": "1621271460.011500"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1621271494.011700"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1621271504.011900"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1621271607.012100"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1621271621.012300"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1621271636.012500"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1621271720.012700"
+            },
+            {
+                "user": "U01S65G72SY",
+                "ts": "1621273264.012900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tick_checkmark",
+                "users": [
+                    "U01SJKB2MG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3729d42-47e1-4414-96f0-be2c123b5416",
+        "type": "message",
+        "text": "try without the range",
+        "user": "U01S7BM4N81",
+        "ts": "1621271200.010500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jp4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "try without the range"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621271177.010200",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "1feaed47-51e6-416c-868a-4b9f6d4c0026",
+        "type": "message",
+        "text": "gives the same error: ‘int’ object is not iterable",
+        "user": "U01S65G72SY",
+        "ts": "1621271233.010700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DIi=v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gives the same error: ‘int’ object is not iterable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621271177.010200",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "00e343ee-ff9d-4a88-ad2c-d405725527b8",
+        "type": "message",
+        "text": "if you want to iterate over a dataframe i suggest using df.iterrows() instead",
+        "user": "U01S7BM4N81",
+        "ts": "1621271237.010900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SXAF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you want to iterate over a dataframe i suggest using df.iterrows() instead"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621271177.010200",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "05d9e75a-5db2-440c-95af-7e7315317a7b",
+        "type": "message",
+        "text": "what do you want to get in the end?",
+        "user": "U01S7BM4N81",
+        "ts": "1621271327.011100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Amr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what do you want to get in the end?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621271177.010200",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "6fc05f02-b292-4cc1-ae24-27424cd868fc",
+        "type": "message",
+        "text": "for the length of df.fruits_veggies i want to get the results 1 or 2 or 3 saved in body_score",
+        "user": "U01S65G72SY",
+        "ts": "1621271373.011300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xI1L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for the length of df.fruits_veggies i want to get the results 1 or 2 or 3 saved in body_score"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621271177.010200",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "caac5a54-12b4-4dba-995e-cc964819491e",
+        "type": "message",
+        "text": "ah ok it is wrong…this is probably adding to body score all the time :see_no_evil: but i want  a list",
+        "user": "U01S65G72SY",
+        "ts": "1621271460.011500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qsb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah ok it is wrong…this is probably adding to body score all the time "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but i want  a list"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621271177.010200",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "3e89f798-8eeb-49a6-bf99-6d9d279e74c4",
+        "type": "message",
+        "text": "```for index, row in df.iterrows():\n    if row[index of your fruit_veggies column] &lt; 2:\n         do this```",
+        "user": "U01S7BM4N81",
+        "ts": "1621271494.011700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=QVA",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for index, row in df.iterrows():\n    if row[index of your fruit_veggies column] < 2:\n         do this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621271177.010200",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "45d2ded8-53c0-4de9-9b2c-a8fb7e112877",
+        "type": "message",
+        "text": "and you probably want to append to the list and not sum it up :slightly_smiling_face:",
+        "user": "U01S7BM4N81",
+        "ts": "1621271504.011900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wPpU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and you probably want to append to the list and not sum it up "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621271177.010200",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "26aadb42-37aa-42cd-9165-b379bf745d79",
+        "type": "message",
+        "text": "you can use directly the column going for fruit in df['fruits_veggies']:\nif fruit &lt;2:\nand so on",
+        "user": "U01RW2X7S9Z",
+        "ts": "1621271607.012100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FTGJj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can use directly the column going for fruit in df['fruits_veggies']:\nif fruit <2:\nand so on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621271177.010200",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "e10ee150-6050-4e24-99b1-c0c4ed2752f3",
+        "type": "message",
+        "text": "like you dont need to user range len df if you iterate directly on the column",
+        "user": "U01RW2X7S9Z",
+        "ts": "1621271621.012300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CTm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like you dont need to user range len df if you iterate directly on the column"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621271177.010200",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "63f93ab7-906b-4504-aeda-f0003e70b608",
+        "type": "message",
+        "text": "lol i’ve been iterrowing this whole time, thanks alex!\nHis solution is most likely quicker",
+        "user": "U01S7BM4N81",
+        "ts": "1621271636.012500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pdFWp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol i’ve been iterrowing this whole time, thanks alex!\nHis solution is most likely quicker"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621271177.010200",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "25fdc944-47d5-42bf-b9e3-8771a436a7b8",
+        "type": "message",
+        "text": "i guess iterrows is good and faster if you need to operate on several columns for each operation, i haven't used it yet",
+        "user": "U01RW2X7S9Z",
+        "ts": "1621271720.012700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3WuzC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i guess iterrows is good and faster if you need to operate on several columns for each operation, i haven't used it yet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621271177.010200",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "83602f1b-ce80-4cc0-8526-4de9ff896c8a",
+        "type": "message",
+        "text": "that works!! Thanks to both of you :pray::blossom:",
+        "user": "U01S65G72SY",
+        "ts": "1621273264.012900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Xy\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that works!! Thanks to both of you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blossom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621271177.010200",
+        "parent_user_id": "U01S65G72SY",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

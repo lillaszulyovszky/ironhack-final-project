@@ -1,0 +1,1193 @@
+[
+    {
+        "client_msg_id": "10c66a65-befa-4a42-a19b-017a5f8a48ef",
+        "type": "message",
+        "text": "How to import the image of the giraffe in google collab?",
+        "user": "U01S79YDELR",
+        "ts": "1620748637.039700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1620748650.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yRLY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How to import the image of the giraffe in google collab?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748637.039700",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1620748942.041400",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01RW140HBP",
+            "U01S79YDELR"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620748655.040000"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620748756.040300"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620748782.040500"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620748792.040700"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620748827.041000"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620748869.041200"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620748942.041400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c6c981db-deaa-47c7-afe8-9a4378b65fb0",
+        "type": "message",
+        "text": "You can import an image in a ~markdown~ “text” cell",
+        "user": "U01S7BM4N81",
+        "ts": "1620748655.040000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7BM4N81",
+            "ts": "1620748678.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cf7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can import an image in a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "markdown",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " “text” cell"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748637.039700",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "3fbdcfd5-4a11-4ccd-90e4-276475d24b71",
+        "type": "message",
+        "text": "haha nice",
+        "user": "U01RW140HBP",
+        "ts": "1620748756.040300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XHUh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748637.039700",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "0520cfd4-ad5a-4e05-9154-aa0c5bd784f8",
+        "type": "message",
+        "text": "the code didnt work for me, no matter where I saved the image…",
+        "user": "U01S7BM4N81",
+        "ts": "1620748782.040500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "joJfR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the code didnt work for me, no matter where I saved the image…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748637.039700",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "9ffc2bef-d248-4d95-9798-34885d355795",
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/49478791\/how-can-i-open-images-in-a-google-colaboratory-notebook-cell-from-uploaded-png-f>",
+        "user": "U01RW140HBP",
+        "ts": "1620748792.040700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "How can I open images in a Google Colaboratory notebook cell from uploaded png files?",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/49478791\/how-can-i-open-images-in-a-google-colaboratory-notebook-cell-from-uploaded-png-f",
+                "text": "I am working with a Google Colaboratory notebook. I uploaded a file named bp.png into the working directory, and I can see that the file is in there by running !ls in a code cell. Then I try this p...",
+                "fallback": "Stack Overflow: How can I open images in a Google Colaboratory notebook cell from uploaded png files?",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/49478791\/how-can-i-open-images-in-a-google-colaboratory-notebook-cell-from-uploaded-png-f",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/Img\/apple-touch-icon.png?v=c78bd457575a",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/49478791\/how-can-i-open-images-in-a-google-colaboratory-notebook-cell-from-uploaded-png-f"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IpyXn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackoverflow.com\/questions\/49478791\/how-can-i-open-images-in-a-google-colaboratory-notebook-cell-from-uploaded-png-f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748637.039700",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "b69d1d5b-c9a0-419a-99ab-797aa68c84cb",
+        "type": "message",
+        "text": "this method ? if image is in the working directory? to be honest i never tried on colab to show images",
+        "user": "U01RW140HBP",
+        "ts": "1620748827.041000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7yNjD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this method ? if image is in the working directory? to be honest i never tried on colab to show images"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748637.039700",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "e52984dd-ec85-4294-a38c-a4a9a15ac253",
+        "type": "message",
+        "text": "Yes, found that link as well, uploaded to the same drive folder, and it it didnt show up",
+        "user": "U01S7BM4N81",
+        "ts": "1620748869.041200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nshE6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, found that link as well, uploaded to the same drive folder, and it it didnt show up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748637.039700",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "0fe8d038-d5fd-4dd4-a7b0-c18a7d71ea90",
+        "type": "message",
+        "text": "yes, it took time but worked. Thanks <@U01S7BM4N81>. I also had tried all these trips from stackoverflow before.",
+        "user": "U01S79YDELR",
+        "ts": "1620748942.041400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1620748964.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pc7e+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, it took time but worked. Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01S7BM4N81"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I also had tried all these trips from stackoverflow before."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620748637.039700",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "7461ced4-365b-4838-9ae0-dc2fb116e450",
+        "type": "message",
+        "text": "Hellloooo….\n\nI try to scrape a webpage and it seems they have some protection measures in place.\nI can extract some info but after approx. 38 iterations over 38 different webpages I only get gibberish back in my soup (example below).\nIf I type in the request manually 5 seconds later, I get the soup as it should be…\nAny ideas?\nNext step I am thinking about is to rotate IPs. But maybe it is not that complicated and you guys had the same problem?!\n\nThanks\nJerrit\n\n`&lt;html&gt;&lt;head&gt;&lt;meta charset=\"utf-8\"\/&gt;&lt;script&gt;f1xx.v1xx=v1xx;f1xx[374148]=window;f1xx[647467]=e8NN(f1xx[374148]);f1xx[125983]=n3EE(f1xx[374148]);f1xx[210876]=(function(){var P6=2;for(;P6 !== 1;){switch(P6){case 2:return {w3:(function(v3){var v6=2;for(;v6 !== 10;){switch(v6){case 2:var O3=function(W3){var u6=2;for(;u6 !== 13;){switch(u6){case 2:var o3=[];u6=1;break;case 14:return E3;break;case 8:U3=o3.H8NN(function(){var Z6=2;for(;Z6 !== 1;){switch(Z6){case 2:return 0.5 - B8NN.P8NN();break;}}}).D8NN('');E3=f1xx[U3];u6=6;break;case 3:j3++;u6=5;break;case 6:u6=!E3?8:14;break;case 5:u6=j3 &lt; W3.length?4:9;break;case 1:var j3=0;u6=5;break;case 9:var U3,E3;u6=8;break;case 4:o3.A8NN(q8NN.F8NN(W3[j3] + 92));u6=3;break;}}};var u3='',k3=T8NN(O3([28,26,28,-43])());v6=5;break;case 5:var p3=0,S3=0;v6=4;break;case 4:v6=p3 &lt; k3.length?3:6;break;case 3:v6=S3 === v3.length?9:8;break;case 7:(p3++,S3++);v6=4;break;case 6:u3=u3.X8NN('{');v6=14;break;case 9:S3=0;v6=8;break;case 14:var R3=0;var t3=function(b3){var n6=2;for(;n6 !== 16;){switch(n6){case 4:n6=R3 === 1 &amp;&amp; b3 === 2?3:9;break;case 7:n6=R3 === 3 &amp;&amp; b3 === 51?6:14;break;case 13:u3.G8NN.N8NN(u3,u3.i8NN(-2,2).i8NN(0,1));n6=5;break;case 5:return (R3++,u3[b3]);break;case 18:u3.G8NN.N8NN(u3,u3.i8NN(-6,6).i8NN(0,5));n6=5;break;case 9:n6=R3 === 2 &amp;&amp; b3 === 171?8:7;break;case 2:n6=R3 === 0 &amp;&amp; b3 === 32?1:4;break`",
+        "user": "U01S6LCPM0C",
+        "ts": "1620749445.045300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "gef13325ef15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ef13325ef1599f9a41dadef061142601.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jerrit Steinebach",
+            "display_name": "Jerrit Steinebach",
+            "team": "T01RBRV5F7H",
+            "name": "jerrit.steinebach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fg0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hellloooo….\n\nI try to scrape a webpage and it seems they have some protection measures in place.\nI can extract some info but after approx. 38 iterations over 38 different webpages I only get gibberish back in my soup (example below).\nIf I type in the request manually 5 seconds later, I get the soup as it should be…\nAny ideas?\nNext step I am thinking about is to rotate IPs. But maybe it is not that complicated and you guys had the same problem?!\n\nThanks\nJerrit\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "<html><head><meta charset=\"utf-8\"\/><script>f1xx.v1xx=v1xx;f1xx[374148]=window;f1xx[647467]=e8NN(f1xx[374148]);f1xx[125983]=n3EE(f1xx[374148]);f1xx[210876]=(function(){var P6=2;for(;P6 !== 1;){switch(P6){case 2:return {w3:(function(v3){var v6=2;for(;v6 !== 10;){switch(v6){case 2:var O3=function(W3){var u6=2;for(;u6 !== 13;){switch(u6){case 2:var o3=[];u6=1;break;case 14:return E3;break;case 8:U3=o3.H8NN(function(){var Z6=2;for(;Z6 !== 1;){switch(Z6){case 2:return 0.5 - B8NN.P8NN();break;}}}).D8NN('');E3=f1xx[U3];u6=6;break;case 3:j3++;u6=5;break;case 6:u6=!E3?8:14;break;case 5:u6=j3 < W3.length?4:9;break;case 1:var j3=0;u6=5;break;case 9:var U3,E3;u6=8;break;case 4:o3.A8NN(q8NN.F8NN(W3[j3] + 92));u6=3;break;}}};var u3='',k3=T8NN(O3([28,26,28,-43])());v6=5;break;case 5:var p3=0,S3=0;v6=4;break;case 4:v6=p3 < k3.length?3:6;break;case 3:v6=S3 === v3.length?9:8;break;case 7:(p3++,S3++);v6=4;break;case 6:u3=u3.X8NN('{');v6=14;break;case 9:S3=0;v6=8;break;case 14:var R3=0;var t3=function(b3){var n6=2;for(;n6 !== 16;){switch(n6){case 4:n6=R3 === 1 && b3 === 2?3:9;break;case 7:n6=R3 === 3 && b3 === 51?6:14;break;case 13:u3.G8NN.N8NN(u3,u3.i8NN(-2,2).i8NN(0,1));n6=5;break;case 5:return (R3++,u3[b3]);break;case 18:u3.G8NN.N8NN(u3,u3.i8NN(-6,6).i8NN(0,5));n6=5;break;case 9:n6=R3 === 2 && b3 === 171?8:7;break;case 2:n6=R3 === 0 && b3 === 32?1:4;break",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749445.045300",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1620761195.048600",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01S6LCPM0C",
+            "U01S0E0MRJ7",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620749487.045700"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620749497.045900"
+            },
+            {
+                "user": "U01S6LCPM0C",
+                "ts": "1620749848.047000"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1620749971.047600"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620750465.047800"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620750504.048100"
+            },
+            {
+                "user": "U01S6LCPM0C",
+                "ts": "1620752007.048400"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1620761195.048600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "10c097e5-2f63-4820-b6e9-27f595ab43ca",
+        "type": "message",
+        "text": "Can i import two different spreadsheets from a single excel file without uniting them (In Tableau)?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620749453.045600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RRV4JX6Z",
+            "ts": "1620749526.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ghn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can i import two different spreadsheets from a single excel file without uniting them (In Tableau)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749453.045600",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1620749963.047400",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01RRV4JX6Z",
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620749588.046200"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620749612.046400"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620749639.046600"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620749707.046800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1620749905.047200"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620749963.047400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8f8ef03a-240e-4065-8c27-158a1e413486",
+        "type": "message",
+        "text": "are you using a timer to slow down your scraping?",
+        "user": "U01S7BM4N81",
+        "ts": "1620749487.045700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "atu6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are you using a timer to slow down your scraping?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749445.045300",
+        "parent_user_id": "U01S6LCPM0C"
+    },
+    {
+        "client_msg_id": "7aea9f2d-77bc-415a-ab34-bd6ce4ac4ee8",
+        "type": "message",
+        "text": "It could be some kind of ddos protection from the website",
+        "user": "U01S7BM4N81",
+        "ts": "1620749497.045900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dws",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It could be some kind of ddos protection from the website"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749445.045300",
+        "parent_user_id": "U01S6LCPM0C"
+    },
+    {
+        "client_msg_id": "b96c39a4-366b-4a3e-b4d7-7e82e31e0dc8",
+        "type": "message",
+        "text": "Yes!\nTry `pd.Excelfile('filename')`",
+        "user": "U01S7BM4N81",
+        "ts": "1620749588.046200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4gTc8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes!\nTry "
+                            },
+                            {
+                                "type": "text",
+                                "text": "pd.Excelfile('filename')",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749453.045600",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "e6263640-91f1-4820-bd5e-95e5685ce30b",
+        "type": "message",
+        "text": "In Tableau?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620749612.046400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8rDw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In Tableau?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749453.045600",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "5e7d8dd9-3dce-4693-b743-e8026fc3ddf1",
+        "type": "message",
+        "text": "No, that was pandas :smile: sorry",
+        "user": "U01S7BM4N81",
+        "ts": "1620749639.046600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FKlb4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, that was pandas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749453.045600",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "1cb63544-ec7f-414c-8d7c-c26d2dadc814",
+        "type": "message",
+        "text": ":joy::joy::joy:",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620749707.046800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nVame",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749453.045600",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "76739644-db3a-4470-9a8f-2fa848f7b91e",
+        "type": "message",
+        "text": "random timer yes. I also set headers and so on…\nwhat is strange is, that it appears approx. every 38 iterations. I would say they jailed my IP but then again I can perform a single webpage scrape 20 seconds later without any trouble and also I don’t get a 403 status… instead gibberish… :man-shrugging:",
+        "user": "U01S6LCPM0C",
+        "ts": "1620749848.047000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "gef13325ef15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ef13325ef1599f9a41dadef061142601.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jerrit Steinebach",
+            "display_name": "Jerrit Steinebach",
+            "team": "T01RBRV5F7H",
+            "name": "jerrit.steinebach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PGp+a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "random timer yes. I also set headers and so on…\nwhat is strange is, that it appears approx. every 38 iterations. I would say they jailed my IP but then again I can perform a single webpage scrape 20 seconds later without any trouble and also I don’t get a 403 status… instead gibberish… "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-shrugging"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749445.045300",
+        "parent_user_id": "U01S6LCPM0C"
+    },
+    {
+        "client_msg_id": "027b6577-5019-4f88-83dd-6d2dc3db0b9f",
+        "type": "message",
+        "text": "not sure im following, but in tableau you can create two separate data connections, both to the same excel workbook, specifying the tab each time",
+        "user": "U01RW140HBP",
+        "ts": "1620749905.047200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "70LP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not sure im following, but in tableau you can create two separate data connections, both to the same excel workbook, specifying the tab each time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749453.045600",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "d0d45bfe-acb8-41c4-8d0b-3af34fd9660e",
+        "type": "message",
+        "text": "Thanks, Sian! It did the trick",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620749963.047400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F9Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Sian! It did the trick"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749453.045600",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "38accac4-5503-42b0-b71e-8f796298e4cb",
+        "type": "message",
+        "text": "i used those chunks last time for spotify to limit 50 requets per iteration.. maybe that can be used?",
+        "user": "U01S0E0MRJ7",
+        "ts": "1620749971.047600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YVAm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i used those chunks last time for spotify to limit 50 requets per iteration.. maybe that can be used?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749445.045300",
+        "parent_user_id": "U01S6LCPM0C"
+    },
+    {
+        "client_msg_id": "20b24d5e-50f0-4c2c-8bb8-69f99445088f",
+        "type": "message",
+        "text": "can you call assign that gibberish to a variable and call\n`print(variable.content)` on it?",
+        "user": "U01S7BM4N81",
+        "ts": "1620750465.047800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dj93",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can you call assign that gibberish to a variable and call\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "print(variable.content)",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " on it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749445.045300",
+        "parent_user_id": "U01S6LCPM0C"
+    },
+    {
+        "client_msg_id": "d9252c33-58f4-466b-9c72-1e86a4d1bb19",
+        "type": "message",
+        "text": "that should render the page and show you what you are dealing with here. Maybe it’s some weird popup or rendered javascript object appearing suddenly",
+        "user": "U01S7BM4N81",
+        "ts": "1620750504.048100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7BM4N81",
+            "ts": "1620750510.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "06i3Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that should render the page and show you what you are dealing with here. Maybe it’s some weird popup or rendered javascript object appearing suddenly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749445.045300",
+        "parent_user_id": "U01S6LCPM0C"
+    },
+    {
+        "client_msg_id": "8e6b7290-dcc5-4fd0-8fea-8ba5fd33c5b6",
+        "type": "message",
+        "text": "<@U01S0E0MRJ7> it’s already there after a few iterations. I think Thamo is right. This is some sort of popup telling me I do bad stuff and this is parsed into my soup. I rotate my IPs now with a proxy provider and now it’s gone. I will do a bit more checking and should it reappear post the content here.\nThanks guys!",
+        "user": "U01S6LCPM0C",
+        "ts": "1620752007.048400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "gef13325ef15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ef13325ef1599f9a41dadef061142601.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Jerrit Steinebach",
+            "display_name": "Jerrit Steinebach",
+            "team": "T01RBRV5F7H",
+            "name": "jerrit.steinebach",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FD6oy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S0E0MRJ7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it’s already there after a few iterations. I think Thamo is right. This is some sort of popup telling me I do bad stuff and this is parsed into my soup. I rotate my IPs now with a proxy provider and now it’s gone. I will do a bit more checking and should it reappear post the content here.\nThanks guys!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749445.045300",
+        "parent_user_id": "U01S6LCPM0C",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2594e6b9-6263-4b1e-b7af-b69d41eaa3f3",
+        "type": "message",
+        "text": "nice hack, jerrit!",
+        "user": "U01SJKB2MG8",
+        "ts": "1620761195.048600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1+\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice hack, jerrit!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620749445.045300",
+        "parent_user_id": "U01S6LCPM0C"
+    }
+]

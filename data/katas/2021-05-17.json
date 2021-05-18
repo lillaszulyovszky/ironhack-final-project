@@ -1,0 +1,216 @@
+[
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "alan partridge",
+        "user": "U01S7KCL3DF",
+        "ts": "1621237407.000500",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "8nhY",
+                "image_url": "https:\/\/media0.giphy.com\/media\/QiHPiQ552YJe8\/giphy.gif?cid=6104955ead76600579710679b55fd14e8949982f24937fab&rid=giphy.gif&ct=g&cid=6104955ead76600579710679b55fd14e8949982f24937fab&rid=giphy.gif&ct=g",
+                "alt_text": "alan partridge",
+                "title": {
+                    "type": "plain_text",
+                    "text": "alan partridge",
+                    "emoji": true
+                },
+                "fallback": "320x180px image",
+                "image_width": 320,
+                "image_height": 180,
+                "image_bytes": 528196,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "g1C",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621010724.005400",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "6572260d-c0c3-43a3-ab8b-2351e642fcbb",
+        "type": "message",
+        "text": "More 8th kyu we did in the previous bootcamps\n<https:\/\/www.codewars.com\/kata\/588417e576933b0ec9000045>\n<https:\/\/www.codewars.com\/kata\/57a083a57cb1f31db7000028\/train\/python>\n<https:\/\/www.codewars.com\/kata\/57a0556c7cb1f31ab3000ad7\/train\/python>\n<https:\/\/www.codewars.com\/kata\/5899dc03bc95b1bf1b0000ad\/train\/python>\n<https:\/\/www.codewars.com\/kata\/56bc28ad5bdaeb48760009b0\/train\/python>",
+        "user": "U01SJKB2MG8",
+        "ts": "1621237419.000700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Codewars",
+                "title": "Simple Fun #1: Seats in Theater",
+                "title_link": "https:\/\/www.codewars.com\/kata\/588417e576933b0ec9000045",
+                "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.",
+                "fallback": "Codewars: Simple Fun #1: Seats in Theater",
+                "from_url": "https:\/\/www.codewars.com\/kata\/588417e576933b0ec9000045",
+                "thumb_url": "https:\/\/www.codewars.com\/assets\/logos\/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.codewars.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.codewars.com\/kata\/588417e576933b0ec9000045"
+            },
+            {
+                "service_name": "Codewars",
+                "title": "Training on Powers of 2 | Codewars",
+                "title_link": "https:\/\/www.codewars.com\/kata\/57a083a57cb1f31db7000028\/train\/python",
+                "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.",
+                "fallback": "Codewars: Training on Powers of 2 | Codewars",
+                "from_url": "https:\/\/www.codewars.com\/kata\/57a083a57cb1f31db7000028\/train\/python",
+                "thumb_url": "https:\/\/www.codewars.com\/assets\/logos\/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.codewars.com\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/www.codewars.com\/kata\/57a083a57cb1f31db7000028\/train\/python"
+            },
+            {
+                "service_name": "Codewars",
+                "title": "Training on MakeUpperCase | Codewars",
+                "title_link": "https:\/\/www.codewars.com\/kata\/57a0556c7cb1f31ab3000ad7\/train\/python",
+                "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.",
+                "fallback": "Codewars: Training on MakeUpperCase | Codewars",
+                "from_url": "https:\/\/www.codewars.com\/kata\/57a0556c7cb1f31ab3000ad7\/train\/python",
+                "thumb_url": "https:\/\/www.codewars.com\/assets\/logos\/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.codewars.com\/favicon.ico",
+                "id": 3,
+                "original_url": "https:\/\/www.codewars.com\/kata\/57a0556c7cb1f31ab3000ad7\/train\/python"
+            },
+            {
+                "service_name": "Codewars",
+                "title": "Training on Invert values | Codewars",
+                "title_link": "https:\/\/www.codewars.com\/kata\/5899dc03bc95b1bf1b0000ad\/train\/python",
+                "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.",
+                "fallback": "Codewars: Training on Invert values | Codewars",
+                "from_url": "https:\/\/www.codewars.com\/kata\/5899dc03bc95b1bf1b0000ad\/train\/python",
+                "thumb_url": "https:\/\/www.codewars.com\/assets\/logos\/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.codewars.com\/favicon.ico",
+                "id": 4,
+                "original_url": "https:\/\/www.codewars.com\/kata\/5899dc03bc95b1bf1b0000ad\/train\/python"
+            },
+            {
+                "service_name": "Codewars",
+                "title": "Training on Remove First and Last Character | Codewars",
+                "title_link": "https:\/\/www.codewars.com\/kata\/56bc28ad5bdaeb48760009b0\/train\/python",
+                "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.",
+                "fallback": "Codewars: Training on Remove First and Last Character | Codewars",
+                "from_url": "https:\/\/www.codewars.com\/kata\/56bc28ad5bdaeb48760009b0\/train\/python",
+                "thumb_url": "https:\/\/www.codewars.com\/assets\/logos\/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.codewars.com\/favicon.ico",
+                "id": 5,
+                "original_url": "https:\/\/www.codewars.com\/kata\/56bc28ad5bdaeb48760009b0\/train\/python"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Cl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "More 8th kyu we did in the previous bootcamps\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codewars.com\/kata\/588417e576933b0ec9000045"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codewars.com\/kata\/57a083a57cb1f31db7000028\/train\/python"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codewars.com\/kata\/57a0556c7cb1f31ab3000ad7\/train\/python"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codewars.com\/kata\/5899dc03bc95b1bf1b0000ad\/train\/python"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codewars.com\/kata\/56bc28ad5bdaeb48760009b0\/train\/python"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621005882.003200",
+        "parent_user_id": "U01RW140HBP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

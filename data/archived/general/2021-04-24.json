@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "bc03ec86-00a2-4fcd-9c5e-9e3dda3d27a0",
+        "type": "message",
+        "text": "Oh, I just saw it now :disappointed:  Next time, yes",
+        "user": "U01S79YDELR",
+        "ts": "1619253066.033600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1619253084.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LFw0U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, I just saw it now "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Next time, yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619173517.017600",
+        "parent_user_id": "U01SD3CDH9P"
+    }
+]

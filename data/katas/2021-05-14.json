@@ -1,0 +1,894 @@
+[
+    {
+        "client_msg_id": "2cf6d141-50e4-422d-8a89-4fb56e33e411",
+        "type": "message",
+        "text": "i got to that default page on codewars where you need to find the issue with `def multiply (a,b)` and uhhh yea…. :pog:",
+        "user": "U01S7KCL3DF",
+        "ts": "1621001574.001000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xdc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i got to that default page on codewars where you need to find the issue with"
+                            },
+                            {
+                                "type": "text",
+                                "text": " def multiply (a,b)",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and uhhh yea…. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2792c389-5163-407d-8ecb-f341e2848a87",
+        "type": "message",
+        "text": "is there a level of katas below 8 kyu :eyes:",
+        "user": "U01S7KCL3DF",
+        "ts": "1621005179.001400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ib8Id",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is there a level of katas below 8 kyu "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621005179.001400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1621006208.003400",
+        "reply_users": [
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1621006208.003400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f559b364-63a0-4fbf-993f-6b125a380149",
+        "type": "message",
+        "text": "yes, there are 6, 7",
+        "user": "U01S79YDELR",
+        "ts": "1621005614.001900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E8u5t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, there are 6, 7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621005614.001900",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1621009295.004500",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01RW140HBP",
+            "U01S79YDELR"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1621005680.002000"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1621005793.002200"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1621005809.002400"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1621006221.003600"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1621006316.003800"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1621007033.004100"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1621007039.004300"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1621009295.004500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9e65ae7a-a456-4737-9a6e-62af58650222",
+        "type": "message",
+        "text": "i thought the lower the number, the higher the grade?",
+        "user": "U01S7KCL3DF",
+        "ts": "1621005680.002000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W7Hms",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i thought the lower the number, the higher the grade?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621005614.001900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "4d9f631b-540e-42c4-b7d9-eede3bf6977c",
+        "type": "message",
+        "text": "correct!",
+        "user": "U01RW140HBP",
+        "ts": "1621005793.002200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pBK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "correct!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621005614.001900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "4b6586e5-002b-4af6-9010-c4cee94c23c3",
+        "type": "message",
+        "text": "like in martial arts… but sure, you can progress to level 5 :slightly_smiling_face:",
+        "user": "U01RW140HBP",
+        "ts": "1621005809.002400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QrIb8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like in martial arts… but sure, you can progress to level 5 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621005614.001900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "961f062c-d3ba-4dc4-94f3-2f329f369b36",
+        "type": "message",
+        "text": "<@U01SJKB2MG8> <@U01RSRE0N3D> any kata suggestions for these folks ?",
+        "user": "U01RW140HBP",
+        "ts": "1621005835.002900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EXPN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RSRE0N3D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " any kata suggestions for these folks ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "679f5bd8-271d-4b83-b5d6-1926d578869f",
+        "type": "message",
+        "text": "<@U01S7KCL3DF> have you tried something 8 kyu from this list <https:\/\/www.codewars.com\/collections\/easy-python-katas>",
+        "user": "U01RW140HBP",
+        "ts": "1621005882.003200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Codewars",
+                "title": "Collection: Easy Python Katas | Codewars",
+                "title_link": "https:\/\/www.codewars.com\/collections\/easy-python-katas",
+                "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.",
+                "fallback": "Codewars: Collection: Easy Python Katas | Codewars",
+                "from_url": "https:\/\/www.codewars.com\/collections\/easy-python-katas",
+                "thumb_url": "https:\/\/www.codewars.com\/assets\/logos\/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.codewars.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.codewars.com\/collections\/easy-python-katas"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tN56",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01S7KCL3DF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have you tried something 8 kyu from this list "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codewars.com\/collections\/easy-python-katas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621005882.003200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1621237419.000700",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1621017196.005600"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1621237419.000700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "febffab8-20e0-44b2-afb7-2795f0612ee1",
+        "type": "message",
+        "text": "no, there's no 9th or 10th kyu",
+        "user": "U01SJKB2MG8",
+        "ts": "1621006208.003400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6GH=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no, there's no 9th or 10th kyu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621005179.001400",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "cry_cat",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c41ee4d-4bb3-4266-9f9c-0974257477d9",
+        "type": "message",
+        "text": "seriouly? I made the most difficult SQL kata, than:rolling_on_the_floor_laughing:. I thought that the level of martial arts was given only by the color of the belt. But I never practiced, it was just a hunch.",
+        "user": "U01S79YDELR",
+        "ts": "1621006221.003600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oQ086",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "seriouly? I made the most difficult SQL kata, than"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I thought that the level of martial arts was given only by the color of the belt. But I never practiced, it was just a hunch."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621005614.001900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "4dab2cf5-b529-4bbf-9e3b-47f9ddd8d755",
+        "type": "message",
+        "text": "you kicked the SQL’s ass :muscle:",
+        "user": "U01S7KCL3DF",
+        "ts": "1621006316.003800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d46fQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you kicked the SQL’s ass "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621005614.001900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "ed1ea624-21fb-45c6-8ebd-8792a4790953",
+        "type": "message",
+        "text": "well done Karina!!",
+        "user": "U01RW140HBP",
+        "ts": "1621007033.004100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N=O3T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "well done Karina!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621005614.001900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "5312b032-bb56-4cd2-944a-f19c7ded7b49",
+        "type": "message",
+        "text": ":tada:",
+        "user": "U01RW140HBP",
+        "ts": "1621007039.004300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7dOqt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621005614.001900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "1e890cc9-18f8-4ad0-965c-61e66ab23b54",
+        "type": "message",
+        "text": ":slightly_smiling_face: :muscle:",
+        "user": "U01S79YDELR",
+        "ts": "1621009295.004500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "frZu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621005614.001900",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "eaed0123-9da9-473b-aa30-33abbb548a91",
+        "type": "message",
+        "text": "for any Brits or fans of British comedies, there’s a couple of Alan Partridge katas:\n\n<https:\/\/www.codewars.com\/kata\/580a094553bd9ec5d800007d\/train\/python>\n<https:\/\/www.codewars.com\/kata\/580a41b6d6df740d6100030c\/train\/python>\n<https:\/\/www.codewars.com\/kata\/5808c8eff0ed4210de000008\/train\/python>\n\nAHA!",
+        "user": "U01S7KCL3DF",
+        "ts": "1621010724.005400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Codewars",
+                "title": "Training on Alan Partridge II - Apple Turnover | Codewars",
+                "title_link": "https:\/\/www.codewars.com\/kata\/580a094553bd9ec5d800007d\/train\/python",
+                "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.",
+                "fallback": "Codewars: Training on Alan Partridge II - Apple Turnover | Codewars",
+                "from_url": "https:\/\/www.codewars.com\/kata\/580a094553bd9ec5d800007d\/train\/python",
+                "thumb_url": "https:\/\/www.codewars.com\/assets\/logos\/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.codewars.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.codewars.com\/kata\/580a094553bd9ec5d800007d\/train\/python"
+            },
+            {
+                "service_name": "Codewars",
+                "title": "Training on Alan Partridge III - London | Codewars",
+                "title_link": "https:\/\/www.codewars.com\/kata\/580a41b6d6df740d6100030c\/train\/python",
+                "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.",
+                "fallback": "Codewars: Training on Alan Partridge III - London | Codewars",
+                "from_url": "https:\/\/www.codewars.com\/kata\/580a41b6d6df740d6100030c\/train\/python",
+                "thumb_url": "https:\/\/www.codewars.com\/assets\/logos\/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.codewars.com\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/www.codewars.com\/kata\/580a41b6d6df740d6100030c\/train\/python"
+            },
+            {
+                "service_name": "Codewars",
+                "title": "Training on Alan Partridge I - Partridge Watch | Codewars",
+                "title_link": "https:\/\/www.codewars.com\/kata\/5808c8eff0ed4210de000008\/train\/python",
+                "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.",
+                "fallback": "Codewars: Training on Alan Partridge I - Partridge Watch | Codewars",
+                "from_url": "https:\/\/www.codewars.com\/kata\/5808c8eff0ed4210de000008\/train\/python",
+                "thumb_url": "https:\/\/www.codewars.com\/assets\/logos\/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.codewars.com\/favicon.ico",
+                "id": 3,
+                "original_url": "https:\/\/www.codewars.com\/kata\/5808c8eff0ed4210de000008\/train\/python"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wtrLV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for any Brits or fans of British comedies, there’s a couple of Alan Partridge katas:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codewars.com\/kata\/580a094553bd9ec5d800007d\/train\/python"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codewars.com\/kata\/580a41b6d6df740d6100030c\/train\/python"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.codewars.com\/kata\/5808c8eff0ed4210de000008\/train\/python"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAHA!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621010724.005400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1621237407.000500",
+        "reply_users": [
+            "U01RW140HBP",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1621233596.000200"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1621237407.000500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "80dc43bf-a579-4dc8-9866-e150326e8022",
+        "type": "message",
+        "text": "a couple of level 8s still seemed wild :exploding_head:  …managed to do an Alan Partridge one eventually",
+        "user": "U01S7KCL3DF",
+        "ts": "1621017196.005600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aFi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a couple of level 8s still seemed wild "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  …managed to do an Alan Partridge one eventually"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621005882.003200",
+        "parent_user_id": "U01RW140HBP"
+    }
+]

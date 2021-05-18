@@ -1,0 +1,305 @@
+[
+    {
+        "client_msg_id": "2f70ebbe-5fc0-46a6-87d8-3dee9ec82bca",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=wgIB1OL09H0>",
+        "user": "U01S7BM4N81",
+        "ts": "1618393356.000200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "#StevieRayVaughan,  #VoodooChild, #FeatureTube",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=wgIB1OL09H0",
+                "author_name": "Feature Tube",
+                "author_link": "https:\/\/www.youtube.com\/user\/Abstractstv",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/wgIB1OL09H0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: #StevieRayVaughan,  #VoodooChild, #FeatureTube",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/wgIB1OL09H0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=wgIB1OL09H0",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=wgIB1OL09H0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VMR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=wgIB1OL09H0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "71411d15-09e7-44b5-baa2-cdf8fe96438e",
+        "type": "message",
+        "text": "jupyter notebook",
+        "user": "U01S79YDELR",
+        "ts": "1618393774.000500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gjh4d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "jupyter notebook"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618393774.000500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1618574618.001600",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01S79YDELR",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1618393913.000700"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1618407527.001900"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1618574618.001600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "lost travolta",
+        "user": "U01S7BM4N81",
+        "ts": "1618393913.000700",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "toe",
+                "image_url": "https:\/\/media4.giphy.com\/media\/GpUeJjdxvTIek\/giphy-downsized.gif?cid=6104955eb2a2521c0ae7d2805717102d5e348018dc9d222f&rid=giphy-downsized.gif&ct=g",
+                "alt_text": "lost travolta",
+                "title": {
+                    "type": "plain_text",
+                    "text": "lost travolta",
+                    "emoji": true
+                },
+                "fallback": "480x387px image",
+                "image_width": 480,
+                "image_height": 387,
+                "image_bytes": 1195872,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "DL+l",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618393774.000500",
+        "parent_user_id": "U01S79YDELR"
+    },
+    {
+        "client_msg_id": "56a341fa-c7a6-4ae9-91a0-0dab93a6675a",
+        "type": "message",
+        "text": "#Data drop in Jupyter\n\n<https:\/\/www.youtube.com\/watch?v=7Xf-Lesrkuc>",
+        "user": "U01S081EULS",
+        "ts": "1618394491.001300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "072722b5938a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1869523305975_072722b5938a81b68381_72.png",
+            "first_name": "",
+            "real_name": "Federico Giuliani",
+            "display_name": "Federico Giuliani",
+            "team": "T01RBRV5F7H",
+            "name": "defe_fg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S081EULS",
+            "ts": "1618394546.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Train - Drops of Jupiter (Official Video)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=7Xf-Lesrkuc",
+                "author_name": "TrainVEVO",
+                "author_link": "https:\/\/www.youtube.com\/user\/TrainVEVO",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/7Xf-Lesrkuc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Train - Drops of Jupiter (Official Video)",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/7Xf-Lesrkuc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=7Xf-Lesrkuc",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=7Xf-Lesrkuc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zKML9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#Data drop in Jupyter\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=7Xf-Lesrkuc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "girl-grin",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2de288a-e32b-4a8e-a157-bee06dbbb604",
+        "type": "message",
+        "text": ":rolling_on_the_floor_laughing: I wrote in the wrong place. It was not my terminal… opsss",
+        "user": "U01S79YDELR",
+        "ts": "1618407527.001900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1618407934.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SAfGE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I wrote in the wrong place. It was not my terminal… opsss"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618393774.000500",
+        "parent_user_id": "U01S79YDELR"
+    }
+]

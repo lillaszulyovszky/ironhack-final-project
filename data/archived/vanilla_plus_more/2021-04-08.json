@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "8e064300-53cc-41fc-ba3d-4e91e2c08c29",
+        "type": "message",
+        "text": "I think there's no need in treating Pandas as a new language, since it is just a library living in the Python ecosystem. But I get your sentiment. It takes time to get used to the datatypes (dataframe, series, index, ....) and how to interact with them - address columns, subset a dataframe etc.\n\nre 2: List comprehension comprehension will come with time, I promise. And then you're going to love them:grin:",
+        "user": "U01SJKB2MG8",
+        "ts": "1617869285.000100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SJKB2MG8",
+            "ts": "1617869310.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N\/8dy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think there's no need in treating Pandas as a new language, since it is just a library living in the Python ecosystem. But I get your sentiment. It takes time to get used to the datatypes (dataframe, series, index, ....) and how to interact with them - address columns, subset a dataframe etc.\n\nre 2: List comprehension comprehension will come with time, I promise. And then you're going to love them"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617831866.008400",
+        "parent_user_id": "U01S133DZ9A",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01S133DZ9A"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

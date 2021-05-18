@@ -1,0 +1,298 @@
+[
+    {
+        "client_msg_id": "a153f00e-8a2f-4c0f-9f4f-ebcf678f250e",
+        "type": "message",
+        "text": "<@U01RXCQHMHT> here’s a bangin track about Nigerian fight sports:\n\n<https:\/\/open.spotify.com\/track\/4IPZISKACJIbVKVBy3EiRO?si=7c79925c3d0c467a>",
+        "user": "U01S7KCL3DF",
+        "ts": "1620200078.006000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S7KCL3DF",
+            "ts": "1620200251.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com",
+                "title": "Dick Tiger's Victory",
+                "title_link": "https:\/\/open.spotify.com\/track\/4IPZISKACJIbVKVBy3EiRO?si=7c79925c3d0c467a",
+                "thumb_url": "https:\/\/i.scdn.co\/image\/ab67616d00001e027637873071d431ab2ef5cf80",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: Dick Tiger's Victory",
+                "audio_html": "<iframe width=\"300\" height=\"380\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Dick Tiger&apos;s Victory\" src=\"https:\/\/open.spotify.com\/embed\/track\/4IPZISKACJIbVKVBy3EiRO?si=7c79925c3d0c467a\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/track\/4IPZISKACJIbVKVBy3EiRO?si=7c79925c3d0c467a",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/track\/4IPZISKACJIbVKVBy3EiRO?si=7c79925c3d0c467a"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kG4A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RXCQHMHT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here’s a bangin track about Nigerian fight sports:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/track\/4IPZISKACJIbVKVBy3EiRO?si=7c79925c3d0c467a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41475476-99d9-41d5-beb7-727785d8cd49",
+        "type": "message",
+        "text": "For all of you LotR ravers\n<https:\/\/www.youtube.com\/watch?v=z9Uz1icjwrM>",
+        "user": "U01RSRE0N3D",
+        "ts": "1620211287.006400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RSRE0N3D",
+            "ts": "1620211359.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Taking the Hobbits to Isengard - 10 HOURS",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=z9Uz1icjwrM",
+                "author_name": "eKolyable",
+                "author_link": "https:\/\/www.youtube.com\/user\/eKolyable",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/z9Uz1icjwrM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Taking the Hobbits to Isengard - 10 HOURS",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/z9Uz1icjwrM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=z9Uz1icjwrM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=z9Uz1icjwrM"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ap6fK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For all of you LotR ravers\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=z9Uz1icjwrM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620211287.006400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1620241557.007300",
+        "reply_users": [
+            "U01RW2X7S9Z",
+            "U01S7BM4N81"
+        ],
+        "replies": [
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620213007.006900"
+            },
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620241557.007300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620241557.007300",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01RW2X7S9Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "003f3fc9-1d77-4811-9017-68c20dd995bd",
+        "type": "message",
+        "text": "my recommender:\n`input(\"introduce your song:\")`\n`print(\"<https:\/\/www.youtube.com\/watch?v=dQw4w9WgXcQ>\")`",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620213007.006900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RW2X7S9Z",
+            "ts": "1620213040.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L+bq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my recommender:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "input(\"introduce your song:\")",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "print(\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=dQw4w9WgXcQ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\")",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620211287.006400",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "rickroll",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01S7BM4N81"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb1475e9-ae4e-4d88-8c2b-cfb5fec442ce",
+        "type": "message",
+        "text": "can’t believe I clicked that even though I was 90% sure I recognized the url :smile:",
+        "user": "U01S7BM4N81",
+        "ts": "1620241557.007300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/6qC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can’t believe I clicked that even though I was 90% sure I recognized the url "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620211287.006400",
+        "parent_user_id": "U01RSRE0N3D"
+    }
+]

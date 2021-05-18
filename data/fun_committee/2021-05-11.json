@@ -1,0 +1,319 @@
+[
+    {
+        "client_msg_id": "7a267790-94a7-4db9-8efc-6877d446d7a8",
+        "type": "message",
+        "text": "Hey! Sam and me are going to meet in Volkspark Friedrichshain at 6.30pm for Feierabend Bier today! Join us! :beer: :sunny:",
+        "user": "U01S65G72SY",
+        "ts": "1620727683.005100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2508d9d872a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1907823424064_2508d9d872a8411a9b37_72.png",
+            "first_name": "",
+            "real_name": "Isabel Jabs",
+            "display_name": "Isabel Jabs",
+            "team": "T01RBRV5F7H",
+            "name": "isabeljabs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xBI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! Sam and me are going to meet in Volkspark Friedrichshain at 6.30pm for Feierabend Bier today! Join us! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beer"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620727683.005100",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1620755026.007200",
+        "reply_users": [
+            "U01RSRE0N3D",
+            "U01RXCQHMHT",
+            "U01S7KCL3DF",
+            "U01S0E0MRJ7"
+        ],
+        "replies": [
+            {
+                "user": "U01RSRE0N3D",
+                "ts": "1620727743.005400"
+            },
+            {
+                "user": "U01RXCQHMHT",
+                "ts": "1620728489.006100"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620740329.006600"
+            },
+            {
+                "user": "U01S0E0MRJ7",
+                "ts": "1620755026.007200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620755026.007200",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U01RN7BVD1C",
+                    "U01RSRE0N3D",
+                    "U01S1CWGTU4",
+                    "U01RXCQHMHT"
+                ],
+                "count": 4
+            },
+            {
+                "name": "boludo",
+                "users": [
+                    "U01S7KCL3DF",
+                    "U01RSRE0N3D"
+                ],
+                "count": 2
+            },
+            {
+                "name": "girl-grin",
+                "users": [
+                    "U01RW2X7S9Z",
+                    "U01RSRE0N3D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84fafcd4-fb2e-4873-9f10-83a5a2f06d24",
+        "type": "message",
+        "text": "Will join!",
+        "user": "U01RSRE0N3D",
+        "ts": "1620727743.005400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "5b0571ca5e6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1876877550179_5b0571ca5e6fe1f759fe_72.jpg",
+            "first_name": "Kosta",
+            "real_name": "Kosta",
+            "display_name": "Kosta",
+            "team": "T01RBRV5F7H",
+            "name": "kostadin.mitkov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "At\/=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will join!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620727683.005100",
+        "parent_user_id": "U01S65G72SY",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U01S65G72SY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dimitri",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7631a669-101b-4833-a336-3a1c35cfc8e4",
+        "type": "message",
+        "text": "Good plan :star-struck:",
+        "user": "U01RXCQHMHT",
+        "ts": "1620728489.006100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uYB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good plan "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star-struck"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620727683.005100",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "c90e8980-89ae-4957-bdb5-4476da7b0b7c",
+        "type": "message",
+        "text": "we’ll be around here some place. Feel free to Slack me if you cant find us :slightly_smiling_face:\n\n<https:\/\/goo.gl\/maps\/7z6WPyYmHrS4aLio6>",
+        "user": "U01S7KCL3DF",
+        "ts": "1620740329.006600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "52°31'43.1\"N 13°26'36.7\"E · Berliner Innenstadt, Berlin, Germany",
+                "title_link": "https:\/\/goo.gl\/maps\/7z6WPyYmHrS4aLio6",
+                "text": "Berliner Innenstadt, Berlin, Germany",
+                "fallback": "52°31'43.1\"N 13°26'36.7\"E · Berliner Innenstadt, Berlin, Germany",
+                "thumb_url": "https:\/\/lh5.googleusercontent.com\/p\/AF1QipP455QXyBptpFnjqxhhPmmAISFg_km_5F-y9hzM",
+                "from_url": "https:\/\/goo.gl\/maps\/7z6WPyYmHrS4aLio6",
+                "thumb_width": 512,
+                "thumb_height": 384,
+                "service_icon": "https:\/\/www.google.com\/favicon.ico",
+                "service_name": "google.com",
+                "id": 1,
+                "original_url": "https:\/\/goo.gl\/maps\/7z6WPyYmHrS4aLio6"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vwTw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we’ll be around here some place. Feel free to Slack me if you cant find us "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/goo.gl\/maps\/7z6WPyYmHrS4aLio6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620727683.005100",
+        "parent_user_id": "U01S65G72SY"
+    },
+    {
+        "client_msg_id": "792B205C-0774-4829-A241-258FAC8E65A6",
+        "type": "message",
+        "text": "r u guys still there? ",
+        "user": "U01S0E0MRJ7",
+        "ts": "1620755026.007200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "ad6853d3a1f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1993872127808_ad6853d3a1f43da8ec48_72.jpg",
+            "first_name": "",
+            "real_name": "Davis Pudans",
+            "display_name": "Davis Pudans",
+            "team": "T01RBRV5F7H",
+            "name": "d.pudans",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RZR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "r u guys still there? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620727683.005100",
+        "parent_user_id": "U01S65G72SY"
+    }
+]

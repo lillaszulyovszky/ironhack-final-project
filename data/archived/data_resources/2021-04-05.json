@@ -1,0 +1,194 @@
+[
+    {
+        "client_msg_id": "6d4c3654-fc3c-4329-9a53-89643af6b152",
+        "type": "message",
+        "text": "<https:\/\/mode.com\/sql-tutorial\/>",
+        "user": "U01S79YDELR",
+        "ts": "1617609252.000200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Mode Resources",
+                "title": "Mode SQL Tutorial |  - Mode Analytics",
+                "title_link": "https:\/\/mode.com\/sql-tutorial\/",
+                "text": "Learn to answer questions with data using SQL. No coding experience necessary.",
+                "fallback": "Mode Resources: Mode SQL Tutorial |  - Mode Analytics",
+                "thumb_url": "https:\/\/mode.com\/resources\/images\/og-images\/sql-facebook.png",
+                "from_url": "https:\/\/mode.com\/sql-tutorial\/",
+                "thumb_width": 1200,
+                "thumb_height": 627,
+                "service_icon": "https:\/\/mode.com\/resources\/icons\/icon-48x48.png?v=a44c4197f59d99da0fa553f91f81b9fd",
+                "id": 1,
+                "original_url": "https:\/\/mode.com\/sql-tutorial\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0osEs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mode.com\/sql-tutorial\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6138cd2c-6056-49bb-a977-e7feeec9a59b",
+        "type": "message",
+        "text": "<https:\/\/www.w3resource.com\/mysql\/mysql-tutorials.php>",
+        "user": "U01S79YDELR",
+        "ts": "1617609341.000500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "w3resource",
+                "title": "MySQL Tutorial - w3resource",
+                "title_link": "https:\/\/www.w3resource.com\/mysql\/mysql-tutorials.php",
+                "text": "MySQL Tutorial of w3resource is a comprehensive tutorial to learn MySQL. We have hundreds of examples covered, often with PHP code.",
+                "fallback": "w3resource: MySQL Tutorial - w3resource",
+                "from_url": "https:\/\/www.w3resource.com\/mysql\/mysql-tutorials.php",
+                "thumb_url": "https:\/\/www.w3resource.com\/w3r_images\/mysql.gif",
+                "thumb_width": 150,
+                "thumb_height": 150,
+                "service_icon": "http:\/\/www.w3resource.com\/images\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.w3resource.com\/mysql\/mysql-tutorials.php"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IaY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3resource.com\/mysql\/mysql-tutorials.php"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01SK96QF5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa7c7421-958d-4df4-8961-858d975a6069",
+        "type": "message",
+        "text": "mysql data types cheatsheet <https:\/\/tableplus.com\/blog\/2018\/07\/mysql-data-types-cheatsheet.html>",
+        "user": "U01RW140HBP",
+        "ts": "1617637572.001300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "TablePlus",
+                "title": "MySQL Data Types Cheatsheet",
+                "title_link": "https:\/\/tableplus.com\/blog\/2018\/07\/mysql-data-types-cheatsheet.html",
+                "text": "String Datatypes",
+                "fallback": "TablePlus: MySQL Data Types Cheatsheet",
+                "ts": 1530576000,
+                "from_url": "https:\/\/tableplus.com\/blog\/2018\/07\/mysql-data-types-cheatsheet.html",
+                "service_icon": "https:\/\/tableplus.com\/blog\/\/assets\/favicons\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/tableplus.com\/blog\/2018\/07\/mysql-data-types-cheatsheet.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WU2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mysql data types cheatsheet "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tableplus.com\/blog\/2018\/07\/mysql-data-types-cheatsheet.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RN7BVD1C",
+                    "U01S79YDELR"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

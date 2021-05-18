@@ -1,0 +1,100 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616336527.004700",
+        "user": "U01RVSTNRRT",
+        "text": "<@U01RVSTNRRT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616346191.004900",
+        "user": "U01RW140HBP",
+        "text": "<@U01RW140HBP> has joined the channel"
+    },
+    {
+        "client_msg_id": "291a9d89-deb5-4a75-8d55-1ed91548b91b",
+        "type": "message",
+        "text": "hi everyone! see you tomorrow :)",
+        "user": "U01RW140HBP",
+        "ts": "1616346264.005900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YBqV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi everyone! see you tomorrow :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "catjam",
+                "users": [
+                    "U01SJKB2MG8",
+                    "U01S7BM4N81",
+                    "U01SK96QF5E"
+                ],
+                "count": 3
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "U01S7BM4N81"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01S79YDELR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U01RS9Y6UJH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616394759.000200",
+        "user": "U01S65G72SY",
+        "text": "<@U01S65G72SY> has joined the channel"
+    }
+]

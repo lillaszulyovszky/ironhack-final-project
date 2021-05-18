@@ -1,0 +1,490 @@
+[
+    {
+        "client_msg_id": "42b0bc35-7f7c-4629-8d89-a1ad00aa92b6",
+        "type": "message",
+        "text": "One thing that's strange is that I cannot get the fonts to be larger, even if i setup them very large already.... <https:\/\/public.tableau.com\/profile\/francisco.ebeling#!\/vizhome\/StoredCapacityandEnergyConsumptionBrazil\/Sheet1?publish=yes>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620806863.000200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RRV4JX6Z",
+            "ts": "1620806933.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XA=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One thing that's strange is that I cannot get the fonts to be larger, even if i setup them very large already.... "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/public.tableau.com\/profile\/francisco.ebeling#!\/vizhome\/StoredCapacityandEnergyConsumptionBrazil\/Sheet1?publish=yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620806863.000200",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1620808764.001400",
+        "reply_users": [
+            "U01S7BM4N81",
+            "U01RRV4JX6Z",
+            "U01RW2X7S9Z"
+        ],
+        "replies": [
+            {
+                "user": "U01S7BM4N81",
+                "ts": "1620806906.000300"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620807035.000600"
+            },
+            {
+                "user": "U01RW2X7S9Z",
+                "ts": "1620807363.001000"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620807551.001200"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620808764.001400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "cool-doge",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8d6be01-9e98-40cf-9cb8-4da84a9b3692",
+        "type": "message",
+        "text": "Looks sustainable :+1: :smile:",
+        "user": "U01S7BM4N81",
+        "ts": "1620806906.000300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GAq4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks sustainable "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620806863.000200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F021N9YET6E",
+                "created": 1620807029,
+                "timestamp": 1620807029,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RRV4JX6Z",
+                "editable": false,
+                "size": 385977,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021N9YET6E\/image.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021N9YET6E\/download\/image.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N9YET6E-e49578c195\/image_64.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N9YET6E-e49578c195\/image_80.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N9YET6E-e49578c195\/image_360.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N9YET6E-e49578c195\/image_480.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N9YET6E-e49578c195\/image_160.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N9YET6E-e49578c195\/image_720.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N9YET6E-e49578c195\/image_800.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N9YET6E-e49578c195\/image_960.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021N9YET6E-e49578c195\/image_1024.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADDRxRilxzSA9qAEbzP4cY96UFs8ilJ7UmD6\/lQFhcn3o5NGBjmjAFAC00AZzxUNqS8CFjkkdaW4Oy3kZeCF4NAEp9iKX8axkupzjMjUpuZvLY+Y2QRQBsfjQKwvtdx\/z1anfa58f61qAP\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RRV4JX6Z\/F021N9YET6E\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F021N9YET6E-1cb518b149",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01RRV4JX6Z",
+        "display_as_bot": false,
+        "ts": "1620807035.000600",
+        "thread_ts": "1620806863.000200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "c14036c5-10a8-43b8-9b1c-616be36984de",
+        "type": "message",
+        "text": "each single spot in the viz has a different place to change font size, is kind of frustrating if you dont know exactly where to go at first :woozy_face:",
+        "user": "U01RW2X7S9Z",
+        "ts": "1620807363.001000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7e12d75d168a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1880105796643_7e12d75d168ae25c167d_72.jpg",
+            "first_name": "Alexandre",
+            "real_name": "Alexandre Sommerkamp",
+            "display_name": "Alexandre Sommerkamp",
+            "team": "T01RBRV5F7H",
+            "name": "alex.c.skp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "87XYC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "each single spot in the viz has a different place to change font size, is kind of frustrating if you dont know exactly where to go at first "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woozy_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620806863.000200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "f8ae58a6-9e54-41d8-94b6-a56e8812eb3d",
+        "type": "message",
+        "text": "I did this! The thing is that when exporting to Tableau Public they are still very small",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620807551.001200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qo1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did this! The thing is that when exporting to Tableau Public they are still very small"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620806863.000200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "69cb0e29-6203-46eb-87e9-53869780da2c",
+        "type": "message",
+        "text": "Ah, I know what I did wrong. It's just the browser configuration",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620808764.001400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZHWf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, I know what I did wrong. It's just the browser configuration"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620806863.000200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "7f02019d-4f7e-42bf-8928-385db47c466d",
+        "type": "message",
+        "text": "<https:\/\/sarahlovesdata.co.uk\/2021\/05\/11\/iron-quest-history-recap\/>",
+        "user": "U01RW140HBP",
+        "ts": "1620813954.001700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Sarah Loves Data",
+                "service_url": "http:\/\/sarahlovesdata.co.uk",
+                "title": "Iron Quest History – Recap",
+                "title_link": "https:\/\/sarahlovesdata.co.uk\/2021\/05\/11\/iron-quest-history-recap\/",
+                "author_name": "Sarah Bartlett",
+                "author_link": "https:\/\/sarahlovesdata.co.uk\/author\/sarahlovesdata\/",
+                "thumb_url": "https:\/\/sarahlovesdata.files.wordpress.com\/2021\/05\/all-history.jpg?w=1200&fit=200%2C150",
+                "thumb_width": 200,
+                "thumb_height": 99,
+                "text": "In February, #IronQuest had the pleasure of collaborating with Eve Thomas and Vinodh Kumar, the leaders of the #Viz2Educate project, to visualise the topic, &lsquo;History&rsquo;. \n\n\n\nThe #Viz2Educate project is on a mission to create a bank of high-quality educational resources for teachers, worldwide. Visualisations published on the internet and made available for free are far more accessible than textbooks, which some schools or students may not be able to afford. Each month, they focus on a different subject area from the core curriculum. Participants can submit any visualisation which covers that topic in some way. For History, we were hoping for a range of visualisations covering everything from historic events to famous people from history. Given that February was also Black History Month in North America, we were expecting to see several entries on black history too. \n\n\n\nWe received a total of&nbsp;42 submissions&nbsp;for this round and welcomed&nbsp;17 new participants&nbsp;to the project this month! As always, it was fantastic to see the diverse range of topics covered and creativity shown through the entries. Participants covered everything from historical events and wars to black history and notable people from our past.  \n\n\n\nWe were lucky enough to have two vizzes featured as &lsquo;Viz of the Day&rsquo; this month too! Congratulations to the authors of our VOTD&rsquo;s, Alice and Gary! You can view their vizzes below. \n\n\n\nClick the images to view the interactive versions on Tableau Public.\n\n\n\nIn this viz, Alice illustrates Black American representation in Congress from 1870 to 2021:\n\n\n\n\n\n\n\nIn this viz, Gary explores the 1,121 World Heritage Sites across the globe that UNESCO aims to preserve:\n\n\n\n\n\n\n\nFeedback\n\n\n\nDue to the high volume of entries this month, Eve, Vinodh and I were unable to cover all of the vizzes where feedback had been requested on our initial feedback call. However, I also had the pleasure of being joined by Tableau Ambassador Michelle Frayman who helped me review the remaining vizzes.\n\n\n\nYou may recall we made a slight change to our review process last month, based on feedback from project participants. We now offer two types of feedback; general and Iron Viz style. The Iron Viz style feedback takes into account the Iron Viz scoring criteria areas (Design, Storytelling and Analysis) and focuses on what you might need to adjust or improve to strengthen your viz in an Iron Viz feeder competition. For example, your viz might score better (in a theoretical Iron Viz setting) by adding more analytical elements. Since #IronQuest is modelled on the Iron Viz feeder competition, we thought that an Iron Viz feedback option would be good for anyone looking to prepare for the annual Iron Viz competition.\n\n\n\nYou can listen to our feedback here:\n\n\n\n\n\nWe reviewed the vizzes in alphabetical order (by authors first name) to make it easier to jump straight to the feedback for your viz.\n\n\n\nIn this video we cover vizzes by the following authors:\n\n\n\nAdiAlexis BernardAlice McKnightAlisha DhillonAman GulatiBechor BarouchChristos NikolisDan ChissickFred NajjarGauri RajgopalJagruthi MothukuriJessica UwoghirenJon CusackMahfooj KhanMateusz KarmalskiMichelle FraymanNicolas MieszalyOlushola OlojoRyan HartSarah MooreSekou TylerSimon Rowesoha elghanyWendy ShijiaZainab Ayodimeji\n\n\n\nViz Highlights\n\n\n\nHere are a few of our favourite entries this month.&nbsp;These are grouped into themes or subject areas. We&rsquo;ve intentionally picked some visualisations that you may have otherwise missed.\n\n\n\nClick on the viz images to view the originals on Tableau Public.\n\n\n\nHistorical Events\n\n\n\nAlisha Dhillon &ndash; The Black Death\n\n\n\nIn this viz, Alisha covers the story of the &lsquo;The Black Death&rsquo; &ndash; an epidemic of bubonic plague which spread from China, across Europe and to the British Isles from 1346 to 1352. Alisha&rsquo;s viz is well-balanced with a nice combination of data viz, imagery and supporting text to help describe the causes, the path and the consequences of the plague. \n\n\n\nAlisha incorporates a simple colour palette of predominately black, white and grey, with subtle highlights shown in red or blue. She also uses annotation and shading to highlight key data points and imagery to support the overall story. \n\n\n\n\n\n\n\nFred Najjar &ndash; The History of The Nobel Prize (1901-2020)\n\n\n\nIn this long form viz, Fred explores the history behind The Nobel Prize; an annual award for outstanding intellectual achievements in Physics, Chemistry, Physiology or Medicine, Literature, Peace, and Economics. Fred explores data from when the prize started in 1901, right through to the present day. He explores the data to analyse the gender and age mix of &lsquo;The Laureates&rsquo; (recipients), determining that prize recipients are far more likely to be male and aged over 61 years of age. Fred also looks at the origin of laureates to determine their background in terms of both field of work\/study and country of origin. His innovative application of a Sankey diagram with straight lines helps to show the relationship between both of these data points, whilst shading is applied to highlight the most common routes. \n\n\n\nI like how Fred has incorporated an incredible variety of analysis into his viz using compact, yet concise charts that complement each other and surface interesting insights and help to tell a compelling story. For example, the combination of a heatmap and step line chart (see below) highlights both the upward trend in laureates from the U.S. (or of American nationality at the time of the award), whilst also showing the prize categories where U.S. laureates dominate and how the trends have changed over time.\n\n\n\n\n\n\n\nIf we look closely, we can see Fred has designed the viz using a 3-column grid. This approach helps to ensure consistency throughout the viz (something which can be quite tricky with long form vizzes), but also helps to hold the individual elements together and achieve effective hierarchy and alignment.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimon Rowe &ndash; The Great Fire of London\n\n\n\n(accompanying blog post here)\n\n\n\nIn this viz, Simon documents the spread of the &lsquo;Great Fire of London&rsquo; of 1666 using a series of three maps and a timeline. In his blog post, Simon wrote that he wanted to achieve two things with the maps; (1) make them look like they were old and (2), allow him to draw the fire and points of interest. Simon utilised Mapbox Studio to create a custom old-looking map which he brought into Tableau. He then drew the location of the fire on top of the map using polygons, adding key landmarks for context. This approach really helped to bring the story to life, especially for those who are familiar with the area. \n\n\n\nI love the overall old looking design which Simon created here. It can be quite difficult to incorporate maps and other modern elements into an old-style design but everything works seamlessly in this viz, right from the font choices to the &lsquo;burnt&rsquo; border.\n\n\n\n\n\n\n\nZainab Ayodimeji &ndash; Beychella\n\n\n\nIn 2018, Beyonce became the first African-American woman to headline &lsquo;Coachella&rsquo; (Valley Music and Arts Festival). Nicknamed &lsquo;Beychella&rsquo; by her fans, her performance immediately received widespread critical acclaim. It paid tribute to the culture of historically black colleges and universities (HBCU&rsquo;s) in the United States, featuring a full marching band and majorette dancers. Many of the performances were also influenced by black feminism, sampling black authors and featuring on-stage appearances by fellow Destiny&rsquo;s Child members Kelly Rowland and Michelle Williams, her husband Jay-Z, and her sister Solange Knowles.  In this viz, Zainab uses Beyonce&rsquo;s iconic performance as a conversation starter to explore both the history of headline acts at Coachella by gender (her analysis discovering that only four solo female artists have headlined the festival since it began in 1999), a…",
+                "fallback": "Sarah Loves Data Link: Iron Quest History &#8211;&nbsp;Recap",
+                "from_url": "https:\/\/sarahlovesdata.co.uk\/2021\/05\/11\/iron-quest-history-recap\/",
+                "service_icon": "https:\/\/s2.wp.com\/i\/webclip.png",
+                "id": 1,
+                "original_url": "https:\/\/sarahlovesdata.co.uk\/2021\/05\/11\/iron-quest-history-recap\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lF+rQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sarahlovesdata.co.uk\/2021\/05\/11\/iron-quest-history-recap\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "617edfa4-2636-4980-bff4-10346ce37d79",
+        "type": "message",
+        "text": "some inspiration here for final project visualisation i hope !:arrow_up:",
+        "user": "U01RW140HBP",
+        "ts": "1620814008.002400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r0x6Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "some inspiration here for final project visualisation i hope !"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a1e6ff61-2357-4127-8e76-6bb599ada7e6",
+        "type": "message",
+        "text": "awesome ted talk -art and data meet, Machine learning making sculpture, wind data paintings, data as pigment… wow  - <https:\/\/www.youtube.com\/watch?v=UxQDG6WQT5s>",
+        "user": "U01RW140HBP",
+        "ts": "1620814709.003700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Art in the age of machine intelligence | Refik Anadol",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=UxQDG6WQT5s",
+                "author_name": "TED",
+                "author_link": "https:\/\/www.youtube.com\/user\/TEDtalksDirector",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/UxQDG6WQT5s\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Art in the age of machine intelligence | Refik Anadol",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/UxQDG6WQT5s?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=UxQDG6WQT5s",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=UxQDG6WQT5s"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "As1DV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "awesome ted talk -art and data meet, Machine learning making sculpture, wind data paintings, data as pigment… wow  - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=UxQDG6WQT5s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

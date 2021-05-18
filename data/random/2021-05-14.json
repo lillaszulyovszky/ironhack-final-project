@@ -1,0 +1,590 @@
+[
+    {
+        "client_msg_id": "074de384-c5f9-4d36-835b-773f5714e70c",
+        "type": "message",
+        "text": "<https:\/\/www.insidehook.com\/article\/booze\/why-non-alcoholic-spirits-expensive> - mentally makes a post it for my next round of project briefs",
+        "user": "U01RW140HBP",
+        "ts": "1620984799.001100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "InsideHook",
+                "title": "Why Are Non-Alcoholic Spirits So Expensive?",
+                "title_link": "https:\/\/www.insidehook.com\/article\/booze\/why-non-alcoholic-spirits-expensive",
+                "text": "We explain why a booze-free spirit costs as much (or more than) its alcoholic counterpart.",
+                "fallback": "InsideHook: Why Are Non-Alcoholic Spirits So Expensive?",
+                "image_url": "https:\/\/www.insidehook.com\/wp-content\/uploads\/2021\/05\/Cost-of-Non-Alcoholic-Spirits-3.jpg?resize=1200,800",
+                "image_width": 375,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Est. reading time",
+                        "value": "6 minutes",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.insidehook.com\/article\/booze\/why-non-alcoholic-spirits-expensive",
+                "image_bytes": 324890,
+                "service_icon": "https:\/\/www.insidehook.com\/wp-content\/uploads\/2020\/08\/cropped-InsideHook_Logo_2020_Favicon-1.jpg?fit=180%2C180",
+                "id": 1,
+                "original_url": "https:\/\/www.insidehook.com\/article\/booze\/why-non-alcoholic-spirits-expensive"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C6SP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.insidehook.com\/article\/booze\/why-non-alcoholic-spirits-expensive"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - mentally makes a post it for my next round of project briefs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U01SK96QF5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "oh well leute, it’s been nice knowing you :wave:",
+        "files": [
+            {
+                "id": "F021Y2RBNRH",
+                "created": 1620996224,
+                "timestamp": 1620996224,
+                "name": "Screenshot 2021-05-14 at 14.43.29.png",
+                "title": "Screenshot 2021-05-14 at 14.43.29.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7KCL3DF",
+                "editable": false,
+                "size": 60245,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021Y2RBNRH\/screenshot_2021-05-14_at_14.43.29.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F021Y2RBNRH\/download\/screenshot_2021-05-14_at_14.43.29.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Y2RBNRH-9f97123370\/screenshot_2021-05-14_at_14.43.29_64.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Y2RBNRH-9f97123370\/screenshot_2021-05-14_at_14.43.29_80.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Y2RBNRH-9f97123370\/screenshot_2021-05-14_at_14.43.29_360.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_360_w": 360,
+                "thumb_360_h": 126,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Y2RBNRH-9f97123370\/screenshot_2021-05-14_at_14.43.29_480.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "thumb_480_w": 480,
+                "thumb_480_h": 168,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F021Y2RBNRH-9f97123370\/screenshot_2021-05-14_at_14.43.29_160.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2",
+                "original_w": 644,
+                "original_h": 225,
+                "thumb_tiny": "AwAQADDQYjd\/F+FNyPV6CGMh+UbccHNLtPp+tAC7\/Y\/lShs+v4im7T\/d\/Wl24\/hBoAHcJjOTn0pBICRwefaq2oMUEe1SeT0qrC7NPH+7I+YdVoA\/\/9k=",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01S7KCL3DF\/F021Y2RBNRH\/screenshot_2021-05-14_at_14.43.29.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F021Y2RBNRH-9d5e52f3be",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I59",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh well leute, it’s been nice knowing you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01S7KCL3DF",
+        "display_as_bot": false,
+        "ts": "1620996237.002000",
+        "thread_ts": "1620996237.002000",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1620999991.003300",
+        "reply_users": [
+            "U01RRV4JX6Z",
+            "U01SJKB2MG8",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620996466.002300"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620996522.002500"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1620999678.002900"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1620999900.003100"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1620999991.003300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4159a42f-5179-441e-a432-21c6dfd51a7c",
+        "type": "message",
+        "text": "We will have to overthrow capitalism if it comes so far :joy::joy::joy::joy:",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620996466.002300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n2o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We will have to overthrow capitalism if it comes so far "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620996237.002000",
+        "parent_user_id": "U01S7KCL3DF",
+        "reactions": [
+            {
+                "name": "fist",
+                "users": [
+                    "U01S7KCL3DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09d596f7-61ef-4943-8ba8-f7f4b22f4254",
+        "type": "message",
+        "text": "Or we will become these guys_: <https:\/\/www.youtube.com\/watch?v=toL1tXrLA1c>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620996522.002500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Southpark - They Took Our Jobs!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=toL1tXrLA1c",
+                "author_name": "veryhungryjellybaby",
+                "author_link": "https:\/\/www.youtube.com\/user\/veryhungryjellybaby",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/toL1tXrLA1c\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Southpark - They Took Our Jobs!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/toL1tXrLA1c?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=toL1tXrLA1c",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=toL1tXrLA1c"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4=U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or we will become these guys_: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=toL1tXrLA1c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620996237.002000",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "b2a67d41-2013-486b-a372-bed9a59fdf49",
+        "type": "message",
+        "text": "TODAY'S HIGHLIGHTS",
+        "user": "U01SJKB2MG8",
+        "ts": "1620999678.002900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VDuQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TODAY'S HIGHLIGHTS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620996237.002000",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "4334be6d-4378-48c2-b8c4-4e88ddeee713",
+        "type": "message",
+        "text": "... but that presumes that AI also *cleans* the data, before it trains itself with it. In no reality is this conceivable.",
+        "user": "U01SJKB2MG8",
+        "ts": "1620999900.003100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JMR4t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "... but that presumes that AI also "
+                            },
+                            {
+                                "type": "text",
+                                "text": "cleans",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " the data, before it trains itself with it. In no reality is this conceivable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620996237.002000",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "3b1e1ca6-b89a-465a-ac3a-20ad515cc47f",
+        "type": "message",
+        "text": "that’s what they said about SkyNet",
+        "user": "U01S7KCL3DF",
+        "ts": "1620999991.003300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sj+ZW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that’s what they said about SkyNet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620996237.002000",
+        "parent_user_id": "U01S7KCL3DF"
+    },
+    {
+        "client_msg_id": "3578d09a-d40a-4482-a0a3-ea7cf1041de8",
+        "type": "message",
+        "text": "Seems good. Routledge is a reputed publisher, at least in the field of Economics. <@U01SK96QF5E>, you can add it to that pile of yours....<https:\/\/www.routledge.com\/A-Tour-of-Data-Science-Learn-R-and-Python-in-Parallel\/Zhang\/p\/book\/9780367895860?utm_source=facebook&amp;utm_medium=social&amp;utm_term=ad&amp;utm_campaign=B013399_nb1_5ll_5ec_d769_keybook%7Catourofdatascience%7Cedgelllq2&amp;fbclid=IwAR13QoGRwRfYY4hdUfwNDrw8tCpDdj-oXjrJcpZXEM8xnfOPyq_w9erHdCs|https:\/\/www.routledge.com\/A-Tour-of-Data-Science-Learn-R-and-Python-in-Parallel\/Zhang\/p\/book\/9780367895860?utm_source=facebook&amp;utm_medium=social&amp;utm_term=ad&amp;utm_campaign=B013399_nb1_5ll_5ec_d769_keybook%7Catourofdatascience%7Cedgelllq2&amp;fbclid=IwAR13QoGRwRfYY4hdUfwNDrw8tCpDdj-oXjrJcpZXEM8xnfOPyq_w9erHdCs>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1621013509.004300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Routledge &amp; CRC Press",
+                "title": "A Tour of Data Science: Learn R and Python in Parallel",
+                "title_link": "https:\/\/www.routledge.com\/A-Tour-of-Data-Science-Learn-R-and-Python-in-Parallel\/Zhang\/p\/book\/9780367895860?utm_source=facebook&utm_medium=social&utm_term=ad&utm_campaign=B013399_nb1_5ll_5ec_d769_keybook%7Catourofdatascience%7Cedgelllq2&fbclid=IwAR13QoGRwRfYY4hdUfwNDrw8tCpDdj-oXjrJcpZXEM8xnfOPyq_w9erHdCs",
+                "text": "A Tour of Data Science: Learn R and Python in Parallel covers the fundamentals of data science, including programming, statistics, optimization, and machine learning in a single short book. It does not cover everything, but rather, teaches the key concepts and topics in Data Science. It also covers two of the most popular programming languages used in Data Science, R and Python, in one source. Key features: Allows you to learn R and Python in parallel Cover statistics, programming, optimization",
+                "fallback": "Routledge &amp; CRC Press: A Tour of Data Science: Learn R and Python in Parallel",
+                "image_url": "https:\/\/images.routledge.com\/common\/jackets\/crclarge\/978036789\/9780367895860.jpg",
+                "from_url": "https:\/\/www.routledge.com\/A-Tour-of-Data-Science-Learn-R-and-Python-in-Parallel\/Zhang\/p\/book\/9780367895860?utm_source=facebook&utm_medium=social&utm_term=ad&utm_campaign=B013399_nb1_5ll_5ec_d769_keybook%7Catourofdatascience%7Cedgelllq2&fbclid=IwAR13QoGRwRfYY4hdUfwNDrw8tCpDdj-oXjrJcpZXEM8xnfOPyq_w9erHdCs",
+                "image_width": 180,
+                "image_height": 237,
+                "image_bytes": 54239,
+                "service_icon": "https:\/\/www.routledge.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.routledge.com\/A-Tour-of-Data-Science-Learn-R-and-Python-in-Parallel\/Zhang\/p\/book\/9780367895860?utm_source=facebook&amp;utm_medium=social&amp;utm_term=ad&amp;utm_campaign=B013399_nb1_5ll_5ec_d769_keybook%7Catourofdatascience%7Cedgelllq2&amp;fbclid=IwAR13QoGRwRfYY4hdUfwNDrw8tCpDdj-oXjrJcpZXEM8xnfOPyq_w9erHdCs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "leJuF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seems good. Routledge is a reputed publisher, at least in the field of Economics. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SK96QF5E"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", you can add it to that pile of yours...."
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.routledge.com\/A-Tour-of-Data-Science-Learn-R-and-Python-in-Parallel\/Zhang\/p\/book\/9780367895860?utm_source=facebook&utm_medium=social&utm_term=ad&utm_campaign=B013399_nb1_5ll_5ec_d769_keybook%7Catourofdatascience%7Cedgelllq2&fbclid=IwAR13QoGRwRfYY4hdUfwNDrw8tCpDdj-oXjrJcpZXEM8xnfOPyq_w9erHdCs",
+                                "text": "https:\/\/www.routledge.com\/A-Tour-of-Data-Science-Learn-R-and-Python-in-Parallel\/Zhang\/p\/book\/9780367895860?utm_source=facebook&utm_medium=social&utm_term=ad&utm_campaign=B013399_nb1_5ll_5ec_d769_keybook%7Catourofdatascience%7Cedgelllq2&fbclid=IwAR13QoGRwRfYY4hdUfwNDrw8tCpDdj-oXjrJcpZXEM8xnfOPyq_w9erHdCs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01SK96QF5E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca2b741e-38d0-4b2f-8380-2ad8d4ebd747",
+        "type": "message",
+        "text": "<@U01RW140HBP> This also sounds like a cool title. At least if you still have hopes of changing the world with data... <https:\/\/www.palgrave.com\/de\/book\/9783319783185?utm_source=facebook&amp;utm_medium=display&amp;utm_content=productviewers&amp;utm_campaign=3_jpp1963_eur_catalogue_palgrave_study21&amp;token=study21&amp;fbclid=IwAR12EZusyaNmNgZIju2y5hkImi5JIIAjdfsqq69z6FCgBfvzVlUul48bCgY#aboutAuthors|https:\/\/www.palgrave.com\/de\/book\/9783319783185?utm_source=facebook&amp;utm_medium=display[…]wAR12EZusyaNmNgZIju2y5hkImi5JIIAjdfsqq69z6FCgBfvzVlUul48bCgY>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1621016305.005600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RRV4JX6Z",
+            "ts": "1621016372.000000"
+        },
+        "attachments": [
+            {
+                "title": "Data Activism and Social Change | Miren Gutiérrez | Palgrave Macmillan",
+                "title_link": "https:\/\/www.palgrave.com\/de\/book\/9783319783185?utm_source=facebook&utm_medium=display&utm_content=productviewers&utm_campaign=3_jpp1963_eur_catalogue_palgrave_study21&token=study21&fbclid=IwAR12EZusyaNmNgZIju2y5hkImi5JIIAjdfsqq69z6FCgBfvzVlUul48bCgY#aboutAuthors",
+                "text": "This book contributes to our understanding of the interplay between data, technology and communicative practice....",
+                "fallback": "Data Activism and Social Change | Miren Gutiérrez | Palgrave Macmillan",
+                "from_url": "https:\/\/www.palgrave.com\/de\/book\/9783319783185?utm_source=facebook&utm_medium=display&utm_content=productviewers&utm_campaign=3_jpp1963_eur_catalogue_palgrave_study21&token=study21&fbclid=IwAR12EZusyaNmNgZIju2y5hkImi5JIIAjdfsqq69z6FCgBfvzVlUul48bCgY#aboutAuthors",
+                "service_icon": "https:\/\/www.palgrave.com\/favicon.ico",
+                "service_name": "palgrave.com",
+                "id": 1,
+                "original_url": "https:\/\/www.palgrave.com\/de\/book\/9783319783185?utm_source=facebook&amp;utm_medium=display&amp;utm_content=productviewers&amp;utm_campaign=3_jpp1963_eur_catalogue_palgrave_study21&amp;token=study21&amp;fbclid=IwAR12EZusyaNmNgZIju2y5hkImi5JIIAjdfsqq69z6FCgBfvzVlUul48bCgY#aboutAuthors"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2C1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RW140HBP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This also sounds like a cool title. At least if you still have hopes of changing the world with data... "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.palgrave.com\/de\/book\/9783319783185?utm_source=facebook&utm_medium=display&utm_content=productviewers&utm_campaign=3_jpp1963_eur_catalogue_palgrave_study21&token=study21&fbclid=IwAR12EZusyaNmNgZIju2y5hkImi5JIIAjdfsqq69z6FCgBfvzVlUul48bCgY#aboutAuthors",
+                                "text": "https:\/\/www.palgrave.com\/de\/book\/9783319783185?utm_source=facebook&utm_medium=display[…]wAR12EZusyaNmNgZIju2y5hkImi5JIIAjdfsqq69z6FCgBfvzVlUul48bCgY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01RW140HBP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,415 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621173004.000200",
+        "user": "U01SJKB2MG8",
+        "text": "<@U01SJKB2MG8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1621173004.000300",
+        "user": "U01SJKB2MG8",
+        "text": "<@U01SJKB2MG8> set the channel description: Flo's standup group for the final projects",
+        "purpose": "Flo's standup group for the final projects"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621173128.000500",
+        "user": "U01S7BM4N81",
+        "text": "<@U01S7BM4N81> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621173128.000700",
+        "user": "U01S7KCL3DF",
+        "text": "<@U01S7KCL3DF> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621173128.000900",
+        "user": "U01SK96QF5E",
+        "text": "<@U01SK96QF5E> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621173128.001100",
+        "user": "U01RRV4JX6Z",
+        "text": "<@U01RRV4JX6Z> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621173156.001400",
+        "user": "U01RV3K524T",
+        "text": "<@U01RV3K524T> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621173156.001600",
+        "user": "U01RVSTNRRT",
+        "text": "<@U01RVSTNRRT> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621173156.001800",
+        "user": "U01S79YDELR",
+        "text": "<@U01S79YDELR> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621173157.002000",
+        "user": "U01S0P26NKD",
+        "text": "<@U01S0P26NKD> has joined the channel",
+        "inviter": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "7de7ab3e-11fd-45a2-8bbd-d074db92ccb4",
+        "type": "message",
+        "text": "Alright rebels! First standup will be tomorrow, Monday, 10:15 am. We will meet in one of the breakout rooms (to be anounced which). Have a nice rest weekend!",
+        "user": "U01SJKB2MG8",
+        "ts": "1621173313.003300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m0AW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alright rebels! First standup will be tomorrow, Monday, 10:15 am. We will meet in one of the breakout rooms (to be anounced which). Have a nice rest weekend!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01S0P26NKD",
+                    "U01SK96QF5E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "may the force",
+        "user": "U01SJKB2MG8",
+        "ts": "1621173354.003500",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "lzDRC",
+                "image_url": "https:\/\/media0.giphy.com\/media\/l1AsJoOWnvy0CuyFq\/giphy.gif?cid=6104955eb57793e891442f5ef368aed7adc6ccb2e6a41652&rid=giphy.gif&ct=g&cid=6104955eb57793e891442f5ef368aed7adc6ccb2e6a41652&rid=giphy.gif&ct=g",
+                "alt_text": "may the force",
+                "title": {
+                    "type": "plain_text",
+                    "text": "may the force",
+                    "emoji": true
+                },
+                "fallback": "480x206px image",
+                "image_width": 480,
+                "image_height": 206,
+                "image_bytes": 1721139,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "kYtc",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/starwars\/|Star Wars>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A7A5BE0C-E94D-44FE-9552-636EC0F061B7",
+        "type": "message",
+        "text": "I like the time a lot :rocket:",
+        "user": "U01S7BM4N81",
+        "ts": "1621173442.003900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "2adfc641e87e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-16\/1994438084416_2adfc641e87e3a953d9c_72.png",
+            "first_name": "Thamo",
+            "real_name": "Thamo",
+            "display_name": "Thamo",
+            "team": "T01RBRV5F7H",
+            "name": "thamokoeper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Ah",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like the time a lot "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27887501-488b-4348-966d-e2430ec6757f",
+        "type": "message",
+        "text": "Remember the three questions for our standups:\n• what is my state of work? If you work with a kanban board, you can show it\n• do I have any major blockers?\n• What am I intending to work on today?\nNo fancy presentation by everyone, just a casual 1 min information you will give to the group.\nSee you tomorrow!",
+        "user": "U01SJKB2MG8",
+        "ts": "1621173747.006300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eoy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Remember the three questions for our standups:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "what is my state of work? If you work with a kanban board, you can show it"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "do I have any major blockers?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What am I intending to work on today?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No fancy presentation by everyone, just a casual 1 min information you will give to the group.\nSee you tomorrow!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621173747.006300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1621233332.000100",
+        "reply_users": [
+            "U01S7KCL3DF",
+            "U01SJKB2MG8"
+        ],
+        "replies": [
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1621176033.006600"
+            },
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1621233332.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a2b9430f-5d6b-4245-888d-ad6b62329a7a",
+        "type": "message",
+        "text": "oohhh we give to the group, not one on one? :eyes:",
+        "user": "U01S7KCL3DF",
+        "ts": "1621176033.006600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Q+4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oohhh we give to the group, not one on one? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621173747.006300",
+        "parent_user_id": "U01SJKB2MG8"
+    },
+    {
+        "client_msg_id": "2386ba92-9990-41dd-8fa3-61b8fbf2bb5c",
+        "type": "message",
+        "text": "Group, yes. The idea is to discover any common blockers and solutions that someone else already found. Don't overthink it. It can be done in 10 minutes :wink:",
+        "user": "U01SJKB2MG8",
+        "ts": "1621233332.000100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eQcbj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Group, yes. The idea is to discover any common blockers and solutions that someone else already found. Don't overthink it. It can be done in 10 minutes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621173747.006300",
+        "parent_user_id": "U01SJKB2MG8"
+    }
+]

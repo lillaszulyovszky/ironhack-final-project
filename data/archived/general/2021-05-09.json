@@ -1,0 +1,1538 @@
+[
+    {
+        "client_msg_id": "2d1b171f-ab27-4a43-a0b7-0ecabcfc3294",
+        "type": "message",
+        "text": "Hang told me to add it in education",
+        "user": "U01S79YDELR",
+        "ts": "1620547226.000300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8oy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hang told me to add it in education"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620487707.038600",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "a3c6083b-3a42-43a0-a621-bd32e26972d2",
+        "type": "message",
+        "text": "What improved my score was adding metrics of achievements. And using synonyms with stronger verbs.",
+        "user": "U01S79YDELR",
+        "ts": "1620547261.000500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1620547336.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wr=L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What improved my score was adding metrics of achievements. And using synonyms with stronger verbs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620487707.038600",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "ec4aa0c0-53f5-4e94-9080-2e98ec280b3d",
+        "type": "message",
+        "text": "I feel like a slave to this dumb Resume Worded algorithm. It simply doesn't like the format I chose and i had to stick to a very lean one column CV. Imagine in the future, when much more serious decisions will be made by algorithms with serious flaws like this.",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620574079.002200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pRRNj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel like a slave to this dumb Resume Worded algorithm. It simply doesn't like the format I chose and i had to stick to a very lean one column CV. Imagine in the future, when much more serious decisions will be made by algorithms with serious flaws like this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "reply_count": 31,
+        "reply_users_count": 2,
+        "latest_reply": "1620584657.009100",
+        "reply_users": [
+            "U01S79YDELR",
+            "U01RRV4JX6Z"
+        ],
+        "replies": [
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620574241.002300"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620574320.002500"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620574328.002700"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620574344.002900"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620574380.003100"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620574424.003300"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620574460.003500"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620574474.003700"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620574535.003900"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620578252.004100"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620578767.004800"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620578816.005100"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620578882.005300"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620579074.005500"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620579512.005800"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620579647.006000"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620579650.006200"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620579780.006400"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620580222.006700"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620580299.006900"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620580652.007100"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620580675.007300"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620580708.007500"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620580820.007700"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620581051.007900"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620583131.008100"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620583234.008300"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620583295.008500"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620584051.008700"
+            },
+            {
+                "user": "U01RRV4JX6Z",
+                "ts": "1620584087.008900"
+            },
+            {
+                "user": "U01S79YDELR",
+                "ts": "1620584657.009100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0aac10ae-ccff-47cf-bb2a-69a34819375b",
+        "type": "message",
+        "text": "Francisco, we have to remove the fancy\/beautiful format before upload there.",
+        "user": "U01S79YDELR",
+        "ts": "1620574241.002300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Daw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Francisco, we have to remove the fancy\/beautiful format before upload there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "39e4728b-90f7-4d84-b149-74d765ca544a",
+        "type": "message",
+        "text": "Ah, ok!",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620574320.002500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7YE+G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, ok!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "4ee51612-754e-49c8-83f4-8270b097b4f8",
+        "type": "message",
+        "text": "I just copied each session. without any table, just text. Like the examples (models) in the website",
+        "user": "U01S79YDELR",
+        "ts": "1620574328.002700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hjI0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just copied each session. without any table, just text. Like the examples (models) in the website"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "b17119d9-9d3e-41ef-b4de-207edada3a3d",
+        "type": "message",
+        "text": "Yeah, I did this. It has improved, but not quiet there in the 70% mark",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620574344.002900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BooPC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, I did this. It has improved, but not quiet there in the 70% mark"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "2cfa7355-ae1c-4908-9ff9-fda495b50267",
+        "type": "message",
+        "text": "Did you put career mid level?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620574380.003100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F9WIK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did you put career mid level?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "a10a43cc-3a19-4f4b-a9d8-f60a5cca2ee2",
+        "type": "message",
+        "text": "take a look in each feature you need most to improve and expand to check what you can make to improve",
+        "user": "U01S79YDELR",
+        "ts": "1620574424.003300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W4g\/R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "take a look in each feature you need most to improve and expand to check what you can make to improve"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "5e8e90ae-3423-4b75-aa8b-f0b2c9c7a870",
+        "type": "message",
+        "text": "I put first as junior, later as mid. I had better score using  mid.",
+        "user": "U01S79YDELR",
+        "ts": "1620574460.003500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X8\/b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I put first as junior, later as mid. I had better score using  mid."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "5779ba8f-0a6a-4f01-a985-1fe4fa84e083",
+        "type": "message",
+        "text": "Which one do we have to submit?",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620574474.003700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N=X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Which one do we have to submit?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "30cc2f8e-4e93-43d4-bacf-4149e3601482",
+        "type": "message",
+        "text": "I choose when evaluating, but inside my CV I just put data analyst\/researcher",
+        "user": "U01S79YDELR",
+        "ts": "1620574535.003900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vHF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I choose when evaluating, but inside my CV I just put data analyst\/researcher"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "7589d196-2aaf-4011-bb0e-2e7fb31d10f3",
+        "type": "message",
+        "text": "Could you solve  the problem of the language in Linkedin?",
+        "user": "U01S79YDELR",
+        "ts": "1620578252.004100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qGM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could you solve  the problem of the language in Linkedin?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "633d68db-3a2d-47ab-8d37-d1813d08c96c",
+        "type": "message",
+        "text": "No... But I reached the 70% mark regardless...",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620578767.004800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BFydw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No... But I reached the 70% mark regardless..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "94b98d00-6bbf-4e80-bf35-99819047ddf6",
+        "type": "message",
+        "text": "But many people have this problem, right? This must be a bug so expensive to solve that they prefer to leave it that way",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620578816.005100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wk=P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But many people have this problem, right? This must be a bug so expensive to solve that they prefer to leave it that way"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "949bc67d-40fc-40b4-9608-5f1ac66a93dc",
+        "type": "message",
+        "text": "I should have contacted Hang regarding this issue, but it is also my fault that I \"deixei tudo pra ultima hora\", like a good Brazilian",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620578882.005300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FBxf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I should have contacted Hang regarding this issue, but it is also my fault that I \"deixei tudo pra ultima hora\", like a good Brazilian"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "0849b62f-90bb-4952-b917-a7197820ff58",
+        "type": "message",
+        "text": "I am facing this issue. I can’t change part of the printed linked to english. I couldn’t achieve 70% in linkedin yet… boringgg",
+        "user": "U01S79YDELR",
+        "ts": "1620579074.005500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01S79YDELR",
+            "ts": "1620579082.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q=U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am facing this issue. I can’t change part of the printed linked to english. I couldn’t achieve 70% in linkedin yet… boringgg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "0167a2eb-d0fb-4891-8021-d518af763bf1",
+        "type": "message",
+        "text": "My trick was to put Ironhack as experience. This is what Alex did, for example: <https:\/\/www.linkedin.com\/in\/alexandre-sommerkamp-b272766b\/>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620579512.005800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4J\/j6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My trick was to put Ironhack as experience. This is what Alex did, for example: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/alexandre-sommerkamp-b272766b\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "ac15711d-cbfc-4270-90ae-3371cf3eab26",
+        "type": "message",
+        "text": "Resumeworded recommends you to put something that you are doing as a freelancer when you are unemployed. I think that the Ironhack experience qualifies as that because we are doing a lot of stuff for our Github and Tableau accounts, which employed people also do.",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620579647.006000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmNyW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Resumeworded recommends you to put something that you are doing as a freelancer when you are unemployed. I think that the Ironhack experience qualifies as that because we are doing a lot of stuff for our Github and Tableau accounts, which employed people also do."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "81988f89-d96f-4e34-86ce-2f1d5a97206a",
+        "type": "message",
+        "text": "This is \"work\"",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620579650.006200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9oyU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is \"work\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "a6a6c1f8-f9af-413a-a930-54dd6bbbe7a8",
+        "type": "message",
+        "text": "Like this guy puts it, it is important to constantly do work on your own interest, even if you don't make money: <https:\/\/towardsdatascience.com\/why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b?source=email-ee2d1c23f92a-1620531849390-digest.reader-7f60cf5620c9-7b93b3b8153b----0-73------------------a49ed00a_c54d_4a43_93e1_a79587f9f3ae-1-1f9fa6ee_568b_42d6_9a79_c2fe4f976b34|https:\/\/towardsdatascience.com\/why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b[…]_93e1_a79587f9f3ae-1-1f9fa6ee_568b_42d6_9a79_c2fe4f976b34>",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620579780.006400",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Why I Stopped Applying For Data Science Jobs",
+                "title_link": "https:\/\/towardsdatascience.com\/why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b?source=email-ee2d1c23f92a-1620531849390-digest.reader-7f60cf5620c9-7b93b3b8153b----0-73------------------a49ed00a_c54d_4a43_93e1_a79587f9f3ae-1-1f9fa6ee_568b_42d6_9a79_c2fe4f976b34",
+                "text": "And Why You Should Consider Following Suit",
+                "fallback": "Medium: Why I Stopped Applying For Data Science Jobs",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/0*PEP5fb8Hx3ir8NOF",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "8 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1618430227,
+                "from_url": "https:\/\/towardsdatascience.com\/why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b?source=email-ee2d1c23f92a-1620531849390-digest.reader-7f60cf5620c9-7b93b3b8153b----0-73------------------a49ed00a_c54d_4a43_93e1_a79587f9f3ae-1-1f9fa6ee_568b_42d6_9a79_c2fe4f976b34",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 144470,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/towardsdatascience.com\/why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b?source=email-ee2d1c23f92a-1620531849390-digest.reader-7f60cf5620c9-7b93b3b8153b----0-73------------------a49ed00a_c54d_4a43_93e1_a79587f9f3ae-1-1f9fa6ee_568b_42d6_9a79_c2fe4f976b34"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J11Lb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like this guy puts it, it is important to constantly do work on your own interest, even if you don't make money: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/towardsdatascience.com\/why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b?source=email-ee2d1c23f92a-1620531849390-digest.reader-7f60cf5620c9-7b93b3b8153b----0-73------------------a49ed00a_c54d_4a43_93e1_a79587f9f3ae-1-1f9fa6ee_568b_42d6_9a79_c2fe4f976b34",
+                                "text": "https:\/\/towardsdatascience.com\/why-i-stopped-applying-for-data-science-jobs-7b93b3b8153b[…]_93e1_a79587f9f3ae-1-1f9fa6ee_568b_42d6_9a79_c2fe4f976b34"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "6bfec11c-9073-47c7-89b4-1ab7b61e1120",
+        "type": "message",
+        "text": "ok, thanks. But I think it a bad practice… I don’t know it doesn’t recognise my bullets in experience",
+        "user": "U01S79YDELR",
+        "ts": "1620580222.006700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+HX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, thanks. But I think it a bad practice… I don’t know it doesn’t recognise my bullets in experience"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "a400b5f9-46ac-4348-bfd9-c88ab8e248e9",
+        "type": "message",
+        "text": "Yeah, its not ideal...",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620580299.006900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z5zM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, its not ideal..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "63a3d2b0-ae84-4b4e-8fc6-8d9289f63a92",
+        "type": "message",
+        "text": "ahhahha each time I check it shoes a different (worse) score… even when I change nothing…",
+        "user": "U01S79YDELR",
+        "ts": "1620580652.007100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YfrB+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahhahha each time I check it shoes a different (worse) score… even when I change nothing…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "fa5ff3cd-220d-4889-a63f-1485eccfc54f",
+        "type": "message",
+        "text": "But i find it very hard to circumvent it otherwise. For example, I cannot add many metrics because in my work experience did this not really exist...",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620580675.007300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s4WqV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But i find it very hard to circumvent it otherwise. For example, I cannot add many metrics because in my work experience did this not really exist..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "e32dfb02-880a-4fdf-b43f-df6e642a0486",
+        "type": "message",
+        "text": "I worked in a place that did not exactly \"maximise\" stuff. It was a lobbying think thank that did not have a profit goal",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620580708.007500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j32",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I worked in a place that did not exactly \"maximise\" stuff. It was a lobbying think thank that did not have a profit goal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "de490e59-cb4c-473e-a467-c5aa9d7eafef",
+        "type": "message",
+        "text": "The algorithm has its weaknesses.Knowing that there is this problem with linkedin and languages, there should be an option of manually assigning the name of sections..",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620580820.007700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sza7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The algorithm has its weaknesses.Knowing that there is this problem with linkedin and languages, there should be an option of manually assigning the name of sections.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "afbbab6e-2310-4ed7-85eb-360afaab8a95",
+        "type": "message",
+        "text": "Or Hang and the team should accept a 60% score for those cases",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620581051.007900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Lv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or Hang and the team should accept a 60% score for those cases"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "603e013d-7022-4ac7-a208-7d664f5c7a3b",
+        "type": "message",
+        "text": "true, the resumeworded has weaknesses and also the Linkedin. I would love to delete my Portuguese version. But it doesn’t let me do it.",
+        "user": "U01S79YDELR",
+        "ts": "1620583131.008100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lCPj+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "true, the resumeworded has weaknesses and also the Linkedin. I would love to delete my Portuguese version. But it doesn’t let me do it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "30442d34-f235-4862-b9a5-33782b59b372",
+        "type": "message",
+        "text": "I managed to achieve 71% adding something \/ project (vague) as a freelancer… This tool works better to CV.",
+        "user": "U01S79YDELR",
+        "ts": "1620583234.008300",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ort",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I managed to achieve 71% adding something \/ project (vague) as a freelancer… This tool works better to CV."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "e96f99b6-a78c-4658-b948-d74fba23bbab",
+        "type": "message",
+        "text": "I really don’t what other keywords they want in the summary",
+        "user": "U01S79YDELR",
+        "ts": "1620583295.008500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jd2K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I really don’t what other keywords they want in the summary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "f9325d25-b310-405a-93ca-967c9e74cc9e",
+        "type": "message",
+        "text": "Unfortunately i dont have it :(",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620584051.008700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WSCNX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unfortunately i dont have it :("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "e57944e3-7370-49a2-be75-caf0440efc87",
+        "type": "message",
+        "text": "Yes, i cannot \"invent\" keywords and metrics",
+        "user": "U01RRV4JX6Z",
+        "ts": "1620584087.008900",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "339c4d69b7d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-14\/1961122781618_339c4d69b7d9fe16343a_72.jpg",
+            "first_name": "",
+            "real_name": "Francisco Ebeling",
+            "display_name": "Francisco Ebeling",
+            "team": "T01RBRV5F7H",
+            "name": "ebelingbarros",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4yy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, i cannot \"invent\" keywords and metrics"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    },
+    {
+        "client_msg_id": "e985062b-0d58-4f0e-b349-d1d24fcf44a8",
+        "type": "message",
+        "text": "yes, me neither",
+        "user": "U01S79YDELR",
+        "ts": "1620584657.009100",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "606def897de6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1910932493456_606def897de66681d932_72.jpg",
+            "first_name": "",
+            "real_name": "Karina Condeixa",
+            "display_name": "Karina Condeixa",
+            "team": "T01RBRV5F7H",
+            "name": "karina.condeixa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wXQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, me neither"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574079.002200",
+        "parent_user_id": "U01RRV4JX6Z"
+    }
+]

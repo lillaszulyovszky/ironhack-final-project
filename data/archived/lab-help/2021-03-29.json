@@ -1,0 +1,205 @@
+[
+    {
+        "client_msg_id": "4ed0deeb-29c5-420b-a9e3-7f3434a3b3a4",
+        "type": "message",
+        "text": "anyone here struggling with regex? we are trying to use regex to extract keywords from the \"description\" column but maybe it's the wrong approach?",
+        "user": "U01RXCQHMHT",
+        "ts": "1617029234.007600",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "7290c61c38a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-22\/1898002028225_7290c61c38a01ad66680_72.jpg",
+            "first_name": "Thanh",
+            "real_name": "Thanh Tung Ha Thuc DAFT Berlin March 2021",
+            "display_name": "Tony Ha",
+            "team": "T01RBRV5F7H",
+            "name": "tony.hathuc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Crg5o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "anyone here struggling with regex? we are trying to use regex to extract keywords from the \"description\" column but maybe it's the wrong approach?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617029234.007600",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1617030897.008000",
+        "reply_users": [
+            "U01RW140HBP"
+        ],
+        "replies": [
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617030603.007700"
+            },
+            {
+                "user": "U01RW140HBP",
+                "ts": "1617030897.008000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8e6b5ef0-aa4f-490d-8ff6-9f9a29718df5",
+        "type": "message",
+        "text": "you can use a regex approach or a string approach\n<https:\/\/towardsdatascience.com\/extracting-information-from-a-text-in-5-minutes-using-r-regex-520a859590de> this might be useful on the regex approach",
+        "user": "U01RW140HBP",
+        "ts": "1617030603.007700",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Extracting Information from a Text in 5 Minutes Using R Regex",
+                "title_link": "https:\/\/towardsdatascience.com\/extracting-information-from-a-text-in-5-minutes-using-r-regex-520a859590de",
+                "text": "When you have a large volume of text files, extracting only relevant information is not so easy. For this reason, I want to show you how I…",
+                "fallback": "Medium: Extracting Information from a Text in 5 Minutes Using R Regex",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/1*nwK6Sznfn6T0lSZjWWbWLQ.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "3 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1585709246,
+                "from_url": "https:\/\/towardsdatascience.com\/extracting-information-from-a-text-in-5-minutes-using-r-regex-520a859590de",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 74357,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/towardsdatascience.com\/extracting-information-from-a-text-in-5-minutes-using-r-regex-520a859590de"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "maotk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can use a regex approach or a string approach\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/towardsdatascience.com\/extracting-information-from-a-text-in-5-minutes-using-r-regex-520a859590de"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this might be useful on the regex approach"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617029234.007600",
+        "parent_user_id": "U01RXCQHMHT"
+    },
+    {
+        "client_msg_id": "09b2163e-a3fd-4300-8f45-140ee763f4fa",
+        "type": "message",
+        "text": "a string approach could involve count, find, in <https:\/\/stackabuse.com\/python-check-if-string-contains-substring\/> might be easier",
+        "user": "U01RW140HBP",
+        "ts": "1617030897.008000",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "4c43a3a8d10b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-21\/1895736308209_4c43a3a8d10bc2fe5e13_72.png",
+            "first_name": "siand",
+            "real_name": "siand the LT (she\/her)",
+            "display_name": "siand the LT (she\/her)",
+            "team": "T01RBRV5F7H",
+            "name": "sian.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stack Abuse",
+                "title": "Python: Check if String Contains Substring",
+                "title_link": "https:\/\/stackabuse.com\/python-check-if-string-contains-substring\/",
+                "text": "In this article, we'll examine four ways to use Python to check whether a string contains a substring. Each has their own use-cases and pros\/cons, some of which we'll briefly cover here: 1) The in Operator The easiest way to check if a Python string contains a substring is to use the in operator. The in operator is used to check data structures for membership in Python. It returns a Boolean (either True or False) and can be used as follows: fullstring = \"StackAbuse\" substring = \"tack\" if",
+                "fallback": "Stack Abuse: Python: Check if String Contains Substring",
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Jacob Stopak",
+                        "short": true
+                    },
+                    {
+                        "title": "Filed under",
+                        "value": "python",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/stackabuse.com\/python-check-if-string-contains-substring\/",
+                "service_icon": "https:\/\/stackabuse.com\/assets\/images\/apple-touch-icon.png?v=c26dfc58dd",
+                "id": 1,
+                "original_url": "https:\/\/stackabuse.com\/python-check-if-string-contains-substring\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XD44",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a string approach could involve count, find, in "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stackabuse.com\/python-check-if-string-contains-substring\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " might be easier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617029234.007600",
+        "parent_user_id": "U01RXCQHMHT"
+    }
+]

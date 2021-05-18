@@ -1,0 +1,362 @@
+[
+    {
+        "type": "message",
+        "text": "<@U01SJKB2MG8> since when are you super famous?",
+        "files": [
+            {
+                "id": "F01TB68PKT3",
+                "created": 1617203271,
+                "timestamp": 1617203271,
+                "name": "Screenshot 2021-03-31 at 17.07.34.png",
+                "title": "Screenshot 2021-03-31 at 17.07.34.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01RSRE0N3D",
+                "editable": false,
+                "size": 79857,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TB68PKT3\/screenshot_2021-03-31_at_17.07.34.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01RBRV5F7H-F01TB68PKT3\/download\/screenshot_2021-03-31_at_17.07.34.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TB68PKT3-bb60fa7e2d\/screenshot_2021-03-31_at_17.07.34_64.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TB68PKT3-bb60fa7e2d\/screenshot_2021-03-31_at_17.07.34_80.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TB68PKT3-bb60fa7e2d\/screenshot_2021-03-31_at_17.07.34_360.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_360_w": 201,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TB68PKT3-bb60fa7e2d\/screenshot_2021-03-31_at_17.07.34_480.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "thumb_480_w": 268,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01RBRV5F7H-F01TB68PKT3-bb60fa7e2d\/screenshot_2021-03-31_at_17.07.34_160.png?t=xoxe-1861879185255-2047593969042-2053756158948-4cf6552631c579c36efd5d2fd242de30",
+                "original_w": 282,
+                "original_h": 506,
+                "thumb_tiny": "AwAwABqoke4ZLBR70+3UrdxA4PzDkU2OVQMOCecginwvvvIiBgAgCjUSvc16KKKBmPBEXJJQt7CpECLdxBVIO7moYp2iPyk06Bi95GT\/AHqdluTZ3NiiiikUZEMCsu5uc9qdHGI72IDoWqKKcxjbjI+tPhkMl5ET\/eGBTGa9FFFIR\/\/Z",
+                "permalink": "https:\/\/data-ft-ber-03-2021.slack.com\/files\/U01RSRE0N3D\/F01TB68PKT3\/screenshot_2021-03-31_at_17.07.34.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01RBRV5F7H-F01TB68PKT3-8878543e46",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gV6kR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01SJKB2MG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " since when are you super famous?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01RSRE0N3D",
+        "display_as_bot": false,
+        "ts": "1617204235.000600",
+        "thread_ts": "1617204235.000600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1617206087.002500",
+        "reply_users": [
+            "U01SJKB2MG8",
+            "U01S7KCL3DF"
+        ],
+        "replies": [
+            {
+                "user": "U01SJKB2MG8",
+                "ts": "1617204617.001800"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617205683.002200"
+            },
+            {
+                "user": "U01S7KCL3DF",
+                "ts": "1617206087.002500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617206087.002500"
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "it is over 9000",
+        "user": "U01RSRE0N3D",
+        "ts": "1617204243.000800",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "nwt",
+                "image_url": "https:\/\/media1.giphy.com\/media\/3ofSBysJvBwhmhF0Qw\/giphy.gif?cid=6104955ee2fb1bf928d50bcbb5223cabceed9ba43204e24d&rid=giphy.gif&ct=g",
+                "alt_text": "it is over 9000",
+                "title": {
+                    "type": "plain_text",
+                    "text": "it is over 9000",
+                    "emoji": true
+                },
+                "fallback": "480x270px image",
+                "image_width": 480,
+                "image_height": 270,
+                "image_bytes": 1137643,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "FpuY",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B01S7FSR36Y",
+        "type": "message",
+        "text": "influencer",
+        "user": "U01RW2X7S9Z",
+        "ts": "1617204263.001000",
+        "team": "T01RBRV5F7H",
+        "bot_profile": {
+            "id": "B01S7FSR36Y",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1616421896,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T01RBRV5F7H"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "6TMo",
+                "image_url": "https:\/\/media1.giphy.com\/media\/Lo6HRTkixND9x9FQIi\/giphy-downsized.gif?cid=6104955e53862584e60b8eb21081b984089fb49e2f8004b5&rid=giphy-downsized.gif&ct=g",
+                "alt_text": "influencer",
+                "title": {
+                    "type": "plain_text",
+                    "text": "influencer",
+                    "emoji": true
+                },
+                "fallback": "240x240px image",
+                "image_width": 240,
+                "image_height": 240,
+                "image_bytes": 1358179,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "98gy",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/cbc\/|CBC>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U01SJKB2MG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e61607a4-be86-48b4-b324-f2e0fb7c7d26",
+        "type": "message",
+        "text": "wait, you're not in @Freifahren_BE ? :sunglasses:",
+        "user": "U01SJKB2MG8",
+        "ts": "1617204617.001800",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "88fa894fdb53",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1885033153332_88fa894fdb5366452adf_72.jpg",
+            "first_name": "Florian",
+            "real_name": "Florian Titze",
+            "display_name": "Flo Titze",
+            "team": "T01RBRV5F7H",
+            "name": "florian.titze",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XLB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wait, you're not in @Freifahren_BE ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617204235.000600",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01RSRE0N3D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03d823cb-e068-4a2a-84ac-236f5268b46e",
+        "type": "message",
+        "text": "is that Telegram?",
+        "user": "U01S7KCL3DF",
+        "ts": "1617205683.002200",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E3U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is that Telegram?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617204235.000600",
+        "parent_user_id": "U01RSRE0N3D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSRE0N3D",
+                    "U01SJKB2MG8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68f818f7-2bbe-47ac-a026-bb9b22fef6cd",
+        "type": "message",
+        "text": "business is booming :smoking:",
+        "user": "U01S7KCL3DF",
+        "ts": "1617206087.002500",
+        "team": "T01RBRV5F7H",
+        "user_team": "T01RBRV5F7H",
+        "source_team": "T01RBRV5F7H",
+        "user_profile": {
+            "avatar_hash": "17b52091bb62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-19\/1875964347925_17b52091bb62c2340b4c_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Katterfield",
+            "display_name": "Sam",
+            "team": "T01RBRV5F7H",
+            "name": "samkatterfield",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bll",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "business is booming "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smoking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617204235.000600",
+        "parent_user_id": "U01RSRE0N3D"
+    }
+]

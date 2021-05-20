@@ -1,4 +1,4 @@
-channel_name,user,real_name,participant,text,text_length,reply_count,reply_users_count,replies_true,day_name,day_type,time,dayparts,day_number,month,reactions_count,reactions_name,link_of_file,files_true,link_of_attachments,attachments_true,reaction_true
+channel_name,user,real_name,participant,text,text_length,reply_count,reply_users_count,replies_true,day_name,day_type,time,dayparts,day_number,month,reactions_count,reactions_name,link_of_file,files_true,github_links,attachments_true,reaction_true
 general,U01S79YDELR,Karina Condeixa,student,Hang told me to add it in education,35,0,0,False,Sunday,Weekend,08:00,Morning,9,May,0,0,nofile,False,nolink,False,False
 general,U01S79YDELR,Karina Condeixa,student,What improved my score was adding metrics of achievements. And using synonyms with stronger verbs.,98,0,0,False,Sunday,Weekend,08:01,Morning,9,May,0,0,nofile,False,nolink,False,False
 general,U01RRV4JX6Z,Francisco Ebeling,student,"I feel like a slave to this dumb Resume Worded algorithm. It simply doesn't like the format I chose and i had to stick to a very lean one column CV. Imagine in the future, when much more serious decisions will be made by algorithms with serious flaws like this.",261,31,2,True,Sunday,Weekend,15:27,Afternoon,9,May,0,0,nofile,False,nolink,False,False
@@ -303,8 +303,8 @@ general,U01SK96QF5E,Lilla Szulyovszky,student,was just about to ask for the note
 general,U01RW140HBP,siand the LT (she/her),teacher,no prob!,8,0,0,False,Tuesday,Weekday,08:54,Morning,4,May,0,0,nofile,False,nolink,False,False
 general,U01RW140HBP,noname,student,updated <@U01SK96QF5E>,22,0,0,False,Tuesday,Weekday,08:55,Morning,4,May,0,0,https://files.slack.com/files-pri/T01RBRV5F7H-F020ZR4KBM2/8_02_multiple_page_scraping-wip.ipynb?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2,True,nolink,False,False
 general,U01SJKB2MG8,noname,student,First prototype lecture,23,0,0,False,Tuesday,Weekday,10:22,Morning,4,May,6,clap,https://files.slack.com/files-pri/T01RBRV5F7H-F020M51H1HC/8.03_first_prototype.ipynb?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2,True,nolink,False,True
-general,U01SK96QF5E,Lilla Szulyovszky,student,here that twitter api project: <https://github.com/lillaszulyovszky/udacity-project-twitter-dogswerate-analytics>,113,0,0,False,Tuesday,Weekday,10:46,Morning,4,May,1,ok_hand,nofile,False,<https://github.com/lillaszulyovszky/udacity-project-twitter-dogswerate-analytics|lillaszulyovszky/udacity-project-twitter-dogswerate-analytics>,True,True
-general,U01S79YDELR,Karina Condeixa,student,<https://github.com/KC2016/An_Analysis_of_the_WeRateDogs>,57,6,4,True,Tuesday,Weekday,10:47,Morning,4,May,1,+1,nofile,False,<https://github.com/KC2016/An_Analysis_of_the_WeRateDogs|KC2016/An_Analysis_of_the_WeRateDogs>,True,True
+general,U01SK96QF5E,Lilla Szulyovszky,student,here that twitter api project: <https://github.com/lillaszulyovszky/udacity-project-twitter-dogswerate-analytics>,113,0,0,False,Tuesday,Weekday,10:46,Morning,4,May,1,ok_hand,nofile,False,https://github.com/lillaszulyovszky/udacity-project-twitter-dogswerate-analytics,True,True
+general,U01S79YDELR,Karina Condeixa,student,<https://github.com/KC2016/An_Analysis_of_the_WeRateDogs>,57,6,4,True,Tuesday,Weekday,10:47,Morning,4,May,1,+1,nofile,False,https://github.com/KC2016/An_Analysis_of_the_WeRateDogs,True,True
 general,U01SK96QF5E,Lilla Szulyovszky,student,"haha you so cool, you did the same",34,0,0,False,Tuesday,Weekday,10:47,Morning,4,May,0,0,nofile,False,nolink,False,False
 general,U01S7KCL3DF,Sam Katterfield,student,you had me at ‘we rate dogs’ :smiling_face_with_3_hearts:,57,0,0,False,Tuesday,Weekday,10:48,Morning,4,May,0,0,nofile,False,nolink,False,False
 general,U01S79YDELR,Karina Condeixa,student,<https://github.com/KC2016/voice-enabled-chatbot/tree/master/microbots/covid19>,79,0,0,False,Tuesday,Weekday,10:52,Morning,4,May,0,0,nofile,False,nolink,False,False
@@ -317,7 +317,7 @@ general,U01SJKB2MG8,noname,student,"<!channel>,
 8.04 Intro to APIs notebook",39,0,0,False,Tuesday,Weekday,13:28,Afternoon,4,May,0,0,https://files.slack.com/files-pri/T01RBRV5F7H-F021J9TU2RW/gnod_1st_iteration.jpg?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2,True,nolink,False,False
 general,U01SJKB2MG8,Florian Titze,teacher,"<!channel>,
 don't forget to get a :spotify:  spotify account for tomorrow :slightly_smiling_face:
-<https://data-ft-ber-03-2021.slack.com/archives/C01RKRMS10W/p1620060662050400>",176,0,0,False,Tuesday,Weekday,16:18,Evening,4,May,0,0,nofile,False,Posted in #general,False,False
+<https://data-ft-ber-03-2021.slack.com/archives/C01RKRMS10W/p1620060662050400>",176,0,0,False,Tuesday,Weekday,16:18,Evening,4,May,0,0,nofile,False,nolink_infiles,False,False
 general,U01SJKB2MG8,noname,student,"<!channel>,
 Two things need to be done by you before or during (depeding on how quick you are with those things) Wednesday's lecture:
 
@@ -379,10 +379,10 @@ general,U01S79YDELR,Karina Condeixa,student,"Morning, folks. Who made the projec
 general,U01RKN0EGDV,Marian Moreno,student,the housing?,12,0,0,False,Thursday,Weekday,06:52,Early Morning,13,May,0,0,nofile,False,nolink,False,False
 general,U01RKN0EGDV,Marian Moreno,student,but was regression or?,22,0,0,False,Thursday,Weekday,06:52,Early Morning,13,May,0,0,nofile,False,nolink,False,False
 general,U01RKN0EGDV,Marian Moreno,student,i can do it,11,0,0,False,Thursday,Weekday,06:52,Early Morning,13,May,0,0,nofile,False,nolink,False,False
-general,U01RKN0EGDV,Marian Moreno,student,my project with antonio <https://github.com/marimor62/Midtermproject-Housing>,77,0,0,False,Thursday,Weekday,06:54,Early Morning,13,May,0,0,nofile,False,<https://github.com/marimor62/Midtermproject-Housing|marimor62/Midtermproject-Housing>,True,False
+general,U01RKN0EGDV,Marian Moreno,student,my project with antonio <https://github.com/marimor62/Midtermproject-Housing>,77,0,0,False,Thursday,Weekday,06:54,Early Morning,13,May,0,0,nofile,False,https://github.com/marimor62/Midtermproject-Housing,True,False
 general,U01S79YDELR,Karina Condeixa,student,"Yes, this",9,0,0,False,Thursday,Weekday,06:55,Early Morning,13,May,0,0,nofile,False,nolink,False,False
 general,U01S79YDELR,Karina Condeixa,student,"Thank you , Marian :heart_eyes:",31,0,0,False,Thursday,Weekday,06:55,Early Morning,13,May,0,0,nofile,False,nolink,False,False
-general,U01S7BM4N81,Thamo,student,Here you go: <https://github.com/Caparisun/Linear_Regression_Project>,69,0,0,False,Thursday,Weekday,06:56,Early Morning,13,May,1,+1,nofile,False,<https://github.com/Caparisun/Linear_Regression_Project|Caparisun/Linear_Regression_Project>,True,True
+general,U01S7BM4N81,Thamo,student,Here you go: <https://github.com/Caparisun/Linear_Regression_Project>,69,0,0,False,Thursday,Weekday,06:56,Early Morning,13,May,1,+1,nofile,False,https://github.com/Caparisun/Linear_Regression_Project,True,True
 general,U01S79YDELR,Karina Condeixa,student,"Thanks, Thamo",13,0,0,False,Thursday,Weekday,06:59,Early Morning,13,May,1,+1,nofile,False,nolink,False,True
 general,U01SJKB2MG8,Florian Titze,teacher,"<!channel>,
 Miro board: <https://miro.com/app/board/o9J_lKiEQO4=/>",66,0,0,False,Friday,Weekday,07:04,Early Morning,9,April,0,0,nofile,False,nolink_infiles,False,False
@@ -513,7 +513,7 @@ general,U01RW140HBP,siand the LT (she/her),teacher,"<!here> EASTER FUN - at 5pm 
 • if you have any arts and craft materials, paper/ pencils / pens - make sure you have them within your reach ",772,0,0,False,Friday,Weekday,08:15,Morning,2,April,2,cool-doge,nofile,False,nolink,False,True
 general,U01RW2X7S9Z,Alexandre Sommerkamp,student,not sure,8,0,0,False,Friday,Weekday,08:42,Morning,2,April,0,0,nofile,False,nolink,False,False
 general,U01RW140HBP,siand the LT (she/her),teacher,"Hello! the completed notebook from this mornings lecture is now up on Notion and on github for you
-<https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Class%20Materials/unit%202/day%205%20/Completed_ML_LR_Students.ipynb>",239,0,0,False,Friday,Weekday,11:20,Morning,2,April,2,hugging_face,nofile,False,<https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21|student-IH-labs-and-stuff/BER-DAFT-MAR21>,True,True
+<https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Class%20Materials/unit%202/day%205%20/Completed_ML_LR_Students.ipynb>",239,0,0,False,Friday,Weekday,11:20,Morning,2,April,2,hugging_face,nofile,False,https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Class%20Materials/unit%202/day%205%20/Completed_ML_LR_Students.ipynb,True,True
 general,U01SJKB2MG8,Florian Titze,teacher,"<!channel>, starting 3 pm I would be available in breakout room 10 for *SQL setup issues. cc <@U01RSRE0N3D>* *<@U01RW140HBP>* ",126,0,0,False,Friday,Weekday,12:55,Afternoon,2,April,5,+1,nofile,False,nolink,False,True
 general,U01RW140HBP,siand the LT (she/her),teacher,<!channel> while trying to get your mysql looking pretty … please everyone take 5 mins to do the SURVEY for this week,117,0,0,False,Friday,Weekday,13:08,Afternoon,2,April,3,white_check_mark,nofile,False,nolink,False,True
 general,U01RUTP1ZQB,Jonas Tonndorff,student,"<!channel> Hey everyone :slightly_smiling_face:
@@ -570,19 +570,19 @@ general,U01RW140HBP,noname,student,for context - it may be worth referring to th
 general,U01SD3CDH9P,Andrea Tognoli,student,"Hi guys, can someone share the link for the workshop, pls?",58,0,0,False,Wednesday,Weekday,16:15,Evening,14,April,0,0,nofile,False,nolink,False,False
 general,U01S7BM4N81,Thamo,student,<https://ironhack.zoom.us/j/99364585043>,40,0,0,False,Wednesday,Weekday,16:15,Evening,14,April,0,0,nofile,False,nolink,False,False
 general,U01SD3CDH9P,Andrea Tognoli,student,Thx:),5,0,0,False,Wednesday,Weekday,16:15,Evening,14,April,0,0,nofile,False,nolink,False,False
-general,U01RW140HBP,siand the LT (she/her),teacher,please can one student test this for me - i want to check you have access to this repo for the mid bootcamp project docs <https://github.com/ironhack-edu/data_mid_bootcamp_project_regression/blob/master/sql_questions_regression.md>,231,3,3,True,Wednesday,Weekday,21:10,Night,14,April,0,0,nofile,False,<https://github.com/ironhack-edu/data_mid_bootcamp_project_regression|ironhack-edu/data_mid_bootcamp_project_regression>,True,False
+general,U01RW140HBP,siand the LT (she/her),teacher,please can one student test this for me - i want to check you have access to this repo for the mid bootcamp project docs <https://github.com/ironhack-edu/data_mid_bootcamp_project_regression/blob/master/sql_questions_regression.md>,231,3,3,True,Wednesday,Weekday,21:10,Night,14,April,0,0,nofile,False,https://github.com/ironhack-edu/data_mid_bootcamp_project_regression/blob/master/sql_questions_regression.md,True,False
 general,U01S7BM4N81,Thamo,student,Works on my phone :relaxed:,27,0,0,False,Thursday,Weekday,05:56,Early Morning,15,April,0,0,nofile,False,nolink,False,False
 general,U01S6L7HLUC,Prebitha Abraham,student,Works from my phone too ,24,0,0,False,Thursday,Weekday,06:05,Early Morning,15,April,0,0,nofile,False,nolink,False,False
 general,U01RW140HBP,siand the LT (she/her),teacher,fab!,4,0,0,False,Thursday,Weekday,06:54,Early Morning,15,April,0,0,nofile,False,nolink,False,False
 general,U01RW140HBP,siand the LT (she/her),teacher,a request to all students please share your final project 1 github repos with code so that your classmates can learn from what you did in your notebook - thread on this post please!,181,4,4,True,Tuesday,Weekday,08:39,Morning,30,March,0,0,nofile,False,nolink,False,False
-general,U01RW2X7S9Z,Alexandre Sommerkamp,student,<https://github.com/Alex-Skp/Week-1-Project>,44,0,0,False,Tuesday,Weekday,08:47,Morning,30,March,5,+1,nofile,False,<https://github.com/Alex-Skp/Week-1-Project|Alex-Skp/Week-1-Project>,True,True
+general,U01RW2X7S9Z,Alexandre Sommerkamp,student,<https://github.com/Alex-Skp/Week-1-Project>,44,0,0,False,Tuesday,Weekday,08:47,Morning,30,March,5,+1,nofile,False,https://github.com/Alex-Skp/Week-1-Project,True,True
 general,U01RN7BVD1C,Josephine Biedermann,student,zoom is down,12,0,0,False,Tuesday,Weekday,09:11,Morning,30,March,0,0,nofile,False,nolink,False,False
 general,U01RW140HBP,siand the LT (she/her),teacher,so sad we lost you!,19,0,0,False,Tuesday,Weekday,09:14,Morning,30,March,0,0,nofile,False,nolink,False,False
 general,U01S081EULS,Federico Giuliani,student,"<https://github.com/FedericoGi/chewbacca.git>
 
 Chewbacca - Anja, Peter George, Federico",87,0,0,False,Tuesday,Weekday,09:21,Morning,30,March,2,+1,nofile,False,nolink,False,True
 general,U01S65G72SY,Isabel Jabs,student,"Luke Skywalker
-<https://github.com/IsabelJabs/project>",54,0,0,False,Tuesday,Weekday,09:35,Morning,30,March,2,+1,nofile,False,<https://github.com/IsabelJabs/project|IsabelJabs/project>,True,True
+<https://github.com/IsabelJabs/project>",54,0,0,False,Tuesday,Weekday,09:35,Morning,30,March,2,+1,nofile,False,https://github.com/IsabelJabs/project,True,True
 general,U01RN7BVD1C,Josephine Biedermann,student,"R2-D2
 <https://github.com/JosephineBiedermann/GroupProject1/tree/main>",70,0,0,False,Tuesday,Weekday,09:39,Morning,30,March,3,+1,nofile,False,nolink,False,True
 general,U01RW140HBP,siand the LT (she/her),teacher,"<!channel> Just in case anyone missed my message on the zoom - our lunch today will run from 1pm to 2.30pm german time. A chance for everyone to absorb some vitamin D I hope, get some fresh air, maybe even squeeze in some exercise as well as eat lunch :sunny::palm_tree::running: :sandwich:
@@ -702,14 +702,14 @@ general,U01RXCQHMHT,noname,student,sherlock,8,0,0,False,Tuesday,Weekday,06:54,Ea
 general,U01RS9Y6UJH,Neil Corteen,student,ok thanks,9,0,0,False,Friday,Weekday,07:01,Early Morning,23,April,0,0,nofile,False,nolink,False,False
 general,U01RN7BVD1C,Josephine Biedermann,student,Can we also share the git hub repos here of all groups? Would love to have a look at what you all did in detail :heart:,119,8,8,True,Friday,Weekday,08:09,Morning,23,April,2,white_check_mark,nofile,False,nolink,False,True
 general,U01S7BM4N81,Thamo,student,"Yes great idea :slightly_smiling_face:
-<https://github.com/Caparisun/Linear_Regression_Project>",95,0,0,False,Friday,Weekday,08:09,Morning,23,April,0,0,nofile,False,<https://github.com/Caparisun/Linear_Regression_Project|Caparisun/Linear_Regression_Project>,True,False
+<https://github.com/Caparisun/Linear_Regression_Project>",95,0,0,False,Friday,Weekday,08:09,Morning,23,April,0,0,nofile,False,https://github.com/Caparisun/Linear_Regression_Project,True,False
 general,U01S0P26NKD,Jennipher Kasemire,student,me too. Great idea Phine,24,0,0,False,Friday,Weekday,08:09,Morning,23,April,0,0,nofile,False,nolink,False,False
-general,U01RN7BVD1C,Josephine Biedermann,student,ours is here: <https://github.com/lillaszulyovszky/ironhack-case-study-classification>,86,0,0,False,Friday,Weekday,08:10,Morning,23,April,1,raised_hands,nofile,False,<https://github.com/lillaszulyovszky/ironhack-case-study-classification|lillaszulyovszky/ironhack-case-study-classification>,True,True
+general,U01RN7BVD1C,Josephine Biedermann,student,ours is here: <https://github.com/lillaszulyovszky/ironhack-case-study-classification>,86,0,0,False,Friday,Weekday,08:10,Morning,23,April,1,raised_hands,nofile,False,https://github.com/lillaszulyovszky/ironhack-case-study-classification,True,True
 general,U01S0MFJ3HR,Anja Fechner,student,Our Repo for you: <https://github.com/AnjaFechner/bellatrix-lestrange.git>,74,0,0,False,Friday,Weekday,08:14,Morning,23,April,1,raised_hands,nofile,False,nolink,False,True
-general,U01SD3CDH9P,Andrea Tognoli,student,<https://github.com/Tognolia/Voldemort-Project>,47,0,0,False,Friday,Weekday,08:19,Morning,23,April,1,raised_hands,nofile,False,<https://github.com/Tognolia/Voldemort-Project|Tognolia/Voldemort-Project>,True,True
-general,U01RS9Y6UJH,Neil Corteen,student,the Nymphadora Tonks ‘group’ aka me <https://github.com/NeilCorteen/RegressionAnalysis>,87,0,0,False,Friday,Weekday,08:33,Morning,23,April,0,0,nofile,False,<https://github.com/NeilCorteen/RegressionAnalysis|NeilCorteen/RegressionAnalysis>,True,False
-general,U01RW2X7S9Z,Alexandre Sommerkamp,student,<https://github.com/Alex-Skp/Case-Study-Regression>,51,0,0,False,Friday,Weekday,08:43,Morning,23,April,0,0,nofile,False,<https://github.com/Alex-Skp/Case-Study-Regression|Alex-Skp/Case-Study-Regression>,True,False
-general,U01S65G72SY,Isabel Jabs,student,<https://github.com/samcana/project_house>,42,0,0,False,Friday,Weekday,08:44,Morning,23,April,0,0,nofile,False,<https://github.com/samcana/project_house|samcana/project_house>,True,False
+general,U01SD3CDH9P,Andrea Tognoli,student,<https://github.com/Tognolia/Voldemort-Project>,47,0,0,False,Friday,Weekday,08:19,Morning,23,April,1,raised_hands,nofile,False,https://github.com/Tognolia/Voldemort-Project,True,True
+general,U01RS9Y6UJH,Neil Corteen,student,the Nymphadora Tonks ‘group’ aka me <https://github.com/NeilCorteen/RegressionAnalysis>,87,0,0,False,Friday,Weekday,08:33,Morning,23,April,0,0,nofile,False,https://github.com/NeilCorteen/RegressionAnalysis,True,False
+general,U01RW2X7S9Z,Alexandre Sommerkamp,student,<https://github.com/Alex-Skp/Case-Study-Regression>,51,0,0,False,Friday,Weekday,08:43,Morning,23,April,0,0,nofile,False,https://github.com/Alex-Skp/Case-Study-Regression,True,False
+general,U01S65G72SY,Isabel Jabs,student,<https://github.com/samcana/project_house>,42,0,0,False,Friday,Weekday,08:44,Morning,23,April,0,0,nofile,False,https://github.com/samcana/project_house,True,False
 general,U01SD3CDH9P,Andrea Tognoli,student,Is somebody interested in meeting up for beers/coffe/vodka -mate at victoriapark after the presentations are done? Lily potter is going there!,142,41,16,True,Friday,Weekday,10:25,Morning,23,April,5,boludo,nofile,False,nolink,False,True
 general,U01S7KCL3DF,Sam Katterfield,student,1pm vodka? Make mine a double,29,0,0,False,Friday,Weekday,10:26,Morning,23,April,1,face_with_cowboy_hat,nofile,False,nolink,False,True
 general,U01RXCQHMHT,Thanh Tung Ha Thuc DAFT Berlin March 2021,student,I am only drinking Arizona Watermelon,37,0,0,False,Friday,Weekday,10:29,Morning,23,April,0,0,nofile,False,nolink,False,False
@@ -951,7 +951,7 @@ general,U01RW140HBP,siand the LT (she/her),teacher,"oooh I have a quick bonus su
 Git kraken is a much more visual way of interacting with github via a colourful front end user interface
 <https://www.gitkraken.com/>",409,0,0,False,Friday,Weekday,15:53,Afternoon,16,April,0,0,nofile,False,nolink_infiles,False,False
 general,U01S79YDELR,Karina Condeixa,student,"morning, folks. What was the Repo-sample for our project?",57,4,3,True,Saturday,Weekend,05:36,Early Morning,17,April,0,0,nofile,False,nolink,False,False
-general,U01RS9Y6UJH,Neil Corteen,student,"in the solutions section, what is the <https://github.com/ironhack-labs/lab-customer-analysis-round-1/blob/master/.github/stale.yml|stale.yml> file for /how is it opened/launched :face_with_rolling_eyes:",203,5,3,True,Sunday,Weekend,17:03,Evening,28,March,0,0,nofile,False,<https://github.com/ironhack-labs/lab-customer-analysis-round-1|ironhack-labs/lab-customer-analysis-round-1>,True,False
+general,U01RS9Y6UJH,Neil Corteen,student,"in the solutions section, what is the <https://github.com/ironhack-labs/lab-customer-analysis-round-1/blob/master/.github/stale.yml|stale.yml> file for /how is it opened/launched :face_with_rolling_eyes:",203,5,3,True,Sunday,Weekend,17:03,Evening,28,March,0,0,nofile,False,https://github.com/ironhack-labs/lab-customer-analysis-round-1/blob/master/.github/stale.yml,True,False
 general,U01S79YDELR,Karina Condeixa,student,I did not find it. But yml is an extension for the python environment. It shows the requeriment (libraries and their versions) we need to run the project.,154,0,0,False,Sunday,Weekend,17:07,Evening,28,March,0,0,nofile,False,nolink,False,False
 general,U01SJKB2MG8,Florian Titze,teacher,not relevant  for students. Only for the Ironhack education team internally.,76,0,0,False,Sunday,Weekend,17:13,Evening,28,March,1,+1,nofile,False,nolink,False,True
 general,U01S79YDELR,Karina Condeixa,student,"I found it now. Don’t worry about it and other files inside .github . They are usually hidden (with dot in the beginning of the name),  they are important only to the autor of the repository.",191,0,0,False,Sunday,Weekend,17:14,Evening,28,March,0,0,nofile,False,nolink,False,False
@@ -1021,7 +1021,7 @@ general,U01S7KCL3DF,noname,student,advice on miniconda for mac... do i want bash
 general,U01S7BM4N81,Thamo,student,you would want to download the pkg installer and run that one,61,0,0,False,Wednesday,Weekday,08:04,Morning,24,March,2,raised_hands,nofile,False,nolink,False,True
 general,U01S7BM4N81,Thamo,student,"also 3.8 not the 2,7 version, theres huge differences ^^",56,0,0,False,Wednesday,Weekday,08:06,Morning,24,March,0,0,nofile,False,nolink,False,False
 general,U01RW140HBP,siand the LT (she/her),teacher,yes the link to github contains the solution,44,0,0,False,Wednesday,Weekday,08:14,Morning,24,March,0,0,nofile,False,nolink,False,False
-general,U01RW140HBP,siand the LT (she/her),teacher,<https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Solutions/unit1/day2/Customer%20Analysis%20Round%201%20-%20solution.ipynb>,145,0,0,False,Wednesday,Weekday,08:15,Morning,24,March,0,0,nofile,False,<https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21|student-IH-labs-and-stuff/BER-DAFT-MAR21>,True,False
+general,U01RW140HBP,siand the LT (she/her),teacher,<https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Solutions/unit1/day2/Customer%20Analysis%20Round%201%20-%20solution.ipynb>,145,0,0,False,Wednesday,Weekday,08:15,Morning,24,March,0,0,nofile,False,https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Solutions/unit1/day2/Customer%20Analysis%20Round%201%20-%20solution.ipynb,True,False
 general,U01S79YDELR,Karina Condeixa,student,"yes, Python 2.7 was depreciated.",32,0,0,False,Wednesday,Weekday,08:16,Morning,24,March,0,0,nofile,False,nolink,False,False
 general,U01S7KCL3DF,Sam Katterfield,student,oh yes I'm a modern guy,23,0,0,False,Wednesday,Weekday,08:29,Morning,24,March,0,0,nofile,False,nolink,False,False
 general,U01SJKB2MG8,Florian Titze,teacher,"<!channel>,
@@ -1075,7 +1075,7 @@ general,U01RSRE0N3D,Kosta,teacher,Yes!,4,0,0,False,Wednesday,Weekday,14:03,After
 general,U01RSRE0N3D,Kosta,teacher,"you should have the forked repo, where you can `git push` your lab solutions",76,0,0,False,Wednesday,Weekday,14:04,Afternoon,24,March,0,0,nofile,False,nolink,False,False
 general,U01RW2X7S9Z,Alexandre Sommerkamp,student,"my clone straight from it comes out empty, and if i check the status the snap i shared before shows up",102,0,0,False,Wednesday,Weekday,14:08,Afternoon,24,March,0,0,nofile,False,nolink,False,False
 general,U01RW2X7S9Z,Alexandre Sommerkamp,student,i did do a different repo to upload the stuff but i cant just clone the one from sian,85,0,0,False,Wednesday,Weekday,14:09,Afternoon,24,March,0,0,nofile,False,nolink,False,False
-general,U01RW140HBP,siand the LT (she/her),teacher,i knew i was missing a tiny window ! it was buried behind zoom - a message saying do you want to replace the file in that folder lol - the github repo is now updated with my last jup notebook checkpoint <https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Class%20Materials/unit1/day3/pandas%20intro%202%20with%20annotation-students-wip.ipynb|https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Class%20Mate[…]/day3/pandas%20intro%202%20with%20annotation-students-wip.ipynb>,510,0,0,False,Wednesday,Weekday,14:11,Afternoon,24,March,0,0,nofile,False,<https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21|student-IH-labs-and-stuff/BER-DAFT-MAR21>,True,False
+general,U01RW140HBP,siand the LT (she/her),teacher,i knew i was missing a tiny window ! it was buried behind zoom - a message saying do you want to replace the file in that folder lol - the github repo is now updated with my last jup notebook checkpoint <https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Class%20Materials/unit1/day3/pandas%20intro%202%20with%20annotation-students-wip.ipynb|https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Class%20Mate[…]/day3/pandas%20intro%202%20with%20annotation-students-wip.ipynb>,510,0,0,False,Wednesday,Weekday,14:11,Afternoon,24,March,0,0,nofile,False,https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Class%20Materials/unit1/day3/pandas%20intro%202%20with%20annotation-students-wip.ipynb,True,False
 general,U01RW140HBP,siand the LT (she/her),teacher,"so you start with
 git clone (repo url)
 then after i have added some new content",79,0,0,False,Wednesday,Weekday,14:15,Afternoon,24,March,0,0,nofile,False,nolink,False,False
@@ -1398,7 +1398,7 @@ pw: 986565",96,0,0,False,Tuesday,Weekday,06:54,Early Morning,30,March,0,0,nofile
 general,U01RRV4JX6Z,Francisco Ebeling,student,Upcycling/Circular Economy is a great approach to political economy! It is one of the reasons why China is ascending so fastly! <https://www.anthempress.com/global-green-shift-pb>,179,0,0,False,Thursday,Weekday,07:30,Early Morning,1,April,3,+1,nofile,False,nolink,False,True
 general,U01RW140HBP,siand the LT (she/her),teacher,"<!channel> as I said on sunday, in addition to jupyter notebook, pandas, numpy, matplotlib and seaborn tomorrow, we will need a new library Scikit learn <https://scikit-learn.org/stable/> - please take 5 mins to check this is something that your python environment will support before tomorrow mornings lecture - this should be as easy as running the command
  *conda install -c anaconda scikit-learn*
-on your terminal (after activating your chosen conda env)",458,0,0,False,Thursday,Weekday,11:14,Morning,1,April,2,+1,nofile,False,Thread in #general,False,True
+on your terminal (after activating your chosen conda env)",458,0,0,False,Thursday,Weekday,11:14,Morning,1,April,2,+1,nofile,False,nolink_infiles,False,True
 general,U01RUTP1ZQB,Jonas Tonndorff,student,"<!channel> Hi Ironhackers :slightly_smiling_face:
 
 Dont forget that we have the yoga classes twice a week at 12.30 on Tuesdays and 18.00 on Thursdays :slightly_smiling_face:
@@ -1608,7 +1608,7 @@ general,U01RW140HBP,siand the LT (she/her),teacher,"OOF! we covered a lot of gro
 general,U01RS9Y6UJH,Neil Corteen,student,:+1:,4,0,0,False,Tuesday,Weekday,11:59,Morning,6,April,0,0,nofile,False,nolink,False,False
 general,U01S7KCL3DF,Sam Katterfield,student,"the exercises we looked at are all here right?
 
-<https://github.com/ironhack-edu/dataV3_2.05_activities>",104,0,0,False,Tuesday,Weekday,12:03,Afternoon,6,April,0,0,nofile,False,<https://github.com/ironhack-edu/dataV3_2.05_activities|ironhack-edu/dataV3_2.05_activities>,True,False
+<https://github.com/ironhack-edu/dataV3_2.05_activities>",104,0,0,False,Tuesday,Weekday,12:03,Afternoon,6,April,0,0,nofile,False,https://github.com/ironhack-edu/dataV3_2.05_activities,True,False
 general,U01RW140HBP,siand the LT (she/her),teacher,correct! we did not attempt ex 4,32,0,0,False,Tuesday,Weekday,12:14,Afternoon,6,April,1,+1,nofile,False,nolink,False,True
 general,U01S7BM4N81,Thamo,student,"Shall we drop Tammy from customers? Or just add her to staff?
 She can be both, technically speaking",99,0,0,False,Tuesday,Weekday,13:01,Afternoon,6,April,0,0,nofile,False,nolink,False,False
@@ -1710,7 +1710,7 @@ general,U01RRV4JX6Z,Francisco Ebeling,student,Done,4,0,0,False,Friday,Weekday,12
 general,U01RW140HBP,siand the LT (she/her),teacher,thankyou :rainbow:,18,0,0,False,Friday,Weekday,12:28,Afternoon,7,May,0,0,nofile,False,nolink,False,False
 general,U01RRV4JX6Z,Francisco Ebeling,student,It would be cool if you returned to the extracting data from multiple websites with BeautifulSoup. I'm frustrated that i still didn't quiet understood it,153,0,0,False,Friday,Weekday,12:54,Afternoon,7,May,0,0,nofile,False,nolink,False,False
 general,U01S7KCL3DF,Sam Katterfield,student,do we submit a whole github repo between the group? or 1 notebook?,66,0,0,False,Friday,Weekday,14:32,Afternoon,7,May,0,0,nofile,False,nolink,False,False
-general,U01RW140HBP,siand the LT (she/her),teacher,final project information <https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/final_project/readme.md>,129,0,0,False,Friday,Weekday,14:50,Afternoon,7,May,0,0,nofile,False,<https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21|student-IH-labs-and-stuff/BER-DAFT-MAR21>,True,False
+general,U01RW140HBP,siand the LT (she/her),teacher,final project information <https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/final_project/readme.md>,129,0,0,False,Friday,Weekday,14:50,Afternoon,7,May,0,0,nofile,False,https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Project/final_project/readme.md,True,False
 general,U01RW140HBP,siand the LT (she/her),teacher,repo please,11,0,0,False,Friday,Weekday,14:51,Afternoon,7,May,0,0,nofile,False,nolink,False,False
 general,U01RW140HBP,noname,student,,0,0,0,False,Friday,Weekday,15:23,Afternoon,7,May,0,0,https://files.slack.com/files-pri/T01RBRV5F7H-F0218GUK798/image.png?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2,True,nolink,False,False
 general,U01RW140HBP,siand the LT (she/her),teacher,"feedback on the labs i looked at last night - the best examples I saw were Sam, Marian, Phine, Jerrit, Alex, Antonio, Isabel - well done all of you. If you ask them, perhaps they will share their notebooks with you :slightly_smiling_face:
@@ -1727,7 +1727,7 @@ general,U01S6L7HLUC,Prebitha Abraham,student,now*,4,0,0,False,Tuesday,Weekday,08
 general,U01RW140HBP,siand the LT (she/her),teacher,cool thanks Preby,17,0,0,False,Tuesday,Weekday,08:50,Morning,11,May,0,0,nofile,False,nolink,False,False
 general,U01RN7BVD1C,Josephine Biedermann,student,<@U01RKN0EGDV> would love to see yours as well :girl-grin:,58,0,0,False,Tuesday,Weekday,08:51,Morning,11,May,0,0,nofile,False,nolink,False,False
 general,U01RKN0EGDV,Marian Moreno,student,sure,4,0,0,False,Tuesday,Weekday,08:52,Morning,11,May,0,0,nofile,False,nolink,False,False
-general,U01S65G72SY,Isabel Jabs,student,<https://github.com/IsabelJabs/lab_NLP/blob/main/NLP_Lab.ipynb>,63,0,0,False,Tuesday,Weekday,08:53,Morning,11,May,4,raised_hands,nofile,False,<https://github.com/IsabelJabs/lab_NLP|IsabelJabs/lab_NLP>,True,True
+general,U01S65G72SY,Isabel Jabs,student,<https://github.com/IsabelJabs/lab_NLP/blob/main/NLP_Lab.ipynb>,63,0,0,False,Tuesday,Weekday,08:53,Morning,11,May,4,raised_hands,nofile,False,https://github.com/IsabelJabs/lab_NLP/blob/main/NLP_Lab.ipynb,True,True
 general,U01RKN0EGDV,noname,student,,0,0,0,False,Tuesday,Weekday,08:53,Morning,11,May,2,pray,https://files.slack.com/files-pri/T01RBRV5F7H-F021PS44LTW/lab-nlp.ipynb?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2,True,nolink,False,True
 general,U01S6LCPM0C,noname,student,<@U01S7KCL3DF>,14,0,0,False,Tuesday,Weekday,09:13,Morning,11,May,1,pray,https://files.slack.com/files-pri/T01RBRV5F7H-F0227HUEEV6/nlp_lab.ipynb?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2,True,nolink,False,True
 general,U01SJKB2MG8,noname,student,"<!channel>,
@@ -1791,7 +1791,7 @@ lecture notebook so far",35,1,1,True,Thursday,Weekday,08:59,Morning,6,May,6,rais
 general,U01RW140HBP,siand the LT (she/her),teacher,<@U01RKN0EGDV>,14,0,0,False,Thursday,Weekday,09:00,Morning,6,May,1,raised_hands,nofile,False,nolink,False,True
 general,U01S7KCL3DF,Sam Katterfield,student,ok lets see how we go… i know these big zoom video files take a while to encode,79,0,0,False,Thursday,Weekday,09:12,Morning,6,May,0,0,nofile,False,nolink,False,False
 general,U01RW140HBP,siand the LT (she/her),teacher,yes we wont generally have todays video until tomorrow morning from the mechanics at zoom,89,0,0,False,Thursday,Weekday,09:12,Morning,6,May,0,0,nofile,False,nolink,False,False
-general,U01RW140HBP,siand the LT (she/her),teacher,copied from “fun”,17,0,0,False,Thursday,Weekday,10:02,Morning,6,May,1,joy,nofile,False,Posted in #fun_committee,False,True
+general,U01RW140HBP,siand the LT (she/her),teacher,copied from “fun”,17,0,0,False,Thursday,Weekday,10:02,Morning,6,May,1,joy,nofile,False,nolink_infiles,False,True
 general,U01SJKB2MG8,Florian Titze,teacher,"<!channel>,
 lunch break until *2:15 pm*
 :ramen:
@@ -1806,7 +1806,7 @@ general,U01RW140HBP,siand the LT (she/her),teacher,remember YOGA with robert at 
 general,U01RUTP1ZQB,Jonas Tonndorff,student,Yoga party day!!!,17,0,0,False,Thursday,Weekday,13:00,Afternoon,6,May,0,0,nofile,False,nolink,False,False
 general,U01S7KCL3DF,Sam Katterfield,student,<@U01RW140HBP> will you be available in a breakout room maybe after yoga? :innocent:,84,0,0,False,Thursday,Weekday,13:52,Afternoon,6,May,0,0,nofile,False,nolink,False,False
 general,U01RW140HBP,siand the LT (she/her),teacher,yes,3,0,0,False,Thursday,Weekday,13:52,Afternoon,6,May,1,+1,nofile,False,nolink,False,True
-general,U01RW140HBP,siand the LT (she/her),teacher,,0,7,3,True,Thursday,Weekday,15:21,Afternoon,6,May,2,raised_hands,nofile,False,Posted in #data_resources,False,True
+general,U01RW140HBP,siand the LT (she/her),teacher,,0,7,3,True,Thursday,Weekday,15:21,Afternoon,6,May,2,raised_hands,nofile,False,nolink_infiles,False,True
 general,U01RW140HBP,siand the LT (she/her),teacher,<@U01SJKB2MG8> dont we also need the playlist owner for this to work ? :confused:,81,0,0,False,Thursday,Weekday,16:00,Evening,6,May,0,0,nofile,False,nolink,False,False
 general,U01S7BM4N81,Thamo,student,They’re all made by “spotify” user :slightly_smiling_face:,58,0,0,False,Friday,Weekday,06:55,Early Morning,7,May,0,0,nofile,False,nolink,False,False
 general,U01RW140HBP,noname,student,"Hi all, hope you’re having a fun MySQL filled afternoon. To follow up on this mornings lecture:
@@ -1842,7 +1842,7 @@ general,U01RW2X7S9Z,Alexandre Sommerkamp,student,did you open the link in the na
 general,U01S79YDELR,Karina Condeixa,student,yes and then using the app,26,0,0,False,Tuesday,Weekday,08:03,Morning,23,March,0,0,nofile,False,nolink,False,False
 general,U01SJKB2MG8,Florian Titze,teacher,"<!channel>,
 can you access the content now? We changed permissions
-<https://data-ft-ber-03-2021.slack.com/archives/C01RKRMS10W/p1616443201022100>",145,1,1,True,Tuesday,Weekday,08:03,Morning,23,March,0,0,nofile,False,Thread in #general,False,False
+<https://data-ft-ber-03-2021.slack.com/archives/C01RKRMS10W/p1616443201022100>",145,1,1,True,Tuesday,Weekday,08:03,Morning,23,March,0,0,nofile,False,nolink_infiles,False,False
 general,U01S0P26NKD,Jennipher Kasemire,student,mine not signing in,19,0,0,False,Tuesday,Weekday,08:04,Morning,23,March,0,0,nofile,False,nolink,False,False
 general,U01S79YDELR,Karina Condeixa,student,"yes, thanks. I have problems to go the the class zoom",53,0,0,False,Tuesday,Weekday,08:04,Morning,23,March,0,0,nofile,False,nolink,False,False
 general,U01S79YDELR,Karina Condeixa,student,<@U01SJKB2MG8> i cannot join the class,38,0,0,False,Tuesday,Weekday,08:05,Morning,23,March,0,0,nofile,False,nolink,False,False
@@ -1949,7 +1949,7 @@ general,U01RW140HBP,siand the LT (she/her),teacher,"as in we can get a record of
 general,U01S7BM4N81,Thamo,student,"Sounds interesting actually, and it should be easy to exctract the links and, lets say, the 2 sentences before that link :slightly_smiling_face:",144,0,0,False,Tuesday,Weekday,11:03,Morning,27,April,0,0,nofile,False,nolink,False,False
 general,U01S7BM4N81,Thamo,student,Do analysts and developers create some kind of generic repo where they save scripts and code snippets to not solve problems over and over again? Could be beautiful project as well,179,0,0,False,Tuesday,Weekday,11:04,Morning,27,April,0,0,nofile,False,nolink,False,False
 general,U01RW140HBP,siand the LT (she/her),teacher,"makes sense - im thinking a bit like a slack api add on repo - slack has an API, but if you use the API and turn that into something reusable, they want to give you a way to share it with others. <https://github.com/slackapi>
-i suppose finding the right place that already exists would be great for visibility but in general, yes developers do set up repos for problem solving snippets, as well as projects",406,0,0,False,Tuesday,Weekday,11:10,Morning,27,April,0,0,nofile,False,<https://github.com/slackapi|@slackapi>,True,False
+i suppose finding the right place that already exists would be great for visibility but in general, yes developers do set up repos for problem solving snippets, as well as projects",406,0,0,False,Tuesday,Weekday,11:10,Morning,27,April,0,0,nofile,False,https://github.com/slackapi,True,False
 general,U01RW140HBP,siand the LT (she/her),teacher,<!channel> please can all students submit their dashboard on the student portal before the end of the day ? we will need to demonstrate some work progression for these two days on the system!,191,2,2,True,Tuesday,Weekday,15:06,Afternoon,27,April,5,+1,nofile,False,nolink,False,True
 general,U01SK96QF5E,Lilla Szulyovszky,student,Can I do it by 8pm? Went for a walk since it’s finally sunny and was planning to do it later when I get back,108,0,0,False,Tuesday,Weekday,15:15,Afternoon,27,April,1,pray,nofile,False,nolink,False,True
 general,U01RW140HBP,siand the LT (she/her),teacher,absolutely!,11,0,0,False,Tuesday,Weekday,16:16,Evening,27,April,1,+1,nofile,False,nolink,False,True
@@ -2366,7 +2366,7 @@ dresource,U01RXCQHMHT,Thanh Tung Ha Thuc DAFT Berlin March 2021,student,"<!chann
 
 It's very well explained, and the exercises are good :)
 
-<https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example>",246,0,0,False,Friday,Weekday,09:13,Morning,26,March,3,pray,nofile,False,<https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example|ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example>,True,True
+<https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example>",246,0,0,False,Friday,Weekday,09:13,Morning,26,March,3,pray,nofile,False,https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example,True,True
 dresource,U01SJKB2MG8,Florian Titze,teacher,"To generate (Pseudo!-)random numbers, Numpy uses the ""Mersenne Twister"" :nerd_face:
 <https://en.wikipedia.org/wiki/Mersenne_Twister>",132,3,3,True,Friday,Weekday,11:13,Morning,26,March,1,pray,nofile,False,nolink_infiles,False,True
 dresource,U01SJKB2MG8,Florian Titze,teacher,"<@U01S7BM4N81> if you're deeper interested in that, I remember hearing quite a comprehensive explanation in one of the recent Lex Fridman Podcasts (#168 with <https://en.wikipedia.org/wiki/Silvio_Micali|Silvio Micali>), around 76:50 min :slightly_smiling_face:, also within the context of cryptography
@@ -2500,7 +2500,7 @@ dresource,U01RSRE0N3D,Kosta,teacher,"<@U01RN7BVD1C>, <@U01S081EULS>, <@U01S0MFJ3
 dresource,U01RN7BVD1C,Josephine Biedermann,student,Works for me know :slightly_smiling_face:,41,0,0,False,Tuesday,Weekday,08:40,Morning,23,March,0,0,nofile,False,nolink,False,False
 dresource,U01S081EULS,Federico Giuliani,student,All good now thanks!,20,0,0,False,Tuesday,Weekday,08:51,Morning,23,March,0,0,nofile,False,nolink,False,False
 dresource,U01SD3CDH9P,Andrea Tognoli,student,"Same, thank you!",16,0,0,False,Tuesday,Weekday,09:26,Morning,23,March,0,0,nofile,False,nolink,False,False
-dresource,U01RXCQHMHT,Thanh Tung Ha Thuc DAFT Berlin March 2021,student,,0,0,0,False,Tuesday,Weekday,15:49,Afternoon,23,March,5,raised_hands,nofile,False,Posted in #general,False,True
+dresource,U01RXCQHMHT,Thanh Tung Ha Thuc DAFT Berlin March 2021,student,,0,0,0,False,Tuesday,Weekday,15:49,Afternoon,23,March,5,raised_hands,nofile,False,nolink_infiles,False,True
 dresource,U01S7KCL3DF,Sam Katterfield,student,"Just realised that this is a free Slack workspace….so all the cool resources from before April 12th are gone :see_no_evil:
 
 sooo if anyone remembers any helpful stuff they sent towards the start of the course, could they send it my way? I will properly bookmark it this time :beer_parrot:",288,3,2,True,Tuesday,Weekday,07:45,Early Morning,27,April,1,+1,nofile,False,nolink,False,True
@@ -2735,7 +2735,7 @@ dvizbeauties,U01S7KCL3DF,Sam Katterfield,student,"only a week late but hey :smil
 
 I too was messing with that London recycling set… on the <https://data-ft-ber-03-2021.slack.com/archives/C01SAEL4UKF/p1619686877001500|thread above> there was talk of adding bars on each borough…but…. i cant figure it out. ‘Bars’ gives me HUGE bars on each borough (all the same height and just varying by width….not ideal)… Gantt chart gives me teeny tiny bars of the same(ish) size.
 
-Which formatting option am I not seeing?",555,10,3,True,Tuesday,Weekday,11:09,Morning,4,May,0,0,nofile,False,Thread in #data-viz-beauties,False,False
+Which formatting option am I not seeing?",555,10,3,True,Tuesday,Weekday,11:09,Morning,4,May,0,0,nofile,False,nolink_infiles,False,False
 dvizbeauties,U01S7KCL3DF,Sam Katterfield,student,"yes colour and layout are not ideal…started getting too creative with backgrounds…. and the beer prices were in pence, took me a while to get them into pounds with the right symbol :neutral_face:",195,0,0,False,Tuesday,Weekday,11:10,Morning,4,May,0,0,nofile,False,nolink,False,False
 dvizbeauties,U01RN7BVD1C,Josephine Biedermann,student,uhhh i LOVE the bier icon!!!,28,0,0,False,Tuesday,Weekday,12:02,Afternoon,4,May,0,0,nofile,False,nolink,False,False
 dvizbeauties,U01RN7BVD1C,Josephine Biedermann,student,"but yes the bars look very funny that way, like a raining cloud. Would be interesting to know how to change that scale.",119,0,0,False,Tuesday,Weekday,12:02,Afternoon,4,May,0,0,nofile,False,nolink,False,False
@@ -2864,7 +2864,7 @@ dvizbeauties,U01SJKB2MG8,noname,student,#xkcd,5,0,0,False,Saturday,Weekend,09:20
 dvizbeauties,U01S081EULS,Federico Giuliani,student,"Fleur Delacour :slightly_smiling_face:
 
 <https://public.tableau.com/profile/federico.giuliani#!/vizhome/Mid_Project_Data/StoryProject?publish=yes>",146,0,0,False,Monday,Weekday,09:50,Morning,26,April,2,boludo,nofile,False,nolink,False,True
-dvizbeauties,U01RRV4JX6Z,Francisco Ebeling,student,"Does any one have an idea how surelybassy made these stunning smart arts? I mean, which software? <https://github.com/surelybassy/SportStatsAnalysis>",149,8,5,True,Friday,Weekday,14:58,Afternoon,7,May,0,0,nofile,False,<https://github.com/surelybassy/SportStatsAnalysis|surelybassy/SportStatsAnalysis>,True,False
+dvizbeauties,U01RRV4JX6Z,Francisco Ebeling,student,"Does any one have an idea how surelybassy made these stunning smart arts? I mean, which software? <https://github.com/surelybassy/SportStatsAnalysis>",149,8,5,True,Friday,Weekday,14:58,Afternoon,7,May,0,0,nofile,False,https://github.com/surelybassy/SportStatsAnalysis,True,False
 dvizbeauties,U01S7BM4N81,Thamo,student,Looks like heavy power point work to me,39,0,0,False,Friday,Weekday,15:04,Afternoon,7,May,0,0,nofile,False,nolink,False,False
 dvizbeauties,U01S7BM4N81,Thamo,student,"you mean the ones in the repo, don’t you?",41,0,0,False,Friday,Weekday,15:04,Afternoon,7,May,0,0,nofile,False,nolink,False,False
 dvizbeauties,U01RRV4JX6Z,Francisco Ebeling,student,This for example: <https://raw.githubusercontent.com/surelybassy/SportStatsAnalysis/master/Images/FinalProjectDiagram.png>,122,0,0,False,Friday,Weekday,15:04,Afternoon,7,May,0,0,nofile,False,nolink_infiles,False,False
@@ -3066,7 +3066,7 @@ finalproject,U01S7KCL3DF,Sam Katterfield,student,"<https://github.com/jast92/cor
 
 this project used <http://www.offiziellecharts.de/>
 
-maybe the secret lies in their code? :eyes:",151,0,0,False,Wednesday,Weekday,13:00,Afternoon,12,May,0,0,nofile,False,<https://github.com/jast92/corona-impact-on-DE-music|jast92/corona-impact-on-DE-music>,True,False
+maybe the secret lies in their code? :eyes:",151,0,0,False,Wednesday,Weekday,13:00,Afternoon,12,May,0,0,nofile,False,https://github.com/jast92/corona-impact-on-DE-music,True,False
 finalproject,U01RN7BVD1C,Josephine Biedermann,student,"uh you are a genius Sam, I will look at this as well now :slightly_smiling_face:",80,0,0,False,Wednesday,Weekday,13:12,Afternoon,12,May,1,wink,nofile,False,nolink,False,True
 finalproject,U01RSRE0N3D,Kosta,teacher,"<!channel>, please find the schedule for tomorrow below. :dancing_dog:Timeslots will be 10 mins (1 mins pitch, 5 min feedback, 4 min slack) I will cut you off if you take more than 2 mins, please plan accordingly!
 We are going to be in a breakout room and call you at the corresponding time, talk soon.
@@ -3096,7 +3096,7 @@ Tony - 14:30
 
 PM me if you have any questions/remarks :v:",680,8,6,True,Wednesday,Weekday,14:10,Afternoon,12,May,4,raised_hands,nofile,False,nolink,False,True
 finalproject,U01S7BM4N81,Thamo,student,Thanks Kosta :slightly_smiling_face:,36,0,0,False,Wednesday,Weekday,14:10,Afternoon,12,May,0,0,nofile,False,nolink,False,False
-finalproject,U01RSRE0N3D,Kosta,teacher,"as a reminder, here is what you need to have prepared",53,0,0,False,Wednesday,Weekday,14:11,Afternoon,12,May,0,0,nofile,False,Posted in #final-project,False,False
+finalproject,U01RSRE0N3D,Kosta,teacher,"as a reminder, here is what you need to have prepared",53,0,0,False,Wednesday,Weekday,14:11,Afternoon,12,May,0,0,nofile,False,nolink_infiles,False,False
 finalproject,U01RSRE0N3D,Kosta,teacher,Welcome!,8,0,0,False,Wednesday,Weekday,14:11,Afternoon,12,May,0,0,nofile,False,nolink,False,False
 finalproject,U01RW140HBP,siand the LT (she/her),teacher,"i did say a 1 minute pitch, kosta",33,0,0,False,Wednesday,Weekday,14:12,Afternoon,12,May,1,+1,nofile,False,nolink,False,True
 finalproject,U01S7KCL3DF,Sam Katterfield,student,"was gonna say….5 minutes is a big elevator :smile:
@@ -4138,7 +4138,7 @@ Non case study related
 labhelp,U01SJKB2MG8,Florian Titze,teacher,in that order I would say!,26,4,2,True,Tuesday,Weekday,14:03,Afternoon,4,May,1,+1,nofile,False,nolink,False,True
 labhelp,U01S7KCL3DF,Sam Katterfield,student,"for example looking at this…find a list of songs over multiple pages and scrape it?
 
-<https://github.com/ironhack-labs/lab-web-scraping-multiple-pages>",151,0,0,False,Tuesday,Weekday,14:13,Afternoon,4,May,0,0,nofile,False,<https://github.com/ironhack-labs/lab-web-scraping-multiple-pages|ironhack-labs/lab-web-scraping-multiple-pages>,True,False
+<https://github.com/ironhack-labs/lab-web-scraping-multiple-pages>",151,0,0,False,Tuesday,Weekday,14:13,Afternoon,4,May,0,0,nofile,False,https://github.com/ironhack-labs/lab-web-scraping-multiple-pages,True,False
 labhelp,U01RS9Y6UJH,Neil Corteen,student,"cool was es so alles gibt (direct translation, great what it all gives):",72,0,0,False,Tuesday,Weekday,15:10,Afternoon,4,May,0,0,nofile,False,nolink,False,False
 labhelp,U01RS9Y6UJH,Neil Corteen,student,<https://en.wikipedia.org/wiki/List_of_songs_about_Berlin>,58,0,0,False,Tuesday,Weekday,15:10,Afternoon,4,May,0,0,nofile,False,nolink_infiles,False,False
 labhelp,U01S7KCL3DF,noname,student,lou reed,8,0,0,False,Tuesday,Weekday,15:20,Afternoon,4,May,0,0,nofile,False,nolink,False,False
@@ -4832,7 +4832,7 @@ labhelp,U01RW2X7S9Z,Alexandre Sommerkamp,student,"well if you want a new datafra
 labhelp,U01RW2X7S9Z,Alexandre Sommerkamp,student,or pd.Series() if it's one dimensional,38,0,0,False,Friday,Weekday,08:52,Morning,23,April,0,0,nofile,False,nolink,False,False
 labhelp,U01RRV4JX6Z,Francisco Ebeling,student,"There are 15 years in the series. I think I will have to calculate each year with one column, create a dataframe for each, and then join all of them together",157,0,0,False,Friday,Weekday,09:00,Morning,23,April,0,0,nofile,False,nolink,False,False
 labhelp,U01RRV4JX6Z,Francisco Ebeling,student,"Because i will have to do it 40 times, for 40 countries",55,0,0,False,Friday,Weekday,09:01,Morning,23,April,0,0,nofile,False,nolink,False,False
-labhelp,U01RRV4JX6Z,Francisco Ebeling,student,This is how I solved it... for now... <https://github.com/ebelingbarros/Rasmussen_Hirschman_Indexes/blob/main/Getting%20data.ipynb>,131,0,0,False,Friday,Weekday,13:23,Afternoon,23,April,0,0,nofile,False,<https://github.com/ebelingbarros/Rasmussen_Hirschman_Indexes|ebelingbarros/Rasmussen_Hirschman_Indexes>,True,False
+labhelp,U01RRV4JX6Z,Francisco Ebeling,student,This is how I solved it... for now... <https://github.com/ebelingbarros/Rasmussen_Hirschman_Indexes/blob/main/Getting%20data.ipynb>,131,0,0,False,Friday,Weekday,13:23,Afternoon,23,April,0,0,nofile,False,https://github.com/ebelingbarros/Rasmussen_Hirschman_Indexes/blob/main/Getting%20data.ipynb,True,False
 labhelp,U01S79YDELR,Karina Condeixa,student,Thanks Flo. I will test it. Fortunately I found the file in the trash bin.,74,0,0,False,Saturday,Weekend,20:49,Night,27,March,0,0,nofile,False,nolink,False,False
 labhelp,U01S0E0MRJ7,Davis Pudans,student,"If i save my unfinished charts to Tableau public, will I be able to update it later? I didnt quite follow the differences between the saving of the public and that other one.",174,6,4,True,Wednesday,Weekday,16:05,Evening,31,March,0,0,nofile,False,nolink,False,False
 labhelp,U01RSRE0N3D,Kosta,teacher,"yes, you can always go back and finish them",43,0,0,False,Wednesday,Weekday,16:05,Evening,31,March,1,pray,nofile,False,nolink,False,True
@@ -5121,9 +5121,9 @@ labhelp,U01RW140HBP,siand the LT (she/her),teacher,"the predict size is related 
 labhelp,U01RW140HBP,siand the LT (she/her),teacher,"if you mean train size, thats just whats left from 100%",55,0,0,False,Wednesday,Weekday,10:09,Morning,21,April,1,+1,nofile,False,nolink,False,True
 labhelp,U01RW140HBP,siand the LT (she/her),teacher,as Marian said,14,0,0,False,Wednesday,Weekday,10:09,Morning,21,April,0,0,nofile,False,nolink,False,False
 labhelp,U01SD3CDH9P,Andrea Tognoli,student,Is there a good readme file we can look at? I would be nice to understand how to structure it..,95,6,4,True,Wednesday,Weekday,10:19,Morning,21,April,0,0,nofile,False,nolink,False,False
-labhelp,U01S7BM4N81,Thamo,student,<https://github.com/Caparisun/Linear_Regression_Project>,56,0,0,False,Wednesday,Weekday,10:19,Morning,21,April,1,raised_hands,nofile,False,<https://github.com/Caparisun/Linear_Regression_Project|Caparisun/Linear_Regression_Project>,True,True
+labhelp,U01S7BM4N81,Thamo,student,<https://github.com/Caparisun/Linear_Regression_Project>,56,0,0,False,Wednesday,Weekday,10:19,Morning,21,April,1,raised_hands,nofile,False,https://github.com/Caparisun/Linear_Regression_Project,True,True
 labhelp,U01S7BM4N81,Thamo,student,"Quite happy with it, but also open to feedback :slightly_smiling_face:",70,0,0,False,Wednesday,Weekday,10:20,Morning,21,April,0,0,nofile,False,nolink,False,False
-labhelp,U01RSRE0N3D,Kosta,teacher,<https://github.com/surelybassy/SportStatsAnalysis>,51,0,0,False,Wednesday,Weekday,10:20,Morning,21,April,0,0,nofile,False,<https://github.com/surelybassy/SportStatsAnalysis|surelybassy/SportStatsAnalysis>,True,False
+labhelp,U01RSRE0N3D,Kosta,teacher,<https://github.com/surelybassy/SportStatsAnalysis>,51,0,0,False,Wednesday,Weekday,10:20,Morning,21,April,0,0,nofile,False,https://github.com/surelybassy/SportStatsAnalysis,True,False
 labhelp,U01RSRE0N3D,Kosta,teacher,This is the one we went through :)),35,0,0,False,Wednesday,Weekday,10:20,Morning,21,April,0,0,nofile,False,nolink,False,False
 labhelp,U01RW140HBP,siand the LT (she/her),teacher,andrew =  :male_superhero:,26,0,0,False,Wednesday,Weekday,10:24,Morning,21,April,0,0,nofile,False,nolink,False,False
 labhelp,U01SD3CDH9P,Andrea Tognoli,student,Thank you guys;),16,0,0,False,Wednesday,Weekday,10:25,Morning,21,April,0,0,nofile,False,nolink,False,False
@@ -5486,12 +5486,12 @@ labhelp,U01S7KCL3DF,Sam Katterfield,student,"oh i SPOKE TOO SOON
 alex you get a kiss or a cake or a bourbon. your choice",76,0,0,False,Friday,Weekday,10:14,Morning,7,May,1,smile,nofile,False,nolink,False,True
 labhelp,U01RN7BVD1C,Josephine Biedermann,student,"Can we again share the GitHub repos here from GNOD?
 Would be very interested in looking at your brilliant codes :heart_eyes::exploding_head:",140,5,4,True,Friday,Weekday,13:24,Afternoon,7,May,2,raised_hands,nofile,False,nolink,False,True
-labhelp,U01RN7BVD1C,Josephine Biedermann,student,"My repo is not as pretty as Franciscos yet, but here it is: <https://github.com/JosephineBiedermann/Week7Project>",113,0,0,False,Friday,Weekday,13:27,Afternoon,7,May,0,0,nofile,False,<https://github.com/JosephineBiedermann/Week7Project|JosephineBiedermann/Week7Project>,True,False
+labhelp,U01RN7BVD1C,Josephine Biedermann,student,"My repo is not as pretty as Franciscos yet, but here it is: <https://github.com/JosephineBiedermann/Week7Project>",113,0,0,False,Friday,Weekday,13:27,Afternoon,7,May,0,0,nofile,False,https://github.com/JosephineBiedermann/Week7Project,True,False
 labhelp,U01RRV4JX6Z,Francisco Ebeling,student,<https://github.com/ebelingbarros/Brazilian-Music-Prediction>,61,0,0,False,Friday,Weekday,13:29,Afternoon,7,May,0,0,nofile,False,nolink,False,False
 labhelp,U01RRV4JX6Z,Francisco Ebeling,student,I made a good repo to compensate for the more or less code :slightly_smiling_face:,82,0,0,False,Friday,Weekday,13:30,Afternoon,7,May,0,0,nofile,False,nolink,False,False
 labhelp,U01S7BM4N81,Thamo,student,"The readme is not very beautiful yet
-<https://github.com/Caparisun/musicrecommender>",84,0,0,False,Friday,Weekday,13:30,Afternoon,7,May,0,0,nofile,False,<https://github.com/Caparisun/musicrecommender|Caparisun/musicrecommender>,True,False
-labhelp,U01RW2X7S9Z,Alexandre Sommerkamp,student,<https://github.com/Alex-Skp/Music-recommender-with-Spotipy>,60,0,0,False,Friday,Weekday,13:30,Afternoon,7,May,0,0,nofile,False,<https://github.com/Alex-Skp/Music-recommender-with-Spotipy|Alex-Skp/Music-recommender-with-Spotipy>,True,False
+<https://github.com/Caparisun/musicrecommender>",84,0,0,False,Friday,Weekday,13:30,Afternoon,7,May,0,0,nofile,False,https://github.com/Caparisun/musicrecommender,True,False
+labhelp,U01RW2X7S9Z,Alexandre Sommerkamp,student,<https://github.com/Alex-Skp/Music-recommender-with-Spotipy>,60,0,0,False,Friday,Weekday,13:30,Afternoon,7,May,0,0,nofile,False,https://github.com/Alex-Skp/Music-recommender-with-Spotipy,True,False
 labhelp,U01S79YDELR,Karina Condeixa,student,How to import the image of the giraffe in google collab?,56,7,3,True,Tuesday,Weekday,15:57,Afternoon,11,May,0,0,nofile,False,nolink,False,False
 labhelp,U01S7BM4N81,Thamo,student,You can import an image in a ~markdown~ “text” cell,51,0,0,False,Tuesday,Weekday,15:57,Afternoon,11,May,0,0,nofile,False,nolink,False,False
 labhelp,U01RW140HBP,siand the LT (she/her),teacher,haha nice,9,0,0,False,Tuesday,Weekday,15:59,Afternoon,11,May,0,0,nofile,False,nolink,False,False
@@ -5535,11 +5535,11 @@ labhelp,U01RW140HBP,siand the LT (she/her),teacher,"Today I wrote the lab so if 
 labhelp,U01RW2X7S9Z,Alexandre Sommerkamp,student,"In the lab solutions the average ratings are all negative, and I don't really understand why.. was there a column calculated?",125,0,0,False,Monday,Weekday,11:19,Morning,10,May,0,0,nofile,False,nolink,False,False
 labhelp,U01RW2X7S9Z,Alexandre Sommerkamp,student,like the rating being 5 minus the actual rating?,48,0,0,False,Monday,Weekday,11:19,Morning,10,May,0,0,nofile,False,nolink,False,False
 labhelp,U01RW140HBP,siand the LT (she/her),teacher,this is from the images ?,25,0,0,False,Monday,Weekday,11:20,Morning,10,May,0,0,nofile,False,nolink,False,False
-labhelp,U01RW140HBP,siand the LT (she/her),teacher,<https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Labs/NLPscreenshots/clothing_rating_chart.png>,117,0,0,False,Monday,Weekday,11:20,Morning,10,May,0,0,nofile,False,<https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21|student-IH-labs-and-stuff/BER-DAFT-MAR21>,True,False
+labhelp,U01RW140HBP,siand the LT (she/her),teacher,<https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Labs/NLPscreenshots/clothing_rating_chart.png>,117,0,0,False,Monday,Weekday,11:20,Morning,10,May,0,0,nofile,False,https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Labs/NLPscreenshots/clothing_rating_chart.png,True,False
 labhelp,U01RW140HBP,siand the LT (she/her),teacher,ratings should look like this,29,0,0,False,Monday,Weekday,11:20,Morning,10,May,0,0,nofile,False,nolink,False,False
 labhelp,U01RW140HBP,siand the LT (she/her),teacher,"polarity - i grouped by min polarity, which is the negative view … is that what you mean ?",90,0,0,False,Monday,Weekday,11:21,Morning,10,May,0,0,nofile,False,nolink,False,False
 labhelp,U01RW140HBP,siand the LT (she/her),teacher,as in the question is whats the lowest sentiment score in that department/ division. the averages would be all &gt;0,116,0,0,False,Monday,Weekday,11:21,Morning,10,May,0,0,nofile,False,nolink,False,False
-labhelp,U01RW140HBP,siand the LT (she/her),teacher,<https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Labs/NLPscreenshots/clothing_min_review_chart.png>,121,0,0,False,Monday,Weekday,11:22,Morning,10,May,0,0,nofile,False,<https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21|student-IH-labs-and-stuff/BER-DAFT-MAR21>,True,False
+labhelp,U01RW140HBP,siand the LT (she/her),teacher,<https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Labs/NLPscreenshots/clothing_min_review_chart.png>,121,0,0,False,Monday,Weekday,11:22,Morning,10,May,0,0,nofile,False,https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/blob/main/Labs/NLPscreenshots/clothing_min_review_chart.png,True,False
 labhelp,U01RW2X7S9Z,Alexandre Sommerkamp,student,ah yes i didnt see that the bottom images corresponded to the average,69,0,0,False,Monday,Weekday,11:22,Morning,10,May,0,0,nofile,False,nolink,False,False
 labhelp,U01RW2X7S9Z,Alexandre Sommerkamp,student,thanks for the clarification!,29,0,0,False,Monday,Weekday,11:22,Morning,10,May,1,+1,nofile,False,nolink,False,True
 labhelp,U01RW140HBP,siand the LT (she/her),teacher,"no prob. i have clarified the text of the lab. the image only shows the minimum, not the average",96,0,0,False,Monday,Weekday,11:23,Morning,10,May,0,0,nofile,False,nolink,False,False
@@ -5911,7 +5911,7 @@ FROM sakila.category as c
 JOIN sakila.film_category as fc 
 ON c.category_id = fc.category_id
 GROUP BY c.name;```
-",434,5,3,True,Wednesday,Weekday,15:28,Afternoon,7,April,0,0,nofile,False,<https://github.com/student-IH-labs-and-stuff/lab-sql-8|student-IH-labs-and-stuff/lab-sql-8>,True,False
+",434,5,3,True,Wednesday,Weekday,15:28,Afternoon,7,April,0,0,nofile,False,https://github.com/student-IH-labs-and-stuff/lab-sql-8,True,False
 labhelp,U01RN7BVD1C,Josephine Biedermann,student,"you could also select ID, but i wanted to see the name rather then just a number :slightly_smiling_face:",104,0,0,False,Wednesday,Weekday,15:29,Afternoon,7,April,2,clap,nofile,False,nolink,False,True
 labhelp,U01RW140HBP,siand the LT (she/her),teacher,"exactly you only need to refer to one FROM table, but adding JOIN effectively gives us access to two tables Sam, you can select fields from either and both tables",162,0,0,False,Wednesday,Weekday,15:30,Afternoon,7,April,0,0,nofile,False,nolink,False,False
 labhelp,U01RN7BVD1C,Josephine Biedermann,student,"and yes once you joined the tables via the shared key, you can select any field",79,0,0,False,Wednesday,Weekday,15:30,Afternoon,7,April,0,0,nofile,False,nolink,False,False
@@ -5988,7 +5988,7 @@ Because each VHS/DVD was rented multiple times, I end up with multiple rows per 
 `join inventory i on f.film_id = i.film_id`
 `join rental r on i.inventory_id = r.inventory_id`
 `where title like '%academy dinosaur%' and store_id like 1 and return_date &gt; rental_date`
-`order by title, store_id, inventory_id DESC;`",838,4,3,True,Sunday,Weekend,11:44,Morning,11,April,0,0,nofile,False,<https://github.com/student-IH-labs-and-stuff/lab-sql-join-multiple-tables|student-IH-labs-and-stuff/lab-sql-join-multiple-tables>,True,False
+`order by title, store_id, inventory_id DESC;`",838,4,3,True,Sunday,Weekend,11:44,Morning,11,April,0,0,nofile,False,https://github.com/student-IH-labs-and-stuff/lab-sql-join-multiple-tables,True,False
 labhelp,U01S7BM4N81,Thamo,student,:eyes:,6,0,0,False,Sunday,Weekend,11:57,Morning,11,April,1,eyes,nofile,False,nolink,False,True
 labhelp,U01RP2K1606,noname,student,"I am getting this error message when I try to connect to mysql (using this syntax: df = pd.read_sql_query ('select * from film', engine )). Trying to solve it since yesterday, but no success so far:/. Anyone else had this issue?",228,5,2,True,Sunday,Weekend,13:35,Afternoon,11,April,0,0,https://files.slack.com/files-pri/T01RBRV5F7H-F01UAC97D2M/capture.jpg?t=xoxe-1861879185255-2068564688150-2068564727718-519dfbdd8f50e154f7dac1ab76bfc0d2,True,nolink,False,False
 labhelp,U01S7BM4N81,Thamo,student,"Can you paste your connection string please?
@@ -6078,7 +6078,7 @@ labhelp,U01S7BM4N81,noname,student,I think I did it? :slightly_smiling_face: can
 labhelp,U01S7BM4N81,Thamo,student,.zshrc was hidden and only accesible via terminal :joy:,55,0,0,False,Tuesday,Weekday,17:47,Evening,23,March,0,0,nofile,False,nolink,False,False
 labhelp,U01SJKB2MG8,Florian Titze,teacher,looks awesome!,14,0,0,False,Tuesday,Weekday,18:31,Evening,23,March,0,0,nofile,False,nolink,False,False
 labhelp,U01SJKB2MG8,Florian Titze,teacher,"create an environment with `conda create --name excondables` switch to it with `conda activate excondables` and fill it with packages! `conda install jupyter` , `conda install pandas` etc...",190,0,0,False,Tuesday,Weekday,18:32,Evening,23,March,0,0,nofile,False,nolink,False,False
-labhelp,U01S79YDELR,Karina Condeixa,student,<@U01SJKB2MG8> <@U01RSRE0N3D> <@U01RW140HBP> Could someone please check why my id (index) column turned on float type? <https://github.com/KC2016/ironhack/blob/main/06-lab-day2/pandas/pandas%20intro%201%20with%20annotation-%20students.ipynb>,241,0,0,False,Tuesday,Weekday,19:23,Evening,23,March,0,0,nofile,False,<https://github.com/KC2016/ironhack|KC2016/ironhack>,True,False
+labhelp,U01S79YDELR,Karina Condeixa,student,<@U01SJKB2MG8> <@U01RSRE0N3D> <@U01RW140HBP> Could someone please check why my id (index) column turned on float type? <https://github.com/KC2016/ironhack/blob/main/06-lab-day2/pandas/pandas%20intro%201%20with%20annotation-%20students.ipynb>,241,0,0,False,Tuesday,Weekday,19:23,Evening,23,March,0,0,nofile,False,https://github.com/KC2016/ironhack/blob/main/06-lab-day2/pandas/pandas%20intro%201%20with%20annotation-%20students.ipynb,True,False
 labhelp,U01SJKB2MG8,Florian Titze,teacher,"Let's have a look at that tomorrow. In the meantime, can you make sure that the column is an INT before making it an index?",123,0,0,False,Tuesday,Weekday,19:37,Evening,23,March,1,+1,nofile,False,nolink,False,True
 labhelp,U01S79YDELR,Karina Condeixa,student,"to read raw data without download
 

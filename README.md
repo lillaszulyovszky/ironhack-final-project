@@ -2,8 +2,6 @@
 <br/><br/>
 ## Analysing Interaction on Slack
 
-![Slack](https://github.com/lillaszulyovszky/ironhack-final-project/blob/main/presentation/slack.png =250x250)
-
 ## Table of content
 
 - [Project Intro](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-intro)

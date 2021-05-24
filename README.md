@@ -13,7 +13,7 @@ Enhanced scope for this would include
 
 ## Couple of insights to share
 - **distribution of messages between participants (students and teachers) in the top 5 most used channels**
-- 
+
 ![Slack logo](https://github.com/lillaszulyovszky/ironhack-final-project/blob/main/presentation/participant_activity.png)
 
 - **distribution of messages during the day in the homework(lab) help channel**
@@ -21,23 +21,23 @@ Enhanced scope for this would include
 ![Slack logo](https://github.com/lillaszulyovszky/ironhack-final-project/blob/main/presentation/labhelp_activity.png?raw=true)
 
 - **identifying influencers by messages sent**
-- 
+
 ![Slack logo](https://github.com/lillaszulyovszky/ironhack-final-project/blob/main/presentation/student_activity.png?raw=true)
 
 - **mood changes during the bootcamp in April on the homework(lab)help channel**
-- 
+
 ![Slack logo](https://github.com/lillaszulyovszky/ironhack-final-project/blob/main/presentation/labhelp_positivity.png)
 
 - **top perfoming emojis**
-- 
+
 ![Slack logo](https://github.com/lillaszulyovszky/ironhack-final-project/blob/main/presentation/reactions.png?raw=true)
 
 - **top 15 important features to look out for when you're looking for a reply**
-- 
+
 ![Slack logo](https://github.com/lillaszulyovszky/ironhack-final-project/blob/main/presentation/top15_features.png?raw=true)
 
 - **most used words in the bootcamp**
-- 
+
 ![Slack logo](https://github.com/lillaszulyovszky/ironhack-final-project/blob/main/presentation/wordcloud.png?raw=true)
 
 

@@ -2,7 +2,7 @@
 
 # DA Bootcamp Slack Insights 
 <br/><br/>
-## An education tool to analyse student engagement/activity/mood with insights from your Slack Team's data.
+## Analyse student engagement/activity/mood with insights from your Slack Team's data.
 
 ## Project Intro
 Remote environments give very little chance for teachers to gain feedback and optimize their content towards better student performance. So I thought I could run some analysis and provide a tool for teachers to gauge student activity/engagement/mood and even predict what's the best way to get a reply (aka get help in this context) all based on Slack data. I only used data from public channels.
@@ -11,7 +11,7 @@ The notebooks in the code folder could be used to
 - clean & wrangle json data to prepare for working in Tableau
 - run ML models for predictions
 - run NLP preprocessing steps to get mood of public chats
-if you have that in hand.
+if you have your exported files at in hand. If you don't know how to export, read up here> https://slack.com/intl/en-hu/help/articles/201658943-Export-your-workspace-data
 
 The notebooks are fully annotated and include all the modules which needs to be imported to make the code work.
 

@@ -7,14 +7,18 @@
 ## Project Intro
 Remote environments give very little chance for teachers to gain feedback and optimize their content towards better student performance. So I thought I could run some analysis and provide a tool for teachers to gauge student activity/engagement/mood and even predict what's the best way to get a reply (aka get help in this context) all based on Slack data. I only used data from public channels.
 
+## Notebooks
 The notebooks in the code folder could be used to 
 - clean & wrangle json data to prepare for working in Tableau
 - run ML models for predictions
 - run NLP preprocessing steps to get mood of public chats
-if you have your exported files at in hand. If you don't know how to export, read up here> https://slack.com/intl/en-hu/help/articles/201658943-Export-your-workspace-data
+if you have your exported files at in hand.
+
+If you don't know how to export, read up here> https://slack.com/intl/en-hu/help/articles/201658943-Export-your-workspace-data
 
 The notebooks are fully annotated and include all the modules which needs to be imported to make the code work.
 
+## Future scope
 Enhanced scope for this will include 
 - dynamically pulling data from Slack API (so insights can be drawn anytime/anywhere)
 - loading publicly shared files into a google sheet for the whole cohort
@@ -50,8 +54,7 @@ Enhanced scope for this will include
 ![Slack logo](https://github.com/lillaszulyovszky/ironhack-final-project/blob/main/presentation/wordcloud.png?raw=true)
 
 
-## Process
-Ways of working included an iterative/agile approach circling through the following steps:
+## Methods used
 
 - **Loading JSON files:** creating a function to load each file into a dataframe<br/>
 - **Data cleaning & wrangling in Python:** transforming data set to help visualise insights, feature engineering<br/>
@@ -62,4 +65,5 @@ linear regression, logistics regression, random forest, random forest classifica
 wordcloud, VADER analyis, Sentiment analyis <br/>
 
 **Thank you for reading!** <br/>
-If you have any questions, please reach out to me.<br/><br/>
+Any questions, hit me up at
+lilla.szulyovszky@gmail.com<br/><br/>

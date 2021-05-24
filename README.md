@@ -5,11 +5,20 @@
 ## An education tool to analyse student engagement/activity/mood with insights from your Slack Team's data.
 
 ## Project Intro
-Remote environments give very little chance for teachers to gain feedback and optimize their content towards better student performance. So I thought I could run some analysis and provide a tool for teachers to gauge student activity/engagement/mood and even predict what's the best way to get a reply (aka get help in this context) all based on Slack data. 
-Enhanced scope for this would include 
+Remote environments give very little chance for teachers to gain feedback and optimize their content towards better student performance. So I thought I could run some analysis and provide a tool for teachers to gauge student activity/engagement/mood and even predict what's the best way to get a reply (aka get help in this context) all based on Slack data. I only used data from public channels.
+
+The notebooks in the code folder could be used to 
+- clean & wrangle json data to prepare for working in Tableau
+- run ML models for predictions
+- run NLP preprocessing steps to get mood of public chats
+if you have that in hand.
+
+The notebooks are fully annotated and include all the modules which needs to be imported to make the code work.
+
+Enhanced scope for this will include 
 - dynamically pulling data from Slack API (so insights can be drawn anytime/anywhere)
 - loading publicly shared files into a google sheet for the whole cohort
-- working as a Slack App
+- working as a Slack App, providing insights for teachers on the Slack space they are in.
 
 ## Couple of insights to share
 - **distribution of messages between participants (students and teachers) in the top 5 most used channels**
@@ -47,15 +56,10 @@ Ways of working included an iterative/agile approach circling through the follow
 - **Loading JSON files:** creating a function to load each file into a dataframe<br/>
 - **Data cleaning & wrangling in Python:** transforming data set to help visualise insights, feature engineering<br/>
 - **Prepocessing:** 2 methods (Normalizer, Dummies) for Predictions and several NLP preprocessing steps like removing punctuations, emojis, links, stemming<br/>
-- **Machine Learning Models** using scikit learn<br/>
-**- linear regression:** <br/>
-**- logistics regression:** <br/>
-**- random forest:** <br/>
-**- random forest classification:** <br/>
-- **Natural Language Processing** using nltk<br/>
-**- wordcloud:** <br/>
-**- VADER analyis:** <br/>
-**- Sentiment analyis:** <br/>
+- **Machine Learning Models**<br/>
+linear regression, logistics regression, random forest, random forest classification
+- **Natural Language Processing**<br/>
+wordcloud, VADER analyis, Sentiment analyis <br/>
 
 **Thank you for reading!** <br/>
 If you have any questions, please reach out to me.<br/><br/>

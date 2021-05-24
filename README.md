@@ -13,7 +13,7 @@ Enhanced scope for this would include
 
 **Couple of insights to share**
 - distribution of messages between participants (students and teachers) in the top 5 most used channels
-<img src="https://github.com/lillaszulyovszky/ironhack-final-project/blob/main/presentation/participant_activity.png" width="800" height="1000">
+![Slack logo](https://github.com/lillaszulyovszky/ironhack-final-project/blob/main/presentation/participant_activity.png)
 
 - distribution of messages during the day in the homework(lab) help channel
 ![Slack logo](https://github.com/lillaszulyovszky/ironhack-final-project/blob/main/presentation/labhelp_activity.png?raw=true)

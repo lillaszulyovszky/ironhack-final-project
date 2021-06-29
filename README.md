@@ -9,9 +9,9 @@ Remote environments give very little chance for teachers to gain feedback and op
 
 ## Notebooks
 The notebooks in the code folder could be used to 
-- clean & wrangle json data to prepare for working in Tableau
+- clean & wrangle json data to extract features into a dataframe
 - run ML models for predictions
-- run NLP preprocessing steps to get mood of public chats
+- run NLP preprocessing steps and sentiment analysis
 if you have your exported files at in hand.
 
 If you don't know how to export, read up here> https://slack.com/intl/en-hu/help/articles/201658943-Export-your-workspace-data
